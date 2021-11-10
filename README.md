@@ -13,4 +13,4 @@
 
 ## Installation
 
-Download `Septimus.wabbajack` file from [Google Drive](https://drive.google.com/drive/folders/1cfY3C4EzMxlPaIDT3-hPlRZY4ni6lOcG?usp=sharing) and then continue following the list installation instructions, but instead of choosing _Browse Modlists_, click _Install from Disk_ and select Septimus.wabbajack from a place, where you have saved it. Then continue following the Phoenix's instructions until finishing going through _Troubleshooting_ section.
+Download `Septimus.wabbajack` file from [Releases](https://github.com/Guitarninja2/septimus/releases) and then continue following the list installation instructions, but instead of choosing _Browse Modlists_, click _Install from Disk_ and select Septimus.wabbajack from a place, where you have saved it. Then continue following the Phoenix's instructions until finishing going through _Troubleshooting_ section.
