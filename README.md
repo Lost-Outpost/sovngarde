@@ -13,4 +13,4 @@
 
 ## Installation
 
-Download the latest release of `Septimus.wabbajack` from [Releases](https://github.com/Guitarninja2/septimus/releases) and open with Wabbajack automated list installer. You can get [Wabbajack](https://www.wabbajack.org/#/) on its home site.
+Download the latest release of `Septimus.wabbajack` from [Releases](https://github.com/Guitarninja2/septimus/releases) and open with [Wabbajack](https://www.wabbajack.org/#/) automated list installer. You can simply double click on the .wabbajack archive or go to "install from disk" and select the septimus wabbajack archive there.
