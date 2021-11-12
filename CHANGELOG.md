@@ -3,6 +3,9 @@
 # Changelog
 
 ## Version 1.2.0
++ Fix Beyond Skyrim Bruma Map and Distant LOD
+
+## Version 1.2.0
 + Update Beyond Skyrim - Bruma and Fix Map
 + Add Pilgrim - A Religion Overhaul
 
