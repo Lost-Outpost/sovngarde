@@ -2,6 +2,10 @@
 
 # Changelog
 
+## Version 1.2.0
++ Update Beyond Skyrim - Bruma and Fix Map
++ Add Pilgrim - A Religion Overhaul
+
 ## Version 1.1.1
 + Fix TK Dodge RE
 
