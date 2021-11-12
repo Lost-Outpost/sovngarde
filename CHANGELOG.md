@@ -2,7 +2,7 @@
 
 # Changelog
 
-## Version 1.2.0
+## Version 1.2.1
 + Fix Beyond Skyrim Bruma Map and Distant LOD
 
 ## Version 1.2.0
