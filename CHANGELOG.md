@@ -2,6 +2,9 @@
 
 # Changelog
 
+## Version 1.1.1
++ Fix TK Dodge RE
+
 ## Version 1.1.0
 + Added Quick Loot RE
 + Added Quick Loot RE SkyUI Texture
