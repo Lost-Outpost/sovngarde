@@ -27,9 +27,9 @@
 + Added Better Skyui Config
 + Added Scion - Vampire Sunscreen
 + Added Just Blood (Dirt and Blood Light)
-+ Water for ENB + Patches
-+ Happy Little Tree Mod
-+ Depths of Skyrim
++ Added Water for ENB + Patches
++ Added Happy Little Tree Mod
++ Added Depths of Skyrim
 + Updated Beyond Skyrim Bruma
 + Updated Main Menu Background and Music
 + Updated ENB Preset with more effects
