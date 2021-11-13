@@ -2,6 +2,9 @@
 
 # Changelog
 
+## Version 1.2.2
++ Added brand new custom ENB Preset based on Cathedral Weathers Minimal ENB
+
 ## Version 1.2.1
 + Fix Beyond Skyrim Bruma Map and Distant LOD
 
