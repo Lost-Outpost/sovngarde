@@ -18,7 +18,7 @@
 + Updated Beyond Skyrim Bruma
 + Added Interesting NPCs Quest Fix
 + Added The Wheels of Lul
-+ Aded Cityside - A starter home
++ Added Cityside - A starter home
 + Added The Tools of Kagrenac
 + Added Grahl The Ice Troll
 + Added Blood Horker
