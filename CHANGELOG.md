@@ -15,7 +15,6 @@
 + Added Cliff Racers of Solstheim
 + Added Bogmort
 + Added First Person Camera Height Fix
-+ Updated Beyond Skyrim Bruma
 + Added Interesting NPCs Quest Fix
 + Added The Wheels of Lul
 + Added Cityside - A starter home
@@ -28,6 +27,7 @@
 + Added Better Skyui Config
 + Added Scion - Vampire Sunscreen
 + Added Just Blood (Dirt and Blood Light)
++ Updated Beyond Skyrim Bruma
 + Updated Main Menu Background and Music
 + Updated ENB Preset with more effects
 + Updated MO2 Theme
