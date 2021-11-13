@@ -2,6 +2,37 @@
 
 # Changelog
 
+## Version 1.3 (UNRELEASED)
++ Added Rain and Snow Shaders
++ Added Dragonborn Presence (Discord Integration)
++ Added Immersive War and Violence
++ Added Dungeons - Revisited
++ Added Loki Wade In Water
++ Added Dismiss Steward
++ Added Drelas's Cottage
++ Added Skyrim Sewers 4
++ Added Dream's Unique Dogs
++ Added Cliff Racers of Solstheim
++ Added Bogmort
++ Added First Person Camera Height Fix
++ Updated Beyond Skyrim Bruma
++ Added Interesting NPCs Quest Fix
++ Added The Wheels of Lul
++ Aded Cityside - A starter home
++ Added The Tools of Kagrenac
++ Added Grahl The Ice Troll
++ Added Blood Horker
++ Added Adoption Without Murder
++ Added Thieves Guild For Good Guys
++ Added Boethiah for Good Guys
++ Added Better Skyui Config
++ Added Scion - Vampire Sunscreen
++ Added Just Blood (Dirt and Blood Light)
++ Updated Main Menu Background and Music
++ Updated ENB Preset with more effects
++ Updated MO2 Theme
++ Updated Latest TPF Base Version 4.9.2.1
+
 ## Version 1.2.2
 + Added brand new custom ENB Preset based on Cathedral Weathers Minimal ENB
 
@@ -10,7 +41,7 @@
 
 ## Version 1.2.0
 + Update Beyond Skyrim - Bruma and Fix Map
-+ Add Pilgrim - A Religion Overhaul
++ Added Pilgrim - A Religion Overhaul
 
 ## Version 1.1.1
 + Fix TK Dodge RE
