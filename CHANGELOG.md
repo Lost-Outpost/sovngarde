@@ -34,7 +34,7 @@
 + Updated Main Menu Background and Music
 + Updated ENB Preset with more effects
 + Updated MO2 Theme
-+ Updated Latest TPF Base Version 4.9.2.1
++ Updated Latest TPF Base Version 4.9.3
 
 ## Version 1.2.2
 + Added brand new custom ENB Preset based on Cathedral Weathers Minimal ENB
