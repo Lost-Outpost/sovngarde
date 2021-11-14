@@ -2,6 +2,10 @@
 
 # Changelog
 
+## Version 1.3.1
++ Added Cathedralist ENB - Tweaked
++ Removed Custom ENB Preset
+
 ## Version 1.3.0
 + Added Rain and Snow Shaders
 + Added Dragonborn Presence (Discord Integration)
