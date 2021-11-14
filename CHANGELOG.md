@@ -11,7 +11,6 @@
 + Added Dragonborn Presence (Discord Integration)
 + Added Immersive War and Violence
 + Added Dungeons - Revisited
-+ Added Loki Wade In Water
 + Added Dismiss Steward
 + Added Drelas's Cottage
 + Added Skyrim Sewers 4
