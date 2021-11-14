@@ -2,6 +2,11 @@
 
 # Changelog
 
+## Version 1.3.3
++ Prepare for WJ Unofficial Release (Move to Google Drive)
++ Add Song of the Green (Auri Follower)
++ More Tweaks to ENB Settings
+
 ## Version 1.3.2
 + Fix ENB Tweaks
 
