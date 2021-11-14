@@ -27,4 +27,4 @@ Once you have downgraded or if you're still on Skyrim Special Edition you're goo
 
 ## Installation
 
-Download the latest release of `Septimus.wabbajack` from [Releases](https://github.com/Guitarninja2/septimus/releases) and open with [Wabbajack](https://www.wabbajack.org/#/) automated list installer. You can simply double click on the .wabbajack archive or go to "install from disk" and select the septimus wabbajack archive there.
+Download the latest release of `Septimus.wabbajack` from [Google Drive](https://drive.google.com/drive/folders/1-VIcggcf49sTHnqQgyifhTSGwgcKd6Jz?usp=sharing) and open with [Wabbajack](https://www.wabbajack.org/#/) automated list installer. You can simply double click on the .wabbajack archive or go to "install from disk" and select the septimus wabbajack archive there.
