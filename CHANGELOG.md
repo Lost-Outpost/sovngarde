@@ -35,6 +35,7 @@
 + Updated ENB Preset with more effects
 + Updated MO2 Theme
 + Updated Latest TPF Base Version 4.9.3
++ Disabled Blade and Blunt - Vanilla Difficulty Modifiers
 
 ## Version 1.2.2
 + Added brand new custom ENB Preset based on Cathedral Weathers Minimal ENB
