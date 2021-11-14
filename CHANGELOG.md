@@ -2,7 +2,7 @@
 
 # Changelog
 
-## Version 1.3 (UNRELEASED)
+## Version 1.3
 + Added Rain and Snow Shaders
 + Added Dragonborn Presence (Discord Integration)
 + Added Immersive War and Violence
