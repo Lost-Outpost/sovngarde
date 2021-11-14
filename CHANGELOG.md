@@ -2,6 +2,9 @@
 
 # Changelog
 
+## Version 1.3.2
++ Fix ENB Tweaks
+
 ## Version 1.3.1
 + Added Cathedralist ENB - Tweaked
 + Removed Custom ENB Preset
