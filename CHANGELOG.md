@@ -29,8 +29,8 @@
 + Added Just Blood (Dirt and Blood Light)
 + Added Happy Little Tree Mod
 + Added Depths of Skyrim
++ Added Water for ENB - Textures Only
 + Updated Beyond Skyrim Bruma
-+ Updated Realistic Water Two to v5
 + Updated Main Menu Background and Music
 + Updated ENB Preset with more effects
 + Updated MO2 Theme
