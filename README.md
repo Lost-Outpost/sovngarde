@@ -1,6 +1,6 @@
 <a href="https://www.youtube.com/watch?v=70DZ5UV1Bdo"><img src="images/septimus2.png" target="_blank"></a>
-# <p align="center">Version 1.2.2</p>
-### <p align="center">For version 4.9.2 of TPF</p>
+# <p align="center">Version 1.3.0</p>
+### <p align="center">For version 4.9.3 of TPF</p>
 
 ---
 
