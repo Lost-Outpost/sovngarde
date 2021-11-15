@@ -4,6 +4,7 @@
 
 ## Version 1.3.5
 + Added Quicklight SE
++ Added Atlas Map Markers
 + Fix .wabbajack file having corrupt DB
 
 ## Version 1.3.4
