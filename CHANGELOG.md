@@ -2,6 +2,10 @@
 
 # Changelog
 
+## Version 1.3.4
++ Added Common Clothes and Armors + OWL Patches
++ Fixed Flickering Lights Issue in Player Homes
+
 ## Version 1.3.3
 + Prepare for WJ Unofficial Release (Move to Google Drive)
 + Add Song of the Green (Auri Follower)
