@@ -17,7 +17,7 @@ https://loadorderlibrary.com/lists/septimus
 
 # Installation
 
-### .NET 5.0 Runtime
+## .NET 5.0 Runtime
 
 With the Scrambled Bugs update requiring .Net 5.0, the game will not launch without this being installed. Please ensure you have .NET v5.0 installed. Download the desktop and console x64 app installers from Microsoft here: [Download .NET 5.0 Runtime](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
 
@@ -29,6 +29,6 @@ In the event you have updated to Skyrim: Anniversary Edition (AE) you will need 
 
 Once you have downgraded or if you're still on Skyrim Special Edition you're good to continue.
 
-### Wabbajack
+## Wabbajack
 
 Download the latest release of `Septimus.wabbajack` from [Google Drive](https://drive.google.com/drive/folders/1-VIcggcf49sTHnqQgyifhTSGwgcKd6Jz?usp=sharing) and open with [Wabbajack](https://www.wabbajack.org/#/) automated list installer. You can simply double click on the .wabbajack archive or go to "install from disk" and select the septimus wabbajack archive there.
