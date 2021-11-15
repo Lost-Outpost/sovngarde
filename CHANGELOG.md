@@ -2,6 +2,10 @@
 
 # Changelog
 
+## Version 1.3.5
++ Added Quicklight SE
++ Fix .wabbajack file having corrupt DB
+
 ## Version 1.3.4
 + Added Common Clothes and Armors + OWL Patches
 + Fixed Flickering Lights Issue in Player Homes
