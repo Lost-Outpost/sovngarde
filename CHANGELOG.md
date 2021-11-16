@@ -2,6 +2,11 @@
 
 # Changelog
 
+## Version 1.3.6
++ Added Apothecary - Wares of Tamriel Patch
++ Added Apothecary - Moonpath Patch
++ Fix overbright menus
+
 ## Version 1.3.5
 + Added Quicklight SE
 + Added Atlas Map Markers
