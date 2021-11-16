@@ -3,6 +3,9 @@
 # Changelog
 
 ## Version 1.3.6
++ Added Dragonborn Perk Tree
++ Added Lich Perk Tree
++ Added Vampire Perk Tree
 + Added Apothecary - Wares of Tamriel Patch
 + Added Apothecary - Moonpath Patch
 + Fix overbright menus
