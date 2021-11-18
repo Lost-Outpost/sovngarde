@@ -2,6 +2,10 @@
 
 # Changelog
 
+## Version 1.4.1
++ Fix annoying CC messages on main menu
++ Fix Dragonborn Presence missing dll file
+
 ## Version 1.4.0
 This is the big one. Brand new Anniversary Edition Profile with support for all current creations plus many integration mods to bring them into the world of Skyrim. Also automatically downgrades game exe so you can let your game update normally :D
 
