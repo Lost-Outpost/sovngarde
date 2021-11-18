@@ -38,3 +38,5 @@ Two profiles are present. Septimus - Anniversary Edition and Septimus. If you do
 In order to use Creation Club content, Mod Organizer 2 will need a copy of the creation club mod files. 
 + Copy all files from Skyrim Special Edition/data beginning with "cc" (example: ccvsvsse004-beafarmer.bsa) into the [NoDelete] Creation Club at the top of the mod list
 + Activate the Anniversary Edition profile in Mod Organizer 2 at the top of the window
++ Ensure that all creation club content is activated in the "Plugins" tab on the right of mod organizer 2 and moved to the top of the load order
++ If it is not all activated and sent to the top, shift click to select all, right click and hit enable selected, and then right click and hit send to -> top
