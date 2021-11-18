@@ -41,3 +41,14 @@ In order to use Creation Club content, Mod Organizer 2 will need a copy of the c
 + Activate the Anniversary Edition profile in Mod Organizer 2 at the top of the window
 + Ensure that all creation club content is activated in the "Plugins" tab on the right of mod organizer 2 and moved to the top of the load order
 + If it is not all activated and sent to the top, shift click to select all, right click and hit enable selected, and then right click and hit send to -> top
+
+## Mod Configuration
+
+### ENB
+If you are having performance issues or do not like the look of the ENB preset included, simply press the F10 key to disable it. You can also configure it using the F11 key to suit your tastes.
+
+### TK Dodge
+If you wish to change the dodge key, do the following:
++ Double click on the TK Dodge RE mod in SEPTIMUS - SKELETON & ANIMATION
++ Navigate to the ini files tab
++ On line line 5, change DodgeHotkey to your prefered one by using instructions [here](https://www.creationkit.com/index.php?title=Input_Script#DXScanCodes)
