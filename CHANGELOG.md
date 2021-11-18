@@ -2,6 +2,9 @@
 
 # Changelog
 
+## Version 1.4.2
++ Fix some hairstyle meshes being missing
+
 ## Version 1.4.1
 + Fix annoying CC messages on main menu
 + Fix Dragonborn Presence missing dll file
