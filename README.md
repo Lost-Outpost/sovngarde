@@ -10,7 +10,7 @@
 ---
 
 # Overview
-Septimus is an addon for The Phoenix Flavour (TPF) which adds new items, quests, and optional survival elements on top of the fantastic base that Phoenix has created.
+Septimus is an extended version of The Phoenix Flavor with lots of new items, quests, visual tweaks and optional survival elements all built on top of the fantastic base that Phoenix has created. It also has full Anniversary Edition support including all the new creation club content for those eager to get right into the new content.
 
 ## List Contents
 https://loadorderlibrary.com/lists/septimus
