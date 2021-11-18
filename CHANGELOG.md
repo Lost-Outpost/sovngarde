@@ -2,6 +2,10 @@
 
 # Changelog
 
+## Version 1.4.3
++ Added Blade and Blunt Timed Block Module
++ Fixed Blade and Blunt archive
+
 ## Version 1.4.2
 + Fix some hairstyle meshes being missing
 
