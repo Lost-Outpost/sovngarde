@@ -2,6 +2,40 @@
 
 # Changelog
 
+## Version 1.4.0
+This is the big one. Brand new Anniversary Edition Profile with support for all current creations plus many integration mods to bring them into the world of Skyrim. Also automatically downgrades game exe so you can let your game update normally :D
+
+### Both Profiles
++ Added Jaxonz Positioner Converted
++ Added Vigilant SE (Plus Relevant HD Textures and English Voices)
++ Added Lovely Hairstyles Lite (Lightweight Hair Add-on)
++ Added Vanilla Script Micro-optimizations
++ Added Citizens of Tamriel SE
++ Added Capes and Cloaks Distribution Patch (Better distribution)
++ Added Relighting Skyrim + Window Shadows
++ Added Meeko Reborn
++ Added Molag's Will
++ Added Frozen in Time
++ Removed Haemophilia - A Custom Vampire Skill Tree
++ Removed Capes and Cloaks Fixes
++ Removed Window Shadows
++ Updated Realistic Water Two (v5)
++ Updated Cathedral Minimalist ENB (And fixed interior brightness)
++ Updated USSEP to AE version
++ Fixed Lucien Black face bug (now has nice new clothes)
+
+### Anniversary Profile
++ Support for all current creation club content
++ More craftable Equipment
++ Crossbow integration + OWL Patches
++ Rare Curios Bolts Expanded
++ Morrowind Threads
++ Survival Mode Improved
++ Pirates Life For Me
+
+### Standard Profile
++ No new updates here
+
 ## Version 1.3.6
 + Added Dragonborn Perk Tree
 + Added Lich Perk Tree
