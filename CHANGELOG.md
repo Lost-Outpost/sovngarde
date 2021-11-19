@@ -3,6 +3,7 @@
 # Changelog
 
 ## Version 1.4.6
++ Fixed scary black door in Solitude basement
 + Fixed issue where certain non-AE owners couldn't get past character creation
 
 ## Version 1.4.5
