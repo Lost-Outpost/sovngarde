@@ -2,7 +2,7 @@
 
 # Changelog
 
-## Version 1.4.6
+## Version 1.4.6 [Unreleased]
 + Fixed issue where certain non-AE owners couldn't get past character creation
 
 ## Version 1.4.5
