@@ -2,6 +2,9 @@
 
 # Changelog
 
+## Version 1.4.4
++ Re-enable Apothecary Fishing Patch in creation club profile
+
 ## Version 1.4.3
 + Added Blade and Blunt Timed Block Module
 + Fixed Blade and Blunt archive
