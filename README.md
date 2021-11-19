@@ -44,6 +44,9 @@ In order to use Creation Club content, Mod Organizer 2 will need a copy of the c
 
 ## Mod Configuration
 
+### MCM Menus
+All MCM menus have been automated so you are good to ignore them unless you want to change anything.
+
 ### ENB
 If you are having performance issues or do not like the look of the ENB preset included, simply press the F10 key to disable it. You can also configure it using the F11 key to suit your tastes.
 
