@@ -2,6 +2,9 @@
 
 # Changelog
 
+## Version 1.4.6
++ Fixed issue where certain non-AE owners couldn't get past character creation
+
 ## Version 1.4.5
 + Remove Serana's Tomb Blood Curse
 + Fix Blade and Blunt Download Issue
