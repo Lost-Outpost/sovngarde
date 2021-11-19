@@ -2,6 +2,10 @@
 
 # Changelog
 
+## Version 1.4.5
++ Remove Serana's Tomb Blood Curse
++ Fix Blade and Blunt Download Issue
+
 ## Version 1.4.4
 + Re-enable Apothecary Fishing Patch in creation club profile
 
