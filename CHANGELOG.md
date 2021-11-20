@@ -14,6 +14,7 @@
 # Changelog
 
 ## Version 1.5.1
++ Removed Slidikin's Uncapper Preset in favor of the default TPF one
 + Fixed issue with some CCs not moving to top of load order automatically
 
 ## Version 1.5.0
