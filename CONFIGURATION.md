@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="https://www.nexusmods.com/skyrimspecialedition/mods/58229">Main page</a> ·
+  <a href="CONFIGURATION.md">Configuration</a> .
   <a href="CHANGELOG.md">Changelog</a>
 </p>
 
