@@ -7,6 +7,7 @@
 + Added Inconsequential NPCs
 + Added ENB Organizer and Several Choices
 + Added Brand New Custom Main Menu
++ Added Dovahkiin's Vault SSE
 
 ## Version 1.4.6
 + Fixed scary black door in Solitude basement (Don't ask)
