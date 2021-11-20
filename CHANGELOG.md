@@ -2,6 +2,12 @@
 
 # Changelog
 
+## Version 1.5.0
++ Added Arissa - The Wandering Rogue
++ Added Inconsequential NPCs
++ Added ENB Organizer and Several Choices
++ Added Brand New Custom Main Menu
+
 ## Version 1.4.6
 + Fixed scary black door in Solitude basement (Don't ask)
 + Fixed issue where certain non-AE owners couldn't get past character creation
