@@ -32,4 +32,4 @@ This list fully supports anniversary edition and all creation club content. Make
 Download the latest release of `Septimus.wabbajack` from [Google Drive](https://drive.google.com/drive/folders/1-VIcggcf49sTHnqQgyifhTSGwgcKd6Jz?usp=sharing) and open with [Wabbajack](https://www.wabbajack.org/#/) automated list installer. You can simply double click on the .wabbajack archive or go to "install from disk" and select the septimus wabbajack archive there.
 
 ## Configuration
-If you wish to further customize or enable ENB post processing, you can visit the [Configuration](CONFIGURATION.md) page for more info.
+If you wish to further customize by enabling ENB post processing, adding in creation club content or changing dodge keys, you can visit the [Configuration](CONFIGURATION.md) page for more info.
