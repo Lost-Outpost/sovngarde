@@ -2,6 +2,9 @@
 
 # Changelog
 
+## Version 1.5.1
++ Fixed issue with some CCs not moving to top of load order automatically
+
 ## Version 1.5.0
 + Added Arissa - The Wandering Rogue
 + Added Inconsequential NPCs
