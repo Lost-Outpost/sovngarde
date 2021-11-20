@@ -48,7 +48,10 @@ In order to use Creation Club content, Mod Organizer 2 will need a copy of the c
 All MCM menus have been automated so you are good to ignore them unless you want to change anything.
 
 ### ENB
-To enable ENB, run the ENB Organizer from the exe list. Go to presets on the left menu and enable the enb binaries and one preset. Low spec users or first time players may want to choose the Cathedral Minimalist profile to start
+To enable ENB, do the following:
++ Run the ENB Organizer from the exe list 
++ Go to presets on the left menu and enable the enb binaries and one preset
++ Low spec users or first time players may want to choose the Cathedral Minimalist profile to start
 
 ### TK Dodge
 If you wish to change the dodge key, do the following:
