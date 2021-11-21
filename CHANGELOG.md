@@ -19,6 +19,7 @@
 + Fixed Meeko and vigilance reborn not having essential or correct appearance
 + Fixed Several issues with Inigo questline
 + Fixed clipping issues in clockwork questline
++ Fixed conflict between skyrim sewers and saints and seducers
 
 ## Version 1.5.1
 + Removed Slidikin's Uncapper Preset in favor of the default TPF one
