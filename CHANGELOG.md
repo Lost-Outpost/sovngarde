@@ -13,7 +13,7 @@
 
 # Changelog
 
-## Version 1.6.0 [Unreleased]
+## Version 1.6.0
 + Removed Enhanced Mountains
 + Fixed Helgen intro table clipping issue
 + Fixed Meeko and vigilance reborn not having essential or correct appearance
