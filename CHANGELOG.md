@@ -13,6 +13,13 @@
 
 # Changelog
 
+## Version 1.6.0
++ Removed Enhanced Mountains
++ Fixed Helgen intro table clipping issue
++ Fixed Meeko and vigilance reborn not having essential or correct appearance
++ Fixed Several issues with Inigo questline
++ Fixed clipping issues in clockwork questline
+
 ## Version 1.5.1
 + Removed Slidikin's Uncapper Preset in favor of the default TPF one
 + Fixed issue with some CCs not moving to top of load order automatically
