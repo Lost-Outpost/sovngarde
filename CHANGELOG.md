@@ -13,6 +13,10 @@
 
 # Changelog
 
+## Version 1.6.1
++ Updated to the latest Bethesda bsa files
++ Updated to the latest TPF release 4.9.4
+
 ## Version 1.6.0
 + Removed Enhanced Mountains
 + Fixed Helgen intro table clipping issue
