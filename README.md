@@ -20,6 +20,12 @@
     - [Set the Game language to English](#set-the-game-language-to-english)
     - [Clean Skyrim](#clean-skyrim)
     - [Start Skyrim](#start-skyrim)
+  - [Using Wabbajack](#using-wabbajack)
+    - [Preparations](#preparations)
+    - [Downloading and Installing](#downloading-and-installing)
+      - [Problems with Wabbajack](#problems-with-wabbajack)
+    - [Stock Game](#stock-game)
+    - [Pagefile in prevention of memory crashes](#pagefile-in-prevention-of-memory-crashes)
 
 # Preamble
 Septimus is an extended version of The Phoenix Flavor with lots of new items, quests, visual tweaks and optional survival elements all built on top of the fantastic base that Phoenix has created. It also has full Anniversary Edition support including all the new creation club content for those eager to get right into the new content.
@@ -94,9 +100,7 @@ The following files are **NOT** going to download themselves through Wabbajack. 
 
 ### Downloading and Installing
 
-The download and installation process can take a very long time (10+hours) depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
-
-#### The BSA creation is an extremely important step to avoid the list being over 500GB in size and gain performance. It will take over 10hours for some people and that is normal. Avoid closing Wabbajack during it. Complaining about it in support isn't going to make it faster so please avoid doing so.
+The download and installation process can take a little while (an hour or more) depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
 1. Download [Wabbajack](https://www.wabbajack.org/#/) if you have not done so already and run it at least once
 2. Download the latest release of `Septimus.wabbajack` from [Google Drive](https://drive.google.com/drive/folders/1-VIcggcf49sTHnqQgyifhTSGwgcKd6Jz?usp=sharing)
@@ -125,13 +129,13 @@ This can happen when I update the modlist. Check if a new update is available an
 
 Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the [Pre-Installation](#pre-installation) step.
 
-## Stock Game
+### Stock Game
 
 Unlike regular Skyrim installation or some other Wabbajack Lists, Septimus comes with the **Stock Game Feature**, basically, it's a copy of a Skyrim installation located within your installation folder, cleaned and with everything but an ENB in it. It allows you to not worry about conflicting files with Vortex or other Wabbajack lists. Thus, after Wabbajack completes, you need not to move anything to your regular Skyrim Installation.
 
 There are more steps though, so please keep following the next steps to setup the game optimally.
 
-## Pagefile in prevention of memory crashes
+### Pagefile in prevention of memory crashes
 
 Bigger Skyrim modlists need a lot of memory, and when there is not enough available it may fail allocating more. To fix this, you'll want to have a bigger pagefile.
 A pagefile is a file on your disk Windows will use when there is not enough RAM available.
@@ -144,8 +148,6 @@ If you've never touched the pagefile, perform the following steps to prevent fro
 4. Disable 'Automatically manage paging file size for all drives'
 5. If you have more than one drive, try enabling it for at least one more drive as a backup (make sure it has a decent bit of free space, like 15GB). Set the size to 'System managed size'.
 Otherwise, set a custom size for the drive it's currently on and increase the maximum size to be at least 20GB.
-
-Here's [my setup, for example](http://prntscr.com/1zg7x61).
 
 ## Post-Installation
 At this point the list is set up and ready to play. Simply open Mod Organizer 2 in the install folder and click run in the top right corner.
