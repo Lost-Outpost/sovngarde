@@ -13,7 +13,9 @@
 ---
 
 - [Preamble](#preamble)
+  - [Gameplay](#gameplay)
   - [Community](#community)
+  - [List Contents](#list-contents)
 - [Installation](#installation)
   - [Pre-Installation](#pre-installation)
     - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
