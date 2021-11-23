@@ -33,6 +33,7 @@ All MCM menus have been automated so you are good to ignore them unless you want
 ### ENB
 To enable ENB, do the following:
 + Run ENB Organizer from the exe list in the top right of MO2
++ If the program warns about not being able to check for updates, simply click ok and ignore it
 
 ![Exe List](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/exe_menu.png)
 
