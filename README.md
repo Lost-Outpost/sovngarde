@@ -12,7 +12,7 @@
 
 ---
 
-# Installation
+# Septimus
 
 - [Preamble](#preamble)
   - [Gameplay](#gameplay)
