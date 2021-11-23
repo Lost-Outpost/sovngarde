@@ -12,6 +12,7 @@
 ---
 
 - [Preamble](#preamble)
+  - [Community](#community)
 - [Installation](#installation)
   - [Pre-Installation](#pre-installation)
     - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
@@ -33,7 +34,13 @@
 # Preamble
 Septimus is an extended version of The Phoenix Flavor with lots of new items, quests, visual tweaks and optional survival elements all built on top of the fantastic base that Phoenix has created. It also has full Anniversary Edition support including all the new creation club content for those eager to get right into the new content.
 
-#### List Contents
+### Gameplay
+Septimus seeks to modify Skyrim in the least intrusive possible way attempting to keep what makes the vanilla game great, while introducing new and fun things to find and do. You can find a summary of all [Gameplay Changes](GAMEPLAY.md) on a dedicated page [here](GAMEPLAY.md). 
+
+### Community
+Support is offered in [TPF Discord](https://discord.gg/tpf) server's #tpf-addons-support channel and in the Bugs section of this page according to the Bugs section of the add-on's documentation. If you have any questions following the add-on's instructions or if you find a typo or any other mistake in the documentation, feel free to report in TPF Discord server's #tpf-addons-support channel.
+
+### List Contents
 You can browse the full list contents [here](https://loadorderlibrary.com/lists/septimus) if you want to know exactly what you're getting.
 
 # Installation
