@@ -28,9 +28,9 @@
       - [Problems with Wabbajack](#problems-with-wabbajack)
     - [Stock Game](#stock-game)
     - [Pagefile in prevention of memory crashes](#pagefile-in-prevention-of-memory-crashes)
- - [Updating](#updating)
- - [Configuration](#configuration)
- - [Issues](#issues)
+- [Updating](#updating)
+- [Configuration](#configuration)
+- [Issues](#issues)
 
 # Preamble
 Septimus is an extended version of The Phoenix Flavor with lots of new items, quests, visual tweaks and optional survival elements all built on top of the fantastic base that Phoenix has created. It also has full Anniversary Edition support including all the new creation club content for those eager to get right into the new content.
@@ -45,6 +45,7 @@ Support is offered in [TPF Discord](https://discord.gg/tpf) server's #tpf-addons
 You can browse the full list contents [here](https://loadorderlibrary.com/lists/septimus) if you want to know exactly what you're getting.
 
 # Installation
+Installation is handled through Wabbajack with a one-click install of the modlist. There are some pre-installation steps which must be followed for first time users so please pay attention to those.
 
 ## Pre-Installation
 
@@ -170,11 +171,8 @@ This means that any additional mods you have installed on top of the Modlist wil
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
 
-## You Did It!
-At this point the list is set up and ready to play. Simply open Mod Organizer 2 in the install folder and click run in the top right corner.
-
-### Configuration
+# Configuration
 If you wish to further customize by enabling ENB post processing, adding in creation club content or changing dodge keys, you can visit the [Configuration](CONFIGURATION.md) page for more info.
 
-## Issues
+# Issues
 Find an [issue](https://github.com/Guitarninja2/septimus/issues)? Feel free to report it [here](https://github.com/Guitarninja2/septimus/issues) with as much info as you can (screenshots are great). 
