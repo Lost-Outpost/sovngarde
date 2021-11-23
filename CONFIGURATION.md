@@ -15,7 +15,7 @@
 # Configuration
 
 ## Mod Organizer 2 Profiles
-Two profiles are present. Septimus - Anniversary Edition and Septimus. If you do not own anniversary edition and all creation club content, play the standard Septimus profile.
+Two profiles are pre-configured in MO2 for you. Septimus - Anniversary Edition and Septimus. If you do not own anniversary edition and all creation club content, play the standard Septimus profile. It contains all mods that do not require creation club integration.
 
 ## Creation Club Setup
 In order to use Creation Club content, Mod Organizer 2 will need a copy of the creation club mod files. 
