@@ -33,3 +33,6 @@ Download the latest release of `Septimus.wabbajack` from [Google Drive](https://
 
 ## Configuration
 If you wish to further customize by enabling ENB post processing, adding in creation club content or changing dodge keys, you can visit the [Configuration](CONFIGURATION.md) page for more info.
+
+## Issues
+Find an [issue](https://github.com/Guitarninja2/septimus/issues)? Feel free to report it [here](https://github.com/Guitarninja2/septimus/issues) with as much info as you can (screenshots are great). 
