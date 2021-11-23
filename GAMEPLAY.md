@@ -12,4 +12,6 @@
 
 ---
 
+# Gameplay Guide
+
 TODO :3
