@@ -12,6 +12,8 @@
 
 ---
 
+# Septimus Installation
+
 - [Preamble](#preamble)
   - [Gameplay](#gameplay)
   - [Community](#community)
