@@ -28,6 +28,7 @@
     - [Pagefile in prevention of memory crashes](#pagefile-in-prevention-of-memory-crashes)
  - [Updating](#updating)
  - [Configuration](#configuration)
+ - [Issues](#issues)
 
 # Preamble
 Septimus is an extended version of The Phoenix Flavor with lots of new items, quests, visual tweaks and optional survival elements all built on top of the fantastic base that Phoenix has created. It also has full Anniversary Edition support including all the new creation club content for those eager to get right into the new content.
