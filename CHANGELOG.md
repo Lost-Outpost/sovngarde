@@ -14,6 +14,10 @@
 
 # Changelog
 
+## Version 1.6.3
++ Added Inigo Bloodchill Manor Fix
++ Fixed AE profile having wrong skin textures
+
 ## Version 1.6.2
 + Added Pride of Valhalla UNP Textures
 + Added Tempered Skins for Males
