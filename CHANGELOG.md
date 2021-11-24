@@ -14,7 +14,14 @@
 
 # Changelog
 
+## Version 1.6.4
++ Updated to Phoenix Flavor 4.9.6
++ Fixed issue with main questing starting
++ Fixed blackface bug on some intro characters
+
 ## Version 1.6.3
++ Added Alternate Perspective
++ Removed Ralof or Hadvar
 + Added Inigo Bloodchill Manor Fix
 + Fixed AE profile having wrong skin textures
 
