@@ -42,6 +42,9 @@ Dragon War rebalances all dragons with new variants and improved lethality. You 
 ### [Carriage and Ferry Travel Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/8379)
 CFTO introduces new ways to travel around skyrim including new carriage locations and new boats to increase the ease of traveling skyrim in an immersive way.
 
+### [Timing is Everything](https://www.nexusmods.com/skyrimspecialedition/mods/25464)
+Adjusts some quests to start at a later time to improve their balance as some quests have been made harder.
+
 ## New Mechanics
 
 ### [Sunhelm Survival (Standard Profile Only)](https://www.nexusmods.com/skyrimspecialedition/mods/39414)
