@@ -59,9 +59,6 @@ Included are a few custom skill trees to make certain playstyles more interestin
 + [Molag's Will - Vampire Skill Tree](https://www.nexusmods.com/skyrimspecialedition/mods/58621)
 + [Prelude To Purgatroy - Lich Skill Tree](https://www.nexusmods.com/skyrimspecialedition/mods/53143)
 
-### [Alternate Perspective](https://www.nexusmods.com/skyrimspecialedition/mods/50307)
-Changes the vanilla start into a choose your own adventure with many role-playing options. Later on, experience the attack on Helgen from a difference perspective.
-
 ## New Gear and Equipment
 
 ### [Animated Armory](https://www.nexusmods.com/skyrimspecialedition/mods/51100)
