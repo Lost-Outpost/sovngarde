@@ -14,6 +14,15 @@
 
 # Changelog
 
+## Version 1.6.2
++ Added Pride of Valhalla UNP Textures
++ Added Tempered Skins for Males
++ Removed Virtruva Skins
++ Removed Lucid Skin
++ Removed Dungeons Revisited (Sorry, there were too many conflicts)
++ Removed Miraak Follower (Also too many bad edits)
++ Fixed Several deleted references are now undeleted and hidden
+
 ## Version 1.6.1
 + Updated to the latest Bethesda bsa files
 + Updated to the latest TPF release 4.9.4
