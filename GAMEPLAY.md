@@ -78,6 +78,9 @@ Common clothes and armors adds new armor variants and clothes around skyrim for 
 
 ## New Questlines
 
+### [Helgen Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/5673)
+Helgen Reborn is a fully voiced adventure with over 20 superb voice actors. As you help rebuild the town you'll reunite two old friends, uncover an underground slavery ring, battle in an arena and many other adventures!
+
 ### [Beyond Skyrim - Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917)
 Beyond Skyrim - Bruma introduces a completely new DLC-sized area south of Skyrim with many new quests and encounters to be had.
 
