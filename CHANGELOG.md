@@ -15,7 +15,7 @@
 # Changelog
 
 ## Version 1.6.5
-Unfortunately Alternate Perspective caused to many problems with both the creation club content and the area around Helgen so it had to be removed. A new game will be required for those of you who used that mod to start your save game. Apologies for that.
+Unfortunately Alternate Perspective caused too many problems with both the creation club content and the area around Helgen so it had to be removed. A new game will be required for those of you who used that mod to start your save game. Apologies for that.
 + Added Ralof or Hadvar
 + Removed Alternate Perspective
 
