@@ -14,6 +14,12 @@
 
 # Changelog
 
+## Version 1.7.0 [BETA]
++ Added Refined Auri
++ Added JK's Cities and Towns Lite (Custom LE Port)
++ Added JK's Interiors (All of Them)
++ Maybe some more NPC appearance mods incoming :D
+
 ## Version 1.6.6
 + Added Pi-Cho ENB (Finally)
 + Added Serio's ENB TPF Edition
