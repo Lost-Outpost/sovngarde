@@ -18,6 +18,7 @@
 + Added Pi-Cho ENB (Finally)
 + Added Serio's ENB TPF Edition
 + Added Optional SSE Display Tweaks for smoother gameplay
++ Added optional fast travel for cc survival mode
 + Updated ENBSeries
 + Fixed ENBOrganizer requiring toggling of binaries and enb preset
 
