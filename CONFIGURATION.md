@@ -48,3 +48,6 @@ If you wish to change the dodge key, do the following:
 + Double click on the TK Dodge RE mod in SEPTIMUS - SKELETON & ANIMATION
 + Navigate to the ini files tab
 + On line line 5, change DodgeHotkey to your prefered one by using instructions [here](https://www.creationkit.com/index.php?title=Input_Script#DXScanCodes)
+
+### Performance Guide
+If you are having performance troubles and you wish to gain some extra frames, you can use [this](https://thephoenixflavour.com/tpf/performance-guide/) guide to tweak some settings for better performance. Additionally, try turning off the high performance SSE Display Tweaks configuration file in the optional files section.
