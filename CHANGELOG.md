@@ -26,10 +26,14 @@
 + Added WiZkiD Signs
 + Added Resistances and Weaknesses
 + Added Bandolier - Custom Balance Patch
++ Added Skyrim Unbound Reborn (Optional)
++ Added Widescreen Fixes (Optional)
++ Added Fast Travel for Survival Mode (Optional)
 + Removed Pride of Valhalla Female Skin
 + Removed Phoenix Flavor Facegen (Using different facegen now :D)
 + Removed Lovely Hairstyles
 + Removed Skyrim 3d Signs
++ Fixed Convenient Dialogue UI
 
 ## Version 1.6.6
 + Added Pi-Cho ENB (Finally)
