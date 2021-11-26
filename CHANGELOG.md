@@ -20,6 +20,7 @@
 + Added JK's Interiors (All of Them)
 + Added Hallgarth's Additional (Vanilla) Hair
 + Added Vanilla Hair Replacer (Custom No-imperial version)
++ Added Face Discoloration Fix (No more blackface issue)
 + Removed Lovely Hairstyles
 
 ## Version 1.6.6
