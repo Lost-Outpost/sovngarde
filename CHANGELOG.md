@@ -24,6 +24,7 @@
 + Added Face Discoloration Fix (No more blackface issue)
 + Added Tempered Skin For Females
 + Added WiZkiD Signs
++ Added Resistances and Weaknesses
 + Removed Pride of Valhalla Female Skin
 + Removed Phoenix Flavor Facegen (Using different facegen now :D)
 + Removed Lovely Hairstyles
