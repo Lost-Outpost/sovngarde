@@ -25,6 +25,7 @@
 + Added Tempered Skin For Females
 + Added WiZkiD Signs
 + Added Resistances and Weaknesses
++ Added Bandolier - Custom Balance Patch
 + Removed Pride of Valhalla Female Skin
 + Removed Phoenix Flavor Facegen (Using different facegen now :D)
 + Removed Lovely Hairstyles
