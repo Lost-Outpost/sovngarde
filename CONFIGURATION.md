@@ -36,6 +36,10 @@ I have included the necessary mods to enable widescreen UI support. If you play 
 ### Alternate Start
 By default, the modlist comes with the alternate start mod [Ralof or Hadvar](https://www.nexusmods.com/skyrimspecialedition/mods/14553) activated. This skips the intro card ride to avoid any complications and interactions with other mods and also gets you right into the action. If you wish, you can swap this out for [Skyrim Unbound Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/27962) which provides a more immersive, roleplaying start with several options. Make sure you choose at least one of the two options.
 
+If you enable Skyrim Unbound, ensure the load order looks like this at the bottom:
+
+![Enb Organizer](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/unbound_order.png)
+
 ## Mod Configuration
 
 ### MCM Menus
