@@ -25,6 +25,9 @@ In order to use Creation Club content, Mod Organizer 2 will need a copy of the c
 + Ensure that all creation club content is activated in the "Plugins" tab on the right of mod organizer 2 and moved to the top of the load order
 + If it is not all activated and sent to the top, shift click to select all, right click and hit enable selected, and then right click and hit send to -> top
 
+## Alternate Start
+By default, the modlist comes with the alternate start mod [Ralof or Hadvar](https://www.nexusmods.com/skyrimspecialedition/mods/14553) activated. This skips the intro card ride to avoid any complications and interactions with other mods and also gets you right into the action. If you wish, you can swap this out for [Skyrim Unbound Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/27962) which provides a more immersive, roleplaying start with several options. Make sure you choose at least one of the two options.
+
 ## Mod Configuration
 
 ### MCM Menus
@@ -48,9 +51,6 @@ If you wish to change the dodge key, do the following:
 + Double click on the TK Dodge RE mod in SEPTIMUS - SKELETON & ANIMATION
 + Navigate to the ini files tab
 + On line line 5, change DodgeHotkey to your prefered one by using instructions [here](https://www.creationkit.com/index.php?title=Input_Script#DXScanCodes)
-
-### Alternate Start
-By default, the modlist comes with the alternate start mod [Ralof or Hadvar](https://www.nexusmods.com/skyrimspecialedition/mods/14553) activated. This skips the intro card ride to avoid any complications and interactions with other mods and also gets you right into the action. If you wish, you can swap this out for [Skyrim Unbound Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/27962) which provides a more immersive, roleplaying start with several options. Make sure you choose at least one of the two options.
 
 ### Performance Guide
 If you are having performance troubles and you wish to gain some extra frames, you can use [this](https://thephoenixflavour.com/tpf/performance-guide/) guide to tweak some settings for better performance. Additionally, try turning off any ENB that might be enabled and disabling the high performance SSE Display Tweaks configuration file in the optional files section.
