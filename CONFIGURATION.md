@@ -54,7 +54,7 @@ To enable ENB, do the following:
 
 + Go to presets on the left menu and enable the enb preset you wish to use
 
-![Enb Organizer](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/enb_org.png)
+![Enb Organizer](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/enb_enable.png)
 
 + Low spec users or first time players may want to choose the Cathedral Minimalist profile to start
 
