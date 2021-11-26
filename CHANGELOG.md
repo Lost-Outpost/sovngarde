@@ -16,12 +16,18 @@
 
 ## Version 1.7.0 [BETA]
 + Added Refined Auri
-+ Added JK's Cities and Towns Lite (Custom LE Port)
++ Added JK's Cities Ultra Lite (Custom LE Port)
 + Added JK's Interiors (All of Them)
++ Added Detailed Cities
 + Added Hallgarth's Additional (Vanilla) Hair
 + Added Vanilla Hair Replacer (Custom No-imperial version)
 + Added Face Discoloration Fix (No more blackface issue)
++ Added Tempered Skin For Females
++ Added WiZkiD Signs
++ Removed Pride of Valhalla Female Skin
++ Removed Phoenix Flavor Facegen (Using different facegen now :D)
 + Removed Lovely Hairstyles
++ Removed Skyrim 3d Signs
 
 ## Version 1.6.6
 + Added Pi-Cho ENB (Finally)
