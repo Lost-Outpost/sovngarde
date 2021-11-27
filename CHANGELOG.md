@@ -14,7 +14,8 @@
 
 # Changelog
 
-## Version 1.7.0 [BETA]
+## Version 1.7.0 [BETA 9]
+This version is NOT save compatible with 1.6.0 or earlier. Please make a new character. I have also enabled Skyrim unbound by default but you can enable ralof or hadvar if you prefer a more vanilla start.
 + Added Refined Auri
 + Added JK's Cities Ultra Lite (Custom LE Port)
 + Added JK's Interiors (All of Them)
@@ -28,6 +29,7 @@
 + Added Skyrim Unbound Reborn (Optional)
 + Added Widescreen Fixes (Optional)
 + Added Fast Travel for Survival Mode (Optional)
++ Removed Survival Mode CC (Replaced by Sunhelm)
 + Removed Pride of Valhalla Female Skin
 + Removed Phoenix Flavor Facegen (Using different facegen now :D)
 + Removed Lovely Hairstyles
