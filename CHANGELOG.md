@@ -15,7 +15,7 @@
 # Changelog
 
 ## Version 1.7.0 [BETA 9]
-This version is NOT save compatible with 1.6.0 or earlier. Please make a new character. I have also enabled Skyrim unbound by default but you can enable ralof or hadvar if you prefer a more vanilla start.
+This version is NOT save compatible with 1.6.0 or earlier. Please make a new character. I have also enabled Skyrim unbound by default but you can enable ralof or hadvar if you prefer a more vanilla start. Sunhelm is now also the default survival and needs mod in both AE and SE modes NOT cc survival.
 + Added Refined Auri
 + Added JK's Cities Ultra Lite (Custom LE Port)
 + Added JK's Interiors (All of Them)
