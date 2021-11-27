@@ -50,8 +50,8 @@ Adjusts some quests to start at a later time to improve their balance as some qu
 ### [Skyrim Unbound Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/27962)
 Start as a random citizen of Skyrim or Bruma instead of the normal Dragonborn. Optionally, disable Dragonborn mechanics entirely. A brand new immersive start for every character.
 
-### [Sunhelm Survival (Standard Profile Only)](https://www.nexusmods.com/skyrimspecialedition/mods/39414)
-The standard profile contains Sunhelm Survival, a lightweight survival mod which introduces optional hunger, thirst and cold mechanics to the world of skyrim.
+### [Sunhelm Survival](https://www.nexusmods.com/skyrimspecialedition/mods/39414)
+Sunhelm Survival is an optional (in-game prompt) lightweight survival mod which introduces hunger, thirst and cold mechanics to the world of skyrim. It replaces creation club survival with a more customizable and compatible survival system which I find works really well.
 
 ### [TK Dodge RE](https://www.nexusmods.com/skyrimspecialedition/mods/56956)
 TK Dodge introduces a lightweight dodge mechanic (default key is left alt) where you can dodge out of the way of attacks for a stamina cost.
