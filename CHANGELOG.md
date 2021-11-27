@@ -18,7 +18,6 @@
 + Added Refined Auri
 + Added JK's Cities Ultra Lite (Custom LE Port)
 + Added JK's Interiors (All of Them)
-+ Added Detailed Cities
 + Added Hallgarth's Additional (Vanilla) Hair
 + Added Vanilla Hair Replacer (Custom No-imperial version)
 + Added Face Discoloration Fix (No more blackface issue)
