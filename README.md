@@ -33,6 +33,7 @@
     - [Stock Game](#stock-game)
     - [Pagefile in prevention of memory crashes](#pagefile-in-prevention-of-memory-crashes)
 - [Updating](#updating)
+- [Starting](#starting)
 - [Configuration](#configuration)
 - [Issues](#issues)
 
@@ -172,6 +173,9 @@ If this Modlist receives an update, please check the [changelog](CHANGELOG.md) b
 This means that any additional mods you have installed on top of the Modlist will be deleted. Your saves will be kept, but please check each update changelog to see if the update is save compatible.  Your downloads folder will not be touched!
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
+
+# Starting
+When you first launch the game, unless it has been disabled, Skyrim Unbound reborn will perform startup tasks. You can configure it in the MCM to change starting gear. Press ENTER to begin character creation.
 
 # Configuration
 If you wish to further customize by enabling ENB post processing, adding in creation club content or changing dodge keys, you can visit the [Configuration](CONFIGURATION.md) page for more info. There are also a few optional mods you can add or swap out to your liking listed on the [Configuration](CONFIGURATION.md) page.
