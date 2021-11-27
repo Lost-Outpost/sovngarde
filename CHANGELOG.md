@@ -28,7 +28,7 @@ I have also enabled Skyrim unbound by default but you can enable ralof or hadvar
 + Added WiZkiD Signs
 + Added Resistances and Weaknesses
 + Added Bandolier - Custom Balance Patch
-+ Added Skyrim Unbound Reborn (Optional)
++ Added Skyrim Unbound Reborn
 + Added Widescreen Fixes (Optional)
 + Added Free CC content to standard profile
 + Removed Survival Mode CC (Replaced by Sunhelm)
