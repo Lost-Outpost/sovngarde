@@ -47,6 +47,9 @@ Adjusts some quests to start at a later time to improve their balance as some qu
 
 ## New Mechanics
 
+### [Skyrim Unbound Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/27962)
+Start as a random citizen of Skyrim or Bruma instead of the normal Dragonborn. Optionally, disable Dragonborn mechanics entirely. A brand new immersive start for every character.
+
 ### [Sunhelm Survival (Standard Profile Only)](https://www.nexusmods.com/skyrimspecialedition/mods/39414)
 The standard profile contains Sunhelm Survival, a lightweight survival mod which introduces optional hunger, thirst and cold mechanics to the world of skyrim.
 
