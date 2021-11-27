@@ -28,7 +28,6 @@ This version is NOT save compatible with 1.6.0 or earlier. Please make a new cha
 + Added Bandolier - Custom Balance Patch
 + Added Skyrim Unbound Reborn (Optional)
 + Added Widescreen Fixes (Optional)
-+ Added Fast Travel for Survival Mode (Optional)
 + Removed Survival Mode CC (Replaced by Sunhelm)
 + Removed Pride of Valhalla Female Skin
 + Removed Phoenix Flavor Facegen (Using different facegen now :D)
