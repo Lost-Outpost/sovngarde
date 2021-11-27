@@ -14,7 +14,7 @@
 
 # Changelog
 
-## Version 1.7.0 [BETA 9]
+## Version 1.7.0
 **WARNING: This version requires a new save. Several mods with running scripts have been removed or upgraded. You can attempt to use your existing character but things may go wrong and I cannot support you if you do.**
 
 I have also enabled Skyrim unbound by default but you can enable ralof or hadvar if you prefer a more vanilla start. Sunhelm is now also the default survival and needs mod in both AE and SE modes NOT cc survival. I have also enabled the free CC by default now so you can experience fishing and rare curios without having to use the AE profile.
