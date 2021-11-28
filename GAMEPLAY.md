@@ -14,6 +14,16 @@
 
 # Gameplay Guide
 
+## Alternate Start
+
+### [Skyrim Unbound Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/27962)
+Start as a random citizen of Skyrim or Bruma instead of the normal Dragonborn. Optionally, disable Dragonborn mechanics entirely. A brand new immersive start for every character.
++ Press enter to start character creation once you have arrived in the Sky-view of helgen
++ You will not spawn in helgen. Instead, you will start as a random citizen of Skyrim or Bruma
++ You will not be required to get the dragonstone for whiterun or to fight the initial dragon
++ Dragons will appear on their own after a few in-game days naturally
++ You will be called to the greybeards once you have killd your first dragon
+
 ## Balance Changes
 
 ### [Simon Magus Overhauls (SimonRim)](https://www.nexusmods.com/skyrimspecialedition/users/67410746?tab=user+files)
@@ -46,9 +56,6 @@ CFTO introduces new ways to travel around skyrim including new carriage location
 Adjusts some quests to start at a later time to improve their balance as some quests have been made harder.
 
 ## New Mechanics
-
-### [Skyrim Unbound Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/27962)
-Start as a random citizen of Skyrim or Bruma instead of the normal Dragonborn. Optionally, disable Dragonborn mechanics entirely. A brand new immersive start for every character.
 
 ### [Sunhelm Survival](https://www.nexusmods.com/skyrimspecialedition/mods/39414)
 Sunhelm Survival is an optional (in-game prompt) lightweight survival mod which introduces hunger, thirst and cold mechanics to the world of skyrim. It replaces creation club survival with a more customizable and compatible survival system which I find works really well.
