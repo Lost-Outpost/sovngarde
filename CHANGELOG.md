@@ -14,13 +14,13 @@
 
 # Changelog
 
-## Version 1.7.2
+## Version 1.7.2 [Unreleased]
 + Added Custom Arissa Patch (No More Configuration Power)
 + Added True Directional Movement
 + Added Smoothcam
 + Added Custom SkyHUD Config
 + Added Missile's Apothecary Patches
-+ Added Better Boss Bars for True Directional Movement
++ Added Better Boss Bars for True Directional Movement (Optional)
 
 ## Version 1.7.1
 + Added Sunhelm Survival Realistic Water Two Patch
