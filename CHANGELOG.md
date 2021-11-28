@@ -25,7 +25,7 @@ So this was going to be a bugfix to re-generate animations for Skyrim Paraglider
 + Added Vanargand Animations (All of them)
 + Added Archery Gameplay Overhaul (Animations Only)
 + Added Skyrim's Paraglider Stamina Drain
-+ Fixed Skyrim Paraglider
++ Fixed Skyrim Paraglider not working
 
 ## Version 1.7.3
 + Fixed "missing" scar textures (really just hard to see)
