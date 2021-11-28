@@ -14,7 +14,7 @@
 
 # Changelog
 
-## Version 1.7.2 [Unreleased]
+## Version 1.7.2
 + Added Custom Arissa Patch (No More Configuration Power)
 + Added True Directional Movement
 + Added Smoothcam
