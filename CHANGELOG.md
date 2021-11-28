@@ -14,6 +14,19 @@
 
 # Changelog
 
+## Version 1.7.4
+So this was going to be a bugfix to re-generate animations for Skyrim Paraglider. I ended up just adding in those animation mods people have been asking for, so enjoy!
++ Added Animation Motion Revolution
++ Added Conditional Expressions - Subtle Face Animations
++ Added Crosshair-aligned Crossbow
++ Added EVG Conditional Idles
++ Added Jarl Sitting Animation Replacer
++ Added Leviathan Animations - Two-Handed
++ Added Vanargand Animations (All of them)
++ Added Archery Gameplay Overhaul (Animations Only)
++ Added Skyrim's Paraglider Stamina Drain
++ Fixed Skyrim Paraglider
+
 ## Version 1.7.3
 + Fixed "missing" scar textures (really just hard to see)
 
