@@ -22,7 +22,7 @@ Start as a random citizen of Skyrim or Bruma instead of the normal Dragonborn. O
 + You will not spawn in helgen. Instead, you will start as a random citizen of Skyrim or Bruma
 + You will not be required to get the dragonstone for whiterun or to fight the initial dragon
 + Dragons will appear on their own after a few in-game days naturally
-+ You will be called to the greybeards once you have killd your first dragon
++ You will be called to the greybeards once you have killed your first dragon
 
 ## Balance Changes
 
