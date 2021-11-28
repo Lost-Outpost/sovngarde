@@ -14,6 +14,9 @@
 
 # Changelog
 
+## Version 1.7.3
++ Fixed "missing" scar textures (really just hard to see)
+
 ## Version 1.7.2
 + Added Custom Arissa Patch (No More Configuration Power)
 + Added True Directional Movement
