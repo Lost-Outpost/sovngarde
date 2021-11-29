@@ -14,6 +14,11 @@
 
 # Changelog
 
+## Version 1.7.5
++ Added Vanilla Extended ENB (Very Light and Colorful)
++ Fixed Cathedral Minimalist ENB (Reverted any changes)
++ Fixed Quest issue preventing main quest progression
+
 ## Version 1.7.4
 So this was going to be a bugfix to re-generate animations for Skyrim Paraglider. I ended up just adding in those animation mods people have been asking for, so enjoy!
 + Added Animation Motion Revolution
