@@ -26,6 +26,7 @@
 + Updated Creation Club Armor Integrations
 + Removed Rain and Snow Shaders (Too Buggy)
 + Fixed Ebony Armor quest starting too early
++ Fixed more broken books from EasierRiderDungeonPack
 
 ## Version 1.7.6
 **SPECIAL NOTE: Do not load a save where you are currently inside the college or in the area of winterhold. Travel somewhere else, save and then perform the upgrade. Obscure's college is safe to add mid-save but NOT if you are in the area of the college.**
