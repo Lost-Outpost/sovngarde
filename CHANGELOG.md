@@ -24,6 +24,7 @@
 + Added Nilheim - Misc Quest Expansion
 + Added Chill Out Aela
 + Added Photo References for all ENB configurations (Not perfect but still useful)
++ Added Vanilla Extended ENB
 + Updated Creation Club Armor Integrations
 + Removed Rain and Snow Shaders (Too Buggy)
 + Fixed Ebony Armor quest starting too early
