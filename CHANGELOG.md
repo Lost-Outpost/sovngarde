@@ -18,7 +18,7 @@
 + Added Majestic Mountains - Bruma Patch
 + Added Bruma Goblins Patch (AE Profile)
 + Added Bruma Goblins Rare Curios Patch (AE Profile)
-+ Added Custom Balance Patch for Skyrim Unbound (No more free steel armor)
++ Added Custom Balance Patch for Skyrim Unbound (No more free steel gear)
 + Updated Creation Club Armor Integrations
 + Removed Rain and Snow Shaders (Too Buggy)
 + Fixed Ebony Armor quest starting too early
