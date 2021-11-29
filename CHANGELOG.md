@@ -14,7 +14,7 @@
 
 # Changelog
 
-## Version 1.7.6 [Unreleased]
+## Version 1.7.6
 + Added Obscure's College (Okay yeah it's the best one I admit it)
 + Added Serana Re-Imagined and Valerica Re-imagined ;)
 + Fixed CoMAP hidden markers showing as diamond icons (now uses normal icons)
