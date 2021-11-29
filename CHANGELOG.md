@@ -14,6 +14,14 @@
 
 # Changelog
 
+## Version 1.7.7 [Unreleased]
++ Added Majestic Mountains - Bruma Patch
++ Added Bruma Goblins Patch (AE Profile)
++ Added Bruma Goblins Rare Curios Patch (AE Profile)
++ Updated Creation Club Armor Integrations
++ Removed Rain and Snow Shaders (Too Buggy)
++ Fixed Ebony Armor quest starting too early
+
 ## Version 1.7.6
 **SPECIAL NOTE: Do not load a save where you are currently inside the college or in the area of winterhold. Travel somewhere else, save and then perform the upgrade. Obscure's college is safe to add mid-save but NOT if you are in the area of the college.**
 + Added Obscure's College (Okay yeah it's the best one I admit it)
