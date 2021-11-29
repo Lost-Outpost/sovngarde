@@ -22,6 +22,7 @@
 + Added Custom Balance Patch for Skyrim Unbound (No more free steel gear)
 + Added East Empire Company Armor
 + Added Nilheim - Misc Quest Expansion
++ Added Chill Out Aela
 + Updated Creation Club Armor Integrations
 + Removed Rain and Snow Shaders (Too Buggy)
 + Fixed Ebony Armor quest starting too early
