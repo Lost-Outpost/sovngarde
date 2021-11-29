@@ -174,7 +174,7 @@ Updating is like installing. You only have to make sure that you select the same
 When you first launch the game, unless it has been disabled, Skyrim Unbound reborn will perform startup tasks. You can configure it in the MCM to change starting gear. Press ENTER to begin character creation.
 
 # Configuration
-If you wish to further customize by enabling ENB post processing, adding in creation club content or changing dodge keys, you can visit the [Configuration](CONFIGURATION.md) page for more info. There are also a few optional mods you can add or swap out to your liking listed on the [Configuration](CONFIGURATION.md) page.
+If you wish to further customize by changing the ENB preset, adding in creation club content, changing dodge keys, or swapping optional mods you can visit the [Configuration](CONFIGURATION.md) page for more info.
 
 # Issues
 Find an [issue](https://github.com/Guitarninja2/septimus/issues)? Feel free to report it [here](https://github.com/Guitarninja2/septimus/issues) with as much info as you can (screenshots are great). 
