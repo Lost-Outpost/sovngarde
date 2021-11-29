@@ -15,6 +15,7 @@
 # Changelog
 
 ## Version 1.7.6
+**SPECIAL NOTE: Do not load a save where you are currently inside the college or in the area of winterhold. Travel somewhere else, save and then perform the upgrade. Obscure's college is safe to add mid-save but NOT if you are in the area of the college.**
 + Added Obscure's College (Okay yeah it's the best one I admit it)
 + Added Serana Re-Imagined and Valerica Re-imagined ;)
 + Fixed CoMAP hidden markers showing as diamond icons (now uses normal icons)
