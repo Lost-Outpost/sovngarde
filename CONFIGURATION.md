@@ -46,7 +46,7 @@ If you have Skyrim Unbound enabled, ensure the load order looks like this at the
 All MCM menus have been automated so you are good to ignore them unless you want to change anything.
 
 ### ENB
-To enable ENB, do the following:
+To change ENB presets, do the following:
 + Run ENB Organizer from the exe list in the top right of MO2
 + If the program warns about not being able to check for updates, simply click ok and ignore it
 
