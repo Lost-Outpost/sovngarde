@@ -17,6 +17,7 @@
 ## Version 1.7.6 [Unreleased]
 + Added Obscure's College (Okay yeah it's the best one I admit it)
 + Added Serana Re-Imagined and Valerica Re-imagined ;)
++ Fixed CoMAP hidden markers showing as diamond icons (now uses normal icons)
 + Fixed Simple Dual Sheath Config (No more shields on back, too much clipping)
 
 ## Version 1.7.5
