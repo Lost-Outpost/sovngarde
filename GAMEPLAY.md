@@ -60,6 +60,9 @@ Adjusts some quests to start at a later time to improve their balance as some qu
 ### [Sunhelm Survival](https://www.nexusmods.com/skyrimspecialedition/mods/39414)
 Sunhelm Survival is an optional (in-game prompt) lightweight survival mod which introduces hunger, thirst and cold mechanics to the world of skyrim. It replaces creation club survival with a more customizable and compatible survival system which I find works really well.
 
+### [Campsite](https://www.nexusmods.com/skyrimspecialedition/mods/22353)
+Campsite is a simple camping mod that allows the player to build a campfire and pitch a tent. Campsite is built in the vanilla style using only existing items. It is designed to feel like an unintrusive, optional extra feature of the game that isn't noticed when not used.
+
 ### [TK Dodge RE](https://www.nexusmods.com/skyrimspecialedition/mods/56956)
 TK Dodge introduces a lightweight dodge mechanic (default key is left alt) where you can dodge out of the way of attacks for a stamina cost.
 
