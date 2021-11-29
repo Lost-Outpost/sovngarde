@@ -15,7 +15,7 @@
 # Changelog
 
 ## Version 1.8.0 [Unreleased]
-**WARNING: If you started a new game in 1.7.0 or you are getting messages when loading your saves about Skyrim Unbound being missing, disable ralof or hadvar in Septimus - Alternate start and re-enable skyrim unbound. I have switched the default alternate start back to ralof or hadvar to avoid confusing new players.**
+**WARNING: If you started a new game in 1.7.0 or you are getting messages when loading your saves about `Skyrim Unbound Reborn` being missing, disable `Ralof or Hadvar` in Septimus - Alternate start and re-enable `Skyrim Unbound Reborn`. I have switched the default alternate start back to Ralof or Hadvar to avoid confusing new players.**
 + Added Majestic Mountains - Bruma Patch
 + Added Bruma Goblins Patch (AE Profile)
 + Added Bruma Goblins Rare Curios Patch (AE Profile)
