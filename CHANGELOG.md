@@ -14,6 +14,10 @@
 
 # Changelog
 
+## Version 1.8.1
++ Added Majestic Landscapes (All textures)
++ Added Majestic Mountains - Bruma Patch
+
 ## Version 1.8.0
 **WARNING: If you started a new game in 1.7.0 or you are getting messages when loading your saves about `Skyrim Unbound Reborn` being missing, disable `Ralof or Hadvar` in Septimus - Alternate start and re-enable `Skyrim Unbound Reborn`. I have switched the default alternate start back to Ralof or Hadvar to avoid confusing new players.**
 + Added Majestic Mountains - Bruma Patch
