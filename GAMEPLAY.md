@@ -67,7 +67,7 @@ Sunhelm Survival is an optional (in-game prompt) lightweight survival mod which 
 Campsite is a simple camping mod that allows the player to build a campfire and pitch a tent. Campsite is built in the vanilla style using only existing items. It is designed to feel like an unintrusive, optional extra feature of the game that isn't noticed when not used.
 
 ### [TK Dodge RE](https://www.nexusmods.com/skyrimspecialedition/mods/56956)
-TK Dodge introduces a lightweight dodge mechanic (default key is left alt) where you can dodge out of the way of attacks for a stamina cost.
+TK Dodge introduces a lightweight dodge mechanic (press the sprint key) where you can dodge out of the way of attacks for a stamina cost.
 
 ### [Custom Skill Trees](https://www.nexusmods.com/skyrimspecialedition/mods/41780)
 Included are a few custom skill trees to make certain playstyles more interesting. The following are included:
