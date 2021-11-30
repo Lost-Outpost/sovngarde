@@ -156,3 +156,33 @@ Overhauls the underwater environment and adds content to the sea of Ghosts.
 
 ### [Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849)
 A massive quest mod with a Dark story for Vigilants of Stendarr. This mod includes a lot of unique armor sets, weapons, jewelry, creatures and more.
+
+## New Characters
+
+### [Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035)
+Lucien is a fully voiced Imperial follower with over 5000 lines of immersive, lore-friendly dialogue. Though he arrives in Skyrim as a cowardly scholar, he'll gradually gain strength and confidence by your side until he grows into a hero in his own right.
+
+### [Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461)
+Inigo is a fully voiced khajiit adventuring companion with over 7000 lines of unique dialogue - much of it about you. He'll level alongside you and avoid most traps. If you're sneaking he won't chatter and he'll whisper if you talk to him. He can run out of arrows. He's highly skilled in archery, one-handed, and sneak.
+
+### [Auri](https://www.nexusmods.com/skyrimspecialedition/mods/11278)
+Auri is a fully voiced follower and quest mod, which centers around Bosmer culture and tradition.
+She is a traditionalist Wood Elf archer, will follow you, do your bidding, and offer occasional snarky commentary about your surroundings and actions.
+
+### [Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194)
+NPCs with more extensive dialogue and role play choices. Over 250+ fully voiced NPCs, 25+ followers, 15+ marriage NPCs, and 50+ quests.
+
+### [Inconsequential NPCs](https://www.nexusmods.com/skyrim/mods/36334/)
+Adds NPCs and dialogue scenes to Skyrim to enhance the social ambiance of the game, all voiced. Aims to be unintrusive in implementation to maximize compatibility with large load orders.
+
+### [Merlin The Corgi](https://www.nexusmods.com/skyrimspecialedition/mods/56433)
+Adds a magical corgi companion to join you on your adventures!
+
+### [Gladys The Corgi](https://www.nexusmods.com/skyrimspecialedition/mods/50164)
+Adds a friendly corgi companion to join you on your adventures!
+
+### [Arissa The Wandering Rogue](https://www.nexusmods.com/skyrim/mods/53754/)
+Arissa is an Imperial with an independent, rebellious spirit and a gift for making expensive things disappear. She is a Skyrim companion character with over 600 lines of dialogue, professionally recorded and beautifully voiced by the talented Nikkita.
+
+### [Citizens of Tamriel](https://www.nexusmods.com/skyrimspecialedition/mods/29069)
+A tribute to old-school RPGs that adds some much-needed life to Skyrim's NPCs. Features all new, fully-voiced characters, unique followers, branching dialogue and more!
