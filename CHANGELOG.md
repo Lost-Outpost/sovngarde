@@ -14,7 +14,7 @@
 
 # Changelog
 
-## Version 1.8.1
+## Version 1.8.1 [Unreleased]
 + Added Majestic Landscapes (All textures)
 + Added Majestic Mountains - Bruma Patch
 + Removed Tamrielic Landscapes
