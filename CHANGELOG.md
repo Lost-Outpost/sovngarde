@@ -14,6 +14,10 @@
 
 # Changelog
 
+## Version 1.8.3 [Unreleased]
++ Added Happy Little Trees Dyndolod Hybrids
++ Updated Dyndolod output and texgen (with grass lod textures you can use if you want)
+
 ## Version 1.8.2
 + Fixed SSE Display Tweaks default config for more consistent frames
 
