@@ -14,7 +14,10 @@
 
 # Changelog
 
-## Version 1.8.1 [Unreleased]
+## Version 1.8.2
++ Fix SSE Display Tweaks default config for more consistent frames
+
+## Version 1.8.1
 + Added Majestic Landscapes (All textures)
 + Added Majestic Mountains - Bruma Patch
 + Removed Tamrielic Landscapes
