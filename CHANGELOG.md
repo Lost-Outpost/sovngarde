@@ -14,6 +14,13 @@
 
 # Changelog
 
+## Version 1.8.4
+Finally fixed all the stupid water issues!
++ Removed Realistic Water Two Needs Patch (GOODBYE)
++ Fixed ENB Water settings for all Presets
++ Updated Default ENB Preset to modified cathedralist with much better lighting
++ Fixed Water seams in many areas
+
 ## Version 1.8.3
 + Added The Halls of Rielle - Beyond Skyrim Bruma and The Cause Combined (AE Profile Only)
 + Added Happy Little Trees Dyndolod Hybrids
