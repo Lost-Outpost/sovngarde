@@ -15,6 +15,7 @@
 # Changelog
 
 ## Version 1.8.3 [Unreleased]
++ Added The Halls of Rielle - Beyond Skyrim Bruma and The Cause Combined (AE Profile Only)
 + Added Happy Little Trees Dyndolod Hybrids
 + Added Viven Rain to all ENB presets
 + Updated Dyndolod output and texgen (with grass lod textures you can use if you want)
