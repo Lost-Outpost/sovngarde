@@ -96,10 +96,9 @@ This list fully supports anniversary edition and all creation club content. Make
 
 After you have done everything above and got a clean SSE installation ready, start the Launcher and open the _Options_ menu.
 
-1. Leave the quality to what Skyrim sets it to, but you can lower it if you wish. FPS gain is minor though.
+1. Leave the quality to what Skyrim sets it to, but you can lower it if you wish.
 2. Set the _Aspect Ratio_ and _Resolution_ to your monitor's native values
-3. Set _Antialiasing_ to _Off_
-4. Check _Windowed Mode_ and _Borderless_
+3. Check _Windowed Mode_ and _Borderless_
 
 Start the game and exit once you're in the main menu.
 
