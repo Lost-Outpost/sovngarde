@@ -14,6 +14,15 @@
 
 # Gameplay Guide
 
+- [Alternate Start](#Alternate-Start)
+- [Quality of Life](#quality-of-life)
+- [Balance Changes](#balance-changes)
+- [New Mechanics](#new-mechanics)
+- [New Gear and Equipment](#new-gear-and-equipment)
+- [New Quests](#new-quests)
+- [New Homes](#new-homes)
+- [New Characters](#new-characters)
+
 ## Alternate Start
 
 ### [Ralof or Hadvar](https://www.nexusmods.com/skyrimspecialedition/mods/14553)
@@ -106,7 +115,7 @@ Bandolier introduces bags and pouches you can wear to kit out your character in 
 ### [Common Clothes and Armors](https://www.nexusmods.com/skyrimspecialedition/mods/21305)
 Common clothes and armors adds new armor variants and clothes around skyrim for more diversity.
 
-## New Questlines
+## New Quests
 
 ### [Helgen Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/5673)
 Helgen Reborn is a fully voiced adventure with over 20 superb voice actors. As you help rebuild the town you'll reunite two old friends, uncover an underground slavery ring, battle in an arena and many other adventures!
@@ -211,6 +220,9 @@ Adds a magical corgi companion to join you on your adventures!
 
 ### [Gladys The Corgi](https://www.nexusmods.com/skyrimspecialedition/mods/50164)
 Adds a friendly corgi companion to join you on your adventures!
+
+### [Improved Follower Dialogue - Lydia](https://www.nexusmods.com/skyrimspecialedition/mods/38473)
+Not technically a new character but it's quite an improvement. This mod doesn't just give Lydia a new voice - it adds over 350 lines of dialogue to make her an actually interesting character and major part of the main quest.
 
 ### [Arissa The Wandering Rogue](https://www.nexusmods.com/skyrim/mods/53754/)
 Arissa is an Imperial with an independent, rebellious spirit and a gift for making expensive things disappear. She is a Skyrim companion character with over 600 lines of dialogue, professionally recorded and beautifully voiced by the talented Nikkita.
