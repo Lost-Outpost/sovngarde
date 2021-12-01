@@ -98,6 +98,9 @@ Included are a few custom skill trees to make certain playstyles more interestin
 + [Molag's Will - Vampire Skill Tree](https://www.nexusmods.com/skyrimspecialedition/mods/58621)
 + [Prelude To Purgatroy - Lich Skill Tree](https://www.nexusmods.com/skyrimspecialedition/mods/53143)
 
+### [Skyrim's Paraglider](https://www.nexusmods.com/skyrimspecialedition/mods/53256)
+Adds a paraglider into the world similar to that in breath of the wild. You need to find it in the world to use it. Uses stamina while flying to be careful!
+
 ## New Gear and Equipment
 
 ### [Animated Armory](https://www.nexusmods.com/skyrimspecialedition/mods/51100)
