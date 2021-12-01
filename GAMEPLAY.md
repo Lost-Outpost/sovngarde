@@ -153,9 +153,6 @@ Clockwork is a quest mod involving a castle high in the Velothi Mountains, lost 
 ### [The Brotherhood Of Old](https://www.nexusmods.com/skyrimspecialedition/mods/15322)
 The Brotherhood of Old is a quest mod for Skyrim, taking place after the final quest in the original Dark Brotherhood questline. This 24 quest epic will take you all across the land of Skyrim, as you try and rebuild the Brotherhood and strengthen it against future attacks.
 
-### [Blackthorn](https://www.nexusmods.com/skyrimspecialedition/mods/2242)
-Blackthorn is a large Hearthfire inspired buildable player home and town with over 400+ build options to choose from, it also includes plenty of Safe Storage, Hearthfire Style Planters, Armor Mannequins, Displays for Dragon Priest Masks, Claws, Black Books, Paragons, Weapon Racks, Display Cases, New Merchants, Indoor Smithing Area, Plenty of room for Followers and Multiple Adoption Friendly..
-
 ### [The Tools of Kagrenac](https://www.nexusmods.com/skyrimspecialedition/mods/14168)
 Go on a quest to recover the legendary Tools of Kagrenac. Encounter new allies and enemies, explore sprawling dungeons, and add powerful new artifacts and spells to your arsenal in this fully-voiced quest mod!
 
@@ -173,6 +170,23 @@ Overhauls the underwater environment and adds content to the sea of Ghosts.
 
 ### [Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849)
 A massive quest mod with a Dark story for Vigilants of Stendarr. This mod includes a lot of unique armor sets, weapons, jewelry, creatures and more.
+
+## New Homes
+
+### [Blackthorn](https://www.nexusmods.com/skyrimspecialedition/mods/2242)
+Blackthorn is a large Hearthfire inspired buildable player home and town with over 400+ build options to choose from, it also includes plenty of Safe Storage, Hearthfire Style Planters, Armor Mannequins, Displays for Dragon Priest Masks, Claws, Black Books, Paragons, Weapon Racks, Display Cases, New Merchants, Indoor Smithing Area, Plenty of room for Followers and Multiple Adoption Friendly.
+
+### [Dovahkiin's Vault](https://www.nexusmods.com/skyrimspecialedition/mods/42237)
+A small vault in the Throat of the World for storing away all those sketchy arcane objects in a safe location away from innocent people and your family. Only accessible with Clear Skies shout.
+
+### [Morskom Estate](https://www.nexusmods.com/skyrimspecialedition/mods/33408)
+Mörskom Estate is a large player home situated on the hillside of Dawnstar. The mod comes with a short quest to acquire the home before the player will need to restore the building to its former glory, including the exterior and interior. Depending on your play style, Mörskom can be rebuilt using skill and materials or paid workers.
+
+### [Cityside](https://www.nexusmods.com/skyrimspecialedition/mods/27777)
+A simple and minimal starter home based in the heart of the capital of Skyrim, the city of Solitude. Designed for immersion and/or roleplaying based playthroughs.
+
+### [Drelas' Cottage](https://www.nexusmods.com/skyrimspecialedition/mods/39829)
+Inherit Drelas' Cottage if the owner has an unfortunate accident.
 
 ## New Characters
 
