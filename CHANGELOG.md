@@ -14,7 +14,7 @@
 
 # Changelog
 
-## Version 1.8.3 [Unreleased]
+## Version 1.8.3
 + Added The Halls of Rielle - Beyond Skyrim Bruma and The Cause Combined (AE Profile Only)
 + Added Happy Little Trees Dyndolod Hybrids
 + Added Viven Rain to all ENB presets
