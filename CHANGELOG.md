@@ -16,6 +16,7 @@
 
 ## Version 1.8.3 [Unreleased]
 + Added Happy Little Trees Dyndolod Hybrids
++ Added Viven Rain to all ENB presets
 + Updated Dyndolod output and texgen (with grass lod textures you can use if you want)
 + Updated TK Dodge config (tapping sprint key dodges instead of a dedicated key)
 
