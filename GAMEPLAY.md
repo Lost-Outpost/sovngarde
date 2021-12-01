@@ -27,6 +27,18 @@ Start as a random citizen of Skyrim or Bruma instead of the normal Dragonborn. O
 + Dragons will appear on their own after a few in-game days naturally
 + You will be called to the greybeards once you have killed your first dragon
 
+## Quality of Life
+
+### [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614)
+Overhauls the third person gameplay similarly to modern action RPGs, entirely through SKSE. Move and attack in any direction. Includes a custom target lock component and animated healthbar widget, target headtracking, projectile aim support during target lock, boss bars, mount support and more! Modular and customizable through MCM.
+
++ Middle mouse to lock on to enemies
++ Mouse wheel to switch targets
+
+### [Smoothcam](https://www.nexusmods.com/skyrimspecialedition/mods/41252)
+SmoothCam is a highly configurable third-person camera, with smooth frame-interpolation and a raycasting crosshair to help you aim.
++ By default, the [Modern Camera](https://www.nexusmods.com/skyrimspecialedition/mods/41636) preset is included but you're free to try another
+
 ## Balance Changes
 
 ### [Simon Magus Overhauls (SimonRim)](https://www.nexusmods.com/skyrimspecialedition/users/67410746?tab=user+files)
@@ -67,7 +79,9 @@ Sunhelm Survival is an optional (in-game prompt) lightweight survival mod which 
 Campsite is a simple camping mod that allows the player to build a campfire and pitch a tent. Campsite is built in the vanilla style using only existing items. It is designed to feel like an unintrusive, optional extra feature of the game that isn't noticed when not used.
 
 ### [TK Dodge RE](https://www.nexusmods.com/skyrimspecialedition/mods/56956)
-TK Dodge introduces a lightweight dodge mechanic (press the sprint key) where you can dodge out of the way of attacks for a stamina cost.
+TK Dodge introduces a lightweight dodge mechanic where you can dodge out of the way of attacks for a stamina cost.
+
++ Tapping the sprint key and any other directional key will cause your character to dodge in that direction
 
 ### [Custom Skill Trees](https://www.nexusmods.com/skyrimspecialedition/mods/41780)
 Included are a few custom skill trees to make certain playstyles more interesting. The following are included:
