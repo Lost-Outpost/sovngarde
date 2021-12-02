@@ -15,6 +15,7 @@
 # Changelog
 
 ## Version 1.8.5
++ Added Cathedralist Lite custom enb preset (performance should be a lot better than the standard cathedralist included)
 + Fixed Sunhelm + Realistic Water Two more issues (just made a custom patch instead :S)
 
 ## Version 1.8.4
