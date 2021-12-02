@@ -14,6 +14,18 @@
 
 # Configuration
 
+- [Mod Organizer 2 Profiles](#mod-organizer-2-profiles)
+- [Creation Club Setup](#creation-club-setup)
+- [Optional Mods](#optional-mods)
+  - [SSE Display Tweaks Performance](#sse-display-tweaks-performance)
+  - [Widescreen](#widescreen)
+  - [Alternate Start](#alternate-start)
+- [Mod Configuration](#mod-configuration)
+  - [MCM Menus](#mcm-menus)
+  - [TK Dodge RE](#tk-dodge-re)
+  - [ENB Presets](#enb-presets)
+- [Performance Guide](#performance-guide)
+
 ## Mod Organizer 2 Profiles
 Two profiles are pre-configured in MO2 for you. Septimus - Anniversary Edition and Septimus. If you do not own anniversary edition and all creation club content, play the standard Septimus profile. It contains all mods that do not require creation club integration.
 
@@ -27,10 +39,10 @@ In order to use Creation Club content, Mod Organizer 2 will need a copy of the c
 
 ## Optional Mods
 
-### SSE Display Tweaks Perf Mode
+### SSE Display Tweaks Performance
 By default, a high performance, smooth SSE Display Tweaks is configured. It is designed to reduce latency but may cause performance issues on some machines. This can be disabled outright.
 
-### Widescreen Support
+### Widescreen
 I have included the necessary mods to enable widescreen UI support. If you play on a widescreen monitor, this can be enabled in the optional mods section.
 
 ### Alternate Start
@@ -45,7 +57,13 @@ If you have Skyrim Unbound enabled, ensure the load order looks like this at the
 ### MCM Menus
 All MCM menus have been automated so you are good to ignore them unless you want to change anything.
 
-### ENB
+### TK Dodge RE
+If you wish to change the dodge key, do the following:
++ Double click on the TK Dodge RE mod in SEPTIMUS - SKELETON & ANIMATION
++ Navigate to the ini files tab
++ On line line 5, change DodgeHotkey to your prefered one by using instructions [here](https://www.creationkit.com/index.php?title=Input_Script#DXScanCodes)
+
+### ENB Presets
 To change ENB presets, do the following:
 + Run ENB Organizer from the exe list in the top right of MO2
 + If the program warns about not being able to check for updates, simply click ok and ignore it
@@ -57,12 +75,6 @@ To change ENB presets, do the following:
 ![Enb Organizer](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/enb_enable.png)
 
 + Low spec users or first time players may want to choose the Cathedral Minimalist profile to start
-
-### TK Dodge
-If you wish to change the dodge key, do the following:
-+ Double click on the TK Dodge RE mod in SEPTIMUS - SKELETON & ANIMATION
-+ Navigate to the ini files tab
-+ On line line 5, change DodgeHotkey to your prefered one by using instructions [here](https://www.creationkit.com/index.php?title=Input_Script#DXScanCodes)
 
 ## Performance Guide
 + Try turning off any ENB that might be enabled and disabling the high performance SSE Display Tweaks configuration file in the optional files section.
