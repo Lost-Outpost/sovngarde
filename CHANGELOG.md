@@ -14,6 +14,13 @@
 
 # Changelog
 
+## Version 1.8.6 [Unreleased]
+I did a lot of performance tweaks this update and grass settings are now handled by no grass in objects. This means you can run bethini without screwing up grass. Feel free to raise or lower settings
++ Added No Grass In Objects (No pre-cached though)
++ Added Use Telekinesis on Traps
++ Added Sleeping Expanded - Animations and NPC reactions
++ Updated Skyrim ini files (based on medium bethini preset) for much better performance
+
 ## Version 1.8.5
 + Added Cathedralist Lite custom enb preset (performance should be a lot better than the standard cathedralist included)
 + Fixed Sunhelm + Realistic Water Two more issues (just made a custom patch instead :S)
