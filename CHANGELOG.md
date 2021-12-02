@@ -14,6 +14,9 @@
 
 # Changelog
 
+## Version 1.8.5
++ Fixed Sunhelm + Realistic Water Two more issues (just made a custom patch instead :S)
+
 ## Version 1.8.4
 Finally fixed all the stupid water issues!
 + Removed Realistic Water Two Needs Patch (GOODBYE)
