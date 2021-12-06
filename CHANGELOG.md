@@ -17,10 +17,13 @@
 ## Version 1.9.0 [Beta]
 **NOTE: This is a test release for the full Wabbajack release coming soon. If you wish to participate you WILL need to start a new character. This has been a lot of patching and bug checking to get here but we are so close to finally releasing.**
 + Added The Eloquent Reader - True Scholar
++ Added Immersive World Encounters
 + Added Survival Control Panel
 + Added Survival Mode Improved
 + Added Ultra lite reshade profile for very low end machines
 + Added Dyndolod - Performance mode files for both profiles to further increase low end support
++ Updated Prelude to Purgatory
++ Updated Undeath - Classical Lichdom
 + Removed EasierRider's Dungeon Pack (Removed due to stability concerns)
 + Removed Hammet's Dungeon Packs (Removed due to stability concerns)
 + Removed Sunhelm Survival (Removed due to issues with certain food and clothes items and replaced by CC survival in both profiles)
