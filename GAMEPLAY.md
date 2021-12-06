@@ -28,14 +28,6 @@
 ### [Ralof or Hadvar](https://www.nexusmods.com/skyrimspecialedition/mods/14553)
 Simply skips the carriage ride and opening scene to avoid any complications and get you into the game right away.
 
-### [Skyrim Unbound Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/27962) (Optional)
-Start as a random citizen of Skyrim or Bruma instead of the normal Dragonborn. Optionally, disable Dragonborn mechanics entirely. A brand new immersive start for every character.
-+ Press enter to start character creation once you have arrived in the Sky-view of helgen
-+ You will not spawn in helgen. Instead, you will start as a random citizen of Skyrim or Bruma
-+ You will not be required to get the dragonstone for whiterun or to fight the initial dragon
-+ Dragons will appear on their own after a few in-game days naturally
-+ You will be called to the greybeards once you have killed your first dragon
-
 ## Quality of Life
 
 ### [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614)
