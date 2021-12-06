@@ -15,7 +15,7 @@
 # Changelog
 
 ## Version 1.9.0-BETA
-**NOTE: This is a test release for the full Wabbajack release coming soon. If you wish to participate you WILL need to start a new character. This has been a lot of patching and bug checking to get here but we are so close to finally releasing. I cannot **
+**NOTE: This is a test release for the full Wabbajack release coming soon. If you wish to participate you WILL need to start a new character. This has been a lot of patching and bug checking to get here but we are so close to finally releasing.**
 + Added Reading Is Good
 + Added Survival Control Panel
 + Added Survival Mode Improved
