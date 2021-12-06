@@ -77,7 +77,7 @@ To change ENB presets, do the following:
 + Low spec users or first time players may want to choose the Cathedral Minimalist profile to start
 
 ## Performance Guide
-+ Try turning off any ENB that might be enabled and disabling the high performance SSE Display Tweaks configuration file in the optional files section.
++ Try turning off any ENB that might be enabled and switching to the ultra lite reshade preset
 + Activate the performance grass and dyndolod mods under Septimus - Performance Mode
 
 ### Extreme Performance (Potato Mode)
