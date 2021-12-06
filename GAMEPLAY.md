@@ -81,8 +81,8 @@ Adjusts some quests to start at a later time to improve their balance as some qu
 
 ## New Mechanics
 
-### [Sunhelm Survival](https://www.nexusmods.com/skyrimspecialedition/mods/39414)
-Sunhelm Survival is an optional (in-game prompt) lightweight survival mod which introduces hunger, thirst and cold mechanics to the world of skyrim. It replaces creation club survival with a more customizable and compatible survival system which I find works really well.
+### [Survival Mode](https://en.uesp.net/wiki/Skyrim:Survival_Mode)
+In Survival Mode, your greatest adversary is Skyrim itself. Unrelenting cold, harsh wilderness, famine and fatigue - do you have the strength to endure? (Creation can be turned on or off in Settings menu. For details, consult Help Menu.)
 
 ### [Campsite](https://www.nexusmods.com/skyrimspecialedition/mods/22353)
 Campsite is a simple camping mod that allows the player to build a campfire and pitch a tent. Campsite is built in the vanilla style using only existing items. It is designed to feel like an unintrusive, optional extra feature of the game that isn't noticed when not used.
