@@ -163,9 +163,6 @@ Go on a quest to recover the legendary Tools of Kagrenac. Encounter new allies a
 ### [The Wheels of Lul](https://www.nexusmods.com/skyrimspecialedition/mods/748)
 Return to Sotha Sil and enter the stranger side of TES lore, as you join the ranks of the mysterious Chronographers in this fully voiced DLC-sized mod that adds over a dozen new quests, multiple new armors and weapons, sprawling dungeons, unique boss fights, and much much more!
 
-### [Skyrim Sewers 4](https://www.nexusmods.com/skyrimspecialedition/mods/9320)
-Adds large sewer systems to Solitude, Whiterun & Windhelm and a couple of forts to explore with many enemies and encounters to experience.
-
 ### [Frozen in Time](https://www.nexusmods.com/skyrimspecialedition/mods/39732)
 A quest to reanimate an ancient Snow Elf warrior and help her regain her past.
 
