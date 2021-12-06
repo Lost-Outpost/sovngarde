@@ -14,6 +14,16 @@
 
 # Changelog
 
+## Version 1.9.0-BETA
+**NOTE: This is a test release for the full Wabbajack release coming soon. If you wish to participate you WILL need to start a new character. This has been a lot of patching and bug checking to get here but we are so close to finally releasing. I cannot **
++ Added Reading Is Good
++ Added new ultra lite reshade profile for very low end machines
++ Added Dyndolod - Performance mode files for both profiles to further increase low end support
++ Removed EasierRider's Dungeon Pack (Removed due to stability concerns)
++ Removed Hammet's Dungeon Packs (Removed due to stability concerns)
++ Removed Sunhelm Survival (Removed due to issues with certain food and clothes items and replaced by CC survival in both profiles)
++ Fixed Several creation club integration mods to better distribute items
+
 ## Version 1.8.6
 I did a lot of performance tweaks this update and grass settings are now handled by no grass in objects. This means you can run bethini without screwing up grass. Feel free to raise or lower settings
 + Added No Grass In Objects (No pre-cached though)
