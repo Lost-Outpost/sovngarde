@@ -27,6 +27,7 @@
 + Removed EasierRider's Dungeon Pack (Removed due to stability concerns)
 + Removed Hammet's Dungeon Packs (Removed due to stability concerns)
 + Removed Sunhelm Survival (Removed due to issues with certain food and clothes items and replaced by CC survival in both profiles)
++ Fixed Significant balance issues with animated armory and heavy armory
 + Fixed Several creation club integration mods to better distribute items
 
 ## Version 1.8.6
