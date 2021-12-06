@@ -1,4 +1,4 @@
-<a href="https://www.youtube.com/watch?v=70DZ5UV1Bdo"><img src="images/septimus2.png" target="_blank"></a>
+<a href="https://www.youtube.com/watch?v=70DZ5UV1Bdo"><img src="images/logo.png" target="_blank"></a>
 
 ---
 
