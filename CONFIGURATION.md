@@ -80,6 +80,11 @@ To change ENB presets, do the following:
 + Try turning off any ENB that might be enabled and switching to the ultra lite reshade preset
 + Activate the performance grass and dyndolod mods under Septimus - Performance Mode
 
+### Extreme Performance (Potato Mode)
++ Turn off No Grass In Objects (Both versions)
++ Turn off enb and reshade
++ Open Bethini in Septimus/Tools/Bethini (Make sure MO2 is closed) and try changing the preset for the activated profile to low or tweaking values
+
 ### BethINI Settings
 + Make sure to close Mod Organizer 2
 + Open BethINI under (Your Install Folder)/Tools/BethINI 3.5/BethINI.exe
@@ -94,11 +99,6 @@ To change ENB presets, do the following:
    + For low end machines, choose `Low`
    + For mid-range machines choose `Medium` (the default)
    + For high-end machines you can bump up to `High` (note there is a performance impact, especially in cities)
-
-### Extreme Performance (Potato Mode)
-+ Turn off No Grass In Objects (Both versions)
-+ Turn off enb and reshade
-+ Open Bethini in Septimus/Tools/Bethini (Make sure MO2 is closed) and try changing the preset for the activated profile to low or tweaking values
 
 If you are having serious performance troubles and you wish to gain some extra frames, you can use [this](https://thephoenixflavour.com/tpf/performance-guide/) guide to tweak some settings for better performance.
 
