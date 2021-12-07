@@ -15,7 +15,7 @@
 # Changelog
 
 ## Version 1.9.0
-**NOTE: For existing players, disable Sunhelm completely in the MCM, wait around a minute and then save your game. You should be safe to upgrade. If you encounter any further issues, please make a new character.**
+**NOTE: For existing players, disable Sunhelm completely in the MCM, wait around a minute and then save your game. After that, you should be safe to upgrade. If you encounter any further issues, please make a new character.**
 + Added The Eloquent Reader - True Scholar
 + Added Immersive World Encounters
 + Added Survival Control Panel
