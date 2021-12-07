@@ -23,7 +23,6 @@
 + Added Ultra lite reshade profile for very low end machines
 + Added Dyndolod - Performance mode files for both profiles to further increase low end support
 + Added Creation Club Backpack Balance Patch
-+ Added Nether's Follower Framework
 + Updated Prelude to Purgatory
 + Updated Undeath - Classical Lichdom
 + Removed EasierRider's Dungeon Pack (Removed due to stability/balance concerns)
