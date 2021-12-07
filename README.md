@@ -114,7 +114,7 @@ Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-to
 
 The download and installation process can take a little while (an hour or more) depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
-1. Download the latest release of `Septimus.wabbajack` from [Google Drive](https://drive.google.com/drive/folders/1-VIcggcf49sTHnqQgyifhTSGwgcKd6Jz?usp=sharing)
+1. Download the latest release of `Septimus` from the Wabbajack Browse Modlists page
 2. Create a folder for the List at the root of your drive (like the Wabbajack folder) called "Septimus"
 3. Open the Septimus .wabbajack file and select the created folder in 3. as your installation folder
 4. Go back to your drive, and create a new folder, called "Wabbajack Downloads Folder". This specific folder can be on a different drive if you wish
