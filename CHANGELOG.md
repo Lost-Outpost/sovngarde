@@ -24,6 +24,7 @@
 + Added Dyndolod - Performance mode files for both profiles to further increase low end support
 + Added Creation Club Backpack Balance Patch
 + Added BS - Bruma The Cause Synergy Patch
++ Added Skyrim's Got Talent
 + Updated Prelude to Purgatory
 + Updated Undeath - Classical Lichdom
 + Removed EasierRider's Dungeon Pack (Removed due to stability/balance concerns)
