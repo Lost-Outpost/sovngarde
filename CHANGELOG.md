@@ -14,8 +14,8 @@
 
 # Changelog
 
-## Version 1.9.0 [Beta]
-**NOTE: This is a test release for the full Wabbajack release coming soon. If you wish to participate you WILL need to start a new character. This has been a lot of patching and bug checking to get here but we are so close to finally releasing.**
+## Version 1.9.0
+**NOTE: For existing players, disable Sunhelm completely in the MCM, wait around a minute and then save your game. You should be safe to upgrade. If you encounter any further issues, please make a new character.**
 + Added The Eloquent Reader - True Scholar
 + Added Immersive World Encounters
 + Added Survival Control Panel
