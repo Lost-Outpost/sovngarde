@@ -61,7 +61,8 @@ All MCM menus have been automated so you are good to ignore them unless you want
 If you wish to change the dodge key, do the following:
 + Double click on the TK Dodge RE mod in SEPTIMUS - SKELETON & ANIMATION
 + Navigate to the ini files tab
-+ On line line 5, change DodgeHotkey to your prefered one by using instructions [here](https://www.creationkit.com/index.php?title=Input_Script#DXScanCodes)
++ Change EnableTappingDodge to false to change the keybind
++ Change DodgeHotkey to your prefered one by using instructions [here](https://www.creationkit.com/index.php?title=Input_Script#DXScanCodes)
 
 ### ENB Presets
 To change ENB presets, do the following:
