@@ -20,6 +20,9 @@
 + Updated Merlin the Corgi
 + Updated Survival Mode Improved
 + Updated Creation Club Integration - Armors
++ Updated JK Interiors Patch Collection
++ Updated Molag's Will
++ Updated Security Overhaul - Lock Variation
 + Fixed Issue with Draugr spawning with wrong weapons (new saves only D:)
 
 ## Version 1.9.0
