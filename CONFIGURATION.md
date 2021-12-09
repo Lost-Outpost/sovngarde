@@ -17,7 +17,6 @@
 - [Mod Organizer 2 Profiles](#mod-organizer-2-profiles)
 - [Creation Club Setup](#creation-club-setup)
 - [Optional Mods](#optional-mods)
-  - [SSE Display Tweaks Performance](#sse-display-tweaks-performance)
   - [Widescreen](#widescreen)
 - [Mod Configuration](#mod-configuration)
   - [MCM Menus](#mcm-menus)
@@ -37,9 +36,6 @@ In order to use Creation Club content, Mod Organizer 2 will need a copy of the c
 + If it is not all activated and sent to the top, shift click to select all, right click and hit enable selected, and then right click and hit send to -> top
 
 ## Optional Mods
-
-### SSE Display Tweaks Performance
-By default, a high performance, smooth SSE Display Tweaks is configured. It is designed to reduce latency but may cause performance issues on some machines. This can be disabled outright.
 
 ### Widescreen
 I have included the necessary mods to enable widescreen UI support. If you play on a widescreen monitor, this can be enabled in the optional mods section.
