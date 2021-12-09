@@ -14,6 +14,11 @@
 
 # Changelog
 
+## Version 1.9.1 [Unreleased]
++ Added Immersive Creatures + Open World Loot Patches
++ Added Organized Bandits in Skyrim + Open World Loot Patches
++ Fixed Issue with Draugr spawning with wrong weapons (new saves only D:)
+
 ## Version 1.9.0
 **NOTE: For existing players, disable Sunhelm completely in the MCM, wait around a minute and then save your game. After that, you should be safe to upgrade. If you encounter any further issues, please make a new character.**
 + Added The Eloquent Reader - True Scholar
