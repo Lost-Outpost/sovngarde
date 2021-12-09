@@ -45,13 +45,6 @@ By default, a high performance, smooth SSE Display Tweaks is configured. It is d
 ### Widescreen
 I have included the necessary mods to enable widescreen UI support. If you play on a widescreen monitor, this can be enabled in the optional mods section.
 
-### Alternate Start
-By default, the modlist comes with [Ralof or Hadvar](https://www.nexusmods.com/skyrimspecialedition/mods/14553) enabled which will give you a more vanilla-like game start. If you wish, you can swap this out for [Skyrim Unbound Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/27962) which provides a more immersive, roleplaying start with several options. Make sure you choose at least one of the two options. If you do switch from the default, make sure you re-enable the option you chose each time you update the list or your saves WILL break.
-
-If you have Skyrim Unbound enabled, ensure the load order looks like this at the bottom:
-
-![Unbound Load Order](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/unbound_order.png)
-
 ## Mod Configuration
 
 ### MCM Menus
