@@ -17,6 +17,9 @@
 ## Version 1.9.1 [Unreleased]
 + Added Immersive Creatures + Open World Loot Patches
 + Added Organized Bandits in Skyrim + Open World Loot Patches
++ Updated Merlin the Corgi
++ Updated Survival Mode Improved
++ Updated Creation Club Integration - Armors
 + Fixed Issue with Draugr spawning with wrong weapons (new saves only D:)
 
 ## Version 1.9.0
