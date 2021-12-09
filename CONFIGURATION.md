@@ -19,7 +19,6 @@
 - [Optional Mods](#optional-mods)
   - [SSE Display Tweaks Performance](#sse-display-tweaks-performance)
   - [Widescreen](#widescreen)
-  - [Alternate Start](#alternate-start)
 - [Mod Configuration](#mod-configuration)
   - [MCM Menus](#mcm-menus)
   - [TK Dodge RE](#tk-dodge-re)
