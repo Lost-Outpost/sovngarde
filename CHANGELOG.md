@@ -17,6 +17,9 @@
 ## Version 1.9.1 [Unreleased]
 + Added Immersive Creatures + Open World Loot Patches
 + Added Organized Bandits in Skyrim + Open World Loot Patches
++ Added Quicklight SMIM Lantern
++ Added Landscape Seam fixes
++ Added Lucien Creation Club Integration
 + Updated Merlin the Corgi
 + Updated Survival Mode Improved
 + Updated Creation Club Integration - Armors
