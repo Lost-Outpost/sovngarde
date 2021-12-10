@@ -20,6 +20,9 @@
 + Added Quicklight SMIM Lantern
 + Added Landscape Seam fixes
 + Added Lucien Creation Club Integration
++ Updated JK's Temple of the Divines
++ Updated JK's Temple of Talos
++ Updated JK's New Gnisis Cornerclub
 + Updated Merlin the Corgi
 + Updated Survival Mode Improved
 + Updated Creation Club Integration - Armors
