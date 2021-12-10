@@ -20,6 +20,7 @@
 + Added Quicklight SMIM Lantern
 + Added Landscape Seam fixes
 + Added Lucien Creation Club Integration
++ Added Beyond Skyrim - Bruma - Enhanced Map
 + Updated JK's Temple of the Divines
 + Updated JK's Temple of Talos
 + Updated JK's New Gnisis Cornerclub
@@ -29,6 +30,7 @@
 + Updated JK Interiors Patch Collection
 + Updated Molag's Will
 + Updated Security Overhaul - Lock Variation
++ Fixed Some signs in bruma being broken
 + Fixed Issue with Draugr spawning with wrong weapons (new saves only D:)
 
 ## Version 1.9.0
