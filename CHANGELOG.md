@@ -14,7 +14,7 @@
 
 # Changelog
 
-## Version 1.9.1 [Unreleased]
+## Version 1.9.1 [Beta]
 + Added Immersive Creatures + Open World Loot Patches
 + Added Organized Bandits in Skyrim + Open World Loot Patches
 + Added Quicklight SMIM Lantern
