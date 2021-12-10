@@ -120,6 +120,7 @@ The download and installation process can take a little while (an hour or more) 
 4. Go back to your drive, and create a new folder, called "Wabbajack Downloads Folder". This specific folder can be on a different drive if you wish
 5. Select the created folder in step 3 as your downloads folder
 6. Click the Go/Begin button and wait for Wabbajack to finish
+7. Set up creation club content for anniversary edition profile with instructions [here](https://github.com/Guitarninja2/septimus/blob/main/CONFIGURATION.md#creation-club-setup)
 
 ### Problems with Wabbajack
 
