@@ -14,6 +14,10 @@
 
 # Changelog
 
+## Version 1.9.2
++ Fixed Glowing Argonians in survival mode
++ Fixed Water seam near solitude
+
 ## Version 1.9.1
 + Added Immersive Creatures + Open World Loot Patches
 + Added Organized Bandits in Skyrim + Open World Loot Patches
