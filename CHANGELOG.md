@@ -14,7 +14,7 @@
 
 # Changelog
 
-## Version 1.9.2
+## Version 1.9.2 [Unreleased]
 + Fixed Glowing Argonians in survival mode
 + Fixed Water seam near solitude
 
