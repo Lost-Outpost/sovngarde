@@ -76,7 +76,7 @@ To change ENB presets, do the following:
 + Turn off enb and reshade
 + Open Bethini in Septimus/Tools/Bethini (Make sure MO2 is closed) and try changing the preset for the activated profile to low or tweaking values
 
-### BethINI Settings
+### BethINI Settings (Try Performance INIs First)
 + Make sure to close Mod Organizer 2
 + Open BethINI under (Your Install Folder)/Tools/BethINI 3.5/BethINI.exe
 + Be sure to choose the correct profile you are playing under the Setup tab
@@ -86,10 +86,6 @@ To change ENB presets, do the following:
 + On the basic tab, select the preset you wish to use and checkk `Recommended Tweaks`
 
 ![BethINI Basic](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/beth_basic.png)
-
-   + For low end machines, choose `Low`
-   + For mid-range machines choose `Medium` (the default)
-   + For high-end machines you can bump up to `High` (note there is a performance impact, especially in cities)
 
 If you are having serious performance troubles and you wish to gain some extra frames, you can use [this](https://thephoenixflavour.com/tpf/performance-guide/) guide to tweak some settings for better performance.
 
