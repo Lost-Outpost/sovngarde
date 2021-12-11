@@ -14,7 +14,8 @@
 
 # Changelog
 
-## Version 1.9.2 [Unreleased]
+## Version 1.9.1.1 [Unreleased]
++ Fixed Crashing occuring when playing music with certain Interesting NPCs
 + Fixed Glowing Argonians in survival mode
 + Fixed Water seam near solitude
 
