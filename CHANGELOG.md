@@ -15,9 +15,11 @@
 # Changelog
 
 ## Version 1.9.2 [Beta]
++ Added Toggle Hud shortcut key (scroll lock by default)
 + Added Hand to Hand - An Adamant Addon
 + Added Improved hand to hand animations
 + Added Optional Dragon War - Easy Mode Patch
++ Fixed Dodging IFrames
 
 ## Version 1.9.1.1
 + Fixed Crashing occuring when playing music with certain Interesting NPCs
