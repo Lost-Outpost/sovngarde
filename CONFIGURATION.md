@@ -69,6 +69,7 @@ To change ENB presets, do the following:
 ## Performance Guide
 + Try turning off any ENB that might be enabled and switching to the ultra lite reshade preset
 + Activate the performance grass and dyndolod mods under Septimus - Performance Mode
++ Replace the files in the profile you're playing (Septimus/profiles/Septimus [- Anniversary Edition]) with [these](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=248298&game_id=1704)
 
 ### Extreme Performance (Potato Mode)
 + Turn off No Grass In Objects (Both versions)
