@@ -14,7 +14,11 @@
 
 # Changelog
 
-## Version 1.9.1.1 [Unreleased]
+## Version 1.9.2 [Beta]
++ Added Hand to Hand - An Adamant Addon
++ Added Improved hand to hand animations
+
+## Version 1.9.1.1
 + Fixed Crashing occuring when playing music with certain Interesting NPCs
 + Fixed Glowing Argonians in survival mode
 + Fixed Water seam near solitude
