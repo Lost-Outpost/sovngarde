@@ -23,10 +23,15 @@
 + Added Khajiits Steal Too
 + Added Violens
 + Added Nether's Follower Framework
++ Updated CoMAP
++ Updated Assorted Mesh Fixes
++ Updated Thaumaturgy
 + Updated Security Overhaul SKSE
 + Updated Security Overhaul SKSE - Addons
 + Updated Beyond Skyrim - Bruma
++ Updated Aetherius - Race Overhaul
 + Updated Adamant - A Perk Overhaul
++ Fixed Bruma Mountain LOD Issue
 + Fixed Dodging IFrames
 + Fixed Certain immersive creatures spawning by default (new saves only. existing saves just tweak the options you hate in the mcm)
 
