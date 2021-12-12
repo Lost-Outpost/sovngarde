@@ -20,7 +20,11 @@
 + Added Hand to Hand - An Adamant Addon
 + Added Improved hand to hand animations
 + Added Optional Dragon War - Easy Mode Patch
++ Added Khajiits Steal Too
++ Updated Security Overhaul SKSE
++ Updated Security Overhaul SKSE - Addons
 + Updated Beyond Skyrim - Bruma
++ Updated Adamant - A Perk Overhaul
 + Fixed Dodging IFrames
 
 ## Version 1.9.1.1
