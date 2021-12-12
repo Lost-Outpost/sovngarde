@@ -21,11 +21,14 @@
 + Added Improved hand to hand animations
 + Added Optional Dragon War - Easy Mode Patch
 + Added Khajiits Steal Too
++ Added Violens
++ Added Nether's Follower Framework
 + Updated Security Overhaul SKSE
 + Updated Security Overhaul SKSE - Addons
 + Updated Beyond Skyrim - Bruma
 + Updated Adamant - A Perk Overhaul
 + Fixed Dodging IFrames
++ Fixed Certain immersive creatures spawning by default (new saves only. existing saves just tweak the options you hate in the mcm)
 
 ## Version 1.9.1.1
 + Fixed Crashing occuring when playing music with certain Interesting NPCs
