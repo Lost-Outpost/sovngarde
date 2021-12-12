@@ -14,8 +14,8 @@
 
 # Changelog
 
-## Version 1.9.2 [Beta]
-**WARNING: The addition of Hand to Hand will alter perk trees. You must reset your perk points using a poition or other method or you may lose perk points. If you do not want to or do not know how you can get assistance in the discord.**
+## Version 1.10.0 [Beta]
+**WARNING: The addition of Hand to Hand will alter perk trees. You must reset your perk points using a poition or other method or you may lose perk points. If you do not want to or do not know how you can get assistance in the discord. The safest method is to simply start a new save with the update.**
 + Added Toggle Hud shortcut key (scroll lock by default)
 + Added Hand to Hand - An Adamant Addon
 + Added Improved hand to hand animations
