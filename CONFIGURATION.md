@@ -60,7 +60,7 @@ To change ENB presets, do the following:
 
 ![Exe List](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/exe_menu.png)
 
-+ Go to presets on the left menu and enable the enb preset you wish to use
++ Go to presets on the left menu and enable the enb preset you wish to use. Be sure to only enable one preset at a time. The safest way is to disable them all and then simply activate one preset.
 
 ![Enb Organizer](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/enb_enable.png)
 
