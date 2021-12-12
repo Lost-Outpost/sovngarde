@@ -15,10 +15,12 @@
 # Changelog
 
 ## Version 1.9.2 [Beta]
+**WARNING: The addition of Hand to Hand will alter perk trees. You must reset your perk points using a poition or other method to use an existing character. If you do not want to or do not know how you can get assistance in the discord.**
 + Added Toggle Hud shortcut key (scroll lock by default)
 + Added Hand to Hand - An Adamant Addon
 + Added Improved hand to hand animations
 + Added Optional Dragon War - Easy Mode Patch
++ Updated Beyond Skyrim - Bruma
 + Fixed Dodging IFrames
 
 ## Version 1.9.1.1
