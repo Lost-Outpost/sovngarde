@@ -34,6 +34,7 @@
 + Fixed Bruma Mountain LOD Issue
 + Fixed Dodging IFrames
 + Fixed Certain immersive creatures spawning by default (new saves only. existing saves just tweak the options you hate in the mcm)
++ Removed Custom Skill Trees (Dragonborn/Vampire/Lich) as they were all TOO strong
 
 ## Version 1.9.1.1
 + Fixed Crashing occuring when playing music with certain Interesting NPCs
