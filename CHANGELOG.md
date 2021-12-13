@@ -18,10 +18,10 @@
 **WARNING: The addition of Hand to Hand will alter perk trees. You must reset your perk points using a poition or other method or you may lose perk points. If you do not want to or do not know how you can get assistance in the discord. The safest method is to simply start a new save with the update.**
 + Added Toggle Hud shortcut key (scroll lock by default)
 + Added Hand to Hand - An Adamant Addon
-+ Added Improved hand to hand animations
 + Added Optional Dragon War - Easy Mode Patch
 + Added Khajiits Steal Too
 + Added Violens
++ Added Thaumaturgy Gauntlet Consistency Patch
 + Added Nether's Follower Framework
 + Updated CoMAP
 + Updated Assorted Mesh Fixes
@@ -33,6 +33,7 @@
 + Updated Adamant - A Perk Overhaul
 + Fixed Bruma Mountain LOD Issue
 + Fixed Dodging IFrames
++ Fixed Issues with warpaints not looking correct
 + Fixed Certain immersive creatures spawning by default (new saves only. existing saves just tweak the options you hate in the mcm)
 + Removed Custom Skill Trees (Dragonborn/Vampire/Lich) as they were all TOO strong
 
