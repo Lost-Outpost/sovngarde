@@ -84,12 +84,6 @@ TK Dodge introduces a lightweight dodge mechanic where you can dodge out of the 
 
 + Tapping the sprint key and any other directional key will cause your character to dodge in that direction
 
-### [Custom Skill Trees](https://www.nexusmods.com/skyrimspecialedition/mods/41780)
-Included are a few custom skill trees to make certain playstyles more interesting. The following are included:
-+ [Dragonborn - Shout Tree](https://www.nexusmods.com/skyrimspecialedition/mods/41950)
-+ [Molag's Will - Vampire Skill Tree](https://www.nexusmods.com/skyrimspecialedition/mods/58621)
-+ [Prelude To Purgatroy - Lich Skill Tree](https://www.nexusmods.com/skyrimspecialedition/mods/53143)
-
 ### [Skyrim's Paraglider](https://www.nexusmods.com/skyrimspecialedition/mods/53256)
 Adds a paraglider into the world similar to that in breath of the wild. You need to find it in the world to use it. Uses stamina while flying to be careful!
 
