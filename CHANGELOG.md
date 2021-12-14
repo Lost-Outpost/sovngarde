@@ -23,6 +23,7 @@
 + Added Violens
 + Added Thaumaturgy Gauntlet Consistency Patch
 + Added Nether's Follower Framework
++ Added Antiquary - Enhanced Artifacts
 + Updated CoMAP
 + Updated Assorted Mesh Fixes
 + Updated Thaumaturgy
