@@ -29,7 +29,7 @@
 + Updated Security Overhaul SKSE
 + Updated Security Overhaul SKSE - Addons
 + Updated Beyond Skyrim - Bruma
-+ Pilgrim - A Religion Overhaul
++ Updated Pilgrim - A Religion Overhaul
 + Updated Aetherius - Race Overhaul
 + Updated Adamant - A Perk Overhaul
 + Fixed Bruma Mountain LOD Issue
