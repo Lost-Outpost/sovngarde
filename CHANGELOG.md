@@ -32,6 +32,7 @@
 + Updated Pilgrim - A Religion Overhaul
 + Updated Aetherius - Race Overhaul
 + Updated Adamant - A Perk Overhaul
++ Updated Manbeast - Werewolf thing
 + Fixed Bruma Mountain LOD Issue
 + Fixed Dodging IFrames
 + Fixed Issues with warpaints not looking correct
