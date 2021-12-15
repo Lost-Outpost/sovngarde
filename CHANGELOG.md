@@ -18,7 +18,6 @@
 **WARNING: This update WILL require a new game. The addition of Hand to Hand and the removal of the Dragonborn Skill trees will cause your save to explode if you try.**
 + Added Toggle Hud shortcut key (scroll lock by default)
 + Added Hand to Hand - An Adamant Addon
-+ Added Optional Dragon War - Easy Mode Patch
 + Added Khajiits Steal Too
 + Added Violens
 + Added Thaumaturgy Gauntlet Consistency Patch
