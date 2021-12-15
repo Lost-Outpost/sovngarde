@@ -42,6 +42,7 @@
 + Removed Custom Skill Trees (Dragonborn/Vampire/Lich) as they were all TOO strong
 + Removed Dragon War (Bye bye)
 + Removed Vanilla Hair Replacer
++ Removed Several redundant follower tweaks (better stealth AI etc)
 
 ## Version 1.9.1.1
 + Fixed Crashing occuring when playing music with certain Interesting NPCs
