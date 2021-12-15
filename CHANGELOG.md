@@ -14,7 +14,7 @@
 
 # Changelog
 
-## Version 1.10.0 [Beta]
+## Version 1.10.0
 **WARNING: This update WILL require a new game. The addition of Hand to Hand and the removal of the Dragonborn Skill trees will cause your save to explode if you try.**
 + Added Toggle Hud shortcut key (scroll lock by default)
 + Added Hand to Hand - An Adamant Addon
