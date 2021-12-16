@@ -18,6 +18,7 @@
 + Added Face Discoloration Fix (There are some side-effects but it's worth it imo)
 + Added Vanilla Hair Replacer + Custom Patch (Honestly the vanilla hairs are so bad it's necessary lol)
 + Added Tamrielic + aMidianborn landscape mix
++ Added JS Emissive Eyes
 + Fixed Undeath landscape issues
 + Fixed Wrong Skill Menu texture for brawler
 + Removed Majestic Landscapes
