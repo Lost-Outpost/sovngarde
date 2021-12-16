@@ -21,6 +21,7 @@
 + Added JS Emissive Eyes
 + Added Additional Clockwork (Bug Fixes for clockwork)
 + Added Tempered Racial Textures
++ Added Spiders of Solstheim - Transparency Fix
 + Fixed Undeath landscape issues
 + Fixed Wrong Skill Menu texture for brawler
 + Fixed Broken Dunmer Outfits in Solstheim
