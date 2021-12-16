@@ -20,8 +20,10 @@
 + Added Tamrielic + aMidianborn landscape mix
 + Added JS Emissive Eyes
 + Added Additional Clockwork (Bug Fixes for clockwork)
++ Added Tempered Racial Textures
 + Fixed Undeath landscape issues
 + Fixed Wrong Skill Menu texture for brawler
++ Fixed Broken Dunmer Outfits in Solstheim
 + Removed Majestic Landscapes
 
 ## Version 1.10.0
