@@ -14,6 +14,14 @@
 
 # Changelog
 
+## Version 1.10.1 [Unreleased]
++ Added Face Discoloration Fix (There are some side-effects but it's worth it imo)
++ Added Vanilla Hair Replacer + Custom Patch (Honestly the vanilla hairs are so bad it's necessary lol)
++ Added Tamrielic + aMidianborn landscape mix
++ Fixed Undeath landscape issues
++ Fixed Wrong Skill Menu texture for brawler
++ Removed Majestic Landscapes
+
 ## Version 1.10.0
 **WARNING: This update WILL require a new game. The addition of Hand to Hand and the removal of the Dragonborn Skill trees will cause your save to explode if you try.**
 + Added Toggle Hud shortcut key (scroll lock by default)
