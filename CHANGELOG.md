@@ -25,6 +25,7 @@
 + Added Robert The Reaper
 + Added HD Dirt and Blood Textures
 + Added HD Dirt Masks for characters
++ Updated Beyond Skyrim - Bruma to latest hotfix
 + Fixed Undeath landscape issues
 + Fixed Some Clothing clipping incorrectly with certain characters
 + Fixed Wrong Skill Menu texture for brawler
