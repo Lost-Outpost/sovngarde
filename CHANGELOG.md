@@ -22,9 +22,11 @@
 + Added Additional Clockwork (Bug Fixes for clockwork)
 + Added Tempered Racial Textures
 + Added Spiders of Solstheim - Transparency Fix
++ Added Robert The Reaper
 + Fixed Undeath landscape issues
 + Fixed Wrong Skill Menu texture for brawler
 + Fixed Broken Dunmer Outfits in Solstheim
++ Fixed NPCs Getting Sun Spells
 + Removed Majestic Landscapes
 
 ## Version 1.10.0
