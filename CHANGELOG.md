@@ -30,6 +30,7 @@
 + Fixed Wrong Skill Menu texture for brawler
 + Fixed Broken Dunmer Outfits in Solstheim
 + Fixed NPCs Getting Sun Spells
++ Fixed Myrwatch Landscape issues
 + Removed Majestic Landscapes
 
 ## Version 1.10.0
