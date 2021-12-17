@@ -21,9 +21,12 @@
 + Added JS Emissive Eyes
 + Added Additional Clockwork (Bug Fixes for clockwork)
 + Added Tempered Racial Textures
-+ Added Spiders of Solstheim - Transparency Fix
++ Added Spiders of Solstheim - Transparency Fix (SOS)
 + Added Robert The Reaper
++ Added HD Dirt and Blood Textures
++ Added HD Dirt Masks for characters
 + Fixed Undeath landscape issues
++ Fixed Some Clothing clipping incorrectly with certain characters
 + Fixed Wrong Skill Menu texture for brawler
 + Fixed Broken Dunmer Outfits in Solstheim
 + Fixed NPCs Getting Sun Spells
