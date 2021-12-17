@@ -62,9 +62,6 @@ Forceful tongue rebalances shouts in a manner similar to the above mods by Simon
 ### [Open World Loot](https://www.nexusmods.com/skyrimspecialedition/mods/49681)
 Open world loot is a rebalance of skyrim's loot system. It attempts to maintain the same open world feel of skyrim while adjusting the levels certain items appear and makes it so daedric and other special weapons must be acquired from special quests only. No longer will Iron equipment be completely irrelevant in a matter of a few hours.
 
-### [Dragon War](https://www.nexusmods.com/skyrimspecialedition/mods/51310)
-Dragon War rebalances all dragons with new variants and improved lethality. You will need to prepare for dragon fights. Main story and named dragons will also be significantly stronger so be prepared and do not face them too early.
-
 ### [Carriage and Ferry Travel Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/8379)
 CFTO introduces new ways to travel around skyrim including new carriage locations and new boats to increase the ease of traveling skyrim in an immersive way.
 
