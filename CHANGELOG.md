@@ -16,6 +16,8 @@
 
 ## Version 1.10.2
 + Added JK's Haelga's Bunkhouse
++ Added Helgen Reborn Immersive Start (By Day7 and I :D)
++ Added Water Mod (Enhanced Textures for Water)
 
 ## Version 1.10.1
 + Added Face Discoloration Fix (There are some side-effects but it's worth it imo)
