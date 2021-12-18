@@ -14,7 +14,7 @@
 
 # Changelog
 
-## Version 1.10.2
+## Version 1.10.2 [Beta]
 + Added JK's Haelga's Bunkhouse
 + Added Helgen Reborn Immersive Start (By Day7 and I :D)
 + Added Water Mod (Enhanced Textures for Water)
