@@ -173,8 +173,9 @@ Updating is like installing. You only have to make sure that you select the same
 
 # Before You Start
 Check the following items before starting the game (they are easy to miss)
-* Take a brief look at the [gameplay guide](GAMEPLAY.md)
-* Ensure you have done the [post-install steps](CONFIGURATION.md#creation-club-setup) steps for creation club content
+* Take a brief look at the [gameplay guide](GAMEPLAY.md) for info on gameplay changes
+* Make sure you have done the [post-install steps](https://github.com/Guitarninja2/septimus/blob/main/CONFIGURATION.md#creation-club-setup) for creation club content
+* Choose the ENB Preset you want (if you want one) from the [enb configuration](https://github.com/Guitarninja2/septimus/blob/main/CONFIGURATION.md#enb-presets) page
 
 # Starting
 When you first launch the game, unless it has been disabled, Skyrim Unbound reborn will perform startup tasks. You can configure it in the MCM to change starting gear. Press ENTER to begin character creation.
