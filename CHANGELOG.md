@@ -14,6 +14,9 @@
 
 # Changelog
 
+## Version 1.10.2
++ Added JK's Haelga's Bunkhouse
+
 ## Version 1.10.1
 + Added Face Discoloration Fix (There are some side-effects but it's worth it imo)
 + Added Vanilla Hair Replacer + Custom Patch (Honestly the vanilla hairs are so bad it's necessary lol)
