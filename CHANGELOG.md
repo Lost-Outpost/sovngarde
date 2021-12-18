@@ -21,6 +21,7 @@
 + Added Forgotten City - No Note Narration (Muh immersion)
 + Added JK's Cities and Towns Lite (Custom LE Port)
 + Added Wares of Wyrmstooth (Move Wares of Tamriel boat to Wyrmstooth)
++ Fixed Bright Snow Road Rocks (Using amidian road rocks now)
 
 ## Version 1.10.1
 + Added Face Discoloration Fix (There are some side-effects but it's worth it imo)
