@@ -21,6 +21,8 @@
 + Added Forgotten City - No Note Narration (Muh immersion)
 + Added JK's Cities and Towns Lite (Custom LE Port)
 + Added Wares of Wyrmstooth (Move Wares of Tamriel boat to Wyrmstooth)
++ Updated Tools of Kagrenac
++ Removed JS Emissive Eyes (Not compatible with immersive creatures, maybe later)
 + Fixed Bright Snow Road Rocks (Using aMidianborn road rocks now)
 + Fixed Crash near Falkreath caused by some broken assets
 
