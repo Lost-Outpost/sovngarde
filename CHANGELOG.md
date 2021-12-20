@@ -14,7 +14,7 @@
 
 # Changelog
 
-## Version 1.10.3
+## Version 1.10.3 [Unreleased]
 + Fixed Issue with Vigilant not starting (Made Custom Vigilant Delay Patch)
 
 ## Version 1.10.2
