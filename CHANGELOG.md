@@ -14,6 +14,9 @@
 
 # Changelog
 
+## Version 1.10.3
++ Fixed Issue with Vigilant not starting (Made Custom Vigilant Delay Patch)
+
 ## Version 1.10.2
 + Added JK's Haelga's Bunkhouse
 + Added Helgen Reborn Immersive Start (By Day7 and I :D)
