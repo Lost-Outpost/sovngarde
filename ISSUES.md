@@ -22,7 +22,7 @@ Cannot complete _Joining the Legion_ quest in [Helgen Reborn](https://www.nexusm
 
 ### Screenshot
 
-<img src="images/issue-0001-screenshot-a.jpg"/>
+<img src="https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/issue-0001-screenshot-A.jpg"/>
 
 ### Solution
 
