@@ -20,10 +20,6 @@
 
 Cannot complete _Joining the Legion_ quest in [Helgen Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/5673) due to a floating quest marker in Fort Hraggstad Prison.
 
-### Screenshot
-
-<img src="images/issue-0001-screenshot-a.jpg"/>
-
 ### Solution
 
 Use the Skyrim console to manually advance to the next quest stage:
