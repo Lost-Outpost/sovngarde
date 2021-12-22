@@ -22,11 +22,11 @@ Cannot complete _Joining the Legion_ quest in [Helgen Reborn](https://www.nexusm
 
 ### Screenshot
 
-<img src="images/issue-0001-screenshot-a"/>
+<img src="images/issue-0001-screenshot-a.jpg"/>
 
 ### Solution
 
-Follow these steps to use the Skyrim console to manually advance to the next quest stage:
+Use the Skyrim console to manually advance to the next quest stage:
 
 - Open the Skyrim console by pressing the <code>~</code> key
 - Enter this command in the console <code>setstage CW01A 100</code> and press the <code>enter</code> key
