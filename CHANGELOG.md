@@ -33,6 +33,8 @@
 + Fixed Several CRP issues
 
 ## Version 2.0.0 [Beta 1]
+This update is not to be understated. It is a massive overhaul of Septimus. The goal is to create a better and lighter foundation to build on and for me to be fully aware of everthing in the list. It is an opportunity to consider everything in it and remove everything that does not belong. It also gives me an opporunity to provide a good first time player experience.
+
 + This is a complete rebuild based on Legends of the Frost
 + See the modlist [here](https://loadorderlibrary.com/lists/septimus). Most major mods are still there.
 + I will continue to post changelogs here as the beta progresses
