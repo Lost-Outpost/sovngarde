@@ -18,6 +18,8 @@
 + Added Better Skyui config
 + Added Nordic Carved Armor
 + Added Volkihar Knight Armor
++ Added Remember Lockpick Angles
++ Updated Handpicked Tamrielic Landscape Textures
 + Fixed Creation Club Backpack Gold Values
 + Updated Pause on loading screens
 
