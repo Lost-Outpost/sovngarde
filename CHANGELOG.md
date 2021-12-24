@@ -16,6 +16,7 @@
 
 ## Version 2.0.0 [Beta 3]
 + Added Improved College Entry - Questline Tweaks
++ Added Performance Grass Textures Option
 + Added Better Skyui config
 + Added Nordic Carved Armor
 + Added Volkihar Knight Armor
