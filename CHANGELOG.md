@@ -14,8 +14,10 @@
 
 # Changelog
 
-## Version 1.10.3 [Unreleased]
-+ Fixed Issue with Vigilant not starting (Made Custom Vigilant Delay Patch)
+## Version 2.0.0 [Beta 1]
++ This is a complete rebuild based on Legends of the Frost
++ See the modlist [here](https://loadorderlibrary.com/lists/septimus). Most major mods are still there.
++ I will continue to post changelogs here as the beta progresses
 
 ## Version 1.10.2
 + Added JK's Haelga's Bunkhouse
