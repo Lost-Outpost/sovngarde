@@ -14,6 +14,22 @@
 
 # Changelog
 
+## Version 2.0.0 [Beta 3]
++ Added Better Skyui config
++ Added Nordic Carved Armor
++ Added Volkihar Knight Armor
++ Fixed Creation Club Backpack Gold Values
++ Updated Pause on loading screens
+
+## Version 2.0.0 [Beta 2]
++ Added Custom Trade & Barter Config
++ Added Skyrim's Got Talent
++ Added Survival Control Panel
++ Added Survival Mode Patches for Winter is Coming and Cloaks of Skyrim
++ Replaced Water Mod with Realistic Water Two (It's just too good)
++ Replaced Veydosebrom Regions with Verdant Grass
++ Fixed Several CRP issues
+
 ## Version 2.0.0 [Beta 1]
 + This is a complete rebuild based on Legends of the Frost
 + See the modlist [here](https://loadorderlibrary.com/lists/septimus). Most major mods are still there.
