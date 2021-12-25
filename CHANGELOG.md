@@ -14,6 +14,10 @@
 
 # Changelog
 
+## Version 2.0.0 [Beta 4]
++ Replaced Handpicked Landsacpes
++ Removed Forceful Tongue (Shout Breaking Bugs)
+
 ## Version 2.0.0 [Beta 3]
 + Added Improved College Entry - Questline Tweaks
 + Added Performance Grass Textures Option
