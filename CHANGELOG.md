@@ -21,6 +21,7 @@
 + Added Bright waterfall fix for ENB
 + Added Cathedralist Fantasy Preset
 + Updated Unofficial Skyrim Special Edition Patch (AE Version)
++ Fixed Bandolier Box Pouches price
 + Removed Serio's ENB Preset
 
 ## Version 2.0.0 [Beta 5]
