@@ -14,6 +14,25 @@
 
 # Changelog
 
+## Version 2.0.0 [Beta 6]
++ Added Pebble Remover
++ Added JS Dragon Claws AE
++ Added Cathedral NPC Overhaul
++ Added Bright waterfall fix for ENB
++ Added Cathedralist Fantasy Preset
++ Updated Unofficial Skyrim Special Edition Patch (AE Version)
++ Removed Serio's ENB Preset
+
+## Version 2.0.0 [Beta 5]
++ Added Stay at New Gnisis Cornerclub
++ Added Ish's Respec Mod
++ Added No Crime Teleport
++ Added Skyrim's Paraglider
++ Added Spiders of Solstheim Mesh Fixes
++ Added Auto Toggle Menu Screenshot
++ Updated Hand to Hand and added trainers module
++ Fixed Stormcloak leveled list issues
+
 ## Version 2.0.0 [Beta 4]
 + Replaced Handpicked Landsacpes
 + Removed Forceful Tongue (Shout Breaking Bugs)
