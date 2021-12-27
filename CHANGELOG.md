@@ -19,7 +19,7 @@
 + Added Aquatic Jungle + Depths Patch
 + Added Sus Intro Video (Optional)
 
-## Version 2.0.0 [Unreleased Beta 7]
+## Version 2.0.0 [Beta 7]
 + Added Simple Smithing Overhaul Simplified
 + Added Custom Armor Clothing Extension Replacer Edit
 + Added Optional Helgen Reborn 
