@@ -160,6 +160,9 @@ Overhauls the underwater environment and adds content to the sea of Ghosts.
 ### [Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849)
 A massive quest mod with a Dark story for Vigilants of Stendarr. This mod includes a lot of unique armor sets, weapons, jewelry, creatures and more.
 
+### [Beyond Reach](https://www.nexusmods.com/skyrimspecialedition/mods/3008)
+Beyond Reach is a DLC sized mod that takes place in the east of High Rock, commonly known as The Reach. You will experience a story of intrigue, conspiracies sowed by both men and gods, and the struggles of those in the most squalid situations.
+
 ## New Homes
 
 ### [Blackthorn](https://www.nexusmods.com/skyrimspecialedition/mods/2242)
