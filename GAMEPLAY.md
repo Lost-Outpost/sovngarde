@@ -92,8 +92,11 @@ Animated armory introduces new weapons and animations to existing ones. Most are
 ### [Heavy Armory](https://www.nexusmods.com/skyrimspecialedition/mods/6308)
 Heavy armory introduces new weapons similar to animated armory with new animations to bring variety to the world.
 
-### [Cloaks and Capes](https://www.nexusmods.com/skyrimspecialedition/mods/2019)
-Cloaks and capes introduces neat capes you can wear for style. Some are even warm enough to shield you from the colder areas of skyrim.
+### [Cloaks of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/6369)
+Adds almost 100 new styles of cloak to the world of Skyrim, via crafting, levelled-lists, and static loot. They are lore-friendly and enchantable, and more are being added with every update. The aim of this mod is to provide some variety and flavour to the world, as well as the chance to wear a stylish cloak and quite literally keep the cold out.
+
+### [Winter Is Coming SSE - Cloaks](https://www.nexusmods.com/skyrimspecialedition/mods/4933)
+Winter Is Coming SSE - Cloaks adds lore friendly cloaks and hoods into the world through the use of level lists and crafting, this will add more diversity to the game while keeping the "feel" of Skyrim.
 
 ### [Bandolier](https://www.nexusmods.com/skyrimspecialedition/mods/2417)
 Bandolier introduces bags and pouches you can wear to kit out your character in a stylish way. They can be found in the world and some may also be crafted.
@@ -102,9 +105,6 @@ Bandolier introduces bags and pouches you can wear to kit out your character in 
 Common clothes and armors adds new armor variants and clothes around skyrim for more diversity.
 
 ## New Quests
-
-### [Helgen Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/5673)
-Helgen Reborn is a fully voiced adventure with over 20 superb voice actors. As you help rebuild the town you'll reunite two old friends, uncover an underground slavery ring, battle in an arena and many other adventures!
 
 ### [Beyond Skyrim - Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917)
 Beyond Skyrim - Bruma introduces a completely new DLC-sized area south of Skyrim with many new quests and encounters to be had.
@@ -144,9 +144,6 @@ Pit Fighter contains an all new faction to join, complete with NPCs, progression
 
 ### [Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/4155)
 Clockwork is a quest mod involving a castle high in the Velothi Mountains, lost to the world for over a hundred years. Once found, you may call Clockwork Castle home... but if you want to leave, you'll need to discover how to escape.
-
-### [The Brotherhood Of Old](https://www.nexusmods.com/skyrimspecialedition/mods/15322)
-The Brotherhood of Old is a quest mod for Skyrim, taking place after the final quest in the original Dark Brotherhood questline. This 24 quest epic will take you all across the land of Skyrim, as you try and rebuild the Brotherhood and strengthen it against future attacks.
 
 ### [The Tools of Kagrenac](https://www.nexusmods.com/skyrimspecialedition/mods/14168)
 Go on a quest to recover the legendary Tools of Kagrenac. Encounter new allies and enemies, explore sprawling dungeons, and add powerful new artifacts and spells to your arsenal in this fully-voiced quest mod!
@@ -195,9 +192,6 @@ She is a traditionalist Wood Elf archer, will follow you, do your bidding, and o
 ### [Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194)
 NPCs with more extensive dialogue and role play choices. Over 250+ fully voiced NPCs, 25+ followers, 15+ marriage NPCs, and 50+ quests.
 
-### [Inconsequential NPCs](https://www.nexusmods.com/skyrim/mods/36334/)
-Adds NPCs and dialogue scenes to Skyrim to enhance the social ambiance of the game, all voiced. Aims to be unintrusive in implementation to maximize compatibility with large load orders.
-
 ### [Merlin The Corgi](https://www.nexusmods.com/skyrimspecialedition/mods/56433)
 Adds a magical corgi companion to join you on your adventures!
 
@@ -212,3 +206,6 @@ Arissa is an Imperial with an independent, rebellious spirit and a gift for maki
 
 ### [Citizens of Tamriel](https://www.nexusmods.com/skyrimspecialedition/mods/29069)
 A tribute to old-school RPGs that adds some much-needed life to Skyrim's NPCs. Features all new, fully-voiced characters, unique followers, branching dialogue and more!
+
+### [Kaidan 2](https://www.nexusmods.com/skyrimspecialedition/mods/19075)
+Rebuilt and expanded, this romantic follower features over 1200 lines of dialogue, custom home, and mini quests.
