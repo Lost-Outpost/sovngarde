@@ -14,7 +14,7 @@
 
 # Changelog
 
-## Version 2.0.0 [Beta 6]
+## Version 2.0.0 [Unreleased Beta 6]
 + Added Pebble Remover
 + Added JS Dragon Claws AE
 + Added Cathedral NPC Overhaul
