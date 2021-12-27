@@ -14,6 +14,11 @@
 
 # Changelog
 
+## Version 2.0.0 [Unreleased Beta 8]
++ Added Septimus 2 Main Menu Replacer
++ Added Aquatic Jungle + Depths Patch
++ Added Sus Intro Video (Optional)
+
 ## Version 2.0.0 [Unreleased Beta 7]
 + Added Simple Smithing Overhaul Simplified
 + Added Custom Armor Clothing Extension Replacer Edit
