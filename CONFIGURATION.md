@@ -38,7 +38,8 @@ In order to use Creation Club content, Mod Organizer 2 will need a copy of the c
 + If it is not all activated and sent to the top, shift click to select all, right click and hit enable selected, and then right click and hit send to -> top
 
 ## Alternate Start
-Septimus is configured with optional alternate start mods which you can enable. If you do, be sure to move them in the right panel just above any patches which start with Septimus - as seen in the screenshot below.
++ Septimus is configured with optional alternate start mods which you can enable. If you do, be sure to move them in the right panel just above any patches which start with Septimus - as seen in the screenshot below.
++ If you enable Live another life, be sure the esp files for it are loaded in the exact order shown in the screenshot below or it may not function properly
 
 ![Exe List](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/alt_start.png)
 
