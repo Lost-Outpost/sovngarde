@@ -14,6 +14,13 @@
 
 # Changelog
 
+## Version 2.0.0 [Beta 7]
++ Added Simple Smithing Overhaul Simplified
++ Added Custom Armor Clothing Extension Replacer Edit
++ Added Optional Helgen Reborn 
++ Removed WACCF (Goodbye)
++ Fixed More Leveled list issues
+
 ## Version 2.0.0 [Beta 6]
 + Added Pebble Remover
 + Added JS Dragon Claws AE
