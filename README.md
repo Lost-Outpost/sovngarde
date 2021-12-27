@@ -71,9 +71,7 @@ I doubt you need to do this since you likely already have this installed. This p
 
 Please ensure you have .NET v5.0 installed. The game will not launch if you do not have it installed. Download the **desktop app x64 AND console app x64 installers** from Microsoft [here](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
 
-```
-(Insert Carl's .NET 5.0 installation screenshot here - should be microsoft-net-5-0-installation.png in repo)
-```
+![Dot Net](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/microsoft-net-5-0-installation.png)
 
 ### Steam Library
 
