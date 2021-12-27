@@ -16,6 +16,7 @@
 
 - [Mod Organizer 2 Profiles](#mod-organizer-2-profiles)
 - [Creation Club Setup](#creation-club-setup)
+- [Alternate Start](#alternate-start)
 - [Optional Mods](#optional-mods)
   - [Widescreen](#widescreen)
 - [Mod Configuration](#mod-configuration)
@@ -35,6 +36,11 @@ In order to use Creation Club content, Mod Organizer 2 will need a copy of the c
 + Copy all files from Skyrim Special Edition/data beginning with "cc" (example: ccvsvsse004-beafarmer.bsa) into the opened folder
 + Ensure that all creation club content is activated in the "Plugins" tab on the right of mod organizer 2 and moved to the top of the load order
 + If it is not all activated and sent to the top, shift click to select all, right click and hit enable selected, and then right click and hit send to -> top
+
+## Alternate Start
+Septimus is configured with optional alternate start mods which you can enable. If you do, be sure to move them in the right panel just above any patches which start with Septimus - as seen in the screenshot below.
+
+![Exe List](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/alt_start.png)
 
 ## Optional Mods
 
