@@ -38,19 +38,26 @@
 - [Issues](#issues)
 
 # Preamble
-Septimus is an extended version of The Phoenix Flavor with lots of new items, quests, visual tweaks and optional survival elements all built on top of the fantastic base that Phoenix has created. It also has full Anniversary Edition support including all the new creation club content for those eager to get right into the new content.
+
+Septimus is an extended version of [The Legends of the Frost](https://thephoenixflavour.com/lotf/) with lots of carefully chosen new gear, spells, quests, visual tweaks, optional survival elements, and full creation club support.
+
+Septimus works with both Skyrim: Special Edition and Skyrim: Anniversary Edition. The full Anniversary Edition support includes all the new creation club content for those eager to get right into the new content.
 
 ### Gameplay
-Septimus seeks to modify Skyrim in the least intrusive possible way attempting to keep what makes the vanilla game great, while introducing new and fun things to find and do. You can find a summary of all [Gameplay Changes](GAMEPLAY.md) on a dedicated page [here](GAMEPLAY.md). 
+
+Septimus seeks to modify Skyrim in the least intrusive way to keep what makes the vanilla game great, while introducing new and fun things to find and do. You can find a summary of all changes on the [Gameplay Changes](GAMEPLAY.md) page.
 
 ### Community
-Support is offered in [TPF Discord](https://discord.gg/tpf) server's #sep-support channel and in the Bugs section of this page according to the Bugs section of the list's documentation. If you have any questions following the add-on's instructions or if you find a typo or any other mistake in the documentation, feel free to report in TPF Discord server's #sep-support channel.
+
+Support is offered in [TPF Discord](https://discord.gg/tpf) server's [#sep-support](https://discord.com/channels/458216677792808961/917610919356399616) channel and in the [Issues](https://github.com/Guitarninja2/septimus/issues) section of the Septimus GitHub. If you have any questions following the add-on's instructions or if you find a typo or any other mistake in the documentation, feel free to report in TPF Discord server's #sep-support channel.
 
 ### List Contents
+
 You can browse the full list contents [here](https://loadorderlibrary.com/lists/septimus) if you want to know exactly what you're getting.
 
 # Installation
-Installation is handled through Wabbajack with a one-click install of the modlist. There are some pre-installation steps which must be followed for first time users so please pay attention to those.
+
+Installation is handled through [Wabbajack](https://www.wabbajack.org/#/) with a one-click install of the modlist. There are some pre-installation steps which must be followed for first time users so please pay attention to those.
 
 ## Pre-Installation
 
@@ -62,19 +69,27 @@ I doubt you need to do this since you likely already have this installed. This p
 
 ### Installing Microsoft .NET 5.0
 
-Please ensure you have .NET v5.0 installed. Download the **desktop app installer and console app x64** from Microsoft here https://dotnet.microsoft.com/download/dotnet/5.0/runtime.
+Please ensure you have .NET v5.0 installed. The game will not launch if you do not have it installed. Download the **desktop app x64 AND console app x64 installers** from Microsoft [here](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
+
+```
+(Insert Carl's .NET 5.0 installation screenshot here - should be microsoft-net-5-0-installation.png in repo)
+```
 
 ### Steam Library
 
 If you have your Steam library in Program Files, read [this](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) to put it somewhere else.
 I will not provide support to people with Skyrim in their Program Files folder.
-Locations like Documents, Downloads, Desktop, or OneDrive are NOT fine. The best location would be ``C:\SteamLibrary`` if you have a single drive, or whichever Drive Letter you have on your main Games drive. Such a location is also called the "root of the drive."
+Locations like Documents, Downloads, Desktop, or OneDrive are NOT fine. The best location would be `C:\SteamLibrary` if you have a single drive, or whichever Drive Letter you have on your main Games drive. Such a location is also called the "root of the drive."
 
 ### Change Steam's Update Behavior
 
 SSE is still being updated by Bethesda (they only add Creation Club content). Whenever the game updates, the entire modding community goes silent for the next one or two weeks because some mods need to be updated to the latest game runtime version.
 
 To ensure that Steam does not automatically update the game for you, head over to the Properties window, navigate to the _Updates_ tab and change _Automatic updates_ to _Only update this game when I launch it_. You should also disable the Steam Cloud while you're at it.
+
+```
+(Insert screenshot of Steam settings here)
+```
 
 ### Set the Game language to English
 
@@ -84,21 +99,27 @@ Open the Steam Properties window, navigate to the _Language_ tab and select _Eng
 
 ### Clean Skyrim
 
-I highly recommend uninstalling the game through Steam, deleting the game folder, and reinstalling it. You should also clean up the `Skyrim Special Edition` folder in `Documents/My Games/` by deleting the contents in it. 
+I highly recommend uninstalling the game through Steam, deleting the game folder, and reinstalling it. You should also clean up the `Skyrim Special Edition` folder in `Documents/My Games/` by deleting the contents in it.
 
 [THIS](https://imgur.com/a/1dySo8q) is approximately what a clean Skyrim install should look like after shredding or cleaning it manually.
 
 ### Skyrim: Anniversary Edition (AE)
 
-This list fully supports anniversary edition and all creation club content. Make sure your game is fully up to date in steam. It will automatically be patched by Wabbajack to work out of the box, but requires the latest game files.
+This list fully supports anniversary edition and all creation club content. Make sure your game is fully up to date in Steam. It will automatically be patched by Wabbajack to work out of the box, but requires the latest game files.
+
+To use the full AE content, make sure you have done the [post-install steps](https://github.com/Guitarninja2/septimus/blob/main/CONFIGURATION.md#creation-club-setup) for creation club content.
 
 ## Start Skyrim
 
-After you have done everything above and got a clean SSE installation ready, start the Launcher and open the _Options_ menu.
+After you have done everything above and got a clean SSE or AE installation ready, start the Launcher and open the _Options_ menu.
 
 1. Leave the quality to what Skyrim sets it to, but you can lower it if you wish.
 2. Set the _Aspect Ratio_ and _Resolution_ to your monitor's native values
 3. Check _Windowed Mode_ and _Borderless_
+
+```
+insert screenshot of recommended skyrim settings
+```
 
 Start the game and exit once you're in the main menu.
 
@@ -126,6 +147,12 @@ The download and installation process can take a little while (an hour or more) 
 
 There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off so you lose no progress.
 
+```
+Insert screenshot of Wabbajack failing to download a mod with retry highlighted
+```
+
+Seriously, simply retrying the Wabbajack download fixes most problems.
+
 **Could not download x**:
 
 If a mod updated and the old files got deleted, it is impossible to download them. In this case, just wait until I update the Modlist.
@@ -142,23 +169,45 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 
 ### Stock Game
 
-Unlike regular Skyrim installation or some other Wabbajack Lists, Septimus comes with the **Stock Game Feature**, basically, it's a copy of a Skyrim installation located within your installation folder, cleaned and with everything but an ENB in it. It allows you to not worry about conflicting files with Vortex or other Wabbajack lists. Thus, after Wabbajack completes, you need not to move anything to your regular Skyrim Installation.
+Unlike regular Skyrim installation or some other Wabbajack Lists, Septimus comes with the **Stock Game Feature**.
+
+Basically, the **Stock Game Feature** is a copy of a Skyrim installation located within your installation folder, cleaned and with everything but an ENB in it. It allows you to not worry about conflicting files with Vortex or other Wabbajack lists. Thus, after you install Septimus using Wabbajack, you need not to move anything to your regular Skyrim installation folder.
 
 There are more steps though, so please keep following the next steps to setup the game optimally.
 
 ### Pagefile in prevention of memory crashes
 
 Bigger Skyrim modlists need a lot of memory, and when there is not enough available it may fail allocating more. To fix this, you'll want to have a bigger pagefile.
-A pagefile is a file on your disk Windows will use when there is not enough RAM available.
-Never disable the pagefile - this may lead to various issues on your system, such as this Skyrim crash.
+
+A pagefile is a file on your disk Windows will use when there is not enough RAM available. Never disable the pagefile - this may lead to various issues on your system, such as a Skyrim memory crash.
 
 If you've never touched the pagefile, perform the following steps to prevent from memory crashes:
+
 1. Press Windows + R on your keyboard and enter `sysdm.cpl ,3`
 2. Under the Performance section, press 'Settings'
+
+```
+insert screenshot
+```
+
 3. Go to the Advanced tab at the top, and at the Virtual memory section press 'Change...'
+
+```
+insert screenshot
+```
+
 4. Disable 'Automatically manage paging file size for all drives'
+
+```
+insert screenshot
+```
+
 5. If you have more than one drive, try enabling it for at least one more drive as a backup (make sure it has a decent bit of free space, like 15GB). Set the size to 'System managed size'.
-Otherwise, set a custom size for the drive it's currently on and increase the maximum size to be at least 20GB.
+   Otherwise, set a custom size for the drive it's currently on and increase the maximum size to be at least 20GB.
+
+```
+insert screenshot. Note, lots of screenshots in this section because people seem to miss these steps
+```
 
 # Updating
 
@@ -166,18 +215,23 @@ If this Modlist receives an update, please check the [changelog](CHANGELOG.md) b
 
 **Wabbajack will delete all files that are not part of the Modlist when updating!**
 
-This means that any additional mods you have installed on top of the Modlist will be deleted. Your saves will be kept, but please check each update changelog to see if the update is save compatible.  Your downloads folder will not be touched!
+This means that any additional mods you have installed on top of the Modlist will be deleted. Your saves will be kept, but please check each update changelog to see if the update is save compatible. Your downloads folder will not be touched!
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
 
 # Before You Start
+
 Check the following items before starting the game (they are easy to miss)
-* Take a brief look at the [gameplay guide](GAMEPLAY.md) for info on gameplay changes
-* Make sure you have done the [post-install steps](https://github.com/Guitarninja2/septimus/blob/main/CONFIGURATION.md#creation-club-setup) for creation club content
-* Choose the ENB Preset you want (if you want one) from the [enb configuration](https://github.com/Guitarninja2/septimus/blob/main/CONFIGURATION.md#enb-presets) page
+
+- Take a brief look at the [gameplay guide](GAMEPLAY.md) for info on gameplay changes
+- If you are using a wide-screen monitor, make sure you have done the [post-install steps for wide-screens](https://github.com/Guitarninja2/septimus/blob/main/CONFIGURATION.md#widescreen)
+- Make sure you have done the [post-install steps for creation club content](https://github.com/Guitarninja2/septimus/blob/main/CONFIGURATION.md#creation-club-setup)
+- Choose the ENB Preset you want (if you want one) from the [enb configuration](https://github.com/Guitarninja2/septimus/blob/main/CONFIGURATION.md#enb-presets) page
 
 # Configuration
+
 If you wish to further customize by changing the ENB preset, adding in creation club content, changing dodge keys, or swapping optional mods you can visit the [Configuration](CONFIGURATION.md) page for more info.
 
 # Issues
-Find an [issue](https://github.com/Guitarninja2/septimus/issues)? Feel free to report it [here](https://github.com/Guitarninja2/septimus/issues) with as much info as you can (screenshots are great). 
+
+Find an [issue](https://github.com/Guitarninja2/septimus/issues)? Feel free to report it [here](https://github.com/Guitarninja2/septimus/issues) with as much info as you can (screenshots are great).
