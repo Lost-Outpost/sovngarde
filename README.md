@@ -36,6 +36,7 @@
 - [Before You Start](#before-you-start)
 - [Configuration](#configuration)
 - [Issues](#issues)
+- [Special Thanks](#special-thanks)
 
 # Preamble
 
@@ -233,3 +234,29 @@ If you wish to further customize by changing the ENB preset, adding in creation 
 # Issues
 
 Find an [issue](https://github.com/Guitarninja2/septimus/issues)? Feel free to report it [here](https://github.com/Guitarninja2/septimus/issues) with as much info as you can (screenshots are great).
+
+# Special Thanks
+I want to extend a special thanks to the following people for helping make this list possible.
+
+## The Phoenix Flavour
++ Phoenix - Creator of LOTF and TPF mod guides which I have drawn from heavily to create this list
++ Slim - Being a cool dude and helping out with some bugs
++ Slidikins - Also helping me fix some issues
++ Many other very helpful and excellent modders in the TPF discord
+
+## Septimus Team
++ Webmetz - Came outa nowhere and has been amazing in helping me patch various mods for balance and integration
++ jns - Lots of testing and graphics feedback :D
++ Gyzarus - Extremely helpful modlist tester
++ Rsrogers - Tons of documentation help!
++ Calcyon - Extremely helpful modlist tester
++ Durgenage - Extremely helpful modlist tester
+
+## Community Members
++ Ashensakar - Level 99 Advanced Screenarcher and has created both modlist images
++ Day7 - Help with bugs and creating some cool integrations
++ Code - One of the first long-term list players and has provided great feedback
++ Aphil - Another of the first long-term list players and has provided great feedback
++ Ghastly - Open World Loot wizard and helpful guy
++ Naveen - Modlist testing and feedback :D
++ Doomsdaydan - Early helper with great feedback
