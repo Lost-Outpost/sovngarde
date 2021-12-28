@@ -13,8 +13,10 @@
 ---
 
 # Changelog
+## Version 2.0.0 [Unreleased Beta 10]
++ Removed Here There Be Monsters (WAY too unbalanced)
 
-## Version 2.0.0 [Unreleased Beta 9]
+## Version 2.0.0 [Beta 9]
 + Added ASLAL Custom Balance Patch
 + Added Smoothcam Modern Preset
 + Added Whitereun Watchtower Doesn't Start Broken
