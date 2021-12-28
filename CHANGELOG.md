@@ -16,6 +16,7 @@
 
 ## Version 2.0.0 [Unreleased Beta 9]
 + Added ASLAL Custom Balance Patch
++ Added Whitereun Watchtower Doesn't Start Broken
 + Added NFF Custom Patch (No more follower token exploit)
 + Added Skyrim's Paraglider Spell Cost
 + Added Mysticism Spells for NPCs
@@ -23,6 +24,7 @@
 + Removed Prison Cell Tweaks (Also causing crashes and some balance issues)
 + Fixed Camilla relationship bug
 + Fixed Arissa's hair being playable (and broken)
++ Fixed NoGrassInCave issues
 
 ## Version 2.0.0 [Beta 8]
 + Added Septimus 2 Main Menu Replacer
