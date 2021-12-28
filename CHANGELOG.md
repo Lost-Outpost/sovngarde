@@ -14,6 +14,7 @@
 
 # Changelog
 ## Version 2.0.0 [Unreleased Beta 10]
++ Updated Septimus - Alternate Start - Live Another Life Tweaks
 + Removed Here There Be Monsters (WAY too unbalanced)
 
 ## Version 2.0.0 [Beta 9]
