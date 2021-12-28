@@ -36,17 +36,17 @@ Septimus includes three alternative start mods, and you can optionally use MO2 t
 Insert screenshot of MO2 ALTERNATE START section with Ralof or Hadvar enabled
 ```
 
-### [Random Alternate Start Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/8328)
+### [Alternate Start - Live Another Life](https://www.nexusmods.com/skyrimspecialedition/mods/272)
 
-Be anyone you want to be. Choose from 21 classic Oblivion/Morrowind loadouts then get randomly thrown somewhere in the vast land of Skyrim.
+Live Another Life provides an alternative means to start the game for those who do not wish to go through the lengthy intro sequence at Helgen.
 
 ### [Ralof or Hadvar](https://www.nexusmods.com/skyrimspecialedition/mods/14553)
 
 Simply skips the carriage ride and opening scene to avoid any complications and get you into the game right away.
 
-### [Alternate Start - Live Another Life](https://www.nexusmods.com/skyrimspecialedition/mods/272)
+### [Random Alternate Start Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/8328)
 
-Live Another Life provides an alternative means to start the game for those who do not wish to go through the lengthy intro sequence at Helgen.
+Be anyone you want to be. Choose from 21 classic Oblivion/Morrowind loadouts then get randomly thrown somewhere in the vast land of Skyrim.
 
 ## Quality of Life
 
@@ -57,7 +57,7 @@ Overhauls the third person gameplay similarly to modern action RPGs, entirely th
 - Middle mouse to lock on to enemies
 - Mouse wheel to switch targets
 
-### [Smoothcam](https://www.nexusmods.com/skyrimspecialedition/mods/41252)
+### [SmoothCam](https://www.nexusmods.com/skyrimspecialedition/mods/41252)
 
 SmoothCam is a highly configurable third-person camera, with smooth frame-interpolation and a raycasting crosshair to help you aim.
 
@@ -118,6 +118,14 @@ TK Dodge introduces a lightweight dodge mechanic where you can dodge out of the 
 
 Adds a paraglider into the world similar to that in breath of the wild. You need to find it in the world to use it. Uses stamina while flying to be careful!
 
+### [Nether's Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/55653)
+
+Nether's Follower Framework is a multi-follower system that is light on game resources and allows for up to 10 companions at one time. It provides a wealth of additional features, including immersion and quality-of-life functions to allow you to adventure with a small team of characters.
+
+### [Honed Metal](https://www.nexusmods.com/skyrimspecialedition/mods/51254)
+
+Honed Metal is a great mod that allows you to purchase weapons, armor, and some other items that you can't craft yourself. This is particularly useful if you play on higher difficulties or use other mods that increase difficulty indirectly even when you're at lower levels.
+
 ## New Gear and Equipment
 
 ### [Animated Armory](https://www.nexusmods.com/skyrimspecialedition/mods/51100)
@@ -154,132 +162,80 @@ Winter Is Coming SSE - Cloaks adds lore friendly cloaks and hoods into the world
 
 ## New Quests
 
-Septimus includes lots of carefully chosen and balanced quests. While many of the quests could be completed at earlier levels, the recommended levels describe a natural progression through Septimus content.
+Septimus includes lots of carefully chosen, integrated, and balanced quests. While many of these quests could be completed at earlier levels, the recommended levels describe a natural progression through Septimus content.
 
 Please provide feedback via the [TPF Discord](https://discord.gg/tpf) #sep-discussions channel if any of the recommended levels seem off.
 
-**Recommended Level: All**
+### Recommended Level: All
 
-### [Aethernautics- A Space Travel Mod](https://www.nexusmods.com/skyrimspecialedition/mods/436?)
+- [Aethernautics- A Space Travel Mod](https://www.nexusmods.com/skyrimspecialedition/mods/436?) - The classic spaceship mod returns! New weapons, a new dungeon, and a spaceship await!
 
-The classic spaceship mod returns! New weapons, a new dungeon, and a spaceship await!
+- [Blackreach Railroad](https://www.nexusmods.com/skyrimspecialedition/mods/435) - Reactivate and restore your very own dwemer railroad, with new characters, items, and a fully voiced quest to do so.
 
-### [Blackreach Railroad](https://www.nexusmods.com/skyrimspecialedition/mods/435)
+- [Depths of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/26913) - Overhauls the underwater environment and adds content to the sea of Ghosts
 
-Reactivate and restore your very own dwemer railroad, with new characters, items, and a fully voiced quest to do so.
+- [Dwemer Spectres](https://www.nexusmods.com/skyrimspecialedition/mods/8016) - Your favorite ghost-related dwemer creature mod is back! This adds in the old Dwemer Spectres for Morrowind, complete with multiple types, unique bosses with unique rewards, and stupid hats.
 
-### [Depths of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/26913)
+- [Frozen in Time](https://www.nexusmods.com/skyrimspecialedition/mods/39732) - A quest to reanimate an ancient Snow Elf warrior and help her regain her past.
 
-Overhauls the underwater environment and adds content to the sea of Ghosts
+- [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576) - Find various radiant quests around skyrim to earn some extra gold.
 
-### [Dwemer Spectres](https://www.nexusmods.com/skyrimspecialedition/mods/8016)
+- [Pit Fighter](https://www.nexusmods.com/skyrimspecialedition/mods/22513) - Pit Fighter contains an all new faction to join, complete with NPCs, progression through the ranks, unique rewards and side quests.
 
-Your favorite ghost-related dwemer creature mod is back! This adds in the old Dwemer Spectres for Morrowind, complete with multiple types, unique bosses with unique rewards, and stupid hats.
+### Recommended Level: 10+
 
-### [Frozen in Time](https://www.nexusmods.com/skyrimspecialedition/mods/39732)
+- [Fortune's Tradehouse](https://www.nexusmods.com/skyrimspecialedition/mods/22755) - Help an Argonian cobbler gain access to Fortune’s Tradehouse, a new location added to Markarth with five fully voiced quests for the player to embark on.
 
-A quest to reanimate an ancient Snow Elf warrior and help her regain her past.
+### Recommended Level: 20+
 
-### [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576)
+- [Beyond Skyrim - Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917) - Beyond Skyrim - Bruma introduces a completely new DLC-sized area south of Skyrim with many new quests and encounters to be had. _Recommended Level: 20+._
 
-Find various radiant quests around skyrim to earn some extra gold.
+- [Carved Brink](https://www.nexusmods.com/skyrimspecialedition/mods/24351) - Carved Brink is a large quest modification, from the authors of “Project AHO”. This mod adds to Skyrim: a daedric plan of Peryite - The Pits, and an unknown part of Oblivion - Faceted Stones.
 
-### [Pit Fighter](https://www.nexusmods.com/skyrimspecialedition/mods/22513)
+- [The Lost Wonders of Mzark](https://www.nexusmods.com/skyrimspecialedition/mods/40674) - Lost Wonders of Mzark is a quest/dungeon mod for those who prefer a more puzzle-oriented game. The enemies you encounter within must be disposed of in careful ways, and you'll find more than just fights awaiting you
+  in the depths of Mzarnumez.
 
-Pit Fighter contains an all new faction to join, complete with NPCs, progression through the ranks, unique rewards and side quests.
+- [Moonpath to Elsweyr](https://www.nexusmods.com/skyrimspecialedition/mods/4341) - Explore the mysterious continent of Elsweyr.
 
-**Recommended Level: 10+**
+- [The Tale of Tsatampra Xiros](https://www.nexusmods.com/skyrimspecialedition/mods/36707) - Explore a world contained within the pages of a sorcerous text, and earn the favor of the Daedric Prince Hermaeus Mora.
 
-### [Fortune's Tradehouse](https://www.nexusmods.com/skyrimspecialedition/mods/22755)
+### Recommended Level: 30+
 
-Help an Argonian cobbler gain access to Fortune’s Tradehouse, a new location added to Markarth with five fully voiced quests for the player to embark on.
+- [Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/4155) - Clockwork is a quest mod involving a castle high in the Velothi Mountains, lost to the world for over a hundred years. Once found, you may call Clockwork Castle home... but if you want to leave, you'll need to discover how to escape.
 
-**Recommended Level: 20+**
+- [The Forgotten City](https://www.nexusmods.com/skyrimspecialedition/mods/1179) - The Forgotten City introduces a lost underground Dwemer city inhabitated by unique characters.
 
-### [Beyond Skyrim - Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917)
+- [Here There Be Monsters](https://www.nexusmods.com/skyrimspecialedition/mods/35929) - The Sea of Ghosts, they call it. An emptiness of ice and fog, lifeless and haunted. But the icy depths hide horrors even the Dragonborn has never faced. Legends tell of the beasts that dwell in the deep. Monsters of such immensity, that even the dragons fear them. And now, like the dragons, the monsters have awoken...
 
-Beyond Skyrim - Bruma introduces a completely new DLC-sized area south of Skyrim with many new quests and encounters to be had. _Recommended Level: 20+._
+- [Moon and Star](https://www.nexusmods.com/skyrimspecialedition/mods/4301) - Investigate a mysterious powerful individual in skyrim. There may be more to this individual than it seems.
 
-### [Carved Brink](https://www.nexusmods.com/skyrimspecialedition/mods/24351)
+- [The Tools of Kagrenac](https://www.nexusmods.com/skyrimspecialedition/mods/14168) - Go on a quest to recover the legendary Tools of Kagrenac. Encounter new allies and enemies, explore sprawling dungeons, and add powerful new artifacts and spells to your arsenal in this fully-voiced quest mod!
 
-Carved Brink is a large quest modification, from the authors of “Project AHO”. This mod adds to Skyrim: a daedric plan of Peryite - The Pits, and an unknown part of Oblivion - Faceted Stones.
+- [Undeath Remastered](https://www.nexusmods.com/skyrimspecialedition/mods/6180) - Travel to dark depths and become a powerful Lich.
 
-### [The Lost Wonders of Mzark](https://www.nexusmods.com/skyrimspecialedition/mods/40674)
+- [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565) - Travel to a new DLC-sized island and investigate a powerful dragon for the East Empire Company.
 
-Lost Wonders of Mzark is a quest/dungeon mod for those who prefer a more puzzle-oriented game. The enemies you encounter within must be disposed of in careful ways, and you'll find more than just fights awaiting you
-in the depths of Mzarnumez.
+### Recommended Level: 40+
 
-### [Moonpath to Elsweyr](https://www.nexusmods.com/skyrimspecialedition/mods/4341)
+- [The Wheels of Lul](https://www.nexusmods.com/skyrimspecialedition/mods/748) - Return to Sotha Sil and enter the stranger side of TES lore, as you join the ranks of the mysterious Chronographers in this fully voiced DLC-sized mod that adds over a dozen new quests, multiple new armors and weapons, sprawling dungeons, unique boss fights, and much much more!
 
-Explore the mysterious continent of Elsweyr.
+### Recommended Level: 50+
 
-### [The Tale of Tsatampra Xiros](https://www.nexusmods.com/skyrimspecialedition/mods/36707)
+- [Beyond Reach](https://www.nexusmods.com/skyrimspecialedition/mods/3008) - Beyond Reach is a DLC sized mod that takes place in the east of High Rock, commonly known as The Reach. You will experience a story of intrigue, conspiracies sowed by both men and gods, and the struggles of those in the most squalid situations.
 
-Explore a world contained within the pages of a sorcerous text, and earn the favor of the Daedric Prince Hermaeus Mora.
+- [The Grand Paladin](https://www.nexusmods.com/skyrimspecialedition/mods/46867) - Venture beyond Skyrim, into the mists of the Sea of Ghosts, and uncover the legacy of an ancient Dragonborn order.
 
-**Recommended Level: 30+**
+- [Project AHO](https://www.nexusmods.com/skyrimspecialedition/mods/15996) - Project AHO is a large quest modification, comparable in size to a medium-sized DLC. Designed in the best traditions of Bethesda Game Studios, this mod adds to Skyrim a hidden settlement of Great House Telvanni. Determine its fate for yourself!
 
-### [Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/4155)
+- [Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849) - A massive quest mod with a Dark story for Vigilants of Stendarr. This mod includes a lot of unique armor sets, weapons, jewelry, creatures and more.
 
-Clockwork is a quest mod involving a castle high in the Velothi Mountains, lost to the world for over a hundred years. Once found, you may call Clockwork Castle home... but if you want to leave, you'll need to discover how to escape.
+### Recommended Level: 70+
 
-### [The Forgotten City](https://www.nexusmods.com/skyrimspecialedition/mods/1179)
+- [Darkend](https://www.nexusmods.com/skyrimspecialedition/mods/10423) - Travel to the new island of Pharos, explore detailed environments, fight new enemies and discover an Ancient set of weapons of incredible power.
 
-The Forgotten City introduces a lost underground Dwemer city inhabitated by unique characters.
+## Customized Quest Starting Conditions
 
-### [Here There Be Monsters](https://www.nexusmods.com/skyrimspecialedition/mods/35929)
-
-The Sea of Ghosts, they call it. An emptiness of ice and fog, lifeless and haunted. But the icy depths hide horrors even the Dragonborn has never faced. Legends tell of the beasts that dwell in the deep. Monsters of such immensity, that even the dragons fear them. And now, like the dragons, the monsters have awoken...
-
-### [Moon and Star](https://www.nexusmods.com/skyrimspecialedition/mods/4301)
-
-Investigate a mysterious powerful individual in skyrim. There may be more to this individual than it seems.
-
-### [The Tools of Kagrenac](https://www.nexusmods.com/skyrimspecialedition/mods/14168)
-
-Go on a quest to recover the legendary Tools of Kagrenac. Encounter new allies and enemies, explore sprawling dungeons, and add powerful new artifacts and spells to your arsenal in this fully-voiced quest mod!
-
-### [Undeath Remastered](https://www.nexusmods.com/skyrimspecialedition/mods/6180)
-
-Travel to dark depths and become a powerful Lich.
-
-### [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565)
-
-Travel to a new DLC-sized island and investigate a powerful dragon for the East Empire Company.
-
-**Recommended Level: 40+**
-
-### [The Wheels of Lul](https://www.nexusmods.com/skyrimspecialedition/mods/748)
-
-Return to Sotha Sil and enter the stranger side of TES lore, as you join the ranks of the mysterious Chronographers in this fully voiced DLC-sized mod that adds over a dozen new quests, multiple new armors and weapons, sprawling dungeons, unique boss fights, and much much more!
-
-**Recommended Level: 50+**
-
-### [Beyond Reach](https://www.nexusmods.com/skyrimspecialedition/mods/3008)
-
-Beyond Reach is a DLC sized mod that takes place in the east of High Rock, commonly known as The Reach. You will experience a story of intrigue, conspiracies sowed by both men and gods, and the struggles of those in the most squalid situations.
-
-### [The Grand Paladin](https://www.nexusmods.com/skyrimspecialedition/mods/46867)
-
-Venture beyond Skyrim, into the mists of the Sea of Ghosts, and uncover the legacy of an ancient Dragonborn order.
-
-### [Project AHO](https://www.nexusmods.com/skyrimspecialedition/mods/15996)
-
-Project AHO is a large quest modification, comparable in size to a medium-sized DLC. Designed in the best traditions of Bethesda Game Studios, this mod adds to Skyrim a hidden settlement of Great House Telvanni. Determine its fate for yourself!
-
-### [Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849)
-
-A massive quest mod with a Dark story for Vigilants of Stendarr. This mod includes a lot of unique armor sets, weapons, jewelry, creatures and more.
-
-**Recommended Level: 70+**
-
-### [Darkend](https://www.nexusmods.com/skyrimspecialedition/mods/10423)
-
-Travel to the new island of Pharos, explore detailed environments, fight new enemies and discover an Ancient set of weapons of incredible power.
-
-## Quest Timing
-
-As part of its commitment to balance, Septimus uses [Timing is Everything](https://www.nexusmods.com/skyrimspecialedition/mods/25464) to adjust some quests to start at a later time.
+As part of its commitment to balance, Septimus uses [Timing is Everything](https://www.nexusmods.com/skyrimspecialedition/mods/25464) to adjust starting conditions for some quests.
 
 ```
 insert table with "Timing is Everything" defaults
