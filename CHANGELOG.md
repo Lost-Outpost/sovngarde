@@ -14,7 +14,13 @@
 
 # Changelog
 
-## Version 2.0.0 [Unreleased Beta 8]
+## Version 2.0.0 [Unreleased Beta 9]
++ Added ASLAL Custom Balance Patch
++ Added NFF Custom Patch (No more follower token exploit)
++ Removed Honed Metal + Patches (Causing crashing to desktop)
++ Removed Prison Cell Tweaks (Also causing crashes and some balance issues)
+
+## Version 2.0.0 [Beta 8]
 + Added Septimus 2 Main Menu Replacer
 + Added Aquatic Jungle + Depths Patch
 + Added Sus Intro Video (Optional)
