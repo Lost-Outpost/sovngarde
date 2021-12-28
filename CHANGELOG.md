@@ -16,6 +16,7 @@
 
 ## Version 2.0.0 [Unreleased Beta 9]
 + Added ASLAL Custom Balance Patch
++ Added Smoothcam Modern Preset
 + Added Whitereun Watchtower Doesn't Start Broken
 + Added NFF Custom Patch (No more follower token exploit)
 + Added Skyrim's Paraglider Spell Cost
