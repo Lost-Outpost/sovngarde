@@ -86,9 +86,9 @@ SSE is still being updated by Bethesda (they only add Creation Club content). Wh
 
 To ensure that Steam does not automatically update the game for you, head over to the Properties window, navigate to the _Updates_ tab and change _Automatic updates_ to _Only update this game when I launch it_. You should also disable the Steam Cloud while you're at it.
 
-```
-(Insert screenshot of Steam settings here)
-```
+![Update Settings 1](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/noupdate1.png)
+
+![Update Settings 1](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/noupdate2.png)
 
 ### Set the Game language to English
 
@@ -116,9 +116,7 @@ After you have done everything above and got a clean SSE or AE installation read
 2. Set the _Aspect Ratio_ and _Resolution_ to your monitor's native values
 3. Check _Windowed Mode_ and _Borderless_
 
-```
-insert screenshot of recommended skyrim settings
-```
+![Skyrim Settings](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/steamsettings.png)
 
 Start the game and exit once you're in the main menu.
 
@@ -146,9 +144,7 @@ The download and installation process can take a little while (an hour or more) 
 
 There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off so you lose no progress.
 
-```
-Insert screenshot of Wabbajack failing to download a mod with retry highlighted
-```
+![Install Failed](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/installfailed.png)
 
 Seriously, simply retrying the Wabbajack download fixes most problems.
 
@@ -193,16 +189,14 @@ If you've never touched the pagefile, perform the following steps to prevent fro
 
 4. Disable 'Automatically manage paging file size for all drives'
 
-```
-insert screenshot
-```
+![pagefile settings 3](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/pagefile3.png)
 
 5. If you have more than one drive, try enabling it for at least one more drive as a backup (make sure it has a decent bit of free space, like 15GB). Set the size to 'System managed size'.
    Otherwise, set a custom size for the drive it's currently on and increase the maximum size to be at least 20GB.
 
-```
-insert screenshot. Note, lots of screenshots in this section because people seem to miss these steps
-```
+![pagefile settings 4](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/pagefile4.png)
+
+![pagefile settings 5](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/pagefile5.png)
 
 # Updating
 
