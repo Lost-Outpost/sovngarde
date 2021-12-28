@@ -242,8 +242,6 @@ Please provide feedback via the [TPF Discord](https://discord.gg/tpf) #sep-discu
 
 - [The Forgotten City](https://www.nexusmods.com/skyrimspecialedition/mods/1179) - The Forgotten City introduces a lost underground Dwemer city inhabitated by unique characters.
 
-- [Here There Be Monsters](https://www.nexusmods.com/skyrimspecialedition/mods/35929) - The Sea of Ghosts, they call it. An emptiness of ice and fog, lifeless and haunted. But the icy depths hide horrors even the Dragonborn has never faced. Legends tell of the beasts that dwell in the deep. Monsters of such immensity, that even the dragons fear them. And now, like the dragons, the monsters have awoken...
-
 - [Moon and Star](https://www.nexusmods.com/skyrimspecialedition/mods/4301) - Investigate a mysterious powerful individual in skyrim. There may be more to this individual than it seems.
 
 - [The Tools of Kagrenac](https://www.nexusmods.com/skyrimspecialedition/mods/14168) - Go on a quest to recover the legendary Tools of Kagrenac. Encounter new allies and enemies, explore sprawling dungeons, and add powerful new artifacts and spells to your arsenal in this fully-voiced quest mod!
