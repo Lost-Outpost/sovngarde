@@ -19,13 +19,13 @@ This guide highlights major mods included in Septimus in the following categorie
 - [Alternate Start](#alternate-start)
 - [Quality of Life](#quality-of-life)
 - [Balance Changes](#balance-changes)
-- [Adjusted Starting Requirements](#quest-timing)
+- [Adjusted Minimum Levels](#adjusted-min-levels)
 - [New Mechanics](#new-mechanics)
 - [New Gear and Equipment](#new-gear-and-equipment)
 - [New Quests](#new-quests)
 - [New Homes](#new-homes)
 - [New Characters](#new-characters)
-- [Optional](#optional)
+- [Optional Mods](#optional-mods)
 
 ## Alternate Start
 
@@ -242,8 +242,6 @@ Please provide feedback via the [TPF Discord](https://discord.gg/tpf) #sep-discu
 
 - [The Forgotten City](https://www.nexusmods.com/skyrimspecialedition/mods/1179) - The Forgotten City introduces a lost underground Dwemer city inhabitated by unique characters.
 
-- [Here There Be Monsters](https://www.nexusmods.com/skyrimspecialedition/mods/35929) - The Sea of Ghosts, they call it. An emptiness of ice and fog, lifeless and haunted. But the icy depths hide horrors even the Dragonborn has never faced. Legends tell of the beasts that dwell in the deep. Monsters of such immensity, that even the dragons fear them. And now, like the dragons, the monsters have awoken...
-
 - [Moon and Star](https://www.nexusmods.com/skyrimspecialedition/mods/4301) - Investigate a mysterious powerful individual in skyrim. There may be more to this individual than it seems.
 
 - [The Tools of Kagrenac](https://www.nexusmods.com/skyrimspecialedition/mods/14168) - Go on a quest to recover the legendary Tools of Kagrenac. Encounter new allies and enemies, explore sprawling dungeons, and add powerful new artifacts and spells to your arsenal in this fully-voiced quest mod!
@@ -274,57 +272,58 @@ Please provide feedback via the [TPF Discord](https://discord.gg/tpf) #sep-discu
 
 To maintain balance, Septimus uses [Timing is Everything](https://www.nexusmods.com/skyrimspecialedition/mods/25464) and [Anniversary Edition Level Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/60761) to adjust the required minimum level of various quests and content.
 
-| Content Source | Content Type     | Content Name                                                                | Min Lvl |
-| :------------- | :--------------- | :-------------------------------------------------------------------------- | :-----: |
-| Dawnguard DLC  | World Encounters | Vampire Attacks                                                             |   20    |
-| Dawnguard DLC  | World Encounters | Dawnguard Recruitment                                                       |   20    |
-| Hearthfire DLC | Main Quests      | Build Your Own Home                                                         |   12    |
-| Dragonborn DLC | Main Quests      | Dragonborn                                                                  |   30    |
-| Skyrim         | Daedric Quests   | The Cursed Tribe                                                            |   24    |
-| Skyrim         | Daedric Quests   | The Break of Dawn                                                           |   29    |
-| Skyrim         | Daedric Quests   | The Only Cure                                                               |   21    |
-| Skyrim         | Daedric Quests   | A Night to Remember                                                         |   20    |
-| Skyrim         | Daedric Quests   | Discerning the Transmundane                                                 |   25    |
-| Skyrim         | Daedric Quests   | The Whispering Door                                                         |   27    |
-| Skyrim         | Daedric Quests   | Pieces of the Past                                                          |   22    |
-| Skyrim         | Daedric Quests   | Boethiah's Calling                                                          |   30    |
-| Skyrim         | Misc Quests      | The Wolf Queen Awakened                                                     |   24    |
-| Skyrim         | Misc Quests      | Unfathomable Depths                                                         |   19    |
-| Skyrim         | Misc Quests      | Grimsever's Return                                                          |   19    |
-| Skyrim         | Misc Quests      | Kill the Giant                                                              |   24    |
-| Skyrim         | Misc Quests      | Dungeon Delving                                                             |   14    |
-| Skyrim         | Misc Quests      | Kill the Vampire                                                            |   24    |
-| Skyrim         | Misc Quests      | Deathbrand                                                                  |   34    |
-| Skyrim         | Misc Quests      | Ebony Warrior                                                               |   65    |
-| Skyrim         | World Encounters | Hired Assassin                                                              |   10    |
-| Creation Club  | Misc Quests      | Bittercup                                                                   |   30    |
-| Creation Club  | Player Home      | Bloodchill Manor                                                            |   28    |
-| Creation Club  | Misc Quests      | Bow of Shadows                                                              |   35    |
-| Creation Club  | Misc Quests      | Civil War Champions (neutrals)                                              |   20    |
-| Creation Club  | Misc Quests      | Dawnfang and Duskfang                                                       |   30    |
-| Creation Club  | Misc Quests      | Forgotten Seasons                                                           |   20    |
-| Creation Club  | Player Home      | Gallows Hall                                                                |   35    |
-| Creation Club  | Misc Quests      | Ghosts of the Tribunal                                                      |   35    |
-| Creation Club  | Misc Quests      | Goldbrand                                                                   |   40    |
-| Creation Club  | Misc Quests      | Headman's Cleaver                                                           |   30    |
-| Creation Club  | Misc Quests      | Lord's Mail                                                                 |   36    |
-| Creation Club  | Misc Quests      | Redguard Elite Armaments                                                    |   30    |
-| Creation Club  | Misc Quests      | Ruin's Edge                                                                 |   33    |
-| Creation Club  | Misc Quests      | Saints and Seducers                                                         |   32    |
-| Creation Club  | Misc Quests      | Shadowrend                                                                  |   34    |
-| Creation Club  | Misc Quests      | Spell Knight Armor                                                          |   38    |
-| Creation Club  | Misc Quests      | Sunder and Wraithguard                                                      |   35    |
-| Creation Club  | Misc Quests      | The Cause                                                                   |   46    |
-| Creation Club  | Misc Quests      | The Contest                                                                 |   25    |
-| Creation Club  | Misc Quests      | Umbra                                                                       |   30    |
-| Creation Club  | Misc Quests      | Alternative Armors - Daedric Mail, Daedric Plate, Dragon Plate, Dragonscale |   65    |
-| Creation Club  | Misc Quests      | Alternative Armors - Dwarven Mail, Dwarven Plate                            |   15    |
-| Creation Club  | Misc Quests      | Alternative Armors - Ebony Plate                                            |   36    |
-| Creation Club  | Misc Quests      | Alternative Armors - Elven Hunter                                           |   25    |
-| Creation Club  | Misc Quests      | Alternative Armors - Orcish Plate                                           |   28    |
-| Creation Club  | Misc Quests      | Alternative Armors - Orcish Scaled                                          |   30    |
-| Creation Club  | Misc Quests      | Alternative Armors - Silver                                                 |   18    |
-| Creation Club  | Misc Quests      | Alternative Armors - Stalhrim Fur                                           |   40    |
+| Content Source | Content Type     | Content Name                                     | Min Lvl |
+| :------------- | :--------------- | :----------------------------------------------- | :-----: |
+| Dawnguard DLC  | World Encounters | Vampire Attacks                                  |   20    |
+| Dawnguard DLC  | World Encounters | Dawnguard Recruitment                            |   20    |
+| Hearthfire DLC | Main Quests      | Build Your Own Home                              |   12    |
+| Dragonborn DLC | Main Quests      | Dragonborn                                       |   30    |
+| Skyrim         | Daedric Quests   | The Cursed Tribe                                 |   24    |
+| Skyrim         | Daedric Quests   | The Break of Dawn                                |   29    |
+| Skyrim         | Daedric Quests   | The Only Cure                                    |   21    |
+| Skyrim         | Daedric Quests   | A Night to Remember                              |   20    |
+| Skyrim         | Daedric Quests   | Discerning the Transmundane                      |   25    |
+| Skyrim         | Daedric Quests   | The Whispering Door                              |   27    |
+| Skyrim         | Daedric Quests   | Pieces of the Past                               |   22    |
+| Skyrim         | Daedric Quests   | Boethiah's Calling                               |   30    |
+| Skyrim         | Misc Quests      | The Wolf Queen Awakened                          |   24    |
+| Skyrim         | Misc Quests      | Unfathomable Depths                              |   19    |
+| Skyrim         | Misc Quests      | Grimsever's Return                               |   19    |
+| Skyrim         | Misc Quests      | Kill the Giant                                   |   24    |
+| Skyrim         | Misc Quests      | Dungeon Delving                                  |   14    |
+| Skyrim         | Misc Quests      | Kill the Vampire                                 |   24    |
+| Skyrim         | Misc Quests      | Deathbrand                                       |   34    |
+| Skyrim         | Misc Quests      | Ebony Warrior                                    |   65    |
+| Skyrim         | World Encounters | Hired Assassin                                   |   10    |
+| Creation Club  | Misc Quests      | Bittercup                                        |   30    |
+| Creation Club  | Player Home      | Bloodchill Manor                                 |   28    |
+| Creation Club  | Misc Quests      | Bow of Shadows                                   |   35    |
+| Creation Club  | Misc Quests      | Civil War Champions (neutrals)                   |   20    |
+| Creation Club  | Misc Quests      | Dawnfang and Duskfang                            |   30    |
+| Creation Club  | Misc Quests      | Forgotten Seasons                                |   20    |
+| Creation Club  | Player Home      | Gallows Hall                                     |   35    |
+| Creation Club  | Misc Quests      | Ghosts of the Tribunal                           |   35    |
+| Creation Club  | Misc Quests      | Goldbrand                                        |   40    |
+| Creation Club  | Misc Quests      | Headman's Cleaver                                |   30    |
+| Creation Club  | Misc Quests      | Lord's Mail                                      |   36    |
+| Creation Club  | Misc Quests      | Redguard Elite Armaments                         |   30    |
+| Creation Club  | Misc Quests      | Ruin's Edge                                      |   33    |
+| Creation Club  | Misc Quests      | Saints and Seducers                              |   32    |
+| Creation Club  | Misc Quests      | Shadowrend                                       |   34    |
+| Creation Club  | Misc Quests      | Spell Knight Armor                               |   38    |
+| Creation Club  | Misc Quests      | Sunder and Wraithguard                           |   35    |
+| Creation Club  | Misc Quests      | The Cause                                        |   46    |
+| Creation Club  | Misc Quests      | The Contest                                      |   25    |
+| Creation Club  | Misc Quests      | Umbra                                            |   30    |
+| Creation Club  | Misc Quests      | Alternative Armors - Daedric Mail, Daedric Plate |   65    |
+| Creation Club  | Misc Quests      | Alternative Armors - Dragon Plate, Dragonscale   |   65    |
+| Creation Club  | Misc Quests      | Alternative Armors - Dwarven Mail, Dwarven Plate |   15    |
+| Creation Club  | Misc Quests      | Alternative Armors - Ebony Plate                 |   36    |
+| Creation Club  | Misc Quests      | Alternative Armors - Elven Hunter                |   25    |
+| Creation Club  | Misc Quests      | Alternative Armors - Orcish Plate                |   28    |
+| Creation Club  | Misc Quests      | Alternative Armors - Orcish Scaled               |   30    |
+| Creation Club  | Misc Quests      | Alternative Armors - Silver                      |   18    |
+| Creation Club  | Misc Quests      | Alternative Armors - Stalhrim Fur                |   40    |
 
 ## New Homes
 
@@ -411,9 +410,11 @@ A new standalone, fully voiced companion, with his own unique equipment, AI, as 
 
 Shirley Curry, the beloved Skyrim Grandma, finally comes to the game as a follower you can recruit! She'll join you on your adventures, but don't expect her to simply carry your burdens! She's got more personality than all the vanilla followers combined, and we're sure she'll be a great companion, and a friend. And a grandma!
 
-## Optional
+## Optional Mods
 
-- Septimus Sus Main Menu Music and Sus Intro Video - Enable at your own risk. Default: <code>Disabled</code>.
+Septimus includes these optional mods, which can be enabled or disabled via MO2:
+
+- Septimus Sus Main Menu Music and Sus Intro Video - Enable at your own risk. You have been warned. Default: <code>Disabled</code>.
 
 - [Time Format Changer](https://www.nexusmods.com/skyrimspecialedition/mods/28921) - I always hated how the in-game clock was in a 12 hour format, without any way to change it. While making a mod to change it, I decided to replace the entire time/date format used by the game to a custom one. Default: <code>Disabled</code>
 
