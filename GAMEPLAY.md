@@ -19,13 +19,13 @@ This guide highlights major mods included in Septimus in the following categorie
 - [Alternate Start](#alternate-start)
 - [Quality of Life](#quality-of-life)
 - [Balance Changes](#balance-changes)
-- [Adjusted Starting Requirements](#quest-timing)
+- [Adjusted Minimum Levels](#adjusted-min-levels)
 - [New Mechanics](#new-mechanics)
 - [New Gear and Equipment](#new-gear-and-equipment)
 - [New Quests](#new-quests)
 - [New Homes](#new-homes)
 - [New Characters](#new-characters)
-- [Optional](#optional)
+- [Optional Mods](#optional-mods)
 
 ## Alternate Start
 
@@ -410,7 +410,7 @@ A new standalone, fully voiced companion, with his own unique equipment, AI, as 
 
 Shirley Curry, the beloved Skyrim Grandma, finally comes to the game as a follower you can recruit! She'll join you on your adventures, but don't expect her to simply carry your burdens! She's got more personality than all the vanilla followers combined, and we're sure she'll be a great companion, and a friend. And a grandma!
 
-## Optional
+## Optional Mods
 
 Septimus includes these optional mods, which can be enabled or disabled via MO2:
 
