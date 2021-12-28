@@ -16,7 +16,7 @@
 
 This guide highlights major mods included in Septimus in the following categories:
 
-- [Alternate Start](#Alternate-Start)
+- [Alternate Start](#alternate-start)
 - [Quality of Life](#quality-of-life)
 - [Balance Changes](#balance-changes)
 - [Quest Timing](#quest-timing)
@@ -25,6 +25,7 @@ This guide highlights major mods included in Septimus in the following categorie
 - [New Quests](#new-quests)
 - [New Homes](#new-homes)
 - [New Characters](#new-characters)
+- [Optional](#optional)
 
 ## Alternate Start
 
@@ -50,18 +51,32 @@ Be anyone you want to be. Choose from 21 classic Oblivion/Morrowind loadouts the
 
 ## Quality of Life
 
-### [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614)
+### [Ish's Respec Mod](https://www.nexusmods.com/skyrimspecialedition/mods/1960)
 
-Overhauls the third person gameplay similarly to modern action RPGs, entirely through SKSE. Move and attack in any direction. Includes a custom target lock component and animated healthbar widget, target headtracking, projectile aim support during target lock, boss bars, mount support and more! Modular and customizable through MCM.
+Adds a potion allowing you to respec your perk points.
 
-- Middle mouse to lock on to enemies
-- Mouse wheel to switch targets
+### [Simple Wearable Lanterns](https://www.nexusmods.com/skyrimspecialedition/mods/58464)
+
+Adds three brand new wearable lanterns
+
+- By default, pressing the <code>L</code> key toggles the lantern
 
 ### [SmoothCam](https://www.nexusmods.com/skyrimspecialedition/mods/41252)
 
 SmoothCam is a highly configurable third-person camera, with smooth frame-interpolation and a raycasting crosshair to help you aim.
 
 - By default, the [Modern Camera](https://www.nexusmods.com/skyrimspecialedition/mods/41636) preset is included but you're free to try another
+
+### [Sweeping Organizes Stuff - Use Broom to Clean Mess](https://www.nexusmods.com/skyrimspecialedition/mods/51645)
+
+Use broom to clean up physics mess
+
+### [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614)
+
+Overhauls the third person gameplay similarly to modern action RPGs, entirely through SKSE. Move and attack in any direction. Includes a custom target lock component and animated healthbar widget, target headtracking, projectile aim support during target lock, boss bars, mount support and more! Modular and customizable through MCM.
+
+- Middle mouse to lock on to enemies
+- Mouse wheel to switch targets
 
 ## Balance Changes
 
@@ -100,31 +115,51 @@ Adjusts some quests to start at a later time to improve their balance as some qu
 
 ## New Mechanics
 
+### [Campsite](https://www.nexusmods.com/skyrimspecialedition/mods/22353)
+
+Campsite is a simple camping mod that allows the player to build a campfire and pitch a tent. Campsite is built in the vanilla style using only existing items. It is designed to feel like an unintrusive, optional extra feature of the game that isn't noticed when not used.
+
+### [Dragon War - A Dragon Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/51310)
+
+Dragon War is a lightweight dragon combat overhaul. It will change the way you approach dragon encounters - now you are the prey and no longer the predator.
+
+### [Haugbui - A Draugr Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26188)
+
+A lightweight overhaul providing balance adjustments, new items, unique boss designs, and some more variants to the draugr enemies.
+
+### [Nether's Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/55653)
+
+Nether's Follower Framework is a multi-follower system that is light on game resources and allows for up to 10 companions at one time. It provides a wealth of additional features, including immersion and quality-of-life functions to allow you to adventure with a small team of characters.
+
+### [Reliquary of Myth - Artifact Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/31612)
+
+Reliquary of Myth includes balanced, lore-friendly, and unique enchantments to nearly all of Skyrim's most legendary and famous artifacts.
+
+### [Skyrim's Got Talent - Improve As a Bard](https://www.nexusmods.com/skyrimspecialedition/mods/50357)
+
+Play instruments, get better, NPCs react to your skill dynamically, many new songs, lots of easter eggs, simple implementation.
+
+### [Skyrim's Paraglider](https://www.nexusmods.com/skyrimspecialedition/mods/53256)
+
+Adds a paraglider into the world similar to that in breath of the wild. You need to find it in the world to use it. Uses stamina while flying to be careful!
+
 ### [Survival Mode](https://en.uesp.net/wiki/Skyrim:Survival_Mode)
 
 In Survival Mode, your greatest adversary is Skyrim itself. Unrelenting cold, harsh wilderness, famine and fatigue - do you have the strength to endure? (Survival Mode can be turned on or off in Settings menu.)
 
-### [Campsite](https://www.nexusmods.com/skyrimspecialedition/mods/22353)
+Supporting mods:
 
-Campsite is a simple camping mod that allows the player to build a campfire and pitch a tent. Campsite is built in the vanilla style using only existing items. It is designed to feel like an unintrusive, optional extra feature of the game that isn't noticed when not used.
+- [Fast Travel for Survival Mode](https://www.nexusmods.com/skyrimspecialedition/mods/21067) - Allow Fast Travel for Survival Mode. [Optional mod](#optional) which is enabled by default.
+
+- [Survival Mode Improved](https://www.nexusmods.com/skyrimspecialedition/mods/56374) - Survival Mode improved brings lots of balance tweaks and improvements.
+
+- [Survival Control Panel](https://www.nexusmods.com/skyrimspecialedition/mods/41891) - A framework for mods and players to customize native Survival Mode features like Sleep to Level Up, with added support for cloaks and more!
 
 ### [TK Dodge RE](https://www.nexusmods.com/skyrimspecialedition/mods/56956)
 
 TK Dodge introduces a lightweight dodge mechanic where you can dodge out of the way of attacks for a stamina cost.
 
 - Tapping the sprint key and any other directional key will cause your character to dodge in that direction
-
-### [Skyrim's Paraglider](https://www.nexusmods.com/skyrimspecialedition/mods/53256)
-
-Adds a paraglider into the world similar to that in breath of the wild. You need to find it in the world to use it. Uses stamina while flying to be careful!
-
-### [Nether's Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/55653)
-
-Nether's Follower Framework is a multi-follower system that is light on game resources and allows for up to 10 companions at one time. It provides a wealth of additional features, including immersion and quality-of-life functions to allow you to adventure with a small team of characters.
-
-### [Honed Metal](https://www.nexusmods.com/skyrimspecialedition/mods/51254)
-
-Honed Metal is a great mod that allows you to purchase weapons, armor, and some other items that you can't craft yourself. This is particularly useful if you play on higher difficulties or use other mods that increase difficulty indirectly even when you're at lower levels.
 
 ## New Gear and Equipment
 
@@ -185,6 +220,8 @@ Please provide feedback via the [TPF Discord](https://discord.gg/tpf) #sep-discu
 ### Recommended Level: 10+
 
 - [Fortune's Tradehouse](https://www.nexusmods.com/skyrimspecialedition/mods/22755) - Help an Argonian cobbler gain access to Fortune’s Tradehouse, a new location added to Markarth with five fully voiced quests for the player to embark on.
+
+- [TrainFight](https://www.nexusmods.com/skyrimspecialedition/mods/58269?tab=posts) - Fight your way atop, through, and inside the belly of a fully animated, fully detailed steam locomotive.
 
 ### Recommended Level: 20+
 
@@ -298,6 +335,10 @@ Adds a friendly corgi companion to join you on your adventures!
 
 Not technically a new character but it's quite an improvement. This mod doesn't just give Lydia a new voice - it adds over 350 lines of dialogue to make her an actually interesting character and major part of the main quest.
 
+### [Serana Dialogue Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/32161)
+
+An improvement to Serana's dialogue and functionalities as an NPC, making her feel more immersive and organic within the world of Skyrim.
+
 ### [Arissa The Wandering Rogue](https://www.nexusmods.com/skyrim/mods/53754/)
 
 Arissa is an Imperial with an independent, rebellious spirit and a gift for making expensive things disappear. She is a Skyrim companion character with over 600 lines of dialogue, professionally recorded and beautifully voiced by the talented Nikkita.
@@ -321,3 +362,15 @@ A new standalone, fully voiced companion, with his own unique equipment, AI, as 
 ### [Shirley](https://www.nexusmods.com/skyrimspecialedition/mods/45956)
 
 Shirley Curry, the beloved Skyrim Grandma, finally comes to the game as a follower you can recruit! She'll join you on your adventures, but don't expect her to simply carry your burdens! She's got more personality than all the vanilla followers combined, and we're sure she'll be a great companion, and a friend. And a grandma!
+
+## Optional
+
+- Septimus Sus Main Menu Music and Sus Intro Video - Enable at your own risk. Default: <code>Disabled</code>.
+
+- [Time Format Changer](https://www.nexusmods.com/skyrimspecialedition/mods/28921) - I always hated how the in-game clock was in a 12 hour format, without any way to change it. While making a mod to change it, I decided to replace the entire time/date format used by the game to a custom one. Default: <code>Disabled</code>
+
+- [No Survival Camera Effects](https://www.nexusmods.com/skyrimspecialedition/mods/13756) - Removes the many blurry camera effects added in survival mode. Default: <code>Disabled</code>
+
+- [Fast Travel for Survival Mode](https://www.nexusmods.com/skyrimspecialedition/mods/21067) - Allow Fast Travel for Survival Mode. Default: <code>Enabled</code>
+
+- [Complete Widescreen Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1778) - It's a fix for a Widescreen 2560x1080, 3440x1440 Vanilla and SkyUI. Default: <code>Disabled</code>
