@@ -20,6 +20,7 @@
 + Added NFF Custom Patch (No more follower token exploit)
 + Added Skyrim's Paraglider Spell Cost
 + Added Mysticism Spells for NPCs
++ Added A Lovely Letter Alternate Routes
 + Removed Honed Metal + Patches (Causing crashing to desktop)
 + Removed Prison Cell Tweaks (Also causing crashes and some balance issues)
 + Fixed Camilla relationship bug
