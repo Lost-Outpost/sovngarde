@@ -185,15 +185,11 @@ If you've never touched the pagefile, perform the following steps to prevent fro
 1. Press Windows + R on your keyboard and enter `sysdm.cpl ,3`
 2. Under the Performance section, press 'Settings'
 
-```
-insert screenshot
-```
+![pagefile settings](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/pagefile1.png)
 
 3. Go to the Advanced tab at the top, and at the Virtual memory section press 'Change...'
 
-```
-insert screenshot
-```
+![pagefile settings 2](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/pagefile2.png)
 
 4. Disable 'Automatically manage paging file size for all drives'
 
