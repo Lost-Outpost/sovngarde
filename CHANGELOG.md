@@ -17,6 +17,8 @@
 ## Version 2.0.0 [Unreleased Beta 9]
 + Added ASLAL Custom Balance Patch
 + Added NFF Custom Patch (No more follower token exploit)
++ Added Skyrim's Paraglider Spell Cost
++ Added Mysticism Spells for NPCs
 + Removed Honed Metal + Patches (Causing crashing to desktop)
 + Removed Prison Cell Tweaks (Also causing crashes and some balance issues)
 
