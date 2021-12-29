@@ -414,12 +414,14 @@ Shirley Curry, the beloved Skyrim Grandma, finally comes to the game as a follow
 
 Septimus includes these optional mods, which can be enabled or disabled via MO2:
 
-- Septimus Sus Main Menu Music and Sus Intro Video - Enable at your own risk. You have been warned. Default: <code>Disabled</code>.
+- [Complete Widescreen Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1778) - It's a fix for a Widescreen 2560x1080, 3440x1440 Vanilla and SkyUI. `Default: Disabled`
 
-- [Time Format Changer](https://www.nexusmods.com/skyrimspecialedition/mods/28921) - I always hated how the in-game clock was in a 12 hour format, without any way to change it. While making a mod to change it, I decided to replace the entire time/date format used by the game to a custom one. Default: <code>Disabled</code>
+- [Fast Travel for Survival Mode](https://www.nexusmods.com/skyrimspecialedition/mods/21067) - Allow Fast Travel for Survival Mode. `Default: Enabled`
 
-- [No Survival Camera Effects](https://www.nexusmods.com/skyrimspecialedition/mods/13756) - Removes the many blurry camera effects added in survival mode. Default: <code>Disabled</code>
+- [No Killmoves - No Killcams - No Killbites SE](https://www.nexusmods.com/skyrimspecialedition/mods/13395) - This mod disables melee finishing moves, ranged/magic slow-motion kills, and dragon bite-and-throw attacks. The goal is to have more intense fights with less cheap deaths. The only killcam still enabled is the view that's shown when you're already dead. `Default: Disabled`
 
-- [Fast Travel for Survival Mode](https://www.nexusmods.com/skyrimspecialedition/mods/21067) - Allow Fast Travel for Survival Mode. Default: <code>Enabled</code>
+- [No Survival Camera Effects](https://www.nexusmods.com/skyrimspecialedition/mods/13756) - Removes the many blurry camera effects added in survival mode. `Default: Disabled`
 
-- [Complete Widescreen Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1778) - It's a fix for a Widescreen 2560x1080, 3440x1440 Vanilla and SkyUI. Default: <code>Disabled</code>
+- [Time Format Changer](https://www.nexusmods.com/skyrimspecialedition/mods/28921) - I always hated how the in-game clock was in a 12 hour format, without any way to change it. While making a mod to change it, I decided to replace the entire time/date format used by the game to a custom one. `Default: Disabled`
+
+- Septimus Sus Main Menu Music and Sus Intro Video - Enable at your own risk. You have been warned. `Default: Disabled`
