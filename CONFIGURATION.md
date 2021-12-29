@@ -62,6 +62,8 @@ Insert screenshot of MO2 with CC content enabled in the [NoDelete] section
 
 ## Optional Tweaks
 
+When enabling any optional tweaks, make sure they are always loaded BEFORE any Septimus patches in your load order. See the alternate start section for an example of this.
+
 ### Widescreen
 
 I have included the necessary mods to enable widescreen UI support. If you play on a widescreen monitor, this can be enabled in the optional mods section.
@@ -72,6 +74,7 @@ insert MO2 screenshot showing Widescreen mod being enabled
 
 ## Optional Content
 **As a warning. The optional content has not been tested nearly as heavily as the rest of the list as not everyone has it enabled. Support will be limited if you enable any of the optional content as its more difficult to account for them. If you are at all worried about stability, do NOT enable any.**
+
 I have included some optional content that not everyone will want to play. When enabling this content, just like with alternate start mods, ensure all mod esp files are above and Septimus - (Patch) files in your load order and if there is a Septimus patch for them, load that after the mod's esp and above all other Septimus patches.
 
 ## Mod Configuration
