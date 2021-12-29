@@ -17,6 +17,13 @@
 + Added MCM Automation to fix Clockwork crashes :D (Thanks TitansBane)
 + Added Ghastly's Open World Loot patches for Heavy armory and animated armory (it's katana time)
 + Added Dawnguard Alternate Route (Vampires skip fort dawnguard)
++ Added Expressive Facegen Morphs
++ Added Chill out aela
++ Added Buyable golden claw
++ Added CFTO Fixes and Winterhold
++ Added CFTO Radiant Quest Fix
++ Added MfgFix
++ Added Optional No Kill Moves
 + Updated Septimus - Alternate Start - Live Another Life Tweaks
 + Updated JK's Winking Skeever (You can now buy the loft)
 + Updated JK's Sleeping Giant Inn
