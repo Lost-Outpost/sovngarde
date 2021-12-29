@@ -226,7 +226,13 @@ If you wish to further customize by changing the ENB preset, adding in creation 
 
 # Issues
 
-Find an [issue](https://github.com/Guitarninja2/septimus/issues)? Feel free to report it [here](https://github.com/Guitarninja2/septimus/issues) with as much info as you can (screenshots are great).
+If you find an issue, you can see if it is already on the list of [known issues](ISSUES.md), which also documents solutions and workarounds.
+
+For issues that aren't yet [known](ISSUES.md), you can provide details in the [Septimus Github](https://github.com/Guitarninja2/septimus/issues). Please provide as much info as you can (screenshots are great).
+
+Finally, free feel to hop on the Septimus Discord support channel to have discussions with our knowledgeable community members. Support is offered in [TPF Discord](https://discord.gg/tpf) server's [#sep-support](https://discord.com/channels/458216677792808961/917610919356399616) channel.
+
+=======
 
 # Special Thanks
 I want to extend a special thanks to the following people for helping make this list possible.
@@ -241,7 +247,7 @@ I want to extend a special thanks to the following people for helping make this 
 + Webmetz - Came outa nowhere and has been amazing in helping me patch various mods for balance and integration
 + jns - Lots of testing and graphics feedback :D
 + Gyzarus - Extremely helpful modlist tester
-+ Rsrogers - Tons of documentation help!
++ Rsrogers4 - Tons of documentation help!
 + Calcyon - Extremely helpful modlist tester
 + Durgenage - Extremely helpful modlist tester
 
