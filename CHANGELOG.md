@@ -18,6 +18,8 @@
 + Removed Here There Be Monsters (WAY too unbalanced)
 
 ## Version 2.0.0 [Beta 9]
+**WARNING: If you used alternate start - live another life, before upgrading, please make sure to empty your inventory. If you have any items from alternate start live another life they may prevent your save from working on upgrading.**
+
 + Added ASLAL Custom Balance Patch
 + Added Smoothcam Modern Preset
 + Added Whitereun Watchtower Doesn't Start Broken
