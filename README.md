@@ -14,7 +14,7 @@
 
 # Installation
 
-- [Preamble](#preamble)
+- [Introduction](#introduction)
   - [Gameplay](#gameplay)
   - [Community](#community)
   - [List Contents](#list-contents)
@@ -39,9 +39,11 @@
 - [Issues](#issues)
 - [Special Thanks](#special-thanks)
 
-# Preamble
+# Introduction
 
-Septimus is an extended version of [The Legends of the Frost](https://thephoenixflavour.com/lotf/) with lots of carefully chosen new gear, spells, quests, visual tweaks, optional survival elements, and full creation club support.
+"I can almost... hear them. I feel their life energy. Come, I will make the mixture." - Septimus Signus
+
+Septimus is an extensive vanilla-friendly modlist full of carefully chosen new gear, spells, quests, optional survival gameplay as well as full anniversary edition creation club support.
 
 Septimus works with both Skyrim: Special Edition and Skyrim: Anniversary Edition. The full Anniversary Edition support includes all the new creation club content for those eager to get right into the new content.
 
