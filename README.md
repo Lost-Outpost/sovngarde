@@ -232,8 +232,6 @@ For issues that aren't yet [known](ISSUES.md), you can provide details in the [S
 
 Finally, free feel to hop on the Septimus Discord support channel to have discussions with our knowledgeable community members. Support is offered in [TPF Discord](https://discord.gg/tpf) server's [#sep-support](https://discord.com/channels/458216677792808961/917610919356399616) channel.
 
-=======
-
 # Special Thanks
 I want to extend a special thanks to the following people for helping make this list possible.
 
