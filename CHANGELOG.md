@@ -16,6 +16,7 @@
 ## Version 2.0.0 [Unreleased Beta 10]
 + Added MCM Automation to fix Clockwork crashes :D (Thanks TitansBane)
 + Added Ghastly's Open World Loot patches for Heavy armory and animated armory (it's katana time)
++ Added Dawnguard Alternate Route (Vampires skip fort dawnguard)
 + Updated Septimus - Alternate Start - Live Another Life Tweaks
 + Updated JK's Winking Skeever (You can now buy the loft)
 + Updated JK's Sleeping Giant Inn
