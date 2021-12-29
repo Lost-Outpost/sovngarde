@@ -17,8 +17,8 @@
 - [Mod Organizer 2 Profiles](#mod-organizer-2-profiles)
 - [Creation Club Setup](#creation-club-setup)
 - [Alternate Start](#alternate-start)
+- [Optional Tweaks](#optional-tweaks)
 - [Optional Content](#optional-content)
-- [Optional Mods](#optional-mods)
   - [Widescreen](#widescreen)
 - [Mod Configuration](#mod-configuration)
   - [MCM Menus](#mcm-menus)
@@ -60,11 +60,7 @@ Insert screenshot of MO2 with CC content enabled in the [NoDelete] section
 
 ![Exe List](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/alt_start.png)
 
-## Optional Content
-**As a warning. The optional content has not been tested nearly as heavily as the rest of the list as not everyone has it enabled. Support will be limited if you enable any of the optional content as its more difficult to account for them. If you are at all worried about stability, do NOT enable any.**
-I have included some optional content that not everyone will want to play. When enabling this content, just like with alternate start mods, ensure all mod esp files are above and Septimus - (Patch) files in your load order and if there is a Septimus patch for them, load that after the mod's esp and above all other Septimus patches.
-
-## Optional Mods
+## Optional Tweaks
 
 ### Widescreen
 
@@ -73,6 +69,10 @@ I have included the necessary mods to enable widescreen UI support. If you play 
 ```
 insert MO2 screenshot showing Widescreen mod being enabled
 ```
+
+## Optional Content
+**As a warning. The optional content has not been tested nearly as heavily as the rest of the list as not everyone has it enabled. Support will be limited if you enable any of the optional content as its more difficult to account for them. If you are at all worried about stability, do NOT enable any.**
+I have included some optional content that not everyone will want to play. When enabling this content, just like with alternate start mods, ensure all mod esp files are above and Septimus - (Patch) files in your load order and if there is a Septimus patch for them, load that after the mod's esp and above all other Septimus patches.
 
 ## Mod Configuration
 
