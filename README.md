@@ -248,6 +248,6 @@ I want to extend a special thanks to the following people for helping make this 
 + Day7 - Help with bugs and creating some cool integrations
 + Code - One of the first long-term list players and has provided great feedback
 + Aphil - Another of the first long-term list players and has provided great feedback
-+ Ghastly - Open World Loot wizard and helpful guy
++ [Ghastly](https://www.nexusmods.com/skyrimspecialedition/users/50562416) - Open World Loot wizard and helpful guy
 + Naveen - Modlist testing and feedback :D
 + Doomsdaydan - Early helper with great feedback
