@@ -22,7 +22,7 @@
 - [Mod Configuration](#mod-configuration)
   - [MCM Menus](#mcm-menus)
   - [TK Dodge RE](#tk-dodge-re)
-  - [ENB Presets](#enb-presets)
+  - [ENB & Reshade Presets](#enb-&-reshade-presets)
 - [Performance Guide](#performance-guide)
 
 ## Mod Organizer 2 Profiles
