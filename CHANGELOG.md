@@ -14,6 +14,7 @@
 
 # Changelog
 ## Version 2.0.0 [Unreleased Beta 10]
++ Added MCM Automation to fix Clockwork crashes :D (Thanks TitansBane)
 + Updated Septimus - Alternate Start - Live Another Life Tweaks
 + Updated JK's Winking Skeever (You can now buy the loft)
 + Updated JK's Sleeping Giant Inn
