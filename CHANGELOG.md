@@ -13,8 +13,50 @@
 ---
 
 # Changelog
+## Version 2.0.0 [Unreleased Beta 10]
++ Added MCM Automation to fix Clockwork crashes :D (Thanks TitansBane)
++ Added Ghastly's Open World Loot patches for Heavy armory and animated armory (it's katana time)
++ Added Dawnguard Alternate Route (Vampires skip fort dawnguard)
++ Added Expressive Facegen Morphs
++ Added Chill out aela
++ Added Buyable golden claw
++ Added CFTO Fixes and Winterhold
++ Added CFTO Radiant Quest Fix
++ Added MfgFix
++ Added Optional No Kill Moves
++ Updated Septimus - Alternate Start - Live Another Life Tweaks
++ Updated JK's Winking Skeever (You can now buy the loft)
++ Updated JK's Sleeping Giant Inn
++ Updated JK's Blue Palace
++ Updated Assorted Mesh Fixes
++ Updated Simplicity of Snow
++ Updated Shaders of Solstheim
++ Updated Sexier Vanilla - Guards
++ Updated Creation Club Armor Integration
++ Removed Here There Be Monsters (WAY too unbalanced)
 
-## Version 2.0.0 [Unreleased Beta 7]
+## Version 2.0.0 [Beta 9]
+**WARNING: If you used alternate start - live another life, before upgrading, please make sure to empty your inventory. If you have any items from alternate start live another life they may prevent your save from working on upgrading.**
+
++ Added ASLAL Custom Balance Patch
++ Added Smoothcam Modern Preset
++ Added Whitereun Watchtower Doesn't Start Broken
++ Added NFF Custom Patch (No more follower token exploit)
++ Added Skyrim's Paraglider Spell Cost
++ Added Mysticism Spells for NPCs
++ Added A Lovely Letter Alternate Routes
++ Removed Honed Metal + Patches (Causing crashing to desktop)
++ Removed Prison Cell Tweaks (Also causing crashes and some balance issues)
++ Fixed Camilla relationship bug
++ Fixed Arissa's hair being playable (and broken)
++ Fixed NoGrassInCave issues
+
+## Version 2.0.0 [Beta 8]
++ Added Septimus 2 Main Menu Replacer
++ Added Aquatic Jungle + Depths Patch
++ Added Sus Intro Video (Optional)
+
+## Version 2.0.0 [Beta 7]
 + Added Simple Smithing Overhaul Simplified
 + Added Custom Armor Clothing Extension Replacer Edit
 + Added Optional Helgen Reborn 
