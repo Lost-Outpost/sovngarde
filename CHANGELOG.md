@@ -15,6 +15,14 @@
 # Changelog
 ## Version 2.0.0 [Unreleased Beta 10]
 + Updated Septimus - Alternate Start - Live Another Life Tweaks
++ Updated JK's Winking Skeever (You can now buy the loft)
++ Updated JK's Sleeping Giant Inn
++ Updated JK's Blue Palace
++ Updated Assorted Mesh Fixes
++ Updated Simplicity of Snow
++ Updated Shaders of Solstheim
++ Updated Sexier Vanilla - Guards
++ Updated Creation Club Armor Integration
 + Removed Here There Be Monsters (WAY too unbalanced)
 
 ## Version 2.0.0 [Beta 9]
