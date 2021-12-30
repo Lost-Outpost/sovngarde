@@ -16,6 +16,7 @@
 
 ## Version 2.0.1 [Unreleased]
 + Added Dragonborn Dreams (Optional)
++ Added Simple Load Screens (Optional)
 + Added Frozen Electrocuted Combustion (Optional)
 + Fixed Dawnstar CFTO Carriage clipping
 
