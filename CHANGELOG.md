@@ -19,7 +19,9 @@
 + Added Dragonborn Dreams (Optional)
 + Added Simple Load Screens (Optional)
 + Added Frozen Electrocuted Combustion (Optional)
++ Added eFPS patch for obscure's college
 + Fixed Dawnstar CFTO Carriage clipping
++ Fixed ACE Robes not getting the correct colors
 
 ## Version 2.0.0
 + Added Optional Apothecary - Easy Mode
