@@ -66,9 +66,7 @@ When enabling any optional tweaks, make sure they are always loaded BEFORE any S
 
 I have included the necessary mods to enable widescreen UI support. If you play on a widescreen monitor, this can be enabled in the optional mods section.
 
-```
-insert MO2 screenshot showing Widescreen mod being enabled
-```
+![Widescreen](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/widescreen.png)
 
 ## Optional Content
 **As a warning. The optional content has not been tested nearly as heavily as the rest of the list as not everyone has it enabled. Support will be limited if you enable any of the optional content as its more difficult to account for them. If you are at all worried about stability, do NOT enable any.**
