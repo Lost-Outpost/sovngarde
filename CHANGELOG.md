@@ -22,6 +22,7 @@
 + Added eFPS patch for obscure's college
 + Added Painterly Warpaints
 + Added Northbourne Scars
++ Added New Beyond Skyrim - Bruma weapons for Alakir warriors
 + Fixed Dawnstar CFTO Carriage clipping
 + Fixed ACE Robes not getting the correct colors
 
