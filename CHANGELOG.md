@@ -13,6 +13,12 @@
 ---
 
 # Changelog
+
+## Version 2.0.0
++ Added Optional Apothecary - Easy Mode
++ Added Optional Helgen reborn content (see configuration page)
++ Fixed Dynamic Things Alternative
+
 ## Version 2.0.0 [Beta 10]
 + Added MCM Automation to fix Clockwork crashes :D (Thanks TitansBane)
 + Added Ghastly's Open World Loot patches for Heavy armory and animated armory (it's katana time)
