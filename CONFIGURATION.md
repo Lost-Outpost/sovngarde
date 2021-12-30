@@ -32,9 +32,7 @@ Two profiles are pre-configured in MO2 for you. Septimus - Anniversary Edition a
 
 Select the profile you wish to use here:
 
-```
-Insert MO2 profile selection screenshot
-```
+![Profiles](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/profiles.png)
 
 ## Creation Club Setup
 
