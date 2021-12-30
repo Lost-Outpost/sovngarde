@@ -15,6 +15,7 @@
 # Changelog
 
 ## Version 2.0.1 [Unreleased]
++ Added CFTO Bittercup Fix
 + Added Dragonborn Dreams (Optional)
 + Added Simple Load Screens (Optional)
 + Added Frozen Electrocuted Combustion (Optional)
