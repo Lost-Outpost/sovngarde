@@ -47,9 +47,7 @@ In order to use Creation Club content, Mod Organizer 2 will need a copy of the c
 
 When you have setup Creation Club content correctly, your Septimus MO2 will look like this:
 
-```
-Insert screenshot of MO2 with CC content enabled in the [NoDelete] section
-```
+![CC Top](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/ccenabled_top.png)
 
 ## Alternate Start
 
