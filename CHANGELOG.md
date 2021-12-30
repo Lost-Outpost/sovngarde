@@ -14,6 +14,9 @@
 
 # Changelog
 
+## Version 2.0.1 [Unreleased]
++ Fixed Dawnstar CFTO Carriage clipping
+
 ## Version 2.0.0
 + Added Optional Apothecary - Easy Mode
 + Added Optional Helgen reborn content (see configuration page)
