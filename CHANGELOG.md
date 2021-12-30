@@ -17,6 +17,7 @@
 ## Version 2.0.0
 + Added Optional Apothecary - Easy Mode
 + Added Optional Helgen reborn content (see configuration page)
++ Adjusted Hud Clock and moreHud settings
 + Fixed Dynamic Things Alternative
 
 ## Version 2.0.0 [Beta 10]
