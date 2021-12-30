@@ -14,7 +14,7 @@
 
 # Installation
 
-- [Preamble](#preamble)
+- [Introduction](#introduction)
   - [Gameplay](#gameplay)
   - [Community](#community)
   - [List Contents](#list-contents)
@@ -33,13 +33,17 @@
     - [Stock Game](#stock-game)
     - [Pagefile in prevention of memory crashes](#pagefile-in-prevention-of-memory-crashes)
 - [Updating](#updating)
-- [Before You Start](#before-you-start)
+- [Final Checklist](#final-checklist)
+- [Gameplay Guide](#gameplay-guide)
 - [Configuration](#configuration)
 - [Issues](#issues)
+- [Special Thanks](#special-thanks)
 
-# Preamble
+# Introduction
 
-Septimus is an extended version of [The Legends of the Frost](https://thephoenixflavour.com/lotf/) with lots of carefully chosen new gear, spells, quests, visual tweaks, optional survival elements, and full creation club support.
+"I can almost... hear them. I feel their life energy. Come, I will make the mixture." - Septimus Signus
+
+Septimus is an extensive vanilla-friendly modlist full of carefully chosen new gear, spells, quests, optional survival gameplay as well as full anniversary edition creation club support.
 
 Septimus works with both Skyrim: Special Edition and Skyrim: Anniversary Edition. The full Anniversary Edition support includes all the new creation club content for those eager to get right into the new content.
 
@@ -85,9 +89,9 @@ SSE is still being updated by Bethesda (they only add Creation Club content). Wh
 
 To ensure that Steam does not automatically update the game for you, head over to the Properties window, navigate to the _Updates_ tab and change _Automatic updates_ to _Only update this game when I launch it_. You should also disable the Steam Cloud while you're at it.
 
-```
-(Insert screenshot of Steam settings here)
-```
+![Update Settings 1](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/noupdate1.png)
+
+![Update Settings 1](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/noupdate2.png)
 
 ### Set the Game language to English
 
@@ -115,9 +119,7 @@ After you have done everything above and got a clean SSE or AE installation read
 2. Set the _Aspect Ratio_ and _Resolution_ to your monitor's native values
 3. Check _Windowed Mode_ and _Borderless_
 
-```
-insert screenshot of recommended skyrim settings
-```
+![Skyrim Settings](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/steamsettings.png)
 
 Start the game and exit once you're in the main menu.
 
@@ -145,9 +147,7 @@ The download and installation process can take a little while (an hour or more) 
 
 There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off so you lose no progress.
 
-```
-Insert screenshot of Wabbajack failing to download a mod with retry highlighted
-```
+![Install Failed](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/installfailed.png)
 
 Seriously, simply retrying the Wabbajack download fixes most problems.
 
@@ -184,28 +184,22 @@ If you've never touched the pagefile, perform the following steps to prevent fro
 1. Press Windows + R on your keyboard and enter `sysdm.cpl ,3`
 2. Under the Performance section, press 'Settings'
 
-```
-insert screenshot
-```
+![pagefile settings](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/pagefile1.png)
 
 3. Go to the Advanced tab at the top, and at the Virtual memory section press 'Change...'
 
-```
-insert screenshot
-```
+![pagefile settings 2](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/pagefile2.png)
 
 4. Disable 'Automatically manage paging file size for all drives'
 
-```
-insert screenshot
-```
+![pagefile settings 3](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/pagefile3.png)
 
 5. If you have more than one drive, try enabling it for at least one more drive as a backup (make sure it has a decent bit of free space, like 15GB). Set the size to 'System managed size'.
    Otherwise, set a custom size for the drive it's currently on and increase the maximum size to be at least 20GB.
 
-```
-insert screenshot. Note, lots of screenshots in this section because people seem to miss these steps
-```
+![pagefile settings 4](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/pagefile4.png)
+
+![pagefile settings 5](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/pagefile5.png)
 
 # Updating
 
@@ -217,14 +211,14 @@ This means that any additional mods you have installed on top of the Modlist wil
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
 
-# Before You Start
-
+# Final Checklist
 Check the following items before starting the game (they are easy to miss)
-
-- Take a brief look at the [gameplay guide](GAMEPLAY.md) for info on gameplay changes
 - If you are using a wide-screen monitor, make sure you have done the [post-install steps for wide-screens](https://github.com/Guitarninja2/septimus/blob/main/CONFIGURATION.md#widescreen)
 - Make sure you have done the [post-install steps for creation club content](https://github.com/Guitarninja2/septimus/blob/main/CONFIGURATION.md#creation-club-setup)
 - Choose the ENB Preset you want (if you want one) from the [enb configuration](https://github.com/Guitarninja2/septimus/blob/main/CONFIGURATION.md#enb-presets) page
+
+# Gameplay Guide
+My team and I have put together a helpful [gameplay guide](GAMEPLAY.md) to get you informed on any gameplay changes and additional content you should be aware of. You can find that [here](GAMEPLAY.md).
 
 # Configuration
 
@@ -232,4 +226,34 @@ If you wish to further customize by changing the ENB preset, adding in creation 
 
 # Issues
 
-Find an [issue](https://github.com/Guitarninja2/septimus/issues)? Feel free to report it [here](https://github.com/Guitarninja2/septimus/issues) with as much info as you can (screenshots are great).
+If you find an issue, you can see if it is already on the list of [known issues](ISSUES.md), which also documents solutions and workarounds.
+
+For issues that aren't yet [known](ISSUES.md), you can provide details in the [Septimus Github](https://github.com/Guitarninja2/septimus/issues). Please provide as much info as you can (screenshots are great).
+
+Finally, free feel to hop on the Septimus Discord support channel to have discussions with our knowledgeable community members. Support is offered in [TPF Discord](https://discord.gg/tpf) server's [#sep-support](https://discord.com/channels/458216677792808961/917610919356399616) channel.
+
+# Special Thanks
+I want to extend a special thanks to the following people for helping make this list possible.
+
+## The Phoenix Flavour
++ Phoenix - Creator of LOTF and TPF mod guides which I have drawn from heavily to create this list
++ Slim - Being a cool dude and helping out with some bugs
++ Slidikins - Also helping me fix some issues
++ Many other very helpful and excellent modders in the TPF discord
+
+## Septimus Team
++ Webmetz - Came outa nowhere and has been amazing in helping me patch various mods for balance and integration
++ Gyzarus - Extremely helpful modlist tester
++ Rsrogers4 - Tons of documentation help!
++ Calcyon - Extremely helpful modlist tester
++ Durgenage - Extremely helpful modlist tester
+
+## Community Members
++ Ashensakar - Level 99 Advanced Screenarcher and has created both modlist images
++ jns - Lots of testing and graphics feedback :D
++ Day7 - Help with bugs and creating some cool integrations
++ Codegeek - One of the first long-term list players and has provided great feedback
++ Aphil - Another of the first long-term list players and has provided great feedback
++ [Ghastly](https://www.nexusmods.com/skyrimspecialedition/users/50562416) - Open World Loot wizard and helpful guy
++ Naveen - Modlist testing and feedback :D
++ Doomsdaydan - Early helper with great feedback
