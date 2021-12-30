@@ -20,6 +20,8 @@
 + Added Simple Load Screens (Optional)
 + Added Frozen Electrocuted Combustion (Optional)
 + Added eFPS patch for obscure's college
++ Added Painterly Warpaints
++ Added Northbourne Scars
 + Fixed Dawnstar CFTO Carriage clipping
 + Fixed ACE Robes not getting the correct colors
 
