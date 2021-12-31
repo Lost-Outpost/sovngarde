@@ -15,6 +15,7 @@
 # Changelog
 
 ## Version 2.0.1 [Unreleased]
++ Added Major Cities Mesh Overhaul (Mesh Fixes for various locations)
 + Added CFTO Bittercup Fix
 + Added Radiant Requirements
 + Added Dragonborn Dreams (Optional)
