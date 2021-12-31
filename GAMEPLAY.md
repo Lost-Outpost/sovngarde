@@ -271,28 +271,29 @@ In addition to the new characters available in the AE Creation Club, Septimus in
 
 Septimus includes these optional mods, which can be enabled or disabled via MO2:
 
-- [Complete Widescreen Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1778) `2.0.0` `Default: Disabled` - It's a fix for a Widescreen 2560x1080, 3440x1440 Vanilla and SkyUI.                                                                                                                                                                                           | Default: `Disabled`                                                                                                                      | `2.0.0` |
-- [The Dragonborn Dreams](https://www.nexusmods.com/skyrimspecialedition/mods/60384) `2.0.1` `Default: Disabled` - The Dragonborn Dreams allows your character to occasionally wake up having had a (written) dream.
+- [Complete Widescreen Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1778) `2.0.0` - It's a fix for a Widescreen 2560x1080, 3440x1440 Vanilla and SkyUI.
 
-- [Fast Travel for Survival Mode](https://www.nexusmods.com/skyrimspecialedition/mods/21067) `2.0.0` `Default: Enabled` - Allow Fast Travel for Survival Mode.
+- [The Dragonborn Dreams](https://www.nexusmods.com/skyrimspecialedition/mods/60384) `2.0.1` - The Dragonborn Dreams allows your character to occasionally wake up having had a (written) dream.
 
-- [Frozen Electrocuted Combustion](https://www.nexusmods.com/skyrimspecialedition/mods/3532) `2.0.1` `Default: Disabled` - Applies visual effects to NPCs and the player, when killed by air, ash, dragons, drain, fire, frost, fear, lightning, poison, soultrap, steam and sun damage status effects.
+- [Fast Travel for Survival Mode](https://www.nexusmods.com/skyrimspecialedition/mods/21067) `2.0.0` | `Default: Enabled` - Allow Fast Travel for Survival Mode.
 
-- [Helgen Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/5673) `2.0.0` `Default: Disabled` - Helgen Reborn is a fully voiced adventure with over 20 superb voice actors. As you help rebuild the town you'll reunite two old friends, uncover an underground slavery ring, battle in an arena and many other adventures!
+- [Frozen Electrocuted Combustion](https://www.nexusmods.com/skyrimspecialedition/mods/3532) `2.0.1` - Applies visual effects to NPCs and the player, when killed by air, ash, dragons, drain, fire, frost, fear, lightning, poison, soultrap, steam and sun damage status effects.
+
+- [Helgen Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/5673) `2.0.0` - Helgen Reborn is a fully voiced adventure with over 20 superb voice actors. As you help rebuild the town you'll reunite two old friends, uncover an underground slavery ring, battle in an arena and many other adventures!
 
   > **Note:** Only enable after leaving Helgen. You will find a book to start the quest in The Bannered Mare.
 
-- [No Killmoves - No Killcams - No Killbites SE](https://www.nexusmods.com/skyrimspecialedition/mods/13395) `2.0.0` `Default: Disabled`- This mod disables melee finishing moves, ranged/magic slow-motion kills, and dragon bite-and-throw attacks. The goal is to have more intense fights with less cheap deaths. The only killcam still enabled is the view that's shown when you're already dead.
+- [No Killmoves - No Killcams - No Killbites SE](https://www.nexusmods.com/skyrimspecialedition/mods/13395) `2.0.0` - This mod disables melee finishing moves, ranged/magic slow-motion kills, and dragon bite-and-throw attacks. The goal is to have more intense fights with less cheap deaths. The only killcam still enabled is the view that's shown when you're already dead.
 
-- [No Survival Camera Effects](https://www.nexusmods.com/skyrimspecialedition/mods/13756) `2.0.1` `Default: Disabled` - Removes the many blurry camera effects added in survival mode.
+- [No Survival Camera Effects](https://www.nexusmods.com/skyrimspecialedition/mods/13756) `2.0.1` - Removes the many blurry camera effects added in survival mode.
 
-- [Simple Load Screens](https://www.nexusmods.com/skyrimspecialedition/mods/49529) `2.0.0` `Default: Disabled` - A much more simple approach to loading screens.
+- [Simple Load Screens](https://www.nexusmods.com/skyrimspecialedition/mods/49529) `2.0.0` - A much more simple approach to loading screens.
 
-- [Time Format Changer](https://www.nexusmods.com/skyrimspecialedition/mods/28921) `2.0.0` `Default: Disabled` - I always hated how the in-game clock was in a 12 hour format, without any way to change it. While making a mod to change it, I decided to replace the entire time/date format used by the game to a custom one.
+- [Time Format Changer](https://www.nexusmods.com/skyrimspecialedition/mods/28921) `2.0.0` - I always hated how the in-game clock was in a 12 hour format, without any way to change it. While making a mod to change it, I decided to replace the entire time/date format used by the game to a custom one.
 
-- Septimus Apothecary - Easy Mode `2.0.0` `Default: Disabled` - Switches Apothecary potion effects from "over time" to immediate
+- Septimus Apothecary - Easy Mode `2.0.0` - Switches Apothecary potion effects from "over time" to immediate
 
-- Septimus Sus Main Menu Music and Sus Intro Video `2.0.0` `Default: Disabled` - Enable at your own risk. You have been warned.
+- Septimus Sus Main Menu Music and Sus Intro Video `2.0.0` - Enable at your own risk. You have been warned.
 
 ## Adjusted Minimum Levels
 
