@@ -26,6 +26,7 @@
 + Added Vanilla Warpaints Absolution
 + Added Northbourne Scars
 + Added New Beyond Skyrim - Bruma weapons for Alakir warriors
++ Updated Rebalancing Anniversary Edition - Quest Requirements
 + Adjusted Mirai's default outfit and body to be a bit more modest
 + Adjusted all ENBs to turn off big light range (for performance)
 + Fixed Dawnstar CFTO Carriage clipping
