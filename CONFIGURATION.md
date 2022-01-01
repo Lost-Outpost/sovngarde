@@ -23,7 +23,7 @@
 - [Mod Configuration](#mod-configuration)
   - [MCM Menus](#mcm-menus)
   - [TK Dodge RE](#tk-dodge-re)
-  - [ENB and Reshade Presets](#ENB-and-Reshade-Presets)
+- [ENB and Reshade Presets](#ENB-and-Reshade-Presets)
 - [Performance Guide](#performance-guide)
 
 ## Mod Organizer 2 Profiles
@@ -86,7 +86,7 @@ If you wish to change the dodge key, do the following:
 - Change EnableTappingDodge to false to change the keybind
 - Change DodgeHotkey to your prefered one by using instructions [here](https://www.creationkit.com/index.php?title=Input_Script#DXScanCodes)
 
-### ENB and Reshade Presets
+## ENB and Reshade Presets
 
 Septimus includes an awesome tool called ENB Organizer for trying out different ENB and Reshade presets.
 
