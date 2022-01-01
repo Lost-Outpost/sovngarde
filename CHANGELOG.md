@@ -31,6 +31,7 @@
 + Adjusted all ENBs to turn off big light range (for performance)
 + Fixed Dawnstar CFTO Carriage clipping
 + Fixed ACE Robes not getting the correct colors
++ Removed TK Dodge
 
 ## Version 2.0.0
 + Added Optional Apothecary - Easy Mode
