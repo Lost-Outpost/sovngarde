@@ -171,6 +171,8 @@ The recommended levels are meant to represent a reasonable progression through t
 
 ### Recommended Level: 20+
 
+- [Carved Brink](https://www.nexusmods.com/skyrimspecialedition/mods/24351) `2.0.0` - Carved Brink is a large quest modification, from the authors of “Project AHO”. This mod adds to Skyrim: a daedric plan of Peryite - The Pits, and an unknown part of Oblivion - Faceted Stones.
+
 - [Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/4155) `2.0.0` - Clockwork is a quest mod involving a castle high in the Velothi Mountains, lost to the world for over a hundred years. Once found, you may call Clockwork Castle home... but if you want to leave, you'll need to discover how to escape.
 
 - [The Lost Wonders of Mzark](https://www.nexusmods.com/skyrimspecialedition/mods/40674) `2.0.0` - Lost Wonders of Mzark is a quest/dungeon mod for those who prefer a more puzzle-oriented game. The enemies you encounter within must be disposed of in careful ways, and you'll find more than just fights awaiting you in the depths of Mzarnumez.
@@ -180,8 +182,6 @@ The recommended levels are meant to represent a reasonable progression through t
 - [The Tale of Tsatampra Xiros](https://www.nexusmods.com/skyrimspecialedition/mods/36707) `2.0.0` - Explore a world contained within the pages of a sorcerous text, and earn the favor of the Daedric Prince Hermaeus Mora.
 
 ### Recommended Level: 30+
-
-- [Carved Brink](https://www.nexusmods.com/skyrimspecialedition/mods/24351) `2.0.0` - Carved Brink is a large quest modification, from the authors of “Project AHO”. This mod adds to Skyrim: a daedric plan of Peryite - The Pits, and an unknown part of Oblivion - Faceted Stones.
 
 - [The Forgotten City](https://www.nexusmods.com/skyrimspecialedition/mods/1179) `2.0.0` - The Forgotten City introduces a lost underground Dwemer city inhabitated by unique characters.
 
