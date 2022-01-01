@@ -237,7 +237,7 @@ In addition to the new characters available in the AE Creation Club, Septimus in
 
 - [Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035) `2.0.0` - Lucien is a fully voiced Imperial follower with over 5000 lines of immersive, lore-friendly dialogue. Though he arrives in Skyrim as a cowardly scholar, he'll gradually gain strength and confidence by your side until he grows into a hero in his own right.
 
-## Secondary Companions
+### Secondary Companions
 
 - [Arissa The Wandering Rogue](https://www.nexusmods.com/skyrim/mods/53754/) `2.0.0` - Arissa is an Imperial with an independent, rebellious spirit and a gift for making expensive things disappear. She is a Skyrim companion character with over 600 lines of dialogue, professionally recorded and beautifully voiced by the talented Nikkita.
 
@@ -275,7 +275,7 @@ Septimus includes these optional mods, which can be enabled or disabled via MO2:
 
 - [The Dragonborn Dreams](https://www.nexusmods.com/skyrimspecialedition/mods/60384) `2.0.1` - The Dragonborn Dreams allows your character to occasionally wake up having had a (written) dream.
 
-- [Fast Travel for Survival Mode](https://www.nexusmods.com/skyrimspecialedition/mods/21067) `2.0.0` | `Default: Enabled` - Allow Fast Travel for Survival Mode.
+- [Fast Travel for Survival Mode](https://www.nexusmods.com/skyrimspecialedition/mods/21067) `2.0.0` `Enabled` - Allow Fast Travel for Survival Mode.
 
 - [Frozen Electrocuted Combustion](https://www.nexusmods.com/skyrimspecialedition/mods/3532) `2.0.1` - Applies visual effects to NPCs and the player, when killed by air, ash, dragons, drain, fire, frost, fear, lightning, poison, soultrap, steam and sun damage status effects.
 
