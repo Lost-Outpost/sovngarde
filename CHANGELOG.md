@@ -16,13 +16,15 @@
 
 ## Version 2.0.1 [Unreleased]
 + Added Major Cities Mesh Overhaul (Mesh Fixes for various locations)
++ Added Fish Anywhere With Water
 + Added CFTO Bittercup Fix
 + Added Radiant Requirements
 + Added Dragonborn Dreams (Optional)
 + Added Simple Load Screens (Optional)
 + Added Frozen Electrocuted Combustion (Optional)
 + Added eFPS patch for obscure's college
-+ Added Painterly Warpaints
++ Added Vanilla Warpaints Absolution
++ Added Vanilla Makeup HD
 + Added Northbourne Scars
 + Added New Beyond Skyrim - Bruma weapons for Alakir warriors
 + Adjusted Mirai's default outfit and body to be a bit more modest
