@@ -28,6 +28,7 @@
 + Added New Beyond Skyrim - Bruma weapons for Alakir warriors
 + Added HD Khajiit and Argonian Textures (Male and Female)
 + Added Literally Unplayable (Disables many broken hairstyles from mods)
++ Updated Survival Mode Improved
 + Updated Rebalancing Anniversary Edition - Quest Requirements
 + Adjusted Mirai's default outfit and body to be a bit more modest
 + Adjusted all ENBs to turn off big light range (for performance)
