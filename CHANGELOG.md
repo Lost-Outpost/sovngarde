@@ -34,6 +34,8 @@
 + Adjusted all ENBs to turn off big light range (for performance)
 + Fixed Dawnstar CFTO Carriage clipping
 + Fixed ACE Robes not getting the correct colors
++ Fixed Sitting NPCs sometimes floating in the air
++ Fixed Certain Wispmother being ultra loud
 
 ## Version 2.0.0
 + Added Optional Apothecary - Easy Mode
