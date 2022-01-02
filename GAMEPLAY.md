@@ -41,11 +41,11 @@ Septimus includes three alternative start mods, and you can optionally use MO2 t
 
 ## Quality of Life
 
-- [Ish's Respec Mod](https://www.nexusmods.com/skyrimspecialedition/mods/1960) `2.0.0` - Adds a potion allowing you to respec your perk points.
+- [Ish's Respec Mod](https://www.nexusmods.com/skyrimspecialedition/mods/1960) `2.0.0` - Adds a purchasable potion allowing you to respec your perk points.
 
 - [Simple Wearable Lanterns](https://www.nexusmods.com/skyrimspecialedition/mods/58464) `2.0.0` - Adds three brand new wearable lanterns
 
-   > **Note:** Craft your choice of lantern. Pressing the `L` key toggles the lantern.
+   > **Note:** Craft your choice of lantern. Once crafted and equipped, pressing the `L` key toggles the lantern.
 
 - [SmoothCam](https://www.nexusmods.com/skyrimspecialedition/mods/41252) `2.0.0` - SmoothCam is a highly configurable third-person camera, with smooth frame-interpolation and a raycasting crosshair to help you aim.
 
@@ -91,7 +91,7 @@ Septimus includes additional overhauls to promote balance:
 
 - [Forceful Tongue](https://www.nexusmods.com/skyrimspecialedition/mods/36276) `2.0.0` - Forceful tongue rebalances shouts in a manner similar to the above mods by Simon Magus. It allows your shouts to scale with your level as well as rebalancing several shouts to be more effective.
 
-- [Open World Loot](https://www.nexusmods.com/skyrimspecialedition/mods/49681) `2.0.0` - Open world loot is a rebalance of skyrim's loot system. It attempts to maintain the same open world feel of skyrim while adjusting the levels certain items appear and makes it so daedric and other special weapons must be acquired from special quests only. No longer will Iron equipment be completely irrelevant in a matter of a few hours.
+- [Open World Loot](https://www.nexusmods.com/skyrimspecialedition/mods/49681) `2.0.0` - Open world loot is a rebalance of Skyrim's loot system. It attempts to maintain the same open world feel of Skyrim while adjusting the levels certain items appear and makes it so daedric and other special weapons must be acquired from special quests only. No longer will Iron equipment be completely irrelevant in a matter of a few hours.
 
 - [Timing is Everything](https://www.nexusmods.com/skyrimspecialedition/mods/25464) `2.0.0` - Adjusts some quests to start at a later time to improve their balance as some quests have been made harder.
 
@@ -101,6 +101,8 @@ Septimus includes additional overhauls to promote balance:
 
 - [Dragon War - A Dragon Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/51310) `2.0.0` - Dragon War is a lightweight dragon combat overhaul. It will change the way you approach dragon encounters - now you are the prey and no longer the predator.
 
+- [Fish Anywhere With Water](https://www.nexusmods.com/skyrimspecialedition/mods/60915) `2.0.1` - Fish anywhere as long you are facing a nearby body of water.
+
 - [Haugbui - A Draugr Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26188) `2.0.0` - A lightweight overhaul providing balance adjustments, new items, unique boss designs, and some more variants to the draugr enemies.
 
 - [Nether's Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/55653) `2.0.0` - Nether's Follower Framework is a multi-follower system that is light on game resources and allows for up to 10 companions at one time. It provides a wealth of additional features, including immersion and quality-of-life functions to allow you to adventure with a small team of characters.
@@ -109,7 +111,11 @@ Septimus includes additional overhauls to promote balance:
 
 - [Skyrim's Got Talent - Improve As a Bard](https://www.nexusmods.com/skyrimspecialedition/mods/50357) `2.0.0` - Play instruments, get better, NPCs react to your skill dynamically, many new songs, lots of easter eggs, simple implementation.
 
-- [Skyrim's Paraglider](https://www.nexusmods.com/skyrimspecialedition/mods/53256) `2.0.0` - Adds a paraglider into the world similar to that in breath of the wild. You need to find it in the world to use it. Uses stamina while flying to be careful!
+  > **Note:** Try playing an instrument in a tavern at least once on your Septimus journey.
+
+- [Skyrim's Paraglider](https://www.nexusmods.com/skyrimspecialedition/mods/53256) `2.0.0` - Adds a paraglider into the world similar to that in breath of the wild. You need to find it in the world to use it.
+
+  > **Note:** Uses stamina while flying to be careful!
 
 - [Survival Mode](https://en.uesp.net/wiki/Skyrim:Survival_Mode) `2.0.0` - In Survival Mode, your greatest adversary is Skyrim itself. Unrelenting cold, harsh wilderness, famine and fatigue - do you have the strength to endure? (Survival Mode can be turned on or off in Settings menu.)
 
@@ -141,9 +147,9 @@ In addition to the new gear and equipment available in the AE Creation Club, Sep
 
 ## New Quests
 
-In addition to the new quests available in the AE Creation Club, Septimus includes lots of carefully chosen, integrated, and balanced quests. While many of these quests could be completed at earlier levels, the recommended levels describe a natural progression through Septimus content.
+In addition to the new quests available in the AE Creation Club, Septimus includes lots of carefully chosen, integrated, and balanced quests.
 
-The recommended levels are meant to represent a reasonable progression through the available content, not the minimum level at which a quest can be completed. Please provide feedback via the [TPF Discord](https://discord.gg/tpf) #sep-discussions channel if any of the recommended levels seem off.
+The recommended levels are meant to represent a natural progression through the available content, not the minimum level at which a quest can be completed. Please provide feedback via the [TPF Discord](https://discord.gg/tpf) #sep-discussions channel if any of the recommended levels seem off.
 
 ### Recommended Level: All
 
@@ -243,15 +249,17 @@ In addition to the new characters available in the AE Creation Club, Septimus in
 
 - [Brhuce Hammar Legacy](https://www.nexusmods.com/skyrimspecialedition/mods/47605) `2.0.0` - A new standalone, fully voiced companion, with his own unique equipment, AI, as well as five enormous quests that will take you through the realms of Oblivion, into space, and even give you a giant robot that you may pilot!
 
-- [Gladys The Corgi](https://www.nexusmods.com/skyrimspecialedition/mods/50164) `2.0.0` - Adds a friendly corgi companion to join you on your adventures!
-
-- [Merlin The Corgi](https://www.nexusmods.com/skyrimspecialedition/mods/56433) `2.0.0` - Adds a magical corgi companion to join you on your adventures!
-
 - [Mirai](https://www.nexusmods.com/skyrimspecialedition/mods/10908) `2.0.0` - Mirai is a young Breton mage living alone in the harsh frozen wastelands of Skyrim for close to a year. Originally from High Rock like the rest of her kind, you'll be quick to learn a situation with her father caused her to seek refuge alone in the lands of the north. What the situation was, however; she's not as open about.
 
 - [Kaidan 2](https://www.nexusmods.com/skyrimspecialedition/mods/19075) `2.0.0` - Rebuilt and expanded, this romantic follower features over 1200 lines of dialogue, custom home, and mini quests.
 
 - [Shirley](https://www.nexusmods.com/skyrimspecialedition/mods/45956) `2.0.0` - Shirley Curry, the beloved Skyrim Grandma, finally comes to the game as a follower you can recruit! She'll join you on your adventures, but don't expect her to simply carry your burdens! She's got more personality than all the vanilla followers combined, and we're sure she'll be a great companion, and a friend. And a grandma!
+
+### Good Doggos
+
+- [Gladys The Corgi](https://www.nexusmods.com/skyrimspecialedition/mods/50164) `2.0.0` - Adds a friendly corgi companion to join you on your adventures!
+
+- [Merlin The Corgi](https://www.nexusmods.com/skyrimspecialedition/mods/56433) `2.0.0` - Adds a magical corgi companion to join you on your adventures!
 
 ### Enhanced Followers
 
@@ -259,7 +267,7 @@ In addition to the new characters available in the AE Creation Club, Septimus in
 
 - [Serana Dialogue Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/32161) `2.0.0` - An improvement to Serana's dialogue and functionalities as an NPC, making her feel more immersive and organic within the world of Skyrim.
 
-### Enhanced Citizens
+### Enhanced Citizens and New Followers
 
 - [Citizens of Tamriel](https://www.nexusmods.com/skyrimspecialedition/mods/29069) `2.0.0` - A tribute to old-school RPGs that adds some much-needed life to Skyrim's NPCs. Features all new, fully-voiced characters, unique followers, branching dialogue and more!
 
