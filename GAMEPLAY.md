@@ -93,7 +93,13 @@ Septimus includes additional overhauls to promote balance:
 
 - [Open World Loot](https://www.nexusmods.com/skyrimspecialedition/mods/49681) `2.0.0` - Open world loot is a rebalance of Skyrim's loot system. It attempts to maintain the same open world feel of Skyrim while adjusting the levels certain items appear and makes it so daedric and other special weapons must be acquired from special quests only. No longer will Iron equipment be completely irrelevant in a matter of a few hours.
 
+- [Radiant Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/45427) `2.0.1` - Modifies select radiant quests so that they don't send you to locations with dangerous enemies until your level is high enough.
+
+- [Rebalancing Anniversary Edition - Quest Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/61004) `2.0.1` - Creation Club content being thrown at you from level 1 completely destroyed any sense of progression in the game. This mod changes that. No more dragonbone and daedric artifacts at level 1.
+
 - [Timing is Everything](https://www.nexusmods.com/skyrimspecialedition/mods/25464) `2.0.0` - Adjusts some quests to start at a later time to improve their balance as some quests have been made harder.
+
+Finally, Septimus includes custom patches for added content to promote balance.
 
 ## New Mechanics
 
@@ -115,7 +121,7 @@ Septimus includes additional overhauls to promote balance:
 
 - [Skyrim's Paraglider](https://www.nexusmods.com/skyrimspecialedition/mods/53256) `2.0.0` - Adds a paraglider into the world similar to that in breath of the wild. You need to find it in the world to use it.
 
-  > **Note:** Uses stamina while flying to be careful!
+  > **Note:** Uses stamina while flying so be careful!
 
 - [Survival Mode](https://en.uesp.net/wiki/Skyrim:Survival_Mode) `2.0.0` - In Survival Mode, your greatest adversary is Skyrim itself. Unrelenting cold, harsh wilderness, famine and fatigue - do you have the strength to endure? (Survival Mode can be turned on or off in Settings menu.)
 
@@ -123,7 +129,7 @@ Septimus includes additional overhauls to promote balance:
 
 - [TK Dodge RE](https://www.nexusmods.com/skyrimspecialedition/mods/56956) `2.0.0` - TK Dodge introduces a lightweight dodge mechanic where you can dodge out of the way of attacks for a stamina cost.
 
-   > **Note:** Tapping the sprint key and any other directional key will cause your character to dodge in that direction
+   > **Note:** Tapping the sprint key and any other directional key will cause your character to dodge in that direction.
 
 ## New Gear and Equipment
 
@@ -303,60 +309,70 @@ Septimus includes these optional mods, which can be enabled or disabled via MO2:
 
 ## Adjusted Minimum Levels
 
-To maintain balance, Septimus uses [Timing is Everything](https://www.nexusmods.com/skyrimspecialedition/mods/25464) and [Anniversary Edition Level Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/60761) to adjust the required minimum level of various quests and content.
+To maintain balance, Septimus uses [Timing is Everything](https://www.nexusmods.com/skyrimspecialedition/mods/25464), [Rebalancing Anniversary Edition - Quest Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/61004), and [Radiant Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/45427) to adjust the required minimum level of various quests and content.
 
-| Content Source | Content Name                       | Min Lvl |
-|:---------------|:-----------------------------------|:-------:|
-| Skyrim         | The Cursed Tribe                   |   24    |
-| Skyrim         | The Break of Dawn                  |   29    |
-| Skyrim         | The Only Cure                      |   21    |
-| Skyrim         | A Night to Remember                |   20    |
-| Skyrim         | Discerning the Transmundane        |   25    |
-| Skyrim         | The Whispering Door                |   27    |
-| Skyrim         | Pieces of the Past                 |   22    |
-| Skyrim         | Boethiah's Calling                 |   30    |
-| Skyrim         | The Wolf Queen Awakened            |   24    |
-| Skyrim         | Unfathomable Depths                |   19    |
-| Skyrim         | Grimsever's Return                 |   19    |
-| Skyrim         | Kill the Giant                     |   24    |
-| Skyrim         | Dungeon Delving                    |   14    |
-| Skyrim         | Kill the Vampire                   |   24    |
-| Skyrim         | Deathbrand                         |   34    |
-| Skyrim         | Ebony Warrior                      |   65    |
-| Skyrim         | Hired Assassin                     |   10    |
-| Hearthfire DLC | Build Your Own Home                |   12    |
-| Dragonborn DLC | Dragonborn                         |   30    |
-| Dawnguard DLC  | Vampire Attacks                    |   20    |
-| Dawnguard DLC  | Dawnguard Recruitment              |   20    |
-| Creation Club  | Bittercup                          |   30    |
-| Creation Club  | Bloodchill Manor                   |   28    |
-| Creation Club  | Bow of Shadows                     |   35    |
-| Creation Club  | Civil War Champions (neutrals)     |   20    |
-| Creation Club  | Dawnfang and Duskfang              |   30    |
-| Creation Club  | Forgotten Seasons                  |   20    |
-| Creation Club  | Gallows Hall                       |   35    |
-| Creation Club  | Ghosts of the Tribunal             |   35    |
-| Creation Club  | Goldbrand                          |   40    |
-| Creation Club  | Headman's Cleaver                  |   30    |
-| Creation Club  | Lord's Mail                        |   36    |
-| Creation Club  | Redguard Elite Armaments           |   30    |
-| Creation Club  | Ruin's Edge                        |   33    |
-| Creation Club  | Saints and Seducers                |   32    |
-| Creation Club  | Shadowrend                         |   34    |
-| Creation Club  | Spell Knight Armor                 |   38    |
-| Creation Club  | Sunder and Wraithguard             |   35    |
-| Creation Club  | The Cause                          |   46    |
-| Creation Club  | The Contest                        |   25    |
-| Creation Club  | Umbra                              |   30    |
-| Creation Club  | Alternative Armors - Daedric Mail  |   65    |
-| Creation Club  | Alternative Armors - Daedric Plate |   65    |
-| Creation Club  | Alternative Armors - Dragon Plate  |   65    |
-| Creation Club  | Alternative Armors - Dragonscale   |   65    |
-| Creation Club  | Alternative Armors - Dwarven Mail  |   15    |
-| Creation Club  | Alternative Armors - Dwarven Plate |   15    |
-| Creation Club  | Alternative Armors - Ebony Plate   |   36    |
-| Creation Club  | Alternative Armors - Elven Hunter  |   25    |
-| Creation Club  | Alternative Armors - Orcish Plate  |   28    |
-| Creation Club  | Alternative Armors - Orcish Scaled |   30    |
-| Creation Club  | Alternative Armors - Silver        |   18    |
-| Creation Club  | Alternative Armors - Stalhrim Fur  |   40    |
+| Content Source | Content Name                       | Min Lvl  |
+|:---------------|:-----------------------------------|:--------:|
+| Skyrim         | The Cursed Tribe                   |    24    |
+| Skyrim         | The Break of Dawn                  |    29    |
+| Skyrim         | The Only Cure                      |    21    |
+| Skyrim         | A Night to Remember                |    20    |
+| Skyrim         | Discerning the Transmundane        |    25    |
+| Skyrim         | The Whispering Door                |    27    |
+| Skyrim         | Pieces of the Past                 |    22    |
+| Skyrim         | Boethiah's Calling                 |    30    |
+| Skyrim         | The Wolf Queen Awakened            |    24    |
+| Skyrim         | Unfathomable Depths                |    19    |
+| Skyrim         | Grimsever's Return                 |    19    |
+| Skyrim         | Kill the Giant                     |    24    |
+| Skyrim         | Dungeon Delving                    |    14    |
+| Skyrim         | Kill the Vampire                   |    24    |
+| Skyrim         | Deathbrand                         |    34    |
+| Skyrim         | Ebony Warrior                      |    65    |
+| Skyrim         | Hired Assassin                     |    10    |
+| Skyrim         | Radiant - Dragon Lair              |    10    |
+| Skyrim         | Radiant - Draugr Crypt             |    1     |
+| Skyrim         | Radiant - Forsworn Camp            |    1     |
+| Skyrim         | Radiant - Hargraven Nest           |    20    |
+| Skyrim         | Radiant - Vampire Lair             |    1     |
+| Skyrim         | Radiant - Werewolf Lair            |    8     |
+| Skyrim         | Radiant - Dragon Priest Lair       |    20    |
+| Skyrim         | Radiant - Falmer Hive              |    8     |
+| Skyrim         | Radiant - Giant Camp               |    20    |
+| Skyrim         | Radiant - Spriggan Cave            |    8     |
+| Skyrim         | Radiant - Warlock Lair             |    1     |
+| Hearthfire DLC | Build Your Own Home                |    12    |
+| Dragonborn DLC | Dragonborn                         |    30    |
+| Dawnguard DLC  | Vampire Attacks                    |    20    |
+| Dawnguard DLC  | Dawnguard Recruitment              |    20    |
+| Creation Club  | Alternative Armors - Daedric Plate |    50    |
+| Creation Club  | Alternative Armors - Dragon Plate  |    50    |
+| Creation Club  | Alternative Armors - Dragonscale   |    50    |
+| Creation Club  | Alternative Armors - Dwarven Mail  |    15    |
+| Creation Club  | Alternative Armors - Dwarven Plate |    15    |
+| Creation Club  | Alternative Armors - Ebony Plate   |    36    |
+| Creation Club  | Alternative Armors - Elven Hunter  |    30    |
+| Creation Club  | Alternative Armors - Leather       |    27    |
+| Creation Club  | Alternative Armors - Orcish Plate  |    27    |
+| Creation Club  | Alternative Armors - Orcish Scale  |    30    |
+| Creation Club  | Alternative Armors - Silver        |    18    |
+| Creation Club  | Alternative Armors - Stalhrim      |    40    |
+| Creation Club  | Player Homes - Hendraheim          |    25    |
+| Creation Club  | Player Homes - Myrwatch            | 350 mana |
+| Creation Club  | Player Homes - Gallows Hall        |    35    |
+| Creation Club  | Quests - Ghosts of the Tribunal    |    36    |
+| Creation Club  | Quests - Bittercup                 |    28    |
+| Creation Club  | Quests - The Contest               |    25    |
+| Creation Club  | Quests - Divine Crusader           |    35    |
+| Creation Club  | Quests - Civil War Champions       |    20    |
+| Creation Club  | Quests - The Cause                 |    50    |
+| Creation Club  | Quests - Lord's Mail               |    42    |
+| Creation Club  | Quests - Redguard Elite Armaments  |    30    |
+| Creation Club  | Quests - Saints and Seducers       |    30    |
+| Creation Club  | Quests - Spell Knight Armor        |    38    |
+| Creation Club  | Quests - Vigil Enforcer Armor      |    18    |
+| Creation Club  | Weapons - Bow of Shadows           |    36    |
+| Creation Club  | Weapons - Dawnfang & Duskfang      |    30    |
+| Creation Club  | Weapons - Goldbrand                |    40    |
+| Creation Club  | Weapons - Headman's Cleaver        |    32    |
+| Creation Club  | Weapons - Ruin's Edge              |    36    |
