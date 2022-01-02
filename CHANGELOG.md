@@ -40,6 +40,7 @@
 + Fixed ACE Robes not getting the correct colors
 + Fixed Sitting NPCs sometimes floating in the air
 + Fixed Certain Wispmother being ultra loud
++ Removed Knight of The North
 
 ## Version 2.0.0
 + Added Optional Apothecary - Easy Mode
