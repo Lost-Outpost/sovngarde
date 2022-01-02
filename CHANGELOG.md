@@ -14,7 +14,7 @@
 
 # Changelog
 
-## Version 2.0.1 [Unreleased]
+## Version 2.0.1
 + Added Major Cities Mesh Overhaul (Mesh Fixes for various locations)
 + Added Fish Anywhere With Water
 + Added CFTO Bittercup Fix
