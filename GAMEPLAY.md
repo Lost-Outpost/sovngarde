@@ -19,11 +19,25 @@ This guide highlights major gameplay mods included in Septimus in the following 
 - [Alternate Start](#alternate-start)
 - [Quality of Life](#quality-of-life)
 - [Balance Changes](#balance-changes)
+  - [SimonRim](#balance-simonrim)
+  - [Other Overhauls](#balance-overhauls)
+  - [Septimus Patches](#balance-septimus)
 - [New Mechanics](#new-mechanics)
 - [New Gear and Equipment](#new-gear-and-equipment)
 - [New Quests](#new-quests)
+  - [Recommended Level: All](#quests-all)
+  - [Recommended Level: 10+](#quests-10)
+  - [Recommended Level: 20+](#quests-20)
+  - [Recommended Level: 30+](#quests-30)
+  - [Recommended Level: 40+](#quests-40)
+  - [Recommended Level: 50+](#quests-50)
 - [New Homes](#new-homes)
 - [New Characters](#new-characters)
+  - [Primary Companions](#characters-primary)
+  - [Secondary Companions](#characters-secondary)
+  - [Good Doggos](#characters-doggos)
+  - [Enhanced Followers](#characters-enhanced)
+  - [Enhanced Citizens and New Followers](#enhanced-citizens)
 - [Optional Mods](#optional-mods)
 - [Adjusted Minimum Levels](#adjusted-min-levels)
 
@@ -59,6 +73,8 @@ Septimus includes three alternative start mods, and you can optionally use MO2 t
 
 ## Balance Changes
 
+### SimonRim
+
 Septiums includes all of [Simon Magus Overhauls (SimonRim)](https://www.nexusmods.com/skyrimspecialedition/users/67410746?tab=user+files). SimonRim overhauls various systems in Skyrim in a way that stays true to the original while improving the balance and gameplay, and includes:
 
 - [Aetherius](https://www.nexusmods.com/skyrimspecialedition/mods/26686) `2.0.0` - A rework of all race abilities as well as the removal of powers in favor of better passive abilities
@@ -85,6 +101,8 @@ Septiums includes all of [Simon Magus Overhauls (SimonRim)](https://www.nexusmod
 
 - [Thamaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138) `2.0.0` - An enchanting overhaul which fixes some major issues with enchanting balance
 
+### Other Overhauls
+
 Septimus includes additional overhauls to promote balance:
 
 - [Carriage and Ferry Travel Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/8379) `2.0.0` - CFTO introduces new ways to travel around skyrim including new carriage locations and new boats to increase the ease of traveling skyrim in an immersive way.
@@ -98,6 +116,8 @@ Septimus includes additional overhauls to promote balance:
 - [Rebalancing Anniversary Edition - Quest Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/61004) `2.0.1` - Creation Club content being thrown at you from level 1 completely destroyed any sense of progression in the game. This mod changes that. No more dragonbone and daedric artifacts at level 1.
 
 - [Timing is Everything](https://www.nexusmods.com/skyrimspecialedition/mods/25464) `2.0.0` - Adjusts some quests to start at a later time to improve their balance as some quests have been made harder.
+
+### Septimus Patches
 
 Finally, Septimus includes custom patches for added content to promote balance.
 
