@@ -17,7 +17,6 @@
 ## Version 2.0.2 [Unreleased]
 + Added Dead Shrubs Replacer
 + Added Beyond Skyrim Bruma CC Armor Integration
-+ Added Here To Help
 
 ## Version 2.0.1
 + Added Major Cities Mesh Overhaul (Mesh Fixes for various locations)
