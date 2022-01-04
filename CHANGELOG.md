@@ -20,6 +20,8 @@
 + Added Landscape Fixes for Grass Mods - JK's Skyrim Patch
 + Added Sidequests of Skyrim (Optional)
 + Added Atlas Map Markers (Optional)
++ Added ClefJ's Fort Dawnguard + Patches
++ Added New Madness
 + Fixed Majestic Mountains Clipping issues with some CC content
 
 ## Version 2.0.1
