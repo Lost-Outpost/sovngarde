@@ -18,6 +18,8 @@
 + Added Dead Shrubs Replacer
 + Added Beyond Skyrim Bruma CC Armor Integration
 + Added Landscape Fixes for Grass Mods - JK's Skyrim Patch
++ Added Sidequests of Skyrim (Optional)
++ Added Atlas Map Markers (Optional)
 + Fixed Majestic Mountains Clipping issues with some CC content
 
 ## Version 2.0.1
