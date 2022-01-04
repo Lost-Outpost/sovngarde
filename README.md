@@ -135,11 +135,11 @@ Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-to
 
 The download and installation process can take a little while (an hour or more) depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
-1. Download the latest release of `Septimus` from the Wabbajack Browse Modlists page
-2. Create a folder for the List at the root of your drive (like the Wabbajack folder) called "Septimus"
-3. Open the Septimus .wabbajack file and select the created folder in 3. as your installation folder
-4. Go back to your drive, and create a new folder, called "Wabbajack Downloads Folder". This specific folder can be on a different drive if you wish
-5. Select the created folder in step 3 as your downloads folder
+1. Create a folder for the List at the root of your drive (like the Wabbajack folder) called "Septimus"
+2. Go back to your drive, and create a new folder, called "Wabbajack Downloads Folder". This specific folder can be on a different drive if you wish
+3. Download the latest release of `Septimus` from the Wabbajack Browse Modlists page
+4. Select the created folder in step 1 as your installation folder
+5. Select the created folder in step 2 as your downloads folder
 6. Click the Go/Begin button and wait for Wabbajack to finish
 7. Set up creation club content for anniversary edition profile with instructions [here](https://github.com/Guitarninja2/septimus/blob/main/CONFIGURATION.md#creation-club-setup)
 
