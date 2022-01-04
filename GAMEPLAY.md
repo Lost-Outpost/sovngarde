@@ -211,8 +211,6 @@ The recommended levels are meant to represent a natural progression through the 
 
 - [Moonpath to Elsweyr](https://www.nexusmods.com/skyrimspecialedition/mods/4341)  `2.0.0` - Explore the mysterious continent of Elsweyr.
 
-- [New Madness](https://www.nexusmods.com/skyrimspecialedition/mods/61213) `2.0.2` - A simple Overhaul of the Mind of Plagius and the Left Wing of the Blue Palace.
-
 - [The Tale of Tsatampra Xiros](https://www.nexusmods.com/skyrimspecialedition/mods/36707) `2.0.0` - Explore a world contained within the pages of a sorcerous text, and earn the favor of the Daedric Prince Hermaeus Mora.
 
 ### Recommended Level: 30+
