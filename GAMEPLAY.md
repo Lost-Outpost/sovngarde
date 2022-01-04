@@ -25,12 +25,12 @@ This guide highlights major gameplay mods included in Septimus in the following 
 - [New Mechanics](#new-mechanics)
 - [New Gear and Equipment](#new-gear-and-equipment)
 - [New Quests](#new-quests)
-  - [Recommended Level: All](#recommended-level:-all)
-  - [Recommended Level: 10+](#recommended-level:-10+)
-  - [Recommended Level: 20+](#recommended-level:-20+)
-  - [Recommended Level: 30+](#recommended-level:-30+)
-  - [Recommended Level: 40+](#recommended-level:-40+)
-  - [Recommended Level: 50+](#recommended-level:-50+)
+  - [Recommended Level - All](#recommended-level---all)
+  - [Recommended Level - 10 and up](#recommended-level---10-and-up)
+  - [Recommended Level - 20 and up](#recommended-level---20-and-up)
+  - [Recommended Level - 30 and up](#recommended-level---30-and-up)
+  - [Recommended Level - 40 and up](#recommended-level---40-and-up)
+  - [Recommended Level - 50 and up](#recommended-level---50-and-up)
 - [New Homes](#new-homes)
 - [New Characters](#new-characters)
   - [Primary Companions](#primary-companions)
@@ -177,7 +177,7 @@ In addition to the new quests available in the AE Creation Club, Septimus includ
 
 The recommended levels are meant to represent a natural progression through the available content, not the minimum level at which a quest can be completed. Please provide feedback via the [TPF Discord](https://discord.gg/tpf) #sep-discussions channel if any of the recommended levels seem off.
 
-### Recommended Level: All
+### Recommended Level - All
 
 - [Aethernautics- A Space Travel Mod](https://www.nexusmods.com/skyrimspecialedition/mods/436?) `2.0.0` - The classic spaceship mod returns! New weapons, a new dungeon, and a spaceship await!
 
@@ -193,7 +193,7 @@ The recommended levels are meant to represent a natural progression through the 
 
 - [Pit Fighter](https://www.nexusmods.com/skyrimspecialedition/mods/22513) `2.0.0` - Pit Fighter contains an all new faction to join, complete with NPCs, progression through the ranks, unique rewards and side quests.
 
-### Recommended Level: 10+
+### Recommended Level - 10 and up
 
 - [Beyond Skyrim - Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917) `2.0.0` - Beyond Skyrim - Bruma introduces a completely new DLC-sized area south of Skyrim with many new quests and encounters to be had.
 
@@ -201,7 +201,7 @@ The recommended levels are meant to represent a natural progression through the 
 
 - [TrainFight](https://www.nexusmods.com/skyrimspecialedition/mods/58269?tab=posts) `2.0.0` - Fight your way atop, through, and inside the belly of a fully animated, fully detailed steam locomotive.
 
-### Recommended Level: 20+
+### Recommended Level - 20 and up
 
 - [Carved Brink](https://www.nexusmods.com/skyrimspecialedition/mods/24351) `2.0.0` - Carved Brink is a large quest modification, from the authors of “Project AHO”. This mod adds to Skyrim: a daedric plan of Peryite - The Pits, and an unknown part of Oblivion - Faceted Stones.
 
@@ -211,9 +211,11 @@ The recommended levels are meant to represent a natural progression through the 
 
 - [Moonpath to Elsweyr](https://www.nexusmods.com/skyrimspecialedition/mods/4341)  `2.0.0` - Explore the mysterious continent of Elsweyr.
 
+- [New Madness](https://www.nexusmods.com/skyrimspecialedition/mods/61213) `2.0.2` - A simple Overhaul of the Mind of Plagius and the Left Wing of the Blue Palace.
+
 - [The Tale of Tsatampra Xiros](https://www.nexusmods.com/skyrimspecialedition/mods/36707) `2.0.0` - Explore a world contained within the pages of a sorcerous text, and earn the favor of the Daedric Prince Hermaeus Mora.
 
-### Recommended Level: 30+
+### Recommended Level - 30 and up
 
 - [The Forgotten City](https://www.nexusmods.com/skyrimspecialedition/mods/1179) `2.0.0` - The Forgotten City introduces a lost underground Dwemer city inhabitated by unique characters.
 
@@ -225,11 +227,11 @@ The recommended levels are meant to represent a natural progression through the 
 
 - [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565) `2.0.0` - Travel to a new DLC-sized island and investigate a powerful dragon for the East Empire Company.
 
-### Recommended Level: 40+
+### Recommended Level - 40 and up
 
 - [The Wheels of Lul](https://www.nexusmods.com/skyrimspecialedition/mods/748) `2.0.0` - Return to Sotha Sil and enter the stranger side of TES lore, as you join the ranks of the mysterious Chronographers in this fully voiced DLC-sized mod that adds over a dozen new quests, multiple new armors and weapons, sprawling dungeons, unique boss fights, and much much more!
 
-### Recommended Level: 50+
+### Recommended Level - 50 and up
 
 - [Beyond Reach](https://www.nexusmods.com/skyrimspecialedition/mods/3008) `2.0.0` - Beyond Reach is a DLC sized mod that takes place in the east of High Rock, commonly known as The Reach. You will experience a story of intrigue, conspiracies sowed by both men and gods, and the struggles of those in the most squalid situations.
 
@@ -248,6 +250,8 @@ In addition to the new player homes available in the AE Creation Club, Septimus 
 - [Blackthorn](https://www.nexusmods.com/skyrimspecialedition/mods/2242) `2.0.0` - Blackthorn is a large Hearthfire inspired buildable player home and town with over 400+ build options to choose from, it also includes plenty of Safe Storage, Hearthfire Style Planters, Armor Mannequins, Displays for Dragon Priest Masks, Claws, Black Books, Paragons, Weapon Racks, Display Cases, New Merchants, Indoor Smithing Area, Plenty of room for Followers and Multiple Adoption Friendly.
 
 - [Cityside](https://www.nexusmods.com/skyrimspecialedition/mods/27777) `2.0.0` - A simple and minimal starter home based in the heart of the capital of Skyrim, the city of Solitude. Designed for immersion and/or roleplaying based playthroughs.
+
+- [ClefJ's Fort Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/33044) `2.0.2` - A complete architectural overhaul for Fort Dawnguard; now a proper castle!
 
 - [Dovahkiin's Vault](https://www.nexusmods.com/skyrimspecialedition/mods/42237) `2.0.0` - A small vault in the Throat of the World for storing away all those sketchy arcane objects in a safe location away from innocent people and your family. Only accessible with Clear Skies shout.
 
@@ -303,6 +307,8 @@ In addition to the new characters available in the AE Creation Club, Septimus in
 
 Septimus includes these optional mods, which can be enabled or disabled via MO2:
 
+- [Atlas Map Markers SE - Updated with MCM](https://www.nexusmods.com/skyrimspecialedition/mods/24104) `2.0.2` - This is an update to Kronixx's classic mod, Atlas Map Markers. It adds MCM options with full control over the new markers, as well as all of the vanilla map markers.
+
 - [Complete Widescreen Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1778) `2.0.0` - It's a fix for a Widescreen 2560x1080, 3440x1440 Vanilla and SkyUI.
 
 - [The Dragonborn Dreams](https://www.nexusmods.com/skyrimspecialedition/mods/60384) `2.0.1` - The Dragonborn Dreams allows your character to occasionally wake up having had a (written) dream.
@@ -314,6 +320,8 @@ Septimus includes these optional mods, which can be enabled or disabled via MO2:
 - [Helgen Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/5673) `2.0.0` - Helgen Reborn is a fully voiced adventure with over 20 superb voice actors. As you help rebuild the town you'll reunite two old friends, uncover an underground slavery ring, battle in an arena and many other adventures!
 
   > **Note:** Only enable after leaving Helgen. You will find a book to start the quest in The Bannered Mare.
+
+- [Sidequests of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/54245) `2.0.2` - Perform radiant side quests for almost any NPC. Get rewarded and become friends with NPCs
 
 - [No Killmoves - No Killcams - No Killbites SE](https://www.nexusmods.com/skyrimspecialedition/mods/13395) `2.0.0` - This mod disables melee finishing moves, ranged/magic slow-motion kills, and dragon bite-and-throw attacks. The goal is to have more intense fights with less cheap deaths. The only killcam still enabled is the view that's shown when you're already dead.
 
