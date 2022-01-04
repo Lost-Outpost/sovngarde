@@ -22,6 +22,7 @@
 + Added Atlas Map Markers (Optional)
 + Added ClefJ's Fort Dawnguard + Patches
 + Added New Madness
++ Added BSA Files for (Darkend, 3DNPCs, Vigilant HD Textures) for improved load times
 + Fixed Majestic Mountains Clipping issues with some CC content
 
 ## Version 2.0.1
