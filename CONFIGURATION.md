@@ -23,7 +23,7 @@
 - [Mod Configuration](#mod-configuration)
   - [MCM Menus](#mcm-menus)
   - [TK Dodge RE](#tk-dodge-re)
-  - [ENB and Reshade Presets](#ENB-and-Reshade-Presets)
+- [ENB and Reshade Presets](#ENB-and-Reshade-Presets)
 - [Performance Guide](#performance-guide)
 
 ## Mod Organizer 2 Profiles
@@ -52,7 +52,7 @@ When you have setup Creation Club content correctly, your Septimus MO2 will look
 ## Alternate Start
 
 - Septimus is configured with optional alternate start mods which you can enable. If you do, be sure to move them in the right panel just above any patches which start with Septimus - as seen in the screenshot below.
-- If you enable Live another life, be sure the esp files for it are loaded in the exact order shown in the screenshot below or it may not function properly
+- If you enable Live another life, be sure the esp files (in the plugin tab on the right of mo2) are loaded in the exact order shown in the screenshot below or it may not function properly
 
 ![Exe List](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/altstartloadorder.png)
 
@@ -86,7 +86,7 @@ If you wish to change the dodge key, do the following:
 - Change EnableTappingDodge to false to change the keybind
 - Change DodgeHotkey to your prefered one by using instructions [here](https://www.creationkit.com/index.php?title=Input_Script#DXScanCodes)
 
-### ENB and Reshade Presets
+## ENB and Reshade Presets
 
 Septimus includes an awesome tool called ENB Organizer for trying out different ENB and Reshade presets.
 
@@ -101,9 +101,7 @@ To change ENB & Reshade presets, do the following:
 
 ![Enb Organizer](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/enb_enable.png)
 
-- Low spec users or first time players may want to choose the Cathedral Minimalist profile to start
-
-- The Reshade presets are also performance friendly and look great!
+- Low spec users or first time players may want to stick with the default (Davinci Reshade) profile to start
 
 ## Performance Guide
 

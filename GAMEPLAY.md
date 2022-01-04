@@ -25,12 +25,12 @@ This guide highlights major gameplay mods included in Septimus in the following 
 - [New Mechanics](#new-mechanics)
 - [New Gear and Equipment](#new-gear-and-equipment)
 - [New Quests](#new-quests)
-  - [Recommended Level - All](#recommended-level---all)
-  - [Recommended Level - 10 and up](#recommended-level---10-and-up)
-  - [Recommended Level - 20 and up](#recommended-level---20-and-up)
-  - [Recommended Level - 30 and up](#recommended-level---30-and-up)
-  - [Recommended Level - 40 and up](#recommended-level---40-and-up)
-  - [Recommended Level - 50 and up](#recommended-level---50-and-up)
+  - [Recommended Level: All](#recommended-level-all)
+  - [Recommended Level: 10+](#recommended-level-10+)
+  - [Recommended Level: 20+](#recommended-level-20+)
+  - [Recommended Level: 30+](#recommended-level-30+)
+  - [Recommended Level: 40+](#recommended-level-40+)
+  - [Recommended Level: 50+](#recommended-level-50+)
 - [New Homes](#new-homes)
 - [New Characters](#new-characters)
   - [Primary Companions](#primary-companions)
@@ -177,7 +177,7 @@ In addition to the new quests available in the AE Creation Club, Septimus includ
 
 The recommended levels are meant to represent a natural progression through the available content, not the minimum level at which a quest can be completed. Please provide feedback via the [TPF Discord](https://discord.gg/tpf) #sep-discussions channel if any of the recommended levels seem off.
 
-### Recommended Level - All
+### Recommended Level: All
 
 - [Aethernautics- A Space Travel Mod](https://www.nexusmods.com/skyrimspecialedition/mods/436?) `2.0.0` - The classic spaceship mod returns! New weapons, a new dungeon, and a spaceship await!
 
@@ -193,7 +193,7 @@ The recommended levels are meant to represent a natural progression through the 
 
 - [Pit Fighter](https://www.nexusmods.com/skyrimspecialedition/mods/22513) `2.0.0` - Pit Fighter contains an all new faction to join, complete with NPCs, progression through the ranks, unique rewards and side quests.
 
-### Recommended Level - 10 and up
+### Recommended Level: 10+
 
 - [Beyond Skyrim - Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917) `2.0.0` - Beyond Skyrim - Bruma introduces a completely new DLC-sized area south of Skyrim with many new quests and encounters to be had.
 
@@ -201,7 +201,7 @@ The recommended levels are meant to represent a natural progression through the 
 
 - [TrainFight](https://www.nexusmods.com/skyrimspecialedition/mods/58269?tab=posts) `2.0.0` - Fight your way atop, through, and inside the belly of a fully animated, fully detailed steam locomotive.
 
-### Recommended Level - 20 and up
+### Recommended Level: 20+
 
 - [Carved Brink](https://www.nexusmods.com/skyrimspecialedition/mods/24351) `2.0.0` - Carved Brink is a large quest modification, from the authors of “Project AHO”. This mod adds to Skyrim: a daedric plan of Peryite - The Pits, and an unknown part of Oblivion - Faceted Stones.
 
@@ -215,7 +215,7 @@ The recommended levels are meant to represent a natural progression through the 
 
 - [The Tale of Tsatampra Xiros](https://www.nexusmods.com/skyrimspecialedition/mods/36707) `2.0.0` - Explore a world contained within the pages of a sorcerous text, and earn the favor of the Daedric Prince Hermaeus Mora.
 
-### Recommended Level - 30 and up
+### Recommended Level: 30+
 
 - [The Forgotten City](https://www.nexusmods.com/skyrimspecialedition/mods/1179) `2.0.0` - The Forgotten City introduces a lost underground Dwemer city inhabitated by unique characters.
 
@@ -227,11 +227,11 @@ The recommended levels are meant to represent a natural progression through the 
 
 - [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565) `2.0.0` - Travel to a new DLC-sized island and investigate a powerful dragon for the East Empire Company.
 
-### Recommended Level - 40 and up
+### Recommended Level: 40+
 
 - [The Wheels of Lul](https://www.nexusmods.com/skyrimspecialedition/mods/748) `2.0.0` - Return to Sotha Sil and enter the stranger side of TES lore, as you join the ranks of the mysterious Chronographers in this fully voiced DLC-sized mod that adds over a dozen new quests, multiple new armors and weapons, sprawling dungeons, unique boss fights, and much much more!
 
-### Recommended Level - 50 and up
+### Recommended Level: 50+
 
 - [Beyond Reach](https://www.nexusmods.com/skyrimspecialedition/mods/3008) `2.0.0` - Beyond Reach is a DLC sized mod that takes place in the east of High Rock, commonly known as The Reach. You will experience a story of intrigue, conspiracies sowed by both men and gods, and the struggles of those in the most squalid situations.
 
