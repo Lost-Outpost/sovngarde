@@ -41,6 +41,11 @@ This guide highlights major gameplay mods included in Septimus in the following 
 - [Optional Mods](#optional-mods)
 - [Adjusted Minimum Levels](#adjusted-minimum-levels)
 
+Icons:
+
+- :star2: indicates additions to the gameplay guide since the last release
+- :information_source: indicates Septimus notes on the content
+
 ## Alternate Start
 
 By default, Septimus uses the traditional Skyrim opening scene with you as a prisoner riding on a carriage to your intended execution.
@@ -59,17 +64,17 @@ Septimus includes three alternative start mods, and you can optionally use MO2 t
 
 - [Simple Wearable Lanterns](https://www.nexusmods.com/skyrimspecialedition/mods/58464) `2.0.0` - Adds three brand new wearable lanterns
 
-   > **Note:** Craft your choice of lantern. Once crafted and equipped, pressing the `L` key toggles the lantern.
+   > :information_source: Craft your choice of lantern. Once crafted and equipped, pressing the <kbd>L</kbd> key toggles the lantern.
 
 - [SmoothCam](https://www.nexusmods.com/skyrimspecialedition/mods/41252) `2.0.0` - SmoothCam is a highly configurable third-person camera, with smooth frame-interpolation and a raycasting crosshair to help you aim.
 
-   > **Note:** By default, the [Modern Camera](https://www.nexusmods.com/skyrimspecialedition/mods/41636) preset is included but you're free to try another.
+   > :information_source: By default, the [Modern Camera](https://www.nexusmods.com/skyrimspecialedition/mods/41636) preset is included but you're free to try another.
 
 - [Sweeping Organizes Stuff](https://www.nexusmods.com/skyrimspecialedition/mods/51645) `2.0.0` - Use broom to clean up physics mess
 
 - [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614) `2.0.0` - Overhauls the third person gameplay similarly to modern action RPGs, entirely through SKSE. Move and attack in any direction. Includes a custom target lock component and animated healthbar widget, target headtracking, projectile aim support during target lock, boss bars, mount support and more! Modular and customizable through MCM.
 
-   > **Note:** By default, use the middle mouse to lock on to enemies and the mouse wheel to switch targets.
+   > :information_source: By default, use the middle mouse to lock on to enemies and the mouse wheel to switch targets.
 
 ## Balance Changes
 
@@ -137,19 +142,19 @@ Finally, Septimus includes custom patches for added content to promote balance.
 
 - [Skyrim's Got Talent - Improve As a Bard](https://www.nexusmods.com/skyrimspecialedition/mods/50357) `2.0.0` - Play instruments, get better, NPCs react to your skill dynamically, many new songs, lots of easter eggs, simple implementation.
 
-  > **Note:** Try playing an instrument in a tavern at least once on your Septimus journey.
+  > :information_source: Try playing an instrument in a tavern at least once on your Septimus journey.
 
 - [Skyrim's Paraglider](https://www.nexusmods.com/skyrimspecialedition/mods/53256) `2.0.0` - Adds a paraglider into the world similar to that in breath of the wild. You need to find it in the world to use it.
 
-  > **Note:** Uses stamina while flying so be careful!
+  > :information_source: Uses stamina while flying so be careful!
 
 - [Survival Mode](https://en.uesp.net/wiki/Skyrim:Survival_Mode) `2.0.0` - In Survival Mode, your greatest adversary is Skyrim itself. Unrelenting cold, harsh wilderness, famine and fatigue - do you have the strength to endure? (Survival Mode can be turned on or off in Settings menu.)
 
-   > **Note:** Supporting mods: [Fast Travel for Survival Mode](https://www.nexusmods.com/skyrimspecialedition/mods/21067) (Optional), [Survival Mode Improved](https://www.nexusmods.com/skyrimspecialedition/mods/56374), and [Survival Control Panel](https://www.nexusmods.com/skyrimspecialedition/mods/41891)
+   > :information_source: Supporting mods: [Fast Travel for Survival Mode](https://www.nexusmods.com/skyrimspecialedition/mods/21067) (Optional), [Survival Mode Improved](https://www.nexusmods.com/skyrimspecialedition/mods/56374), and [Survival Control Panel](https://www.nexusmods.com/skyrimspecialedition/mods/41891)
 
 - [TK Dodge RE](https://www.nexusmods.com/skyrimspecialedition/mods/56956) `2.0.0` - TK Dodge introduces a lightweight dodge mechanic where you can dodge out of the way of attacks for a stamina cost.
 
-   > **Note:** Tapping the sprint key and any other directional key will cause your character to dodge in that direction.
+   > :information_source: Tapping the sprint key and any other directional key will cause your character to dodge in that direction.
 
 ## New Gear and Equipment
 
@@ -211,6 +216,8 @@ The recommended levels are meant to represent a natural progression through the 
 
 - [Moonpath to Elsweyr](https://www.nexusmods.com/skyrimspecialedition/mods/4341)  `2.0.0` - Explore the mysterious continent of Elsweyr.
 
+- :star2: [New Madness](https://www.nexusmods.com/skyrimspecialedition/mods/61213) `2.0.2` - A simple Overhaul of the Mind of Plagius and the Left Wing of the Blue Palace.
+
 - [The Tale of Tsatampra Xiros](https://www.nexusmods.com/skyrimspecialedition/mods/36707) `2.0.0` - Explore a world contained within the pages of a sorcerous text, and earn the favor of the Daedric Prince Hermaeus Mora.
 
 ### Recommended Level: 30+
@@ -249,7 +256,7 @@ In addition to the new player homes available in the AE Creation Club, Septimus 
 
 - [Cityside](https://www.nexusmods.com/skyrimspecialedition/mods/27777) `2.0.0` - A simple and minimal starter home based in the heart of the capital of Skyrim, the city of Solitude. Designed for immersion and/or roleplaying based playthroughs.
 
-- [ClefJ's Fort Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/33044) `2.0.2` - A complete architectural overhaul for Fort Dawnguard; now a proper castle!
+- :star2: [ClefJ's Fort Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/33044) `2.0.2` - A complete architectural overhaul for Fort Dawnguard; now a proper castle!
 
 - [Dovahkiin's Vault](https://www.nexusmods.com/skyrimspecialedition/mods/42237) `2.0.0` - A small vault in the Throat of the World for storing away all those sketchy arcane objects in a safe location away from innocent people and your family. Only accessible with Clear Skies shout.
 
@@ -305,7 +312,7 @@ In addition to the new characters available in the AE Creation Club, Septimus in
 
 Septimus includes these optional mods, which can be enabled or disabled via MO2:
 
-- [Atlas Map Markers SE - Updated with MCM](https://www.nexusmods.com/skyrimspecialedition/mods/24104) `2.0.2` - This is an update to Kronixx's classic mod, Atlas Map Markers. It adds MCM options with full control over the new markers, as well as all of the vanilla map markers.
+- :star2: [Atlas Map Markers SE - Updated with MCM](https://www.nexusmods.com/skyrimspecialedition/mods/24104) `2.0.2` - This is an update to Kronixx's classic mod, Atlas Map Markers. It adds MCM options with full control over the new markers, as well as all of the vanilla map markers.
 
 - [Complete Widescreen Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1778) `2.0.0` - It's a fix for a Widescreen 2560x1080, 3440x1440 Vanilla and SkyUI.
 
@@ -317,9 +324,9 @@ Septimus includes these optional mods, which can be enabled or disabled via MO2:
 
 - [Helgen Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/5673) `2.0.0` - Helgen Reborn is a fully voiced adventure with over 20 superb voice actors. As you help rebuild the town you'll reunite two old friends, uncover an underground slavery ring, battle in an arena and many other adventures!
 
-  > **Note:** Only enable after leaving Helgen. You will find a book to start the quest in The Bannered Mare.
+  > :information_source: Only enable after leaving Helgen. You will find a book to start the quest in The Bannered Mare.
 
-- [Sidequests of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/54245) `2.0.2` - Perform radiant side quests for almost any NPC. Get rewarded and become friends with NPCs
+- :star2: [Sidequests of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/54245) `2.0.2` - Perform radiant side quests for almost any NPC. Get rewarded and become friends with NPCs
 
 - [No Killmoves - No Killcams - No Killbites SE](https://www.nexusmods.com/skyrimspecialedition/mods/13395) `2.0.0` - This mod disables melee finishing moves, ranged/magic slow-motion kills, and dragon bite-and-throw attacks. The goal is to have more intense fights with less cheap deaths. The only killcam still enabled is the view that's shown when you're already dead.
 
