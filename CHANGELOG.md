@@ -28,7 +28,6 @@
 + Fixed Majestic Mountains Clipping issues with some CC content
 + Updated SSE Display Tweaks INI Settings
 + Updated Dragonborn Dreams
-+ Removed Bellyaches's Creatures
 
 ## Version 2.0.1
 + Added Major Cities Mesh Overhaul (Mesh Fixes for various locations)
