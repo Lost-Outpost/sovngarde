@@ -23,7 +23,6 @@
 + Added ClefJ's Fort Dawnguard + Patches
 + Added BSA Files for (Darkend, 3DNPCs, Vigilant HD Textures) for improved load times
 + Added Convenient Hot Meals
-+ Added Lore Friendly Rifles of Skyrim
 + Fixed Majestic Mountains Clipping issues with some CC content
 + Updated SSE Display Tweaks INI Settings
 + Updated Dragonborn Dreams
