@@ -236,7 +236,7 @@ Finally, free feel to hop on the Septimus Discord support channel to have discus
 I want to extend a special thanks to the following people for helping make this list possible.
 
 ## The Phoenix Flavour
-+ Phoenix - Creator of LOTF and TPF mod guides which I have drawn from heavily to create this list
++ Phoenix - Creator of LOTF and TPF mod guides which I have drawn from heavily to create this list <3
 + Slim - Being a cool dude and helping out with some bugs
 + Slidikins - Also helping me fix some issues
 + Many other very helpful and excellent modders in the TPF discord
