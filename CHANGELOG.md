@@ -22,6 +22,7 @@
 + Added Atlas Map Markers (Optional)
 + Added ClefJ's Fort Dawnguard + Patches
 + Added BSA Files for (Darkend, 3DNPCs, Vigilant HD Textures) for improved load times
++ Added Convenient Hot Meals
 + Fixed Majestic Mountains Clipping issues with some CC content
 + Updated SSE Display Tweaks INI Settings
 + Removed Bellyaches's Creatures
