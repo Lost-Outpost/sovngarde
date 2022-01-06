@@ -14,7 +14,7 @@
 
 # Changelog
 
-## Version 2.0.2 [Unreleased]
+## Version 2.0.2
 + Added Dead Shrubs Replacer
 + Added Beyond Skyrim Bruma CC Armor Integration
 + Added Landscape Fixes for Grass Mods - JK's Skyrim Patch
