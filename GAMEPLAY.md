@@ -31,7 +31,10 @@ This guide highlights major gameplay mods included in Septimus in the following 
   - [Recommended Level: 30+](#recommended-level-30)
   - [Recommended Level: 40+](#recommended-level-40)
   - [Recommended Level: 50+](#recommended-level-50)
-- [New Homes](#new-homes)
+- [Player Homes](#player-homes)
+  - [Standalone Homes](#standalone-homes)
+  - [Homes from Quests and Companions](#homes-from-quests-and-companions)
+  - [Faction Homes](#faction-homes)
 - [New Characters](#new-characters)
   - [Primary Companions](#primary-companions)
   - [Secondary Companions](#secondary-companions)
@@ -60,6 +63,8 @@ Septimus includes three alternative start mods, and you can optionally use MO2 t
 - [Random Alternate Start Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/8328) `2.0.0` - Be anyone you want to be. Choose from 21 classic Oblivion/Morrowind loadouts then get randomly thrown somewhere in the vast land of Skyrim.
 
 ## Quality of Life
+
+- :new: [Shovels Bury Bodies](https://www.nexusmods.com/skyrimspecialedition/articles/789) `2.0.2` - Use shovel to clean up bodies. Access buried bodies via MCM.
 
 - [Ish's Respec Mod](https://www.nexusmods.com/skyrimspecialedition/mods/1960) `2.0.0` - Adds a purchasable potion allowing you to respec your perk points.
 
@@ -195,7 +200,7 @@ The recommended levels are meant to represent a natural progression through the 
 
 ### Recommended Level: All
 
-- [Aethernautics- A Space Travel Mod](https://www.nexusmods.com/skyrimspecialedition/mods/436?) `2.0.0` - The classic spaceship mod returns! New weapons, a new dungeon, and a spaceship await!
+- [Aethernautics- A Space Travel Mod](https://www.nexusmods.com/skyrimspecialedition/mods/436) `2.0.0` - The classic spaceship mod returns! New weapons, a new dungeon, and a spaceship await!
 
 - [Blackreach Railroad](https://www.nexusmods.com/skyrimspecialedition/mods/435) `2.0.0` - Reactivate and restore your very own dwemer railroad, with new characters, items, and a fully voiced quest to do so.
 
@@ -218,6 +223,8 @@ The recommended levels are meant to represent a natural progression through the 
   > :video_game: The quest includes excellent voice acting. The quests are straightforward, and the final quest reward&mdash;boots which fortify movement speed&mdash;is well worth getting early in your Septimus journey.
 
 - [TrainFight](https://www.nexusmods.com/skyrimspecialedition/mods/58269?tab=posts) `2.0.0` - Fight your way atop, through, and inside the belly of a fully animated, fully detailed steam locomotive.
+
+  > :video_game: Despite the brevity, that mod is a very fun inclusion. Made me smile.
 
 ### Recommended Level: 20+
 
@@ -261,9 +268,11 @@ The recommended levels are meant to represent a natural progression through the 
 
 - [Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849) `2.0.0` - A massive quest mod with a Dark story for Vigilants of Stendarr. This mod includes a lot of unique armor sets, weapons, jewelry, creatures and more.
 
-## New Homes
+## Player Homes
 
 In addition to the new player homes available in the AE Creation Club, Septimus includes:
+
+### Standalone Homes
 
 - [Blackthorn](https://www.nexusmods.com/skyrimspecialedition/mods/2242) `2.0.0` - Blackthorn is a large Hearthfire inspired buildable player home and town with over 400+ build options to choose from, it also includes plenty of Safe Storage, Hearthfire Style Planters, Armor Mannequins, Displays for Dragon Priest Masks, Claws, Black Books, Paragons, Weapon Racks, Display Cases, New Merchants, Indoor Smithing Area, Plenty of room for Followers and Multiple Adoption Friendly.
 
@@ -278,6 +287,34 @@ In addition to the new player homes available in the AE Creation Club, Septimus 
 - [More Player Home Options](https://www.nexusmods.com/skyrimspecialedition/mods/36714) `2.0.0` - Adds the option for the player to acquire certain vanilla NPC homes that become vacant after quests.
 
 - [Morskom Estate](https://www.nexusmods.com/skyrimspecialedition/mods/33408) `2.0.0` - Mörskom Estate is a large player home situated on the hillside of Dawnstar. The mod comes with a short quest to acquire the home before the player will need to restore the building to its former glory, including the exterior and interior. Depending on your play style, Mörskom can be rebuilt using skill and materials or paid workers.
+
+### Homes from Quests and Companions
+
+The following quests and companiones, mentioned in other sections of this guide, also grant player homes.
+
+- [Aethernautics- A Space Travel Mod](https://www.nexusmods.com/skyrimspecialedition/mods/436) - Once you reactivate it, the player may use the aethership as their own. It comes complete with cargo and docking bays, engineering and maintenance shafts, weapon systems, and even a full bridge with a captain's chair. The ship may also be used as a player home, and quarters are provided with basic services.
+
+- [Alternate Start - Live Another Life](https://www.nexusmods.com/skyrimspecialedition/mods/272) - One of the starts gives you a cozy little farm near Rorikstead, Shoals Rest Farm.  It will net you a small weekly income, provided the Farmers are alive.
+
+- [Blackreach Railroad](https://www.nexusmods.com/skyrimspecialedition/mods/435) - A new upgradable house, which serves as the private car on the locomotive, which unlocks new sections and rooms as the player unlocks new stations!
+
+- [Brhuce Hammar Legacy - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/47605) - The ability to, once you have completed the relevant quest, teleport you to your own giant robot hangar.
+
+- [Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/4155) - Once you discover the Clockwork Castle, you may call it your home.  However escaping is a different issue.
+
+- [Kaiden 2](https://www.nexusmods.com/skyrimspecialedition/mods/19075) - Autumn Watch is located near Ivarstead. You can purchase the keys for the home from someone in Ivarstead.
+
+- [Project AHO](https://www.nexusmods.com/skyrimspecialedition/mods/15996) - Upon completing the mod, you can gain access to a player home which can be relocated across Skyrim.
+
+- [The Tale of Tsatampra Xiros](https://www.nexusmods.com/skyrimspecialedition/mods/36707) - Upon completing the quest, you gain ownership of the Annals to call your own.
+
+### Faction Homes
+
+Each of Skyrim's factions provide at least a room with safe storage. Notable enhancements to vanilla faction homes include:
+
+- [Obscure's College of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/20514) -  Savos Aren's default setup is a cluttered office, but once you're Arch-Mage you may transform it into a laboratory, council chamber, secret archive, heated spa, or back into the original vanilla grove. This private space includes many player-home features.
+
+- [ClefJ's Fort Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/33044) - A complete architectural overhaul for Fort Dawnguard; now a proper castle!
 
 ## New Characters
 
