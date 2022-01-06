@@ -27,6 +27,7 @@
 + Fixed Majestic Mountains Clipping issues with some CC content
 + Updated SSE Display Tweaks INI Settings
 + Updated Dragonborn Dreams
++ Removed Some EVGA Conditional Idles (Freezing and Modesty Animations)
 
 ## Version 2.0.1
 + Added Major Cities Mesh Overhaul (Mesh Fixes for various locations)
