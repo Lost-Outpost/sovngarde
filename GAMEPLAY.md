@@ -136,6 +136,8 @@ Finally, Septimus includes custom patches for added content to promote balance.
 
 - :new: [Convenient Hot Meals](https://www.nexusmods.com/skyrimspecialedition/mods/30774) `2.0.2` - Ever wonder why Inns in freezing areas don't sell hot soups and stews?! Wonder no more!
 
+  > :ledger: Custom adjusted to include hot fish soup from the Fishing CC as well as adding a small amount of hot meals to inns not originally covered by Convenient Hot Meals.
+
   > :video_game: Hot meals help you ward off the cold in survival mode. They normally require a fire salt to create, so being able to purchase these at an Inn is a boon to new players.
 
 - :new: [Lore Friendly Rifles of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/60183) `2.0.2` - Adds 13 new lore-friendly rifles based on vanilla materials and 8 bullet types to Skyrim. All craftable. Bandits and Guards use rifles as well.
