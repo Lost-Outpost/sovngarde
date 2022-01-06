@@ -441,7 +441,7 @@ To maintain balance, Septimus uses [Timing is Everything](https://www.nexusmods.
 | Creation Club  | Alternative Armors - Silver        |    18    |
 | Creation Club  | Alternative Armors - Stalhrim      |    40    |
 | Creation Club  | Player Homes - Hendraheim          |    25    |
-| Creation Club  | Player Homes - Myrwatch            | 350 mana |
+| Creation Club  | Player Homes - Myrwatch            | 350 magicka |
 | Creation Club  | Player Homes - Gallows Hall        |    35    |
 | Creation Club  | Quests - Ghosts of the Tribunal    |    36    |
 | Creation Club  | Quests - Bittercup                 |    28    |
