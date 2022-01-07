@@ -29,6 +29,7 @@
 + Added Custom Blackthorn Manor Fixes (Balance and bugs)
 + Updated Undeath Classical Lichdom
 + Updated Serana Dialogue Addon
++ Fixed Animated Armory Whips (Somewhat)
 + Removed Morskom Estate (Conflicts with Expanded Towns)
 + Removed Beyond Reach (Too mature for this list)
 + Removed Interesting NPCs (Too many issues and low quality npcs)
