@@ -14,6 +14,21 @@
 
 # Changelog
 
+## Version 2.1.0 [BETA 1]
+**WARNING: This update requires a new save! If you have a character you are enjoying, stay on the current release :)**
++ Added Identity Crisis
++ Added King of Worms I Queen of Dawn
++ Added Providence and Pestilence
++ Added Expanded Towns and Cities
++ Added Kaidan Custom Edit (No quest on new game)
++ Added Literally Unplayable Lucien (Fixes hair issue)
++ Updated Undeath Classical Lichdom
++ Removed Morskom Estate (Conflicts with Expanded Towns)
++ Removed Beyond Reach (Too mature for this list)
++ Removed Interesting NPCs (Too many issues and low quality npcs)
++ Removed Citizens of Tamriel (Same as Interesting NPCs)
++ Removed Immersive World Encounters (Not particularly impressed with it)
+
 ## Version 2.0.2
 + Added Dead Shrubs Replacer
 + Added Beyond Skyrim Bruma CC Armor Integration
