@@ -111,7 +111,7 @@ This list fully supports anniversary edition and all creation club content. Make
 
 To use the full AE content, make sure you have done the [post-install steps](https://github.com/Guitarninja2/septimus/blob/main/CONFIGURATION.md#creation-club-setup) for creation club content.
 
-**WARNING: Skyrim SE updated again - Verify your game via Steam and run this downgrader to get back to the required Skyrim AE version**
+**WARNING: Skyrim SE updated again - Use this downgrader to get back to the required Skyrim AE version**
 
 https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=254393&game_id=1704
 
