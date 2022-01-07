@@ -107,26 +107,7 @@ To change ENB & Reshade presets, do the following:
 
 - Try turning off any ENB that might be enabled and switching to the ultra lite reshade preset
 - Activate the performance grass and dyndolod mods under Septimus - Performance Mode
-- Replace the files in the profile you're playing (Septimus/profiles/Septimus [- Anniversary Edition]) with [these](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=248298&game_id=1704)
-
-### Extreme Performance (Potato Mode)
-
-- Turn off No Grass In Objects (Both versions)
-- Turn off enb and reshade
-- Open Bethini in Septimus/Tools/Bethini (Make sure MO2 is closed) and try changing the preset for the activated profile to low or tweaking values
-
-### BethINI Settings (Try Performance INIs First)
-
-- Make sure to close Mod Organizer 2
-- Open BethINI under (Your Install Folder)/Tools/BethINI 3.5/BethINI.exe
-- Be sure to choose the correct profile you are playing under the Setup tab
-
-![BethINI Setup](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/beth_setup.png)
-
-- On the basic tab, select the preset you wish to use and checkk `Recommended Tweaks`
-
-![BethINI Basic](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/beth_basic.png)
-
-If you are having serious performance troubles and you wish to gain some extra frames, you can use [this](https://thephoenixflavour.com/tpf/performance-guide/) guide to tweak some settings for better performance.
+- Replace the files in the profile you're playing (Septimus/profiles/Septimus [- Anniversary Edition]) with one of the presets in Septimus/Performance Options
+- Double click on `SSE Display Tweaks - Septimus Settings` under `Essentials` and set the resolution to match your monitor resolution and remove the # at the beginning of the line
 
 **NOTE: I cannot provide support for a game which has been tweaked for performance due to the high possibility of user error here. If you have attempted the performance guide and are having issues with it I cannot help, sorry.**
