@@ -25,6 +25,7 @@
 + Added JK's Cities Lite
 + Added Ambiance
 + Added Weather of World
++ Added Closed Border Gates (Manually adjusted Bruma Gate)
 + Updated Undeath Classical Lichdom
 + Updated Serana Dialogue Addon
 + Removed Morskom Estate (Conflicts with Expanded Towns)
