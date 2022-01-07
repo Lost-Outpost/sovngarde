@@ -32,7 +32,7 @@
 + Removed Citizens of Tamriel (Same as Interesting NPCs)
 + Removed Immersive World Encounters (Not particularly impressed with it)
 + Removed JK's Skyrim
-+ Removed luminosity
++ Removed Luminosity Lighting Overhaul
 
 ## Version 2.0.2
 + Added Dead Shrubs Replacer
