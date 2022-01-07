@@ -26,6 +26,7 @@
 + Added Ambiance
 + Added Weather of World
 + Added Closed Border Gates (Manually adjusted Bruma Gate)
++ Added Custom Blackthorn Manor Fixes (Balance and bugs)
 + Updated Undeath Classical Lichdom
 + Updated Serana Dialogue Addon
 + Removed Morskom Estate (Conflicts with Expanded Towns)
