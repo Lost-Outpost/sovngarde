@@ -134,19 +134,21 @@ Finally, Septimus includes custom patches for added content to promote balance.
 
 ## New Mechanics
 
-- [Campsite](https://www.nexusmods.com/skyrimspecialedition/mods/22353) `2.0.0` - Campsite is a simple camping mod that allows the player to build a campfire and pitch a tent. Campsite is built in the vanilla style using only existing items. It is designed to feel like an unintrusive, optional extra feature of the game that isn't noticed when not used.
-
 - :new: [Convenient Hot Meals](https://www.nexusmods.com/skyrimspecialedition/mods/30774) `2.0.2` - Ever wonder why Inns in freezing areas don't sell hot soups and stews?! Wonder no more!
 
+  > :ledger: Custom adjusted to include hot fish soup from the Fishing CC as well as adding a small amount of hot meals to inns not originally covered by Convenient Hot Meals.
+
   > :video_game: Hot meals help you ward off the cold in survival mode. They normally require a fire salt to create, so being able to purchase these at an Inn is a boon to new players.
+
+- :new: [Lore Friendly Rifles of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/60183) `2.0.2` - Adds 13 new lore-friendly rifles based on vanilla materials and 8 bullet types to Skyrim. All craftable. Bandits and Guards use rifles as well.
+
+- [Campsite](https://www.nexusmods.com/skyrimspecialedition/mods/22353) `2.0.0` - Campsite is a simple camping mod that allows the player to build a campfire and pitch a tent. Campsite is built in the vanilla style using only existing items. It is designed to feel like an unintrusive, optional extra feature of the game that isn't noticed when not used.
 
 - [Dragon War - A Dragon Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/51310) `2.0.0` - Dragon War is a lightweight dragon combat overhaul. It will change the way you approach dragon encounters - now you are the prey and no longer the predator.
 
 - [Fish Anywhere With Water](https://www.nexusmods.com/skyrimspecialedition/mods/60915) `2.0.1` - Fish anywhere as long you are facing a nearby body of water.
 
 - [Haugbui - A Draugr Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26188) `2.0.0` - A lightweight overhaul providing balance adjustments, new items, unique boss designs, and some more variants to the draugr enemies.
-
-- :new: [Lore Friendly Rifles of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/60183) `2.0.2` - Adds 13 new lore-friendly rifles based on vanilla materials and 8 bullet types to Skyrim. All craftable. Bandits and Guards use rifles as well.
 
 - [Nether's Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/55653) `2.0.0` - Nether's Follower Framework is a multi-follower system that is light on game resources and allows for up to 10 companions at one time. It provides a wealth of additional features, including immersion and quality-of-life functions to allow you to adventure with a small team of characters.
 
@@ -228,6 +230,8 @@ The recommended levels are meant to represent a natural progression through the 
 
 ### Recommended Level: 20+
 
+- :new: [New Madness](https://www.nexusmods.com/skyrimspecialedition/mods/61213) `2.0.2` - A simple Overhaul of the Mind of Plagius and the Left Wing of the Blue Palace.
+
 - [Carved Brink](https://www.nexusmods.com/skyrimspecialedition/mods/24351) `2.0.0` - Carved Brink is a large quest modification, from the authors of “Project AHO”. This mod adds to Skyrim: a daedric plan of Peryite - The Pits, and an unknown part of Oblivion - Faceted Stones.
 
 - [Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/4155) `2.0.0` - Clockwork is a quest mod involving a castle high in the Velothi Mountains, lost to the world for over a hundred years. Once found, you may call Clockwork Castle home... but if you want to leave, you'll need to discover how to escape.
@@ -235,8 +239,6 @@ The recommended levels are meant to represent a natural progression through the 
 - [The Lost Wonders of Mzark](https://www.nexusmods.com/skyrimspecialedition/mods/40674) `2.0.0` - Lost Wonders of Mzark is a quest/dungeon mod for those who prefer a more puzzle-oriented game. The enemies you encounter within must be disposed of in careful ways, and you'll find more than just fights awaiting you in the depths of Mzarnumez.
 
 - [Moonpath to Elsweyr](https://www.nexusmods.com/skyrimspecialedition/mods/4341)  `2.0.0` - Explore the mysterious continent of Elsweyr.
-
-- :new: [New Madness](https://www.nexusmods.com/skyrimspecialedition/mods/61213) `2.0.2` - A simple Overhaul of the Mind of Plagius and the Left Wing of the Blue Palace.
 
 - [The Tale of Tsatampra Xiros](https://www.nexusmods.com/skyrimspecialedition/mods/36707) `2.0.0` - Explore a world contained within the pages of a sorcerous text, and earn the favor of the Daedric Prince Hermaeus Mora.
 
@@ -274,11 +276,11 @@ In addition to the new player homes available in the AE Creation Club, Septimus 
 
 ### Standalone Homes
 
+- :new: [ClefJ's Fort Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/33044) `2.0.2` - A complete architectural overhaul for Fort Dawnguard; now a proper castle!
+
 - [Blackthorn](https://www.nexusmods.com/skyrimspecialedition/mods/2242) `2.0.0` - Blackthorn is a large Hearthfire inspired buildable player home and town with over 400+ build options to choose from, it also includes plenty of Safe Storage, Hearthfire Style Planters, Armor Mannequins, Displays for Dragon Priest Masks, Claws, Black Books, Paragons, Weapon Racks, Display Cases, New Merchants, Indoor Smithing Area, Plenty of room for Followers and Multiple Adoption Friendly.
 
 - [Cityside](https://www.nexusmods.com/skyrimspecialedition/mods/27777) `2.0.0` - A simple and minimal starter home based in the heart of the capital of Skyrim, the city of Solitude. Designed for immersion and/or roleplaying based playthroughs.
-
-- :new: [ClefJ's Fort Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/33044) `2.0.2` - A complete architectural overhaul for Fort Dawnguard; now a proper castle!
 
 - [Dovahkiin's Vault](https://www.nexusmods.com/skyrimspecialedition/mods/42237) `2.0.0` - A small vault in the Throat of the World for storing away all those sketchy arcane objects in a safe location away from innocent people and your family. Only accessible with Clear Skies shout.
 
@@ -290,7 +292,7 @@ In addition to the new player homes available in the AE Creation Club, Septimus 
 
 ### Homes from Quests and Companions
 
-The following quests and companiones, mentioned in other sections of this guide, also grant player homes.
+The following quests and companions, mentioned in other sections of this guide, also grant player homes.
 
 - [Aethernautics- A Space Travel Mod](https://www.nexusmods.com/skyrimspecialedition/mods/436) - Once you reactivate it, the player may use the aethership as their own. It comes complete with cargo and docking bays, engineering and maintenance shafts, weapon systems, and even a full bridge with a captain's chair. The ship may also be used as a player home, and quarters are provided with basic services.
 
@@ -441,7 +443,7 @@ To maintain balance, Septimus uses [Timing is Everything](https://www.nexusmods.
 | Creation Club  | Alternative Armors - Silver        |    18    |
 | Creation Club  | Alternative Armors - Stalhrim      |    40    |
 | Creation Club  | Player Homes - Hendraheim          |    25    |
-| Creation Club  | Player Homes - Myrwatch            | 350 mana |
+| Creation Club  | Player Homes - Myrwatch            | 350 magicka |
 | Creation Club  | Player Homes - Gallows Hall        |    35    |
 | Creation Club  | Quests - Ghosts of the Tribunal    |    36    |
 | Creation Club  | Quests - Bittercup                 |    28    |
