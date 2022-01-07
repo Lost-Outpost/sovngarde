@@ -64,7 +64,7 @@ Septimus includes three alternative start mods, and you can optionally use MO2 t
 
 ## Quality of Life
 
-- :new: [Shovels Bury Bodies](https://www.nexusmods.com/skyrimspecialedition/articles/789) `2.0.2` - Use shovel to clean up bodies. Access buried bodies via MCM.
+- :new: [Shovels Bury Bodies](https://www.nexusmods.com/skyrimspecialedition/mods/52984) `2.0.2` - Use shovel to clean up bodies. Access buried bodies via MCM.
 
 - [Ish's Respec Mod](https://www.nexusmods.com/skyrimspecialedition/mods/1960) `2.0.0` - Adds a purchasable potion allowing you to respec your perk points.
 
@@ -366,6 +366,8 @@ Septimus includes these optional mods, which can be enabled or disabled via MO2:
 
 - :new: [Atlas Map Markers SE - Updated with MCM](https://www.nexusmods.com/skyrimspecialedition/mods/24104) `2.0.2` - This is an update to Kronixx's classic mod, Atlas Map Markers. It adds MCM options with full control over the new markers, as well as all of the vanilla map markers.
 
+- :new: [Sidequests of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/54245) `2.0.2` - Perform radiant side quests for almost any NPC. Get rewarded and become friends with NPCs
+
 - [Complete Widescreen Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1778) `2.0.0` - It's a fix for a Widescreen 2560x1080, 3440x1440 Vanilla and SkyUI.
 
 - [The Dragonborn Dreams](https://www.nexusmods.com/skyrimspecialedition/mods/60384) `2.0.1` - The Dragonborn Dreams allows your character to occasionally wake up having had a (written) dream.
@@ -377,8 +379,6 @@ Septimus includes these optional mods, which can be enabled or disabled via MO2:
 - [Helgen Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/5673) `2.0.0` - Helgen Reborn is a fully voiced adventure with over 20 superb voice actors. As you help rebuild the town you'll reunite two old friends, uncover an underground slavery ring, battle in an arena and many other adventures!
 
   > :ledger: Only enable after leaving Helgen. You will find a book to start the quest in The Bannered Mare.
-
-- :new: [Sidequests of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/54245) `2.0.2` - Perform radiant side quests for almost any NPC. Get rewarded and become friends with NPCs
 
 - [No Killmoves - No Killcams - No Killbites SE](https://www.nexusmods.com/skyrimspecialedition/mods/13395) `2.0.0` - This mod disables melee finishing moves, ranged/magic slow-motion kills, and dragon bite-and-throw attacks. The goal is to have more intense fights with less cheap deaths. The only killcam still enabled is the view that's shown when you're already dead.
 
