@@ -251,7 +251,7 @@ I want to extend a special thanks to the following people for helping make this 
 + Many other very helpful and excellent modders in the TPF discord
 
 ## Septimus Team
-+ Webmetz - Came outa nowhere and has been amazing in helping me patch various mods for balance and integration
++ Webmetz - Author of the Relics of Hyrule addon and awesome modder!
 + Gyzarus - Extremely helpful modlist tester
 + Rsrogers4 - Tons of documentation help!
 + Calcyon - Extremely helpful modlist tester
