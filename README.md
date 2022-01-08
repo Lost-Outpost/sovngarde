@@ -239,7 +239,7 @@ For issues that aren't yet [known](ISSUES.md), you can provide details in the [S
 Finally, free feel to hop on the Septimus Discord support channel to have discussions with our knowledgeable community members. Support is offered in [TPF Discord](https://discord.gg/tpf) server's [#sep-support](https://discord.com/channels/458216677792808961/917610919356399616) channel.
 
 # Addons
-Septimus can be configured with some additional [add-on](#addons) content should you wish to add them. The content in these [add-on](#addons) cannot be mixed as they are specifically designed to work properly on top of base Septimus. Pay attention to the Septimus version required for the [add-on](#addons). If it is not updated, it may not work properly.
+Septimus can be configured with some additional [add-on](https://github.com/Guitarninja2/septimus/blob/main/ADDONS.md) content should you wish to add them. The content in these [add-on](https://github.com/Guitarninja2/septimus/blob/main/ADDONS.md) cannot be mixed as they are specifically designed to work properly on top of base Septimus. Pay attention to the Septimus version required for the [add-on](https://github.com/Guitarninja2/septimus/blob/main/ADDONS.md). If it is not updated, it may not work properly.
 
 # Special Thanks
 I want to extend a special thanks to the following people for helping make this list possible.
