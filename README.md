@@ -8,6 +8,7 @@
   <a href="GAMEPLAY.md">Gameplay Guide</a> ·
   <a href="CONFIGURATION.md">Configuration</a> ·
   <a href="CHANGELOG.md">Changelog</a>
+  <a href="ADDONS.md">Add-ons</a> ·
 </p>
 
 ---
