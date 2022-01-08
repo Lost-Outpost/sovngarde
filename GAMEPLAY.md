@@ -18,6 +18,7 @@
 This guide highlights major gameplay mods included in Septimus in the following categories:
 
 - [Alternate Start](#alternate-start)
+- [HUD and Hotkeys](#hud-and-hotkeys)
 - [Quality of Life](#quality-of-life)
 - [Balance Changes](#balance-changes)
   - [SimonRim](#simonrim)
@@ -63,6 +64,20 @@ Septimus includes three alternative start mods, and you can optionally use MO2 t
 
 - [Random Alternate Start Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/8328) `2.0.0` - Be anyone you want to be. Choose from 21 classic Oblivion/Morrowind loadouts then get randomly thrown somewhere in the vast land of Skyrim.
 
+## HUD and Hotkeys
+
+- [Immersive HUD - iHUD](https://www.nexusmods.com/skyrim/mods/3222/) - Press the <kbd>X</kbd> key to toggle the immersive HUD's visibility (i.e. compass, quest markers, etc).
+
+- [Shovels Bury Bodies](https://www.nexusmods.com/skyrimspecialedition/mods/52984) - To bury a body, stand near it, select a shovel from your inventgory, and press the <kbd>E</kbd> key.
+
+- [Simple Wearable Lantern](https://www.nexusmods.com/skyrimspecialedition/mods/58464) -  Once crafted and equipped, pressing the <kbd>L</kbd> key toggles the lantern.
+
+- [Skyrim's Got Talent - Improve As a Bard 2.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/50357) - To play an instrument (flute, lute, or drum) select it in your inventory while in a tavern and press the <kbd>E</kbd> key.
+
+- [TK Dodge 2.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/56956) - Tapping the <kbd>Sprint</kbd> key and any other <kbd>Directional Movement</kbd> key will cause your character to dodge in that direction.
+
+- [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614) - By default, use the <kbd>Middle Mouse Button</kbd> or <kbd>F</kbd> to lock on to enemies and the <kbd>Middle Mouse Wheel</kbd> to switch targets.
+
 ## Quality of Life
 
 - :new: [Shovels Bury Bodies](https://www.nexusmods.com/skyrimspecialedition/mods/52984) `2.0.2` - Use shovel to clean up bodies. Access buried bodies via MCM.
@@ -81,7 +96,7 @@ Septimus includes three alternative start mods, and you can optionally use MO2 t
 
 - [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614) `2.0.0` - Overhauls the third person gameplay similarly to modern action RPGs, entirely through SKSE. Move and attack in any direction. Includes a custom target lock component and animated healthbar widget, target headtracking, projectile aim support during target lock, boss bars, mount support and more! Modular and customizable through MCM.
 
-   > :ledger: By default, use the middle mouse to lock on to enemies and the mouse wheel to switch targets.
+   > :ledger: By default, use the <kbd>Middle Mouse Button</kbd> or <kbd>F</kbd> to lock on to enemies and the <kbd>Middle Mouse Wheel</kbd> to switch targets.
 
 ## Balance Changes
 
@@ -141,8 +156,6 @@ Finally, Septimus includes custom patches for added content to promote balance.
 
   > :video_game: Hot meals help you ward off the cold in survival mode. They normally require a fire salt to create, so being able to purchase these at an Inn is a boon to new players.
 
-- :new: [Lore Friendly Rifles of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/60183) `2.0.2` - Adds 13 new lore-friendly rifles based on vanilla materials and 8 bullet types to Skyrim. All craftable. Bandits and Guards use rifles as well.
-
 - [Campsite](https://www.nexusmods.com/skyrimspecialedition/mods/22353) `2.0.0` - Campsite is a simple camping mod that allows the player to build a campfire and pitch a tent. Campsite is built in the vanilla style using only existing items. It is designed to feel like an unintrusive, optional extra feature of the game that isn't noticed when not used.
 
 - [Dragon War - A Dragon Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/51310) `2.0.0` - Dragon War is a lightweight dragon combat overhaul. It will change the way you approach dragon encounters - now you are the prey and no longer the predator.
@@ -173,7 +186,7 @@ Finally, Septimus includes custom patches for added content to promote balance.
 
 - [TK Dodge RE](https://www.nexusmods.com/skyrimspecialedition/mods/56956) `2.0.0` - TK Dodge introduces a lightweight dodge mechanic where you can dodge out of the way of attacks for a stamina cost.
 
-   > :ledger: Tapping the sprint key and any other directional key will cause your character to dodge in that direction.
+   > :ledger: Tapping the <kbd>Sprint</kbd> key and any other <kbd>Directional Movement</kbd> key will cause your character to dodge in that direction.
 
 ## New Gear and Equipment
 
