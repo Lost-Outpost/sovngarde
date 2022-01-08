@@ -37,6 +37,7 @@
 - [Gameplay Guide](#gameplay-guide)
 - [Configuration](#configuration)
 - [Issues](#issues)
+- [Addons](#addons)
 - [Special Thanks](#special-thanks)
 
 # Introduction
@@ -235,6 +236,11 @@ If you find an issue, you can see if it is already on the list of [known issues]
 For issues that aren't yet [known](ISSUES.md), you can provide details in the [Septimus Github](https://github.com/Guitarninja2/septimus/issues). Please provide as much info as you can (screenshots are great).
 
 Finally, free feel to hop on the Septimus Discord support channel to have discussions with our knowledgeable community members. Support is offered in [TPF Discord](https://discord.gg/tpf) server's [#sep-support](https://discord.com/channels/458216677792808961/917610919356399616) channel.
+
+# Addons
+Septimus can be configured with some additional addon content should you wish to add them. The content in these addons cannot be mixed as they are specifically designed to work properly on top of base Septimus. Pay attention to the Septimus version required for the addon. If it is not updated, it may not work properly.
+
+## [Addons](#addons)
 
 # Special Thanks
 I want to extend a special thanks to the following people for helping make this list possible.
