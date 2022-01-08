@@ -14,6 +14,13 @@
 
 # Changelog
 
+## Version 2.1.0 [BETA 2]
++ Added Vigilance Reborn
++ Added Meeko Reborn
++ Added Frost Reborn
++ Added CC Backpacks Balance Patch (Custom)
++ Added Bandolier Balance Patch (Custom)
+
 ## Version 2.1.0 [BETA 1]
 **WARNING: This update requires a new save! If you have a character you are enjoying, stay on the current release :)**
 + Added Identity Crisis
