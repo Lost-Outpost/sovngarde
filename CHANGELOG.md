@@ -15,18 +15,7 @@
 
 # Changelog
 
-## Version 2.1.0 [BETA 2]
-+ Added Vigilance Reborn
-+ Added Meeko Reborn
-+ Added Frost Reborn
-+ Added CC Backpacks Balance Patch (Custom)
-+ Added Bandolier Balance Patch (Custom)
-+ Added Arcane Accessories Adamant/Mysticism Patch
-+ Updated Blackthorn Balance Patch (Custom)
-+ Updated JK's Patch Collection
-+ Fixed Animated Armory Bound Weapon Keywords
-
-## Version 2.1.0 [BETA 1]
+## Version 2.1.0 [Unreleased]
 **WARNING: This update requires a new save! If you have a character you are enjoying, stay on the current release :)**
 + Added Identity Crisis
 + Added King of Worms I Queen of Dawn
@@ -39,9 +28,17 @@
 + Added Weather of World
 + Added Closed Border Gates (Manually adjusted Bruma Gate)
 + Added Custom Blackthorn Manor Fixes (Balance and bugs)
++ Added Vigilance Reborn
++ Added Meeko Reborn
++ Added Frost Reborn
++ Added CC Backpacks Balance Patch (Custom)
++ Added Bandolier Balance Patch (Custom)
++ Added Arcane Accessories Adamant/Mysticism Patch
 + Updated Undeath Classical Lichdom
 + Updated Serana Dialogue Addon
-+ Fixed Animated Armory Whips (Somewhat)
++ Updated JK's Patch Collection
++ Fixed Animated Armory Whips (In some cases D:)
++ Fixed Animated Armory Bound Weapon Keywords
 + Removed Morskom Estate (Conflicts with Expanded Towns)
 + Removed Beyond Reach (Too mature for this list)
 + Removed Interesting NPCs (Too many issues and low quality npcs)
