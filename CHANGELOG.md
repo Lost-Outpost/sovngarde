@@ -21,6 +21,9 @@
 + Added Frost Reborn
 + Added CC Backpacks Balance Patch (Custom)
 + Added Bandolier Balance Patch (Custom)
++ Added Arcane Accessories Adamant/Mysticism Patch
++ Updated Blackthorn Balance Patch (Custom)
++ Updated JK's Patch Collection
 + Fixed Animated Armory Bound Weapon Keywords
 
 ## Version 2.1.0 [BETA 1]
