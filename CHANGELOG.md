@@ -18,7 +18,7 @@
 ## Version 2.2.0 [BETA]
 I have been hesitant to include the highly requested Legacy of the Dragonborn for quite some time. I ended up looking through the files and I believe supporting it as an optional addon is not going to be too harmful. Instructions are included in the configuration section of the readme if you wish to enable it.
 
-**WARNING: This update IS save safe but I do NOT recommend adding LOTD into an existing playthrough.**
+**WARNING: This update requires a new save! If you have a character you are enjoying, stay on the current release :)**
 
 + Added Legacy of the Dragonborn!!!!!! (Optional)
 + Added Jarl Balgruuf Dilemma
@@ -31,6 +31,7 @@ I have been hesitant to include the highly requested Legacy of the Dragonborn fo
 + Added Fortune's Tradehouse Custom Tweaks (Some balance)
 + Added Return To Pelagius' Mind
 + Added Hjertesten Hall + Kaidan 2 Patch
++ Removed Blackthorn Manor + Kaidan 2 Patch
 + Fixed Argonian and Khajiit feet meshes and feet seams 
 
 ## Version 2.1.0
