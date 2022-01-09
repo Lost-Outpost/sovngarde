@@ -26,6 +26,7 @@ I have been hesitant to include the highly requested Legacy of the Dragonborn fo
 + Added KS Hairdos Lite (Optional)
 + Added Community Overlays (Optional)
 + Added Fortune's Tradehouse Custom Tweaks (Some balance)
++ Added Return To Pelagius' Mind
 + Fixed Argonian and Khajiit feet meshes and feet seams 
 
 ## Version 2.1.0
