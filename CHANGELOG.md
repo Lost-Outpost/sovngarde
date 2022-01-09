@@ -34,6 +34,7 @@
 + Added CC Backpacks Balance Patch (Custom)
 + Added Bandolier Balance Patch (Custom)
 + Added Arcane Accessories Adamant/Mysticism Patch
++ Added Lightweight Cathedralist ENB Preset (Custom)
 + Updated Undeath Classical Lichdom
 + Updated Serana Dialogue Addon
 + Updated JK's Patch Collection
