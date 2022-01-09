@@ -18,7 +18,7 @@
 ## Version 2.1.1 [BETA]
 I have been hesitant to include the highly requested Legacy of the Dragonborn for quite some time. I ended up looking through the files and I believe supporting it as an optional addon is not going to be too harmful. Instructions are included in the configuration section of the readme if you wish to enable it.
 
-+ Added Legacy of the Dragonborn (Optional)
++ Added Legacy of the Dragonborn!!!!!! (Optional)
 + Added Jarl Balgruuf Dilemma
 + Added LOTD Museum Exterior Fixes
 + Added Curators Companion
