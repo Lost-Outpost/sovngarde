@@ -20,6 +20,8 @@ I have been hesitant to include the highly requested Legacy of the Dragonborn fo
 
 + Added Legacy of the Dragonborn (Optional)
 + Added Jarl Balgruuf Dilemma
++ Added LOTD Museum Exterior Fixes
++ Added Curators Companion
 
 ## Version 2.1.0
 **WARNING: This update requires a new save! If you have a character you are enjoying, stay on the current release :)**
