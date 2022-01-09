@@ -80,9 +80,9 @@ Septimus includes three alternative start mods, and you can optionally use MO2 t
 
 ## Quality of Life
 
-- :new: [Shovels Bury Bodies](https://www.nexusmods.com/skyrimspecialedition/mods/52984) `2.0.2` - Use shovel to clean up bodies. Access buried bodies via MCM.
-
 - [Ish's Respec Mod](https://www.nexusmods.com/skyrimspecialedition/mods/1960) `2.0.0` - Adds a purchasable potion allowing you to respec your perk points.
+
+- [Shovels Bury Bodies](https://www.nexusmods.com/skyrimspecialedition/mods/52984) `2.0.2` - Use shovel to clean up bodies. Access buried bodies via MCM.
 
 - [Simple Wearable Lanterns](https://www.nexusmods.com/skyrimspecialedition/mods/58464) `2.0.0` - Adds three brand new wearable lanterns
 
@@ -150,15 +150,13 @@ Finally, Septimus includes custom patches for added content to promote balance.
 
 ## New Mechanics
 
-- :new: [Convenient Hot Meals](https://www.nexusmods.com/skyrimspecialedition/mods/30774) `2.0.2` - Ever wonder why Inns in freezing areas don't sell hot soups and stews?! Wonder no more!
+- [Campsite](https://www.nexusmods.com/skyrimspecialedition/mods/22353) `2.0.0` - Campsite is a simple camping mod that allows the player to build a campfire and pitch a tent. Campsite is built in the vanilla style using only existing items. It is designed to feel like an unintrusive, optional extra feature of the game that isn't noticed when not used.
+
+- [Convenient Hot Meals](https://www.nexusmods.com/skyrimspecialedition/mods/30774) `2.0.2` - Ever wonder why Inns in freezing areas don't sell hot soups and stews?! Wonder no more!
 
   > :ledger: Custom adjusted to include hot fish soup from the Fishing CC as well as adding a small amount of hot meals to inns not originally covered by Convenient Hot Meals.
 
   > :video_game: Hot meals help you ward off the cold in survival mode. They normally require a fire salt to create, so being able to purchase these at an Inn is a boon to new players.
-
-- [Campsite](https://www.nexusmods.com/skyrimspecialedition/mods/22353) `2.0.0` - Campsite is a simple camping mod that allows the player to build a campfire and pitch a tent. Campsite is built in the vanilla style using only existing items. It is designed to feel like an unintrusive, optional extra feature of the game that isn't noticed when not used.
-
-- [Dragon War - A Dragon Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/51310) `2.0.0` - Dragon War is a lightweight dragon combat overhaul. It will change the way you approach dragon encounters - now you are the prey and no longer the predator.
 
 - [Fish Anywhere With Water](https://www.nexusmods.com/skyrimspecialedition/mods/60915) `2.0.1` - Fish anywhere as long you are facing a nearby body of water.
 
@@ -197,6 +195,8 @@ In addition to the new gear and equipment available in the AE Creation Club, Sep
 - [Animated Heavy Armory](https://www.nexusmods.com/skyrimspecialedition/mods/6308) `2.0.0` - Heavy armory introduces new weapons similar to animated armory with new animations to bring variety to the world.
 
 - [Bandolier](https://www.nexusmods.com/skyrimspecialedition/mods/2417) `2.0.0` - Bandolier introduces bags and pouches you can wear to kit out your character in a stylish way. They can be found in the world and some may also be crafted.
+
+   > :ledger: Includes custom Septimus balance patch.
 
 - [Cloaks of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/6369) `2.0.0` - Adds almost 100 new styles of cloak to the world of Skyrim, via crafting, levelled-lists, and static loot. They are lore-friendly and enchantable, and more are being added with every update. The aim of this mod is to provide some variety and flavour to the world, as well as the chance to wear a stylish cloak and quite literally keep the cold out.
 
@@ -244,7 +244,7 @@ The recommended levels are meant to represent a natural progression through the 
 
 ### Recommended Level: 20+
 
-- :new: [New Madness](https://www.nexusmods.com/skyrimspecialedition/mods/61213) `2.0.2` - A simple Overhaul of the Mind of Plagius and the Left Wing of the Blue Palace.
+- :new: [Identity Crisis](https://www.nexusmods.com/skyrimspecialedition/mods/39634?tab=description) `2.1.0` - Investigate the madness afflicting the Northern Asylum of Julianos, and earn the boon of the Madgod himself. New enemies, spells, armour, weapons, and a player home await...
 
 - [Carved Brink](https://www.nexusmods.com/skyrimspecialedition/mods/24351) `2.0.0` - Carved Brink is a large quest modification, from the authors of “Project AHO”. This mod adds to Skyrim: a daedric plan of Peryite - The Pits, and an unknown part of Oblivion - Faceted Stones.
 
@@ -253,6 +253,8 @@ The recommended levels are meant to represent a natural progression through the 
 - [The Lost Wonders of Mzark](https://www.nexusmods.com/skyrimspecialedition/mods/40674) `2.0.0` - Lost Wonders of Mzark is a quest/dungeon mod for those who prefer a more puzzle-oriented game. The enemies you encounter within must be disposed of in careful ways, and you'll find more than just fights awaiting you in the depths of Mzarnumez.
 
 - [Moonpath to Elsweyr](https://www.nexusmods.com/skyrimspecialedition/mods/4341)  `2.0.0` - Explore the mysterious continent of Elsweyr.
+
+- [New Madness](https://www.nexusmods.com/skyrimspecialedition/mods/61213) `2.0.2` - A simple Overhaul of the Mind of Plagius and the Left Wing of the Blue Palace.
 
 - [The Tale of Tsatampra Xiros](https://www.nexusmods.com/skyrimspecialedition/mods/36707) `2.0.0` - Explore a world contained within the pages of a sorcerous text, and earn the favor of the Daedric Prince Hermaeus Mora.
 
@@ -268,13 +270,7 @@ The recommended levels are meant to represent a natural progression through the 
 
 - [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565) `2.0.0` - Travel to a new DLC-sized island and investigate a powerful dragon for the East Empire Company.
 
-### Recommended Level: 40+
-
-- [The Wheels of Lul](https://www.nexusmods.com/skyrimspecialedition/mods/748) `2.0.0` - Return to Sotha Sil and enter the stranger side of TES lore, as you join the ranks of the mysterious Chronographers in this fully voiced DLC-sized mod that adds over a dozen new quests, multiple new armors and weapons, sprawling dungeons, unique boss fights, and much much more!
-
 ### Recommended Level: 50+
-
-- [Beyond Reach](https://www.nexusmods.com/skyrimspecialedition/mods/3008) `2.0.0` - Beyond Reach is a DLC sized mod that takes place in the east of High Rock, commonly known as The Reach. You will experience a story of intrigue, conspiracies sowed by both men and gods, and the struggles of those in the most squalid situations.
 
 - [Darkend](https://www.nexusmods.com/skyrimspecialedition/mods/10423) `2.0.0` - Travel to the new island of Pharos, explore detailed environments, fight new enemies and discover an Ancient set of weapons of incredible power.
 
@@ -290,19 +286,23 @@ In addition to the new player homes available in the AE Creation Club, Septimus 
 
 ### Standalone Homes
 
-- :new: [ClefJ's Fort Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/33044) `2.0.2` - A complete architectural overhaul for Fort Dawnguard; now a proper castle!
+- :new: [King of Worms | Queen of Dawn](https://www.nexusmods.com/skyrimspecialedition/mods/35779) `2.1.0` - Restore one of the lost beacons of Meridia and earn custodianship of the Chantry of the Dawn... or... Corrupt the beacon, granting access to the lair of a long dead Sload necromancer.
+
+- :new: [Providence and Pestilence](https://www.nexusmods.com/skyrimspecialedition/mods/35237) `2.1.0` - Journey into Peryite's Pits and earn the Taskmaster's blessing - as well as an otherworldly lair to call your home...
 
 - [Blackthorn](https://www.nexusmods.com/skyrimspecialedition/mods/2242) `2.0.0` - Blackthorn is a large Hearthfire inspired buildable player home and town with over 400+ build options to choose from, it also includes plenty of Safe Storage, Hearthfire Style Planters, Armor Mannequins, Displays for Dragon Priest Masks, Claws, Black Books, Paragons, Weapon Racks, Display Cases, New Merchants, Indoor Smithing Area, Plenty of room for Followers and Multiple Adoption Friendly.
 
+   > :ledger: Includes custom Septimus balance patch.
+
 - [Cityside](https://www.nexusmods.com/skyrimspecialedition/mods/27777) `2.0.0` - A simple and minimal starter home based in the heart of the capital of Skyrim, the city of Solitude. Designed for immersion and/or roleplaying based playthroughs.
+
+- [ClefJ's Fort Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/33044) `2.0.2` - A complete architectural overhaul for Fort Dawnguard; now a proper castle!
 
 - [Dovahkiin's Vault](https://www.nexusmods.com/skyrimspecialedition/mods/42237) `2.0.0` - A small vault in the Throat of the World for storing away all those sketchy arcane objects in a safe location away from innocent people and your family. Only accessible with Clear Skies shout.
 
 - [Drelas' Cottage](https://www.nexusmods.com/skyrimspecialedition/mods/39829) `2.0.0` - Inherit Drelas' Cottage if the owner has an unfortunate accident.
 
 - [More Player Home Options](https://www.nexusmods.com/skyrimspecialedition/mods/36714) `2.0.0` - Adds the option for the player to acquire certain vanilla NPC homes that become vacant after quests.
-
-- [Morskom Estate](https://www.nexusmods.com/skyrimspecialedition/mods/33408) `2.0.0` - Mörskom Estate is a large player home situated on the hillside of Dawnstar. The mod comes with a short quest to acquire the home before the player will need to restore the building to its former glory, including the exterior and interior. Depending on your play style, Mörskom can be rebuilt using skill and materials or paid workers.
 
 ### Homes from Quests and Companions
 
@@ -320,6 +320,8 @@ The following quests and companions, mentioned in other sections of this guide, 
 
 - [Kaiden 2](https://www.nexusmods.com/skyrimspecialedition/mods/19075) - Autumn Watch is located near Ivarstead. You can purchase the keys for the home from someone in Ivarstead.
 
+- [Identity Crisis](https://www.nexusmods.com/skyrimspecialedition/mods/39634?tab=description) `2.1.0` - A player home awaits those with the mental fortitude - or lack thereof - to face utter lunacy.
+
 - [Project AHO](https://www.nexusmods.com/skyrimspecialedition/mods/15996) - Upon completing the mod, you can gain access to a player home which can be relocated across Skyrim.
 
 - [The Tale of Tsatampra Xiros](https://www.nexusmods.com/skyrimspecialedition/mods/36707) - Upon completing the quest, you gain ownership of the Annals to call your own.
@@ -328,9 +330,9 @@ The following quests and companions, mentioned in other sections of this guide, 
 
 Each of Skyrim's factions provide at least a room with safe storage. Notable enhancements to vanilla faction homes include:
 
-- [Obscure's College of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/20514) -  Savos Aren's default setup is a cluttered office, but once you're Arch-Mage you may transform it into a laboratory, council chamber, secret archive, heated spa, or back into the original vanilla grove. This private space includes many player-home features.
-
 - [ClefJ's Fort Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/33044) - A complete architectural overhaul for Fort Dawnguard; now a proper castle!
+
+- [Obscure's College of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/20514) -  Savos Aren's default setup is a cluttered office, but once you're Arch-Mage you may transform it into a laboratory, council chamber, secret archive, heated spa, or back into the original vanilla grove. This private space includes many player-home features.
 
 ## New Characters
 
@@ -354,9 +356,15 @@ In addition to the new characters available in the AE Creation Club, Septimus in
 
 - [Kaidan 2](https://www.nexusmods.com/skyrimspecialedition/mods/19075) `2.0.0` - Rebuilt and expanded, this romantic follower features over 1200 lines of dialogue, custom home, and mini quests.
 
+   > :ledger: Includes custom Septimus balance patch.
+
 - [Shirley](https://www.nexusmods.com/skyrimspecialedition/mods/45956) `2.0.0` - Shirley Curry, the beloved Skyrim Grandma, finally comes to the game as a follower you can recruit! She'll join you on your adventures, but don't expect her to simply carry your burdens! She's got more personality than all the vanilla followers combined, and we're sure she'll be a great companion, and a friend. And a grandma!
 
 ### Good Doggos
+
+- :new: [Meeko Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/17572) - `2.1.0` - Overhaul for Meeko that gives him a unique appearance and a variety of other features.
+
+- :new: [Vigilance Reborn SE](https://www.nexusmods.com/skyrimspecialedition/mods/17571) `2.1.0` - Overhaul for Vigilance that gives him a unique appearance and a variety of other features.
 
 - [Gladys The Corgi](https://www.nexusmods.com/skyrimspecialedition/mods/50164) `2.0.0` - Adds a friendly corgi companion to join you on your adventures!
 
@@ -368,19 +376,11 @@ In addition to the new characters available in the AE Creation Club, Septimus in
 
 - [Serana Dialogue Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/32161) `2.0.0` - An improvement to Serana's dialogue and functionalities as an NPC, making her feel more immersive and organic within the world of Skyrim.
 
-### Enhanced Citizens and New Followers
-
-- [Citizens of Tamriel](https://www.nexusmods.com/skyrimspecialedition/mods/29069) `2.0.0` - A tribute to old-school RPGs that adds some much-needed life to Skyrim's NPCs. Features all new, fully-voiced characters, unique followers, branching dialogue and more!
-
-- [Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194) `2.0.0` - NPCs with more extensive dialogue and role play choices. Over 250+ fully voiced NPCs, 25+ followers, 15+ marriage NPCs, and 50+ quests.
-
 ## Optional Mods
 
 Septimus includes these optional mods, which can be enabled or disabled via MO2:
 
-- :new: [Atlas Map Markers SE - Updated with MCM](https://www.nexusmods.com/skyrimspecialedition/mods/24104) `2.0.2` - This is an update to Kronixx's classic mod, Atlas Map Markers. It adds MCM options with full control over the new markers, as well as all of the vanilla map markers.
-
-- :new: [Sidequests of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/54245) `2.0.2` - Perform radiant side quests for almost any NPC. Get rewarded and become friends with NPCs
+- [Atlas Map Markers SE - Updated with MCM](https://www.nexusmods.com/skyrimspecialedition/mods/24104) `2.0.2` - This is an update to Kronixx's classic mod, Atlas Map Markers. It adds MCM options with full control over the new markers, as well as all of the vanilla map markers.
 
 - [Complete Widescreen Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1778) `2.0.0` - It's a fix for a Widescreen 2560x1080, 3440x1440 Vanilla and SkyUI.
 
@@ -397,6 +397,8 @@ Septimus includes these optional mods, which can be enabled or disabled via MO2:
 - [No Killmoves - No Killcams - No Killbites SE](https://www.nexusmods.com/skyrimspecialedition/mods/13395) `2.0.0` - This mod disables melee finishing moves, ranged/magic slow-motion kills, and dragon bite-and-throw attacks. The goal is to have more intense fights with less cheap deaths. The only killcam still enabled is the view that's shown when you're already dead.
 
 - [No Survival Camera Effects](https://www.nexusmods.com/skyrimspecialedition/mods/13756) `2.0.1` - Removes the many blurry camera effects added in survival mode.
+
+- [Sidequests of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/54245) `2.0.2` - Perform radiant side quests for almost any NPC. Get rewarded and become friends with NPCs
 
 - [Simple Load Screens](https://www.nexusmods.com/skyrimspecialedition/mods/49529) `2.0.0` - A much more simple approach to loading screens.
 
