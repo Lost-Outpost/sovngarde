@@ -124,7 +124,7 @@ To change ENB & Reshade presets, do the following:
 
 - Try turning off any ENB that might be enabled and switching to the ultra lite reshade preset
 - Activate the performance grass and dyndolod mods under Septimus - Performance Mode
-- Replace the files in the profile you're playing (Septimus/profiles/Septimus [- Anniversary Edition]) with one of the presets in Septimus/Performance Options
+- Copy the files from one of the presets in Septimus/Performance Options to the profile you're using and overwrite (Septimus/profiles/Septimus [- Anniversary Edition])
 
 ![Perf Options](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/perf_options.png)
 ![Perf Options 2](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/perf_options2.png)
