@@ -23,6 +23,8 @@ I have been hesitant to include the highly requested Legacy of the Dragonborn fo
 + Added LOTD Museum Exterior Fixes
 + Added Curators Companion
 + Added ASLAL Legacy of the Dragonborn start
++ Added KS Hairdos Lite (Optional)
++ Added Community Overlays (Optional)
 + Fixed Argonian and Khajiit feet meshes and feet seams 
 
 ## Version 2.1.0
