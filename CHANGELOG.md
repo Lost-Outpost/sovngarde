@@ -25,6 +25,7 @@ I have been hesitant to include the highly requested Legacy of the Dragonborn fo
 + Added ASLAL Legacy of the Dragonborn start
 + Added KS Hairdos Lite (Optional)
 + Added Community Overlays (Optional)
++ Added Fortune's Tradehouse Custom Tweaks (Some balance)
 + Fixed Argonian and Khajiit feet meshes and feet seams 
 
 ## Version 2.1.0
