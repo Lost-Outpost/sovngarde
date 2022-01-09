@@ -15,6 +15,10 @@
 
 # Changelog
 
+## Version 2.1.1 [Unreleased]
++ Added Legacy of the Dragonborn (Optional)
++ Added Jarl Balgruuf Dilemma
+
 ## Version 2.1.0
 **WARNING: This update requires a new save! If you have a character you are enjoying, stay on the current release :)**
 + Added Identity Crisis
