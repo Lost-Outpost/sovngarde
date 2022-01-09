@@ -47,6 +47,7 @@
 + Removed JK's Skyrim
 + Removed Luminosity Lighting Overhaul
 + Removed Wheels of Lul (Needs some fixing before adding back)
++ Removed Dragon War (Entirely)
 
 ## Version 2.0.2
 + Added Dead Shrubs Replacer
