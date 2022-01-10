@@ -15,10 +15,10 @@
 
 # Changelog
 
-## Version 2.1.1 [BETA]
+## Version 2.2.0 [BETA]
 I have been hesitant to include the highly requested Legacy of the Dragonborn for quite some time. I ended up looking through the files and I believe supporting it as an optional addon is not going to be too harmful. Instructions are included in the configuration section of the readme if you wish to enable it.
 
-**WARNING: This update IS save safe, however I would not enable LOTD on an existing save.**
+**WARNING: This update IS save safe, but ensure you are not in any Carved Brink or Aethernautics locations and do not have Brhuce Brhuce Hammar as a companion.**
 
 + Added Legacy of the Dragonborn!!!!!! (Optional)
 + Added Jarl Balgruuf Dilemma
