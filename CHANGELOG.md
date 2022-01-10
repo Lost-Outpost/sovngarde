@@ -34,6 +34,7 @@ I have been hesitant to include the highly requested Legacy of the Dragonborn fo
 + Added Legion - A Bruma Encounter Zone Overhaul
 + Added Mercenary Light Iron Armor
 + Added Adamant Patch with custom weapon perk descriptions
++ Added Cathedral Vision Reshade (Custom Tweaked)
 + Fixed Argonian and Khajiit feet meshes and feet seams 
 
 ## Version 2.1.0
