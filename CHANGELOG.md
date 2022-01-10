@@ -36,7 +36,10 @@ I have been hesitant to include the highly requested Legacy of the Dragonborn fo
 + Added Cathedral Vision Reshade (Custom Tweaked)
 + Added Riften Honorhall Orphanage Upgraded
 + Updated Serana Dialogue Addon
-+ Fixed Argonian and Khajiit feet meshes and feet seams 
++ Removed Brhuce Hammar Legacy
++ Removed Aethernautics
++ Removed Carved Brink
++ Fixed Argonian and Khajiit feet meshes and feet seams
 
 ## Version 2.1.0
 **WARNING: This update requires a new save! If you have a character you are enjoying, stay on the current release :)**
