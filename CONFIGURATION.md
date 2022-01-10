@@ -74,9 +74,6 @@ I have included the necessary mods to enable widescreen UI support. If you play 
 When enabling this content, just like with alternate start mods, ensure all mod esp files are above and Septimus - (Patch) files in your load order and if there is a Septimus patch for them, load that after the mod's esp and above all other Septimus patches. This applies for any optional content not specifically mentioned here. For content with its own section, follow the appropriate readme section for it.
 
 ### Legacy of the Dragonborn
-
-**WARNING: If you are playing on the Septimus - Anniversary Edition profile it is recommended to disable or delete the ccbgssse008-wraithguard.esl (Sunder & Wraithguard) creation club content as it may have issues with LOTD. You have been warned!**
-
 Once enabled, place the patches as shown in the following screenshots
 
 + Legacyofthedragonborn.esm should be dragged to the top of the load order (dragging it at all will trigger this automatically)
