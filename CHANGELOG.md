@@ -35,6 +35,7 @@ I have been hesitant to include the highly requested Legacy of the Dragonborn fo
 + Added Adamant Patch with custom weapon perk descriptions
 + Added Cathedral Vision Reshade (Custom Tweaked)
 + Added Riften Honorhall Orphanage Upgraded
++ Updated Serana Dialogue Addon
 + Fixed Argonian and Khajiit feet meshes and feet seams 
 
 ## Version 2.1.0
