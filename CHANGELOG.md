@@ -31,6 +31,7 @@ I have been hesitant to include the highly requested Legacy of the Dragonborn fo
 + Added Fortune's Tradehouse Custom Tweaks (Some balance)
 + Added Return To Pelagius' Mind
 + Added Stop On Slash (Hitstop animation)
++ Added Adamant Patch with custom weapon perk descriptions
 + Fixed Argonian and Khajiit feet meshes and feet seams 
 
 ## Version 2.1.0
