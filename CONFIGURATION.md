@@ -78,7 +78,7 @@ Once enabled, place the patches as shown in the following screenshots.
 
 + The LOTD Patch hub patches should go here just after the Literally Unplayable Patches and above any Septimus patches
 
-![LOTD Patches](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/lotd_dbm_patches.png)
+![LOTD Patches](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/dbm_patches.png)
 
 + The LOTD Occlusion Patch should go here with the rest of the occlusion patches
 
