@@ -76,7 +76,7 @@ When enabling this content, just like with alternate start mods, ensure all mod 
 ### Legacy of the Dragonborn
 Once enabled, place the patches as shown in the following screenshots.
 
-+ The LOTD Patch hub patches should go here just after the Literally Unplayable Patches and above any Septimus patches
++ LOTD Patches beginning with LOTD_TCC or DBM should go here just after the Literally Unplayable Patches and above any Septimus patches
 
 ![LOTD Patches](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/dbm_patches.png)
 
