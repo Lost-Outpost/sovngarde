@@ -136,6 +136,8 @@ Septimus includes additional overhauls to promote balance:
 
 - [Forceful Tongue](https://www.nexusmods.com/skyrimspecialedition/mods/36276) `2.0.0` - Forceful tongue rebalances shouts in a manner similar to the above mods by Simon Magus. It allows your shouts to scale with your level as well as rebalancing several shouts to be more effective.
 
+- :new: [Legion - A Bruma Encounter Zone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/60848) `2.2.0` - Legion is an encounter zone overhaul for Beyond Skyrim: Bruma. It is designed in a way which allows players to make judgements based on enemy types. Increases the difficulty of dungeons by re-leveling the enemies.
+
 - [Open World Loot](https://www.nexusmods.com/skyrimspecialedition/mods/49681) `2.0.0` - Open world loot is a rebalance of Skyrim's loot system. It attempts to maintain the same open world feel of Skyrim while adjusting the levels certain items appear and makes it so daedric and other special weapons must be acquired from special quests only. No longer will Iron equipment be completely irrelevant in a matter of a few hours.
 
 - [Radiant Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/45427) `2.0.1` - Modifies select radiant quests so that they don't send you to locations with dangerous enemies until your level is high enough.
@@ -162,9 +164,13 @@ Finally, Septimus includes custom patches for added content to promote balance.
 
 - [Haugbui - A Draugr Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26188) `2.0.0` - A lightweight overhaul providing balance adjustments, new items, unique boss designs, and some more variants to the draugr enemies.
 
+- :new: [Jarl Balgruuf Dilemma](https://www.nexusmods.com/skyrimspecialedition/mods/41132) `2.2.0` - Combo: civil war without main quest & Jarl Balgruuf joining Stormcloaks.
+
 - [Nether's Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/55653) `2.0.0` - Nether's Follower Framework is a multi-follower system that is light on game resources and allows for up to 10 companions at one time. It provides a wealth of additional features, including immersion and quality-of-life functions to allow you to adventure with a small team of characters.
 
 - [Reliquary of Myth - Artifact Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/31612) `2.0.0` - Reliquary of Myth includes balanced, lore-friendly, and unique enchantments to nearly all of Skyrim's most legendary and famous artifacts.
+
+- :new: [Riften Honorhall Orphanage Upgraded](https://www.nexusmods.com/skyrimspecialedition/mods/45227) `2.2.0` - Provides an option to fund a lore-friendly upgrade to the Honorhall Orphanage, so that in a post-Grelod world, the kids have more fun and a less bleak existence.
 
 - [Skyrim's Got Talent - Improve As a Bard](https://www.nexusmods.com/skyrimspecialedition/mods/50357) `2.0.0` - Play instruments, get better, NPCs react to your skill dynamically, many new songs, lots of easter eggs, simple implementation.
 
@@ -186,6 +192,18 @@ Finally, Septimus includes custom patches for added content to promote balance.
 
    > :ledger: Tapping the <kbd>Sprint</kbd> key and any other <kbd>Directional Movement</kbd> key will cause your character to dodge in that direction.
 
+## :new: Legacy of the Dragonborn (LOTD)
+
+As of `2.2.0`, Septimus optionally includes [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802). See the [Configuration Guide](#CONFIGURATION.md#legacy-of-the-dragonborn) for instructions on how to install LOTD. Septimus includes the following LOTD gameplay mods:
+
+- :new: [Curators Companion](https://www.nexusmods.com/skyrimspecialedition/mods/38529) `2.2.0` - The all in one Legacy of the Dragonborn companion!
+
+- :new: [Relic Hunter- Guildmaster Start](https://www.nexusmods.com/skyrimspecialedition/mods/12253) `2.2.0` - Begin your Legacy experience with a new Alternate Start Live Another Life option as Guild Master for the Explorer's Society!
+
+  > :ledger: This appears as "Alternate Start - Live Another Life - Legacy of the Dragonborn" in the Alternate Start section
+
+- :new: [Return to Pelagius' Mind](https://www.nexusmods.com/skyrimspecialedition/mods/31344) `2.2.0` - Travel back to Pelagius' mind to retrieve items you forgot about. For example, Legacy of the Dragonborn's Jyggalag's Sword.
+
 ## New Gear and Equipment
 
 In addition to the new gear and equipment available in the AE Creation Club, Septimus includes:
@@ -204,6 +222,8 @@ In addition to the new gear and equipment available in the AE Creation Club, Sep
 
 - [Dawnguard Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/25094) `2.0.0` - Expands the weapons in the Dawnguard Arsenal, which are used by Dawnguard NPCs and craftable by the player.
 
+- :new: [Mercenary Light Iron Armor](https://www.nexusmods.com/skyrimspecialedition/mods/59897) `2.2.0` - New light armor for your mercenaries and bounty hunters.
+
 - [More Craftable Equipment](https://www.nexusmods.com/skyrimspecialedition/mods/44666) `2.0.0` - Craft all kinds of clothing items with the new crafting station, the Weaving Loom.
 
 - [Winter Is Coming SSE - Cloaks](https://www.nexusmods.com/skyrimspecialedition/mods/4933) `2.0.0` - Winter Is Coming SSE - Cloaks adds lore friendly cloaks and hoods into the world through the use of level lists and crafting, this will add more diversity to the game while keeping the "feel" of Skyrim.
@@ -215,8 +235,6 @@ In addition to the new quests available in the AE Creation Club, Septimus includ
 The recommended levels are meant to represent a natural progression through the available content, not the minimum level at which a quest can be completed. Please provide feedback via the [TPF Discord](https://discord.gg/tpf) #sep-discussions channel if any of the recommended levels seem off.
 
 ### Recommended Level: All
-
-- [Aethernautics- A Space Travel Mod](https://www.nexusmods.com/skyrimspecialedition/mods/436) `2.0.0` - The classic spaceship mod returns! New weapons, a new dungeon, and a spaceship await!
 
 - [Blackreach Railroad](https://www.nexusmods.com/skyrimspecialedition/mods/435) `2.0.0` - Reactivate and restore your very own dwemer railroad, with new characters, items, and a fully voiced quest to do so.
 
@@ -236,6 +254,8 @@ The recommended levels are meant to represent a natural progression through the 
 
 - [Fortune's Tradehouse](https://www.nexusmods.com/skyrimspecialedition/mods/22755) `2.0.0` - Help an Argonian cobbler gain access to Fortune’s Tradehouse, a new location added to Markarth with five fully voiced quests for the player to embark on.
 
+  > :ledger: Includes custom Septimus balance patch.
+
   > :video_game: The quest includes excellent voice acting. The quests are straightforward, and the final quest reward&mdash;boots which fortify movement speed&mdash;is well worth getting early in your Septimus journey.
 
 - [TrainFight](https://www.nexusmods.com/skyrimspecialedition/mods/58269?tab=posts) `2.0.0` - Fight your way atop, through, and inside the belly of a fully animated, fully detailed steam locomotive.
@@ -244,11 +264,9 @@ The recommended levels are meant to represent a natural progression through the 
 
 ### Recommended Level: 20+
 
-- :new: [Identity Crisis](https://www.nexusmods.com/skyrimspecialedition/mods/39634?tab=description) `2.1.0` - Investigate the madness afflicting the Northern Asylum of Julianos, and earn the boon of the Madgod himself. New enemies, spells, armour, weapons, and a player home await...
-
-- [Carved Brink](https://www.nexusmods.com/skyrimspecialedition/mods/24351) `2.0.0` - Carved Brink is a large quest modification, from the authors of “Project AHO”. This mod adds to Skyrim: a daedric plan of Peryite - The Pits, and an unknown part of Oblivion - Faceted Stones.
-
 - [Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/4155) `2.0.0` - Clockwork is a quest mod involving a castle high in the Velothi Mountains, lost to the world for over a hundred years. Once found, you may call Clockwork Castle home... but if you want to leave, you'll need to discover how to escape.
+
+- [Identity Crisis](https://www.nexusmods.com/skyrimspecialedition/mods/39634?tab=description) `2.1.0` - Investigate the madness afflicting the Northern Asylum of Julianos, and earn the boon of the Madgod himself. New enemies, spells, armour, weapons, and a player home await...
 
 - [The Lost Wonders of Mzark](https://www.nexusmods.com/skyrimspecialedition/mods/40674) `2.0.0` - Lost Wonders of Mzark is a quest/dungeon mod for those who prefer a more puzzle-oriented game. The enemies you encounter within must be disposed of in careful ways, and you'll find more than just fights awaiting you in the depths of Mzarnumez.
 
@@ -286,10 +304,6 @@ In addition to the new player homes available in the AE Creation Club, Septimus 
 
 ### Standalone Homes
 
-- :new: [King of Worms | Queen of Dawn](https://www.nexusmods.com/skyrimspecialedition/mods/35779) `2.1.0` - Restore one of the lost beacons of Meridia and earn custodianship of the Chantry of the Dawn... or... Corrupt the beacon, granting access to the lair of a long dead Sload necromancer.
-
-- :new: [Providence and Pestilence](https://www.nexusmods.com/skyrimspecialedition/mods/35237) `2.1.0` - Journey into Peryite's Pits and earn the Taskmaster's blessing - as well as an otherworldly lair to call your home...
-
 - [Blackthorn](https://www.nexusmods.com/skyrimspecialedition/mods/2242) `2.0.0` - Blackthorn is a large Hearthfire inspired buildable player home and town with over 400+ build options to choose from, it also includes plenty of Safe Storage, Hearthfire Style Planters, Armor Mannequins, Displays for Dragon Priest Masks, Claws, Black Books, Paragons, Weapon Racks, Display Cases, New Merchants, Indoor Smithing Area, Plenty of room for Followers and Multiple Adoption Friendly.
 
    > :ledger: Includes custom Septimus balance patch.
@@ -302,7 +316,11 @@ In addition to the new player homes available in the AE Creation Club, Septimus 
 
 - [Drelas' Cottage](https://www.nexusmods.com/skyrimspecialedition/mods/39829) `2.0.0` - Inherit Drelas' Cottage if the owner has an unfortunate accident.
 
+- [King of Worms | Queen of Dawn](https://www.nexusmods.com/skyrimspecialedition/mods/35779) `2.1.0` - Restore one of the lost beacons of Meridia and earn custodianship of the Chantry of the Dawn... or... Corrupt the beacon, granting access to the lair of a long dead Sload necromancer.
+
 - [More Player Home Options](https://www.nexusmods.com/skyrimspecialedition/mods/36714) `2.0.0` - Adds the option for the player to acquire certain vanilla NPC homes that become vacant after quests.
+
+- [Providence and Pestilence](https://www.nexusmods.com/skyrimspecialedition/mods/35237) `2.1.0` - Journey into Peryite's Pits and earn the Taskmaster's blessing - as well as an otherworldly lair to call your home...
 
 ### Homes from Quests and Companions
 
@@ -350,8 +368,6 @@ In addition to the new characters available in the AE Creation Club, Septimus in
 
 - [Auri](https://www.nexusmods.com/skyrimspecialedition/mods/11278) `2.0.0` - Auri is a fully voiced follower and quest mod, which centers around Bosmer culture and tradition. She is a traditionalist Wood Elf archer, will follow you, do your bidding, and offer occasional snarky commentary about your surroundings and actions.
 
-- [Brhuce Hammar Legacy](https://www.nexusmods.com/skyrimspecialedition/mods/47605) `2.0.0` - A new standalone, fully voiced companion, with his own unique equipment, AI, as well as five enormous quests that will take you through the realms of Oblivion, into space, and even give you a giant robot that you may pilot!
-
 - [Mirai](https://www.nexusmods.com/skyrimspecialedition/mods/10908) `2.0.0` - Mirai is a young Breton mage living alone in the harsh frozen wastelands of Skyrim for close to a year. Originally from High Rock like the rest of her kind, you'll be quick to learn a situation with her father caused her to seek refuge alone in the lands of the north. What the situation was, however; she's not as open about.
 
 - [Kaidan 2](https://www.nexusmods.com/skyrimspecialedition/mods/19075) `2.0.0` - Rebuilt and expanded, this romantic follower features over 1200 lines of dialogue, custom home, and mini quests.
@@ -362,13 +378,13 @@ In addition to the new characters available in the AE Creation Club, Septimus in
 
 ### Good Doggos
 
-- :new: [Meeko Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/17572) - `2.1.0` - Overhaul for Meeko that gives him a unique appearance and a variety of other features.
-
-- :new: [Vigilance Reborn SE](https://www.nexusmods.com/skyrimspecialedition/mods/17571) `2.1.0` - Overhaul for Vigilance that gives him a unique appearance and a variety of other features.
-
 - [Gladys The Corgi](https://www.nexusmods.com/skyrimspecialedition/mods/50164) `2.0.0` - Adds a friendly corgi companion to join you on your adventures!
 
+- [Meeko Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/17572) - `2.1.0` - Overhaul for Meeko that gives him a unique appearance and a variety of other features.
+
 - [Merlin The Corgi](https://www.nexusmods.com/skyrimspecialedition/mods/56433) `2.0.0` - Adds a magical corgi companion to join you on your adventures!
+
+- [Vigilance Reborn SE](https://www.nexusmods.com/skyrimspecialedition/mods/17571) `2.1.0` - Overhaul for Vigilance that gives him a unique appearance and a variety of other features.
 
 ### Enhanced Followers
 
@@ -382,6 +398,8 @@ Septimus includes these optional mods, which can be enabled or disabled via MO2:
 
 - [Atlas Map Markers SE - Updated with MCM](https://www.nexusmods.com/skyrimspecialedition/mods/24104) `2.0.2` - This is an update to Kronixx's classic mod, Atlas Map Markers. It adds MCM options with full control over the new markers, as well as all of the vanilla map markers.
 
+- :new: [Community Overlays](https://www.nexusmods.com/skyrimspecialedition/mods/22487) `2.2.0` - Contains many different kinds of overlays from warpaints, bodypaints, tattoos, dragon scales, blood stains, and much more!
+
 - [Complete Widescreen Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1778) `2.0.0` - It's a fix for a Widescreen 2560x1080, 3440x1440 Vanilla and SkyUI.
 
 - [The Dragonborn Dreams](https://www.nexusmods.com/skyrimspecialedition/mods/60384) `2.0.1` - The Dragonborn Dreams allows your character to occasionally wake up having had a (written) dream.
@@ -393,6 +411,10 @@ Septimus includes these optional mods, which can be enabled or disabled via MO2:
 - [Helgen Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/5673) `2.0.0` - Helgen Reborn is a fully voiced adventure with over 20 superb voice actors. As you help rebuild the town you'll reunite two old friends, uncover an underground slavery ring, battle in an arena and many other adventures!
 
   > :ledger: Only enable after leaving Helgen. You will find a book to start the quest in The Bannered Mare.
+
+- :new: [Kala's Eyes](https://www.nexusmods.com/skyrimspecialedition/mods/29895) `2.2.0` - Adds 57 new eyes including some blind & heterochromia variants for human males & females.
+
+- :new: [KS Hairdos Lite](https://www.nexusmods.com/skyrimspecialedition/mods/1932) `2.2.0` - A 'lite' version of KS Hairdos featuring 20 male and 20 female hairstyles - as an added bonus, KS Hairdos Lite changes the hairstyles of most of the followers in Skyrim, Dawnguard and Dragonborn too.
 
 - [No Killmoves - No Killcams - No Killbites SE](https://www.nexusmods.com/skyrimspecialedition/mods/13395) `2.0.0` - This mod disables melee finishing moves, ranged/magic slow-motion kills, and dragon bite-and-throw attacks. The goal is to have more intense fights with less cheap deaths. The only killcam still enabled is the view that's shown when you're already dead.
 
