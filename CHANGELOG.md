@@ -16,7 +16,7 @@
 # Changelog
 
 ## Version 2.2.0
-I have been hesitant to include the highly requested Legacy of the Dragonborn for quite some time. I ended up looking through the files and I believe supporting it as an optional addon is not going to be too harmful. Instructions are included in the configuration section of the readme if you wish to enable it. I've also done another round of culling lower quality content so no one is annoyed or frustrated at some of the quest mods.
+I have been hesitant to include the highly requested Legacy of the Dragonborn for quite some time. Instructions are included in the configuration section of the readme if you wish to enable it. I've also done another round of culling lower quality content so no one is annoyed or frustrated at some of the quest mods.
 
 **WARNING: This update is NOT save safe. You must create a new character.**
 
