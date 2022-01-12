@@ -326,17 +326,15 @@ In addition to the new player homes available in the AE Creation Club, Septimus 
 
 The following quests and companions, mentioned in other sections of this guide, also grant player homes.
 
-- [Aethernautics- A Space Travel Mod](https://www.nexusmods.com/skyrimspecialedition/mods/436) - Once you reactivate it, the player may use the aethership as their own. It comes complete with cargo and docking bays, engineering and maintenance shafts, weapon systems, and even a full bridge with a captain's chair. The ship may also be used as a player home, and quarters are provided with basic services.
-
 - [Alternate Start - Live Another Life](https://www.nexusmods.com/skyrimspecialedition/mods/272) - One of the starts gives you a cozy little farm near Rorikstead, Shoals Rest Farm.  It will net you a small weekly income, provided the Farmers are alive.
 
 - [Blackreach Railroad](https://www.nexusmods.com/skyrimspecialedition/mods/435) - A new upgradable house, which serves as the private car on the locomotive, which unlocks new sections and rooms as the player unlocks new stations!
 
-- [Brhuce Hammar Legacy - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/47605) - The ability to, once you have completed the relevant quest, teleport you to your own giant robot hangar.
-
 - [Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/4155) - Once you discover the Clockwork Castle, you may call it your home.  However escaping is a different issue.
 
 - [Kaiden 2](https://www.nexusmods.com/skyrimspecialedition/mods/19075) - Autumn Watch is located near Ivarstead. You can purchase the keys for the home from someone in Ivarstead.
+
+- [Legacy of the Dragonborn](https://www.nexusmods.com/skyrim/mods/52248) - The museum includes a safehouse that has everything an aspiring relic hunter could possibly need!
 
 - [Identity Crisis](https://www.nexusmods.com/skyrimspecialedition/mods/39634?tab=description) `2.1.0` - A player home awaits those with the mental fortitude - or lack thereof - to face utter lunacy.
 
