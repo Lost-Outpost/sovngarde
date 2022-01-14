@@ -16,7 +16,19 @@
 # Changelog
 
 ## Version 2.3.0 [BETA 1]
-+ Stuff!!!!
++ Added Wintersun - Faiths of Skyrim
++ Added Tonal Architect
++ Added Vokriinator (Vokrii + Ordinator Only and Optional)
++ Added Vokrii - Perks
++ Added Alchemy Potions and Food Adjustments
++ Added Summermyst (Optional)
++ Added Apocalypse Magic (Optional)
++ Added Odin Magic
++ Removed Serana Dialogue Addon (Replaced with another more fitting mod)
++ Removed Improved Follower Dialogue - Lydia (Replaced with less annoying lydia)
++ Removed Apothcary - Alchemy Overhaul
++ Removed Thaumaturgy - Enchanting Overhaul
++ Removed Pilgrim - Religion Overhaul
 
 ## Version 2.2.0
 I have been hesitant to include the highly requested Legacy of the Dragonborn for quite some time. Instructions are included in the configuration section of the readme if you wish to enable it. I've also done another round of culling lower quality content so no one is annoyed or frustrated at some of the quest mods.
