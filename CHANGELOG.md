@@ -16,6 +16,9 @@
 # Changelog
 
 ## Version 2.3.0 [BETA 1]
+
+**WARNING: This release is for TESTING ONLY. Do not update unless you are willing to test and give feedback. This update may not be save safe with the full 2.3.0 release either!**
+
 + Added Wintersun - Faiths of Skyrim
 + Added Tonal Architect
 + Added Vokriinator (Vokrii + Ordinator Only and Optional)
