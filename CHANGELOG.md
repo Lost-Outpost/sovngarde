@@ -39,6 +39,8 @@
 + Added Mundustar - Custom Standing Stones
 + Added LOTD Sunder and Wraithguard Fix
 + Added LOD Unloading Fix
++ Added Less Annoying Lydia
++ Added Serana Relationship Revamped
 + Updated Tempered Skins and Xenius Character Enhancements (Better faces overall)
 + Updated Vanilla Hair Replacer and Custom Patch
 + Updated ENB Presets with two new ultra lite options
