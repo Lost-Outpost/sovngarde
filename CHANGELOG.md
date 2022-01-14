@@ -41,6 +41,7 @@
 + Added LOD Unloading Fix
 + Updated Tempered Skins and Xenius Character Enhancements (Better faces overall)
 + Updated Vanilla Hair Replacer and Custom Patch
++ Updated ENB Presets with two new ultra lite options
 + Removed Serana Dialogue Addon (Replaced with another more fitting mod)
 + Removed Improved Follower Dialogue - Lydia (Replaced with less annoying lydia)
 + Removed Apothcary - Alchemy Overhaul
