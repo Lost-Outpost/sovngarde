@@ -24,12 +24,26 @@
 + Added Summermyst (Optional)
 + Added Apocalypse Magic (Optional)
 + Added Odin Magic
++ Added Simplest Horses
++ Added Hold Border Banners
++ Added Immersive Hold Borders Fixed - Standalone
++ Added Riverwood Bridgehouse
++ Added Embers HD
++ Added Morskom Estate (Welcome back :D)
++ Added JK's Cities Superlite
++ Added Book Covers of Skyrim
++ Added Dear Diary Dark Mode (Optional)
++ Added Dawnguard Arsenal
++ Adaded Thunderchild
++ Added Functional Fearsome Fists
 + Removed Serana Dialogue Addon (Replaced with another more fitting mod)
 + Removed Improved Follower Dialogue - Lydia (Replaced with less annoying lydia)
 + Removed Apothcary - Alchemy Overhaul
 + Removed Thaumaturgy - Enchanting Overhaul
 + Removed Pilgrim - Religion Overhaul
 + Removed Nether's Follower Framework (Too script heavy and not necessary)
++ Removed JK's Interiors (All of them)
++ Removed Expanded Towns and Cities (Too much performance impact)
 
 ## Version 2.2.0
 I have been hesitant to include the highly requested Legacy of the Dragonborn for quite some time. Instructions are included in the configuration section of the readme if you wish to enable it. I've also done another round of culling lower quality content so no one is annoyed or frustrated at some of the quest mods.
