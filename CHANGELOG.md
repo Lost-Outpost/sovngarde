@@ -38,7 +38,7 @@
 + Added Dawnguard Arsenal
 + Added Thunderchild
 + Added Growl - Werebeasts of Skyrim
-+ Added Sacriledge - Vampires of Skyrim
++ Added Sacrilege - Minimalistic Vampires of Skyrim
 + Added Functional Fearsome Fists
 + Added Mundustar - Custom Standing Stones
 + Added LOTD Sunder and Wraithguard Fix
