@@ -34,7 +34,9 @@
 + Added Book Covers of Skyrim
 + Added Dear Diary Dark Mode (Optional)
 + Added Dawnguard Arsenal
-+ Adaded Thunderchild
++ Added Thunderchild
++ Added Growl - Werebeasts of Skyrim
++ Added Sacriledge - Vampires of Skyrim
 + Added Functional Fearsome Fists
 + Added Mundustar - Custom Standing Stones
 + Added LOTD Sunder and Wraithguard Fix
@@ -53,6 +55,8 @@
 + Removed JK's Interiors (All of them)
 + Removed Expanded Towns and Cities (Too much performance impact)
 + Removed Mundus - Standing Stone Overhaul
++ Removed Scion - Vampires
++ Removed Manbeast - Werewolves
 
 ## Version 2.2.0
 I have been hesitant to include the highly requested Legacy of the Dragonborn for quite some time. Instructions are included in the configuration section of the readme if you wish to enable it. I've also done another round of culling lower quality content so no one is annoyed or frustrated at some of the quest mods.
