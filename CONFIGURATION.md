@@ -119,7 +119,7 @@ To change ENB & Reshade presets, do the following:
 
 ![Enb Organizer](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/enb_enable.png)
 
-- Low spec users or first time players may want to stick with the default (Davinci Reshade) profile to start
+- Very low spec users may want to switch to Cathedral Reshade instead of ENB for extra performance
 
 ## Performance Guide
 
