@@ -38,6 +38,7 @@
 + Added Functional Fearsome Fists
 + Added Mundustar - Custom Standing Stones
 + Added LOTD Sunder and Wraithguard Fix
++ Added LOD Unloading Fix
 + Updated Tempered Skins and Xenius Character Enhancements (Better faces overall)
 + Updated Vanilla Hair Replacer and Custom Patch
 + Removed Serana Dialogue Addon (Replaced with another more fitting mod)
