@@ -31,7 +31,6 @@
 + Added Riverwood Bridgehouse
 + Added Embers HD
 + Added Morskom Estate (Welcome back :D)
-+ Added JK's Cities Superlite
 + Added Book Covers of Skyrim
 + Added Dear Diary Dark Mode (Optional)
 + Added Dawnguard Arsenal
