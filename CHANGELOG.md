@@ -45,6 +45,7 @@
 + Added LOD Unloading Fix
 + Added Less Annoying Lydia
 + Added Serana Relationship Revamped
++ Added Auri Refined
 + Updated Tempered Skins and Xenius Character Enhancements (Better faces overall)
 + Updated Vanilla Hair Replacer and Custom Patch
 + Updated ENB Presets with two new ultra lite options
@@ -59,6 +60,7 @@
 + Removed Scion - Vampires
 + Removed Manbeast - Werewolves
 + Removed Forceful Tongue
++ Removed Auri Re-Imagined
 
 ## Version 2.2.0
 I have been hesitant to include the highly requested Legacy of the Dragonborn for quite some time. Instructions are included in the configuration section of the readme if you wish to enable it. I've also done another round of culling lower quality content so no one is annoyed or frustrated at some of the quest mods.
