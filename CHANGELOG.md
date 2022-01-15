@@ -21,10 +21,9 @@
 
 + Added Wintersun - Faiths of Skyrim
 + Added Tonal Architect
-+ Added Vokriinator (Vokrii + Ordinator Only and Optional)
-+ Added Vokrii - Perks
-+ Added Summermyst (Optional)
-+ Added Apocalypse Magic (Optional)
++ Added Ordii - Ordinator Improved
++ Added Summermyst
++ Added Apocalypse Magic
 + Added Odin Magic
 + Added Simplest Horses
 + Added Hold Border Banners
