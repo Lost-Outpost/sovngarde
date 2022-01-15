@@ -61,6 +61,7 @@
 + Removed Manbeast - Werewolves
 + Removed Forceful Tongue
 + Removed Auri Re-Imagined
++ Removed Smoothcam (Still weird interactions with TDM, fine without)
 
 ## Version 2.2.0
 I have been hesitant to include the highly requested Legacy of the Dragonborn for quite some time. Instructions are included in the configuration section of the readme if you wish to enable it. I've also done another round of culling lower quality content so no one is annoyed or frustrated at some of the quest mods.
