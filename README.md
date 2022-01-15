@@ -45,7 +45,7 @@
 
 "I can almost... hear them. I feel their life energy. Come, I will make the mixture." - Septimus Signus
 
-Septimus is an extensive vanilla-friendly modlist full of carefully chosen new gear, spells, quests, optional survival gameplay as well as full anniversary edition creation club support.
+Septimus is an extensive performance-friendly modlist full of carefully chosen new gear, spells, quests, optional survival gameplay as well as full anniversary edition creation club support.
 
 Septimus works with both Skyrim: Special Edition and Skyrim: Anniversary Edition. The full Anniversary Edition support includes all the new creation club content for those eager to get right into the new content.
 
