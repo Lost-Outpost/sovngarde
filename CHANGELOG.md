@@ -28,6 +28,8 @@ This release has been a long time coming and I'm very excited to finally bring i
 + Added Remove Small Rocks (No more bad rocks)
 + Added HD Reworked Farmhouses
 + Added Valravn + Uncloaked
++ Added Peltapalooza
++ Added Rugnarok
 + Added Swamp House
 + Added Dynamic Volumetric Lighting
 + Added Disable Follower Collision
@@ -66,6 +68,7 @@ This release has been a long time coming and I'm very excited to finally bring i
 + Added Less Annoying Lydia
 + Added Serana Relationship Revamped
 + Added Auri Refined
++ Added Realistic Aspens
 + Updated Tempered Skins and Xenius Character Enhancements (Better faces overall)
 + Updated Vanilla Hair Replacer and Custom Patch
 + Updated ENB Presets with two new ultra lite options
@@ -83,6 +86,7 @@ This release has been a long time coming and I'm very excited to finally bring i
 + Removed Forceful Tongue
 + Removed Auri Re-Imagined
 + Removed Smoothcam (Still weird interactions with TDM, fine without)
++ Removed Aspens Ablaze (Performance too poor)
 
 ## Version 2.2.0
 I have been hesitant to include the highly requested Legacy of the Dragonborn for quite some time. Instructions are included in the configuration section of the readme if you wish to enable it. I've also done another round of culling lower quality content so no one is annoyed or frustrated at some of the quest mods.
