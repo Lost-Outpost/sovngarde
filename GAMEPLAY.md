@@ -21,7 +21,7 @@ This guide highlights major gameplay mods included in Septimus in the following 
 - [HUD and Hotkeys](#hud-and-hotkeys)
 - [Quality of Life](#quality-of-life)
 - [Balance Changes](#balance-changes)
-  - [SimonRim](#simonrim)
+  - [Gameplay Overhauls](#gameplay-overhauls)
   - [Other Overhauls](#other-overhauls)
   - [Septimus Patches](#septimus-patches)
 - [New Mechanics](#new-mechanics)
@@ -100,41 +100,41 @@ Septimus includes three alternative start mods, and you can optionally use MO2 t
 
 ## Balance Changes
 
-### SimonRim
+### Gameplay Overhauls
 
-Septiums includes all of [Simon Magus Overhauls (SimonRim)](https://www.nexusmods.com/skyrimspecialedition/users/67410746?tab=user+files). SimonRim overhauls various systems in Skyrim in a way that stays true to the original while improving the balance and gameplay, and includes:
+Septiums includes several overhauls to core gameplay system, none of which will make them any more complicated or confusing than you may recognize:
 
 - [Aetherius](https://www.nexusmods.com/skyrimspecialedition/mods/26686) `2.0.0` - A rework of all race abilities as well as the removal of powers in favor of better passive abilities
 
-- [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191) `2.0.0` - Overhauls and introduces new perks increasing build diversity
+- :new:  [Ordii Redux](https://www.nexusmods.com/skyrimspecialedition/mods/55200) `2.3.0` - Overhauls and introduces new perks increasing build diversity
+
+- :new:  [Ordinator](https://www.nexusmods.com/skyrimspecialedition/mods/1137) `2.3.0` - Updated and required by Ordii Redux
 
 - [Apothecary (Plus Food and Drink)](https://www.nexusmods.com/skyrimspecialedition/mods/52130) `2.0.0` - Rebalances Food and Alchemy
 
-- [Arena](https://www.nexusmods.com/skyrimspecialedition/mods/33487) `2.0.0` - Tweaks to certain encounter zones to alter the level and balance some world areas
+- :new:  [Valravn](https://www.nexusmods.com/skyrimspecialedition/mods/53869) `2.3.0` - A lightweight combat enhancement which makes combat more engaging
 
-- [Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549) `2.0.0` - A lightweight combat enhancement which makes combat more engaging
+- :new:  [Growl](https://www.nexusmods.com/skyrimspecialedition/mods/31245) `2.3.0` - Rebalance and content addon for werewolves which introduces new perks and abilities
 
-- [Hand to Hand](https://www.nexusmods.com/skyrimspecialedition/mods/59790) `2.0.0` - Hand to Hand is an addon for Adamant that merges Lockpicking and Pickpocketing into a single skill and adds a new perk tree for Hand to Hand combat.
+- :new:  [Mundustar](https://www.nexusmods.com/skyrimspecialedition/mods/41674) `2.3.0` - A complete rebalance of all standing stones (Mixes Mundus and Morningstar)
 
-- [Manbeast](https://www.nexusmods.com/skyrimspecialedition/mods/44746) `2.0.0` - Rebalance and content addon for werewolves which introduces new perks and abilities
+- :new:  [Odin](https://www.nexusmods.com/skyrimspecialedition/mods/46000) `2.3.0` - A magic overhaul which fixes balance issues and introduces new spells
 
-- [Mundus](https://www.nexusmods.com/skyrimspecialedition/mods/33411) `2.0.0` - A complete rebalance of all standing stones
+- :new: [Apocalypse](https://www.nexusmods.com/skyrimspecialedition/mods/1090) `2.3.0` - A magic spell addon with many new and interesting spells
 
-- [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839) `2.0.0` - A magic overhaul which fixes balance issues and introduces new spells
+- :new: [Wintersun](https://www.nexusmods.com/skyrimspecialedition/mods/22506) `2.3.0` - Rebalance and rework of religion
 
-- [Pilgrim](https://www.nexusmods.com/skyrimspecialedition/mods/54099) `2.0.0` - Rebalance and rework of religion
+- :new: [Sacrilege](https://www.nexusmods.com/skyrimspecialedition/mods/42408) `2.3.0` - Rebalances and improves Vampires with reverse progression
 
-- [Scion](https://www.nexusmods.com/skyrimspecialedition/mods/41639) `2.0.0` - Rebalances and improves Vampires with reverse progression
+- :new: [Summermyst](https://www.nexusmods.com/skyrimspecialedition/mods/6285) `2.3.0` - Adds many new and interesting enchantments into the world
 
-- [Thamaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138) `2.0.0` - An enchanting overhaul which fixes some major issues with enchanting balance
+- :new: [Thunderchild](https://www.nexusmods.com/skyrimspecialedition/mods/1460) `2.3.0` - Thunderchild enables players to create shout-centric characters, adding 29 new shouts with multiple effects. It also rebalances many vanilla shouts.
 
 ### Other Overhauls
 
 Septimus includes additional overhauls to promote balance:
 
 - [Carriage and Ferry Travel Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/8379) `2.0.0` - CFTO introduces new ways to travel around skyrim including new carriage locations and new boats to increase the ease of traveling skyrim in an immersive way.
-
-- [Forceful Tongue](https://www.nexusmods.com/skyrimspecialedition/mods/36276) `2.0.0` - Forceful tongue rebalances shouts in a manner similar to the above mods by Simon Magus. It allows your shouts to scale with your level as well as rebalancing several shouts to be more effective.
 
 - :new: [Legion - A Bruma Encounter Zone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/60848) `2.2.0` - Legion is an encounter zone overhaul for Beyond Skyrim: Bruma. It is designed in a way which allows players to make judgements based on enemy types. Increases the difficulty of dungeons by re-leveling the enemies.
 
@@ -166,11 +166,7 @@ Finally, Septimus includes custom patches for added content to promote balance.
 
 - :new: [Jarl Balgruuf Dilemma](https://www.nexusmods.com/skyrimspecialedition/mods/41132) `2.2.0` - Combo: civil war without main quest & Jarl Balgruuf joining Stormcloaks.
 
-- [Nether's Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/55653) `2.0.0` - Nether's Follower Framework is a multi-follower system that is light on game resources and allows for up to 10 companions at one time. It provides a wealth of additional features, including immersion and quality-of-life functions to allow you to adventure with a small team of characters.
-
 - [Reliquary of Myth - Artifact Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/31612) `2.0.0` - Reliquary of Myth includes balanced, lore-friendly, and unique enchantments to nearly all of Skyrim's most legendary and famous artifacts.
-
-- :new: [Riften Honorhall Orphanage Upgraded](https://www.nexusmods.com/skyrimspecialedition/mods/45227) `2.2.0` - Provides an option to fund a lore-friendly upgrade to the Honorhall Orphanage, so that in a post-Grelod world, the kids have more fun and a less bleak existence.
 
 - [Skyrim's Got Talent - Improve As a Bard](https://www.nexusmods.com/skyrimspecialedition/mods/50357) `2.0.0` - Play instruments, get better, NPCs react to your skill dynamically, many new songs, lots of easter eggs, simple implementation.
 
