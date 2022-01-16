@@ -180,7 +180,7 @@ Finally, Septimus includes custom patches for added content to promote balance.
 
    > :ledger: Tapping the <kbd>Sprint</kbd> key and any other <kbd>Directional Movement</kbd> key will cause your character to dodge in that direction.
 
-## :new: Legacy of the Dragonborn (LOTD)
+## :new: Legacy of the Dragonborn [OPTIONAL]
 
 As of `2.2.0`, Septimus optionally includes [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802). See the [Configuration Guide](#CONFIGURATION.md#legacy-of-the-dragonborn) for instructions on how to install LOTD. Septimus includes the following LOTD gameplay mods:
 
