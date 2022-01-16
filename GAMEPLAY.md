@@ -84,10 +84,6 @@ Septimus includes an alternative start mod, which you can optionally use MO2 to 
 
    > :ledger: Craft your choice of lantern. Once crafted and equipped, pressing the <kbd>L</kbd> key toggles the lantern.
 
-- [SmoothCam](https://www.nexusmods.com/skyrimspecialedition/mods/41252) `2.0.0` - SmoothCam is a highly configurable third-person camera, with smooth frame-interpolation and a raycasting crosshair to help you aim.
-
-   > :ledger: By default, the [Modern Camera](https://www.nexusmods.com/skyrimspecialedition/mods/41636) preset is included but you're free to try another.
-
 - [Sweeping Organizes Stuff](https://www.nexusmods.com/skyrimspecialedition/mods/51645) `2.0.0` - Use broom to clean up physics mess
 
 - [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614) `2.0.0` - Overhauls the third person gameplay similarly to modern action RPGs, entirely through SKSE. Move and attack in any direction. Includes a custom target lock component and animated healthbar widget, target headtracking, projectile aim support during target lock, boss bars, mount support and more! Modular and customizable through MCM.
