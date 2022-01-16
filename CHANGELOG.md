@@ -36,7 +36,7 @@ This release has been a long time coming and I'm very excited to finally bring i
 + Added Cooking Pots in Inns
 + Added Interno - Fire Effects
 + Added Arctic - Frost Effects
-+ Added Volage - Electric Effects
++ Added Voltage - Electric Effects
 + Added Smelters of Skyrim
 + Added AE + Bruma Crop planting support
 + Added Quest Journal Limit Fix
