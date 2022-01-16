@@ -17,7 +17,7 @@
 
 ## Version 2.3.0 [BETA]
 
-**WARNING: This release DOES require a new save. It is somewhat huge.**
+**WARNING: This release DOES require a new save. It is somewhat huge. Additionally, LOTD is now ENABLED by default in order to make it easier for those players to configure it. You can easily turn it off by disabling all mods in the OPTIONAL LOTD section :D**
 
 This release has been a long time coming and I'm very excited to finally bring it to everyone. I am finally honed in on exactly what I want this list to be. And that is a well-optimized list that almost anyone can run which still looks good, and most importantly, is filled with FUN and interesting content. You will notice some significant gameplay changes below. I implore you to give it a shot and see what you think. In addition to the above changes, this is now the most stable version of 2.0 I have released so far. I am very happy with the state we've finally arrived in. As always, enjoy!
 
