@@ -56,13 +56,9 @@ Icons:
 
 By default, Septimus uses the traditional Skyrim opening scene with you as a prisoner riding on a carriage to your intended execution.
 
-Septimus includes three alternative start mods, and you can optionally use MO2 to [enable](https://github.com/Guitarninja2/septimus/blob/main/CONFIGURATION.md#alternate-start) one of these mods to start your Skyrim journey on a different path. Instructions for how to do that are [here](https://github.com/Guitarninja2/septimus/blob/main/CONFIGURATION.md#alternate-start).
+Septimus includes an alternative start mod, which you can optionally use MO2 to [enable](https://github.com/Guitarninja2/septimus/blob/main/CONFIGURATION.md#alternate-start) one of these mods to start your Skyrim journey on a different path. Instructions for how to do that are [here](https://github.com/Guitarninja2/septimus/blob/main/CONFIGURATION.md#alternate-start).
 
 - [Alternate Start - Live Another Life](https://www.nexusmods.com/skyrimspecialedition/mods/272) `2.0.0` - Live Another Life provides an alternative means to start the game for those who do not wish to go through the lengthy intro sequence at Helgen.
-
-- [Ralof or Hadvar](https://www.nexusmods.com/skyrimspecialedition/mods/14553) `2.0.0` - Simply skips the carriage ride and opening scene to avoid any complications and get you into the game right away.
-
-- [Random Alternate Start Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/8328) `2.0.0` - Be anyone you want to be. Choose from 21 classic Oblivion/Morrowind loadouts then get randomly thrown somewhere in the vast land of Skyrim.
 
 ## HUD and Hotkeys
 
