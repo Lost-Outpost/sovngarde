@@ -34,7 +34,7 @@ This release has been a long time coming and I'm very excited to finally bring i
 + Added Dynamic Volumetric Lighting
 + Added Disable Follower Collision
 + Added Cooking Pots in Inns
-+ Added Interno - Fire Effects
++ Added Inferno - Fire Effects
 + Added Arctic - Frost Effects
 + Added Voltage - Electric Effects
 + Added Smelters of Skyrim
