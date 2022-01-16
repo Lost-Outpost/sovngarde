@@ -74,20 +74,7 @@ I have included the necessary mods to enable widescreen UI support. If you play 
 When enabling this content, just like with alternate start mods, ensure all mod esp files are above and Septimus - (Patch) files in your load order and if there is a Septimus patch for them, load that after the mod's esp and above all other Septimus patches. This applies for any optional content not specifically mentioned here. For content with its own section, follow the appropriate readme section for it.
 
 ### Legacy of the Dragonborn
-Once enabled, place the patches as shown in the following screenshots
-
-+ Legacyofthedragonborn.esm should be dragged to the top of the load order (dragging it at all will trigger this automatically)
-+ LOTD Patches beginning with LOTD_TCC or DBM should go here just after the Literally Unplayable Patches and above any Septimus patches
-
-![LOTD Patches](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/dbm_patches.png)
-
-+ The LOTD Occlusion Patch should go here with the rest of the occlusion patches
-
-![LOTD Occlusion](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/lotd_occ.png)
-
-+ The LOTD Septimus patch should go here just before the conflict resolution patch
-
-![LOTD Septimus Patch](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/lotd_sep_patch.png)
+"I HATE Legacy of the Dragonborn, PLEASE remove it". Don't worry. I've thought of this already. Simply uncheck all mods in the `Optional LOTD` separator in MO2 before starting your game
 
 ## Mod Configuration
 
