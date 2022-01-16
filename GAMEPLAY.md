@@ -298,8 +298,6 @@ In addition to the new player homes available in the AE Creation Club, Septimus 
 
 - [Cityside](https://www.nexusmods.com/skyrimspecialedition/mods/27777) `2.0.0` - A simple and minimal starter home based in the heart of the capital of Skyrim, the city of Solitude. Designed for immersion and/or roleplaying based playthroughs.
 
-- [ClefJ's Fort Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/33044) `2.0.2` - A complete architectural overhaul for Fort Dawnguard; now a proper castle!
-
 - [Dovahkiin's Vault](https://www.nexusmods.com/skyrimspecialedition/mods/42237) `2.0.0` - A small vault in the Throat of the World for storing away all those sketchy arcane objects in a safe location away from innocent people and your family. Only accessible with Clear Skies shout.
 
 - [Drelas' Cottage](https://www.nexusmods.com/skyrimspecialedition/mods/39829) `2.0.0` - Inherit Drelas' Cottage if the owner has an unfortunate accident.
