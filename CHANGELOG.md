@@ -17,9 +17,31 @@
 
 ## Version 2.3.0 [BETA]
 
-**WARNING: This release is for TESTING ONLY. Do not update unless you are willing to test and give feedback. This update may not be save safe with the full 2.3.0 release either!**
+**WARNING: This release DOES require a new save. It is somewhat huge.**
+
+This release has been a long time coming and I'm very excited to finally bring it to everyone. I am finally honed in on exactly what I want this list to be. And that is a well-optimized list that almost anyone can run which still looks good, and most importantly, is filled with FUN and interesting content. You will notice some significant gameplay changes below. I implore you to give it a shot and see what you think. In addition to the above changes, this is now the most stable version of 2.0 I have released so far. I am very happy with the state we've finally arrived in. As always, enjoy!
+
+-Guitarninja
 
 + Added Wintersun - Faiths of Skyrim
++ Added Comprehensive Sleeves Pack (Replaces sleeves for guards)
++ Added Remove Small Rocks (No more bad rocks)
++ Added HD Reworked Farmhouses
++ Added Valravn + Uncloaked
++ Added Swamp House
++ Added Dynamic Volumetric Lighting
++ Added Disable Follower Collision
++ Added Cooking Pots in Inns
++ Added Interno - Fire Effects
++ Added Arctic - Frost Effects
++ Added Volage - Electric Effects
++ Added Smelters of Skyrim
++ Added AE + Bruma Crop planting support
++ Added Quest Journal Limit Fix
++ Added Dual Sheath Fix
++ Added Immersive Equipment Display (ALLGUD Replacer)
++ Added HD Reworked Horses
++ Added LOTD Bruma Synergy Patch
 + Added Tonal Architect
 + Added Ordii - Ordinator Improved
 + Added Summermyst
@@ -47,6 +69,7 @@
 + Updated Tempered Skins and Xenius Character Enhancements (Better faces overall)
 + Updated Vanilla Hair Replacer and Custom Patch
 + Updated ENB Presets with two new ultra lite options
++ Updated Dragonborn Dreams
 + Removed Serana Dialogue Addon (Replaced with another more fitting mod)
 + Removed Improved Follower Dialogue - Lydia (Replaced with less annoying lydia)
 + Removed Thaumaturgy - Enchanting Overhaul
