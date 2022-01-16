@@ -78,7 +78,7 @@ This release has been a long time coming and I'm very excited to finally bring i
 + Removed Thaumaturgy - Enchanting Overhaul
 + Removed Pilgrim - Religion Overhaul
 + Removed Nether's Follower Framework (Too script heavy and not necessary)
-+ Removed JK's Interiors (All of them)
++ Removed JK's Interiors (They are too busy honestly)
 + Removed Expanded Towns and Cities (Too much performance impact)
 + Removed Mundus - Standing Stone Overhaul
 + Removed Scion - Vampires
