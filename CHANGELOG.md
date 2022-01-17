@@ -15,6 +15,11 @@
 
 # Changelog
 
+## Version 2.3.2 [Unreleased]
++ Added Saadia - Time of Need
++ Added Books of Skyrim + Redux
++ Fixed Water Issue near Darkwater Crossing
+
 ## Version 2.3.1
 
 **WARNING: A compatability issue was discovered between Apothecary and Summermyst. It was too much to resolve this quickly and Summermyst was removed for the time being. If you have interacted with any Summermyst items, you may want to start a new save**
