@@ -1,7 +1,11 @@
 {
   "patrons": [
     {
-      "name": "Test Guy",
+      "name": "Guitarninja - Creator",
+      "tier": "Patron"
+    },
+    {
+      "name": "Webmetz - Developer",
       "tier": "Patron"
     }
   ]
