@@ -1,5 +1,5 @@
 {
-  patrons: [
+  "patrons": [
     {
       "name": "Test Guy"
       "tier": "Patron"
