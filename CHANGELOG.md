@@ -18,6 +18,7 @@
 ## Version 2.3.2 [Unreleased]
 + Added Saadia - Time of Need
 + Added Books of Skyrim + Redux
++ Added Custom tweaks to some merchant lists for consistency
 + Fixed Water Issue near Darkwater Crossing
 
 ## Version 2.3.1
