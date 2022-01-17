@@ -118,8 +118,6 @@ Septiums includes several overhauls to core gameplay system, none of which will 
 
 - :new: [Sacrilege](https://www.nexusmods.com/skyrimspecialedition/mods/42408) `2.3.0` - Rebalances and improves Vampires with reverse progression
 
-- :new: [Summermyst](https://www.nexusmods.com/skyrimspecialedition/mods/6285) `2.3.0` - Adds many new and interesting enchantments into the world
-
 - :new: [Thunderchild](https://www.nexusmods.com/skyrimspecialedition/mods/1460) `2.3.0` - Thunderchild enables players to create shout-centric characters, adding 29 new shouts with multiple effects. It also rebalances many vanilla shouts.
 
 ### Other Overhauls
