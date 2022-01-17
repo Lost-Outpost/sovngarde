@@ -15,6 +15,11 @@
 
 # Changelog
 
+## Version 2.3.1
++ Added Eeekie's Kaidan
++ Added Ghosts of the Tribunal - Solstheim Integration
++ Removed Summermyst (Conflicting actor values  with Apothecary)
+
 ## Version 2.3.0
 
 **WARNING: This release DOES require a new save. It is somewhat huge. Additionally, LOTD is now ENABLED by default in order to make it easier for those players to configure it. You can easily turn it off by disabling all mods in the OPTIONAL LOTD section :D**
