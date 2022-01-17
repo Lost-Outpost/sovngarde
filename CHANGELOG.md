@@ -17,7 +17,7 @@
 
 ## Version 2.3.1
 
-**WARNING: A compatability issue was discovered between Apothecary and Summermyst and it was too much to resolve at the current moment and Summermyst was removed for the time being. If you have interacted with any Summermyst items, you may want to start a new save**
+**WARNING: A compatability issue was discovered between Apothecary and Summermyst. It was too much to resolve this quickly and Summermyst was removed for the time being. If you have interacted with any Summermyst items, you may want to start a new save**
 
 + Added Eeekie's Kaidan
 + Added Ghosts of the Tribunal - Solstheim Integration
