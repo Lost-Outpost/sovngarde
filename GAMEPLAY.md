@@ -180,7 +180,7 @@ Finally, Septimus includes custom patches for added content to promote balance.
 
 ## :new: Legacy of the Dragonborn [Optional]
 
-As of `2.2.0`, Septimus optionally includes [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802). See the [Configuration Guide](#CONFIGURATION.md#legacy-of-the-dragonborn) for instructions on how to install LOTD. Septimus includes the following LOTD gameplay mods:
+As of `2.2.0`, Septimus optionally includes [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802). See the [Configuration Guide](#CONFIGURATION.md#legacy-of-the-dragonborn) for instructions on how to configure LOTD. Septimus includes the following LOTD gameplay mods:
 
 - :new: [Curators Companion](https://www.nexusmods.com/skyrimspecialedition/mods/38529) `2.2.0` - The all in one Legacy of the Dragonborn companion!
 
