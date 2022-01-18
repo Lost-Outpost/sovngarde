@@ -15,6 +15,10 @@
 
 # Changelog
 
+## Version 2.3.3 [Unreleased]
++ Added Solstheim Caravan Trader
++ Updated Septimus Merchant Tweaks (More Food integration)
+
 ## Version 2.3.2
 + Added Saadia - Time of Need
 + Added Books of Skyrim + Redux
