@@ -24,6 +24,7 @@
 + Added Just Blood - Dirt and Blood Lite
 + Updated Septimus Merchant Tweaks (More Food integration)
 + Updated Fish Anywhere With Water
++ Updated All ENB Presets with no rain reflections on surfaces
 + Replaced Valravn with Lighter Valravn (Less harsh penalties)
 
 ## Version 2.3.2
