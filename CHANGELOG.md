@@ -19,6 +19,7 @@
 + Added Solstheim Caravan Trader
 + Added Animated Armoury - Legacy of Dragonborn Displays
 + Added Book Covers Skyrim - Lost Library (For those not using LOTD)
++ Added CC Goldenhills Plantation - Remove Shrine Cost in Survival
 + Updated Septimus Merchant Tweaks (More Food integration)
 + Replaced Valravn with Lighter Valravn (Less harsh penalties)
 
