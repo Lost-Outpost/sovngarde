@@ -19,6 +19,7 @@
 + Added Solstheim Caravan Trader
 + Added Animated Armoury - Legacy of Dragonborn Displays
 + Updated Septimus Merchant Tweaks (More Food integration)
++ Replaced Valravn with Lighter Valravn (Less harsh penalties)
 
 ## Version 2.3.2
 + Added Saadia - Time of Need
