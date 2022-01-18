@@ -15,7 +15,7 @@
 
 # Changelog
 
-## Version 2.3.2 [Unreleased]
+## Version 2.3.2
 + Added Saadia - Time of Need
 + Added Books of Skyrim + Redux
 + Added Beyond Skyrim Coffee to many inns and merchants :D
