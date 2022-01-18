@@ -20,8 +20,11 @@
 + Added Books of Skyrim + Redux
 + Added Beyond Skyrim Coffee to many inns and merchants :D
 + Added Custom tweaks to some merchant lists for consistency
++ Added Wayfarer's Coat
++ Added Custom NPC Outfit Tweaks (Distributing cool armor :D)
 + Fixed Water Issue near Darkwater Crossing
-+ Fixed an issue where some followers refused to trade.
++ Fixed an issue where some followers refused to trade
++ Fixed ENB Organizer sometimes refusing to apply presets correctly
 
 ## Version 2.3.1
 
