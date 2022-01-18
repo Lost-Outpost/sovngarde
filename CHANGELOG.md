@@ -19,6 +19,9 @@
 + Added Rustic Clothing
 + Added Modular Armory
 + Added Sharpen Other Swords
++ Added Weather of World
++ Added Enhanced Blood Textures
++ Fixed LOD Issue where some buildings were missing roofs
 
 ## Version 2.3.3
 + Added Solstheim Caravan Trader
