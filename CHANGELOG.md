@@ -18,6 +18,7 @@
 ## Version 2.3.4 [Unreleased]
 + Added Rustic Clothing
 + Added Modular Armory
++ Added Sharpen Other Swords
 
 ## Version 2.3.3
 + Added Solstheim Caravan Trader
