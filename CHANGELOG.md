@@ -21,6 +21,7 @@
 + Added Book Covers Skyrim - Lost Library (For those not using LOTD)
 + Added CC Goldenhills Plantation - Remove Shrine Cost in Survival
 + Updated Septimus Merchant Tweaks (More Food integration)
++ Updated Fish Anywhere With Water
 + Replaced Valravn with Lighter Valravn (Less harsh penalties)
 
 ## Version 2.3.2
