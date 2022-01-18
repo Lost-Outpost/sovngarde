@@ -248,7 +248,6 @@ I want to extend a special thanks to the following people for helping make this 
 
 ## Septimus Team
 + Webmetz - Author of the Relics of Hyrule addon and awesome modder!
-+ Gyzarus - Extremely helpful modlist tester
 + Rsrogers4 - Tons of documentation help!
 + Calcyon - Extremely helpful modlist tester
 + Durgenage - Extremely helpful modlist tester
