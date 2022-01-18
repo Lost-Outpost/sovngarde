@@ -254,7 +254,6 @@ I want to extend a special thanks to the following people for helping make this 
 
 ## Community Members
 + Ashensakar - Level 99 Advanced Screenarcher and has created both modlist images
-+ jns - Lots of testing and graphics feedback :D
 + Day7 - Help with bugs and creating some cool integrations
 + Codegeek - One of the first long-term list players and has provided great feedback
 + Aphil - Another of the first long-term list players and has provided great feedback
