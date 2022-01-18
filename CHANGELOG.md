@@ -15,6 +15,10 @@
 
 # Changelog
 
+## Version 2.3.4 [Unreleased]
++ Added Rustic Clothing
++ Added Modular Armory
+
 ## Version 2.3.3
 + Added Solstheim Caravan Trader
 + Added Animated Armoury - Legacy of Dragonborn Displays
