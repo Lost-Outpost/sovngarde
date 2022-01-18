@@ -376,8 +376,6 @@ In addition to the new characters available in the AE Creation Club, Septimus in
 
 Septimus includes these optional mods, which can be enabled or disabled via MO2:
 
-- [Atlas Map Markers SE - Updated with MCM](https://www.nexusmods.com/skyrimspecialedition/mods/24104) `2.0.2` - This is an update to Kronixx's classic mod, Atlas Map Markers. It adds MCM options with full control over the new markers, as well as all of the vanilla map markers.
-
 - :new: [Community Overlays](https://www.nexusmods.com/skyrimspecialedition/mods/22487) `2.2.0` - Contains many different kinds of overlays from warpaints, bodypaints, tattoos, dragon scales, blood stains, and much more!
 
 - [Complete Widescreen Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1778) `2.0.0` - It's a fix for a Widescreen 2560x1080, 3440x1440 Vanilla and SkyUI.
