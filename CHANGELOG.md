@@ -15,7 +15,7 @@
 
 # Changelog
 
-## Version 2.3.4 [Unreleased]
+## Version 2.3.4
 + Added Rustic Clothing
 + Added Modular Armory
 + Added Sharpen Other Swords
