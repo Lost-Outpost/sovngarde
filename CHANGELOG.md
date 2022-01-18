@@ -17,6 +17,7 @@
 
 ## Version 2.3.3 [Unreleased]
 + Added Solstheim Caravan Trader
++ Added Animated Armoury - Legacy of Dragonborn Displays
 + Updated Septimus Merchant Tweaks (More Food integration)
 
 ## Version 2.3.2
