@@ -15,7 +15,7 @@
 
 # Changelog
 
-## Version 2.3.3 [Unreleased]
+## Version 2.3.3
 + Added Solstheim Caravan Trader
 + Added Animated Armoury - Legacy of Dragonborn Displays
 + Added Book Covers Skyrim - Lost Library (For those not using LOTD)
