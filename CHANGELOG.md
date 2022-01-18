@@ -21,6 +21,7 @@
 + Added Book Covers Skyrim - Lost Library (For those not using LOTD)
 + Added CC Goldenhills Plantation - Remove Shrine Cost in Survival
 + Added Northborn Scars
++ Added Just Blood - Dirt and Blood Lite
 + Updated Septimus Merchant Tweaks (More Food integration)
 + Updated Fish Anywhere With Water
 + Replaced Valravn with Lighter Valravn (Less harsh penalties)
