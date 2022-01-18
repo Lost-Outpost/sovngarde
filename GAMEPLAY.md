@@ -230,8 +230,6 @@ The recommended levels are meant to represent a natural progression through the 
 
 - [Frozen in Time](https://www.nexusmods.com/skyrimspecialedition/mods/39732) `2.0.0` - A quest to reanimate an ancient Snow Elf warrior and help her regain her past.
 
-- [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576) `2.0.0` - Find various radiant quests around skyrim to earn some extra gold.
-
 - [Pit Fighter](https://www.nexusmods.com/skyrimspecialedition/mods/22513) `2.0.0` - Pit Fighter contains an all new faction to join, complete with NPCs, progression through the ranks, unique rewards and side quests.
 
 ### Recommended Level: 10+
