@@ -18,7 +18,6 @@
 ## Version 2.3.5 [Unreleased]
 + Added Rustic Animated Potions
 + Added Legacy of the Dragonborn Compass Replacer
-+ Added Rustic Animated Potions
 + Added Less Ugly Tundra Grass
 + Fixed Sun Spells not being affected by Divine Judgement
 
