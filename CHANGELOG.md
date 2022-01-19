@@ -29,6 +29,7 @@
 + Added Vigilant Animated Armory Patch
 + Added Silent Horizons + Performance Version
 + Added Immersive HD Banners
++ Added Rustic Soul Gems
 + Updated A Place To Rest Their Head - Tweaked
 + Fixed Sun Spells not being affected by Divine Judgement
 + Removed Bruma Alternate Start (Some issues and not suitable as a starting area really)
