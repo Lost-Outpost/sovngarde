@@ -15,6 +15,10 @@
 
 # Changelog
 
+## Version 2.3.5 [Unreleased]
++ Added Rustic Animated Potions
++ Fixed Sun Spells not being affected by Divine Judgement
+
 ## Version 2.3.4
 + Added Rustic Clothing
 + Added Modular Armory
