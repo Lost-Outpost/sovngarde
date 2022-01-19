@@ -32,6 +32,7 @@
 + Added Rustic Soul Gems
 + Updated A Place To Rest Their Head - Tweaked
 + Fixed Sun Spells not being affected by Divine Judgement
++ Fixed Random Cliff in Whiterun being out of place
 + Removed Bruma Alternate Start (Some issues and not suitable as a starting area really)
 + Removed Sleeves Pack (Was breaking some armor mesh replacers)
 
