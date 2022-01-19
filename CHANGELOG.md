@@ -33,6 +33,7 @@
 + Updated A Place To Rest Their Head - Tweaked
 + Fixed Sun Spells not being affected by Divine Judgement
 + Removed Bruma Alternate Start (Some issues and not suitable as a starting area really)
++ Removed Sleeves Pack (Was breaking some armor mesh replacers)
 
 ## Version 2.3.4
 + Added Rustic Clothing
