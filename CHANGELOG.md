@@ -31,6 +31,7 @@
 + Added Immersive HD Banners
 + Added Rustic Soul Gems
 + Updated A Place To Rest Their Head - Tweaked
++ Updated Immersive Equipment Display
 + Fixed Sun Spells not being affected by Divine Judgement
 + Fixed Random Cliff in Whiterun being out of place
 + Removed Bruma Alternate Start (Some issues and not suitable as a starting area really)
