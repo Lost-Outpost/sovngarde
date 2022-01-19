@@ -28,6 +28,7 @@
 + Added Kolskeggr Miner's Hall
 + Added Vigilant Animated Armory Patch
 + Added Silent Horizons + Performance Version
++ Added Immersive HD Banners
 + Fixed Sun Spells not being affected by Divine Judgement
 + Removed Bruma Alternate Start (Some issues and not suitable as a starting area really)
 
