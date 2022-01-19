@@ -20,6 +20,7 @@
 + Added Legacy of the Dragonborn Compass Replacer
 + Added Less Ugly Tundra Grass
 + Fixed Sun Spells not being affected by Divine Judgement
++ Removed Bruma Alternate Start (Some issues and not suitable as a starting area really)
 
 ## Version 2.3.4
 + Added Rustic Clothing
