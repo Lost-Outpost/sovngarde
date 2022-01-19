@@ -23,6 +23,9 @@
 + Added Legacy of the Dragonborn Compass Replacer
 + Added Less Ugly Tundra Grass
 + Added Morthal Where's Wares
++ Added Morthal Quartermaster
++ Added Karthwasten The Silver Anvil
++ Added Kolskeggr Miner's Hall
 + Fixed Sun Spells not being affected by Divine Judgement
 + Removed Bruma Alternate Start (Some issues and not suitable as a starting area really)
 
