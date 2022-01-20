@@ -44,6 +44,7 @@
 + Fixed Sun Spells not being affected by Divine Judgement
 + Fixed Random Cliff in Whiterun being out of place
 + Fixed Community Overlays crashing on body paint 61
++ Fixed Radiant Requirements MCM Settings (New saves only)
 + Removed Bruma Alternate Start (Some issues and not suitable as a starting area really)
 + Removed Sleeves Pack (Was breaking some armor mesh replacers)
 
