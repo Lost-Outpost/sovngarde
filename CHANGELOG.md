@@ -20,6 +20,13 @@
 **WARNING: If you are using the Bruma alternate start, either re-install that mod yourself or simply start a new save. It had to be removed due to some issues discovered and for overall gameplay balance/game experience reasons.**
 
 + Added Rustic Animated Potions
++ Added Solstheim Objects SMIM
++ Added Forgotten Retex Project
++ Added Rudy HQ Misc Textures
++ Added Ruins Clutter Improved
++ Added Rally's All of the Things
++ Added Lucid Rain
++ Added Rustic Clutter
 + Added Legacy of the Dragonborn Compass Replacer
 + Added Less Ugly Tundra Grass
 + Added Morthal Where's Wares
@@ -44,7 +51,8 @@
 + Fixed Sun Spells not being affected by Divine Judgement
 + Fixed Random Cliff in Whiterun being out of place
 + Fixed Community Overlays crashing on body paint 61
-+ Fixed Radiant Requirements MCM Settings (New saves only)
++ Fixed Radiant Requirements MCM Settings (New saves only)\
++ Fixed Curator Token Exploit
 + Removed Bruma Alternate Start (Some issues and not suitable as a starting area really)
 + Removed Sleeves Pack (Was breaking some armor mesh replacers)
 
