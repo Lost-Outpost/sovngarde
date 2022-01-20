@@ -30,7 +30,7 @@
 + Added Silent Horizons + Performance Version
 + Added Immersive HD Banners
 + Added Rustic Soul Gems
-+ Added Mihail's Cats
++ Added Mihail's Cats + Sound and Texture Overhaul
 + Added Krovaxis
 + Added Wintersun Patches
   + Providence and Pestilence
