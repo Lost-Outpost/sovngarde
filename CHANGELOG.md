@@ -32,6 +32,7 @@
 + Added Rustic Soul Gems
 + Added Mihail's Cats + Sound and Texture Overhaul
 + Added Krovaxis
++ SNIFF - Simple No Internal Friendly Fire
 + Added Wintersun Patches
   + Providence and Pestilence
   + Identity Crisis
