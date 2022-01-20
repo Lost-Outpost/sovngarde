@@ -31,10 +31,12 @@
 + Added Immersive HD Banners
 + Added Rustic Soul Gems
 + Added Mihail's Cats
++ Added Krovaxis
 + Added Wintersun Patches
   + Providence and Pestilence
   + Identity Crisis
   + King of Worms | Queen of Dawn
+  + Krovaxis
 + Updated A Place To Rest Their Head - Tweaked
 + Updated Immersive Equipment Display
 + Fixed Sun Spells not being affected by Divine Judgement
