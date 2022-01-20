@@ -30,6 +30,7 @@
 + Added Silent Horizons + Performance Version
 + Added Immersive HD Banners
 + Added Rustic Soul Gems
++ Added Mihail's Cats
 + Updated A Place To Rest Their Head - Tweaked
 + Updated Immersive Equipment Display
 + Fixed Sun Spells not being affected by Divine Judgement
