@@ -15,7 +15,7 @@
 
 # Changelog
 
-## Version 2.3.5 [Unreleased]
+## Version 2.3.5
 
 **WARNING: If you are using the Bruma alternate start, either re-install that mod yourself or simply start a new save. It had to be removed due to some issues discovered and for overall gameplay balance/game experience reasons.**
 
