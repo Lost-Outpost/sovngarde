@@ -31,7 +31,7 @@
 + Added Immersive HD Banners
 + Added Rustic Soul Gems
 + Added Mihail's Cats
-+ Added Wintersun Patches for:
++ Added Wintersun Patches
   + Providence and Pestilence
   + Identity Crisis
   + King of Worms | Queen of Dawn
