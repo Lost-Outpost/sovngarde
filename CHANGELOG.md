@@ -20,6 +20,7 @@
 + Replaced Project Clarity with Cleaned Skyrim Textures (Better performance and doesn't need to be built every install :D)
 + Fixed Eloquent Reader not granting exp
 + Fixed Water LOD Transitions (Probably)
++ Fixed Water Seams in riverwood
 
 ## Version 2.3.5
 
