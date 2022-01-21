@@ -17,9 +17,6 @@
 
 ## Version 2.3.6 [Unreleased]
 + Added Skyrim 3D Trees and Plants (Plants Only)
-+ Added Folkvangr
-+ Added Cathedral 3d Pine Grass
-+ Added QW's Grass Patch
 + Updated Skyland (And use some more skyland landscape textures)
 + Replaced Project Clarity with Cleaned Skyrim Textures (Better performance and doesn't need to be built every install :D)
 + Fixed Eloquent Reader not granting exp
