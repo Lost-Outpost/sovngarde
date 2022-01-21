@@ -19,6 +19,7 @@
 + Updated Skyland (And use some more skyland landscape textures)
 + Replaced Project Clarity with Cleaned Skyrim Textures (Better performance and doesn't need to be built every install :D)
 + Fixed Eloquent Reader not granting exp
++ Fixed Water LOD Transitions (Probably)
 
 ## Version 2.3.5
 
