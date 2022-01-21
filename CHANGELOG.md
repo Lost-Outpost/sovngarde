@@ -16,8 +16,7 @@
 # Changelog
 
 ## Version 2.3.6 [Unreleased]
-+ Replaced Project Clarity with Cleaned Skyrim Textures
-  + Better performance and doesn't need to be built every install :D
++ Replaced Project Clarity with Cleaned Skyrim Textures (Better performance and doesn't need to be built every install :D)
 
 ## Version 2.3.5
 
