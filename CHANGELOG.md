@@ -22,6 +22,7 @@
 + Fixed Eloquent Reader not granting exp
 + Fixed Water LOD Transitions (Probably)
 + Fixed Water Seams in riverwood
++ Fixed Divine Judgement Issues (Again :D)
 
 ## Version 2.3.5
 
