@@ -19,6 +19,9 @@
 + Added Midwood Isle + Custom Dead Man's Dread Patch + Apothecary Patches
 + Added Unofficial Project AHO Chains Patching
 + Added Iron Crossbows
++ Added Immersive Equipment Displays - Mura Presets
++ Added Interesting NPCs (With many tweaks)
++ Added LOTD Immersive NPCs patch + curators companion patch
 + Updated Skyland (And use some more skyland landscape textures)
 + Replaced Project Clarity with Cleaned Skyrim Textures (Better performance and doesn't need to be built every install :D)
 + Fixed Eloquent Reader not granting exp
