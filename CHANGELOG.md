@@ -17,6 +17,8 @@
 
 ## Version 2.3.6 [Unreleased]
 + Added Midwood Isle + Custom Dead Man's Dread Patch + Apothecary Patches
++ Added Unofficial Project AHO Chains Patching
++ Added Iron Crossbows
 + Updated Skyland (And use some more skyland landscape textures)
 + Replaced Project Clarity with Cleaned Skyrim Textures (Better performance and doesn't need to be built every install :D)
 + Fixed Eloquent Reader not granting exp
