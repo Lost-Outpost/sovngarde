@@ -30,6 +30,7 @@
 + Fixed Divine Judgement Issues (Again :D)
 + Fixed Vigilant - Delayed patch
 + Fixed Redundant Respec Methods for Ordinator and Vokrii
++ Fixed Rain and Snow on every enb preset
 
 ## Version 2.3.5
 
