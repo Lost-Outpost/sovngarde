@@ -18,7 +18,7 @@
 ## Version 2.3.6 [Unreleased]
 + Added Midwood Isle + Custom Dead Man's Dread Patch + Apothecary Patches
 + Added Unofficial Project AHO Chains Patching
-+ Added Iron Crossbows
++ Added Iron Crossbows (Replaces steel crossbows at level 1-5)
 + Added Immersive Equipment Displays - Mura Presets
 + Added Interesting NPCs (With many tweaks)
 + Added LOTD Immersive NPCs patch + curators companion patch
