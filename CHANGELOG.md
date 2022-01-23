@@ -29,6 +29,7 @@
 + Fixed Water Seams in riverwood
 + Fixed Divine Judgement Issues (Again :D)
 + Fixed Vigilant - Delayed patch
++ Fixed Redundant Respec Methods for Ordinator and Vokrii
 
 ## Version 2.3.5
 
