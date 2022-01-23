@@ -114,16 +114,7 @@ This list fully supports anniversary edition and all creation club content. Make
 To use the full AE content, make sure you have done the [post-install steps](https://github.com/Guitarninja2/septimus/blob/main/CONFIGURATION.md#creation-club-setup) for creation club content.
 
 ## Start Skyrim
-
-After you have done everything above and got a clean SSE or AE installation ready, start the Launcher and open the _Options_ menu.
-
-1. Leave the quality to what Skyrim sets it to, but you can lower it if you wish.
-2. Set the _Aspect Ratio_ and _Resolution_ to your monitor's native values
-3. Check _Windowed Mode_ and _Borderless_
-
-![Skyrim Settings](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/steamsettings.png)
-
-Start the game and exit once you're in the main menu.
+Start the game and exit once you're in the main menu. This will ensure any settings files needed by Wabbajack are created in the Skyrim directory.
 
 ## Using Wabbajack
 
