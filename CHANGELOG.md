@@ -15,7 +15,7 @@
 
 # Changelog
 
-## Version 2.3.6 [Unreleased]
+## Version 2.3.6
 + Added Midwood Isle + Custom Dead Man's Dread Patch + Apothecary Patches
 + Added Unofficial Project AHO Chains Patching
 + Added Iron Crossbows (Replaces steel crossbows at level 1-5)
