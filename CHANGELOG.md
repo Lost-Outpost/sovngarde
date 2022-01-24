@@ -15,6 +15,10 @@
 
 # Changelog
 
+## Version 2.3.6.2
++ Moved ENB Night Eye Fix into optional tweaks
++ Moved Obscure's College LOTD Patch into LOTD section
+
 ## Version 2.3.6.1
 
 You only really need this update if you don't want to enable dyndolod or veydosebrom manually on the non-AE profile.
