@@ -18,6 +18,7 @@
 ## Version 2.3.6.2
 + Moved ENB Night Eye Fix into optional tweaks
 + Moved Obscure's College LOTD Patch into LOTD section
++ Fixed Potential Missing Masters on Hair Unlocker
 
 ## Version 2.3.6.1
 
