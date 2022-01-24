@@ -15,6 +15,10 @@
 
 # Changelog
 
+## Version 2.3.6.1
++ Fixed Missing Dyndolod Output on non-AE profile
++ Fixed Veydosebrom Regions not being enabled on non-AE profile
+
 ## Version 2.3.6
 + Added Midwood Isle + Custom Dead Man's Dread Patch + Apothecary Patches
 + Added Unofficial Project AHO Chains Patching
