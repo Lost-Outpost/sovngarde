@@ -16,6 +16,9 @@
 # Changelog
 
 ## Version 2.3.6.1
+
+You only really need this update if you don't want to enable dyndolod or veydosebrom manually on the non-AE profile.
+
 + Fixed Missing Dyndolod Output on non-AE profile
 + Fixed Veydosebrom Regions not being enabled on non-AE profile
 
