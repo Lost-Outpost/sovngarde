@@ -15,7 +15,7 @@
 
 # Changelog
 
-## 2.3.7 [Unreleased]
+## Version 2.3.7 [Unreleased]
 + Added New ENB Organizer Screenshots
 + Added Enhanced Ore Veins
 
