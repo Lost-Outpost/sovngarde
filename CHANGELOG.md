@@ -15,6 +15,10 @@
 
 # Changelog
 
+## 2.3.7 [Unreleased]
++ Added New ENB Organizer Screenshots
++ Added Enhanced Ore Veins
+
 ## Version 2.3.6.2
 + Moved ENB Night Eye Fix into optional tweaks
 + Moved Obscure's College LOTD Patch into LOTD section
