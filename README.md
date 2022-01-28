@@ -16,6 +16,7 @@
 # Installation
 
 - [Introduction](#introduction)
+  - [Minimum Specs](#minimum-specs)
   - [Gameplay](#gameplay)
   - [Community](#community)
   - [List Contents](#list-contents)
