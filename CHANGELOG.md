@@ -28,6 +28,7 @@
 + Removed Obscure's College of Winterhold (Too performance heavy, replaced by Magical College of Winterhold)
 + Removed Thunderchild (Replaced by Forceful Tongue)
 + Removed Serana Relationship Revamped (Replaced by Serana Dialogue Edit)
++ Removed Bound Weapon books from the college and other places (Free spells = bad)
 
 ## Version 2.3.6.2
 + Moved ENB Night Eye Fix into optional tweaks
