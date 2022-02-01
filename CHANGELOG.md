@@ -22,7 +22,7 @@
 + Added Security Overhaul SKSE - Regional Locks
 + Added Serana Dialogue Edit
 + Added ENB Input Disabler
-+ Added Hiberna Lodge - Winterhold Home
++ Added A Proper Thane for Winterhold
 + Added Magical College of Winterhold
 + Added Deadly Spell Impacts
 + Updated Rebalancing Anniversary Edition - Quest Requirements
