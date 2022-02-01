@@ -19,6 +19,7 @@
 + Added New ENB Organizer Screenshots
 + Added Enhanced Ore Veins
 + Added Forceful Tongue
++ Updated Rebalancing Anniversary Edition - Quest Requirements
 + Removed Thunderchild (Replaced by Forceful Tongue)
 
 ## Version 2.3.6.2
