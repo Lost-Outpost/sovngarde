@@ -25,6 +25,8 @@
 + Added A Proper Thane for Winterhold
 + Added Magical College of Winterhold
 + Added Deadly Spell Impacts
++ Added Midwood Isle LOTD Patch
++ Updated Midwood Isle
 + Updated Rebalancing Anniversary Edition - Quest Requirements
 + Removed Obscure's College of Winterhold (Too performance heavy, replaced by Magical College of Winterhold)
 + Removed Thunderchild (Replaced by Forceful Tongue)
