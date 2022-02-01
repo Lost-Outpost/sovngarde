@@ -22,7 +22,10 @@
 + Added Security Overhaul SKSE - Regional Locks
 + Added Serana Dialogue Edit
 + Added ENB Input Disabler
++ Added Hiberna Lodge - Winterhold Home
++ Added Magical College of Winterhold
 + Updated Rebalancing Anniversary Edition - Quest Requirements
++ Removed Obscure's College of Winterhold (Too performance heavy, replaced by Magical College of Winterhold)
 + Removed Thunderchild (Replaced by Forceful Tongue)
 + Removed Serana Relationship Revamped (Replaced by Serana Dialogue Edit)
 
