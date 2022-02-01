@@ -15,10 +15,11 @@
 
 # Changelog
 
-## Version 2.3.7 [Unreleased]
+## Version 2.4.0 [Unreleased]
 + Added New ENB Organizer Screenshots
 + Added Enhanced Ore Veins
 + Added Forceful Tongue
++ Added Security Overhaul SKSE - Regional Locks
 + Updated Rebalancing Anniversary Edition - Quest Requirements
 + Removed Thunderchild (Replaced by Forceful Tongue)
 
