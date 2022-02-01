@@ -20,8 +20,10 @@
 + Added Enhanced Ore Veins
 + Added Forceful Tongue
 + Added Security Overhaul SKSE - Regional Locks
++ Added Serana Dialogue Edit
 + Updated Rebalancing Anniversary Edition - Quest Requirements
 + Removed Thunderchild (Replaced by Forceful Tongue)
++ Removed Serana Relationship Revamped (Replaced by Serana Dialogue Edit)
 
 ## Version 2.3.6.2
 + Moved ENB Night Eye Fix into optional tweaks
