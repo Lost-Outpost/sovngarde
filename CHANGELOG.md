@@ -21,6 +21,7 @@
 + Added Forceful Tongue
 + Added Security Overhaul SKSE - Regional Locks
 + Added Serana Dialogue Edit
++ Added ENB Input Disabler
 + Updated Rebalancing Anniversary Edition - Quest Requirements
 + Removed Thunderchild (Replaced by Forceful Tongue)
 + Removed Serana Relationship Revamped (Replaced by Serana Dialogue Edit)
