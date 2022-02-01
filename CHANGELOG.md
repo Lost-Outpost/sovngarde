@@ -18,6 +18,8 @@
 ## Version 2.3.7 [Unreleased]
 + Added New ENB Organizer Screenshots
 + Added Enhanced Ore Veins
++ Added Forceful Tongue
++ Removed Thunderchild (Replaced by Forceful Tongue)
 
 ## Version 2.3.6.2
 + Moved ENB Night Eye Fix into optional tweaks
