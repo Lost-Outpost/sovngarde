@@ -30,7 +30,7 @@
 + Added Magical College of Winterhold
 + Added Deadly Spell Impacts
 + Added Midwood Isle LOTD Patch
-+ Added About Roggvir...
++ Added About Roggvir - Roggvir Execution Quest Edit
 + Added Odin - CC Zombies and Necromantic Grimoire Patch
 + Added Wheel of Time + Custom Tweaks (Including Start Location)
 + Updated Midwood Isle
