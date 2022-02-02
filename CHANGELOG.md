@@ -35,6 +35,7 @@
 + Updated Midwood Isle
 + Updated Rebalancing Anniversary Edition - Quest Requirements
 + Updated Ordii - Septimus Balance Patch
++ Updated eFPS Boost
 + Removed Skyrim's Got Talent (Covered by ordinator)
 + Removed Obscure's College of Winterhold (Too performance heavy, replaced by Magical College of Winterhold)
 + Removed Thunderchild (Replaced by Forceful Tongue)
