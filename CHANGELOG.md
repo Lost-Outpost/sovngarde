@@ -35,6 +35,8 @@
 + Added Wheel of Time + Custom Tweaks (Including Start Location)
 + Added More Growable Plants - Custom Balance Tweaks
 + Added Barely Used Vanilla Actors Recycle Project + Patches
++ Added Wildcat - Combat of Skyrim
++ Added Athletik Combat - Realistic Movement and Dodging
 + Updated More Growable Plants
 + Updated Midwood Isle
 + Updated Rebalancing Anniversary Edition - Quest Requirements
@@ -46,6 +48,7 @@
 + Removed Thunderchild (Replaced by Forceful Tongue)
 + Removed Serana Relationship Revamped (Replaced by Serana Dialogue Edit)
 + Removed Bound Weapon books from the college and other places (Free spells = bad)
++ Removed Valravn (Replaced by Wildcat and Athletik Combat)
 
 ## Version 2.3.6.2
 + Moved ENB Night Eye Fix into optional tweaks
