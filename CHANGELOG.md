@@ -33,6 +33,8 @@
 + Added About Roggvir - Roggvir Execution Quest Edit
 + Added Odin - CC Zombies and Necromantic Grimoire Patch
 + Added Wheel of Time + Custom Tweaks (Including Start Location)
++ Added More Growable Plants - Custom Balance Tweaks
++ Updated More Growable Plants
 + Updated Midwood Isle
 + Updated Rebalancing Anniversary Edition - Quest Requirements
 + Updated Ordii - Septimus Balance Patch
