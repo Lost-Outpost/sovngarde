@@ -19,7 +19,7 @@
 + Added Hoth - Bounty Hunter Companion
 + Added Remiel - Dwemer Specialist Companion
 + Added Lucifer - Argonian Follower + CC Patches
-+ Added Cover - Witch Enemy Overhaul
++ Added Coven - Witch Enemy Overhaul
 + Added New ENB Organizer Screenshots
 + Added Enhanced Ore Veins
 + Added Forceful Tongue
