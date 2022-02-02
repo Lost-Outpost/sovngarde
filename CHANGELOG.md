@@ -16,6 +16,9 @@
 # Changelog
 
 ## Version 2.4.0 [Unreleased]
++ Added Hoth - Bounty Hunter Companion
++ Added Remiel - Dwemer Specialist Companion
++ Added Lucifer - Argonian Follower + CC Patches
 + Added New ENB Organizer Screenshots
 + Added Enhanced Ore Veins
 + Added Forceful Tongue
