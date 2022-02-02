@@ -30,6 +30,8 @@
 + Added Magical College of Winterhold
 + Added Deadly Spell Impacts
 + Added Midwood Isle LOTD Patch
++ Added About Roggvir...
++ Added Odin - CC Zombies and Necromantic Grimoire Patch
 + Updated Midwood Isle
 + Updated Rebalancing Anniversary Edition - Quest Requirements
 + Updated Ordii - Septimus Balance Patch
