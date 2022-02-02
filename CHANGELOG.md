@@ -32,7 +32,7 @@
 + Added Midwood Isle LOTD Patch
 + Added About Roggvir...
 + Added Odin - CC Zombies and Necromantic Grimoire Patch
-+ Added Maids II - Deception (JK... unless)
++ Added Wheel of Time + Custom Tweaks (Including Start Location)
 + Updated Midwood Isle
 + Updated Rebalancing Anniversary Edition - Quest Requirements
 + Updated Ordii - Septimus Balance Patch
