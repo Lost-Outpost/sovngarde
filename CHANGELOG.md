@@ -66,7 +66,6 @@
 + Removed Bound Weapon books from the college and other places (Free spells = bad)
 + Removed Valravn (Replaced by Wildcat and Athletik Combat)
 + Removed TK Dodge (Replaced by Ultimate Dodge Mod Reborn)
-+ Removed More Player Home Options (Wasn't that cool, issues with BUVARP)
 + Removed Wares of Wyrmstooth (No longer needed, location in dawnstar is fine)
 + Removed Morskom Estate (Performance tanks in dawnstar -20FPS or more)
 
