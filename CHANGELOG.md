@@ -55,6 +55,9 @@
 + Updated eFPS Boost
 + Updated Rudy Cathedral ENB Tweaks (Better Light Source Performance)
 + Updated Growl - Werebeasts of Skyrim
++ Updated Cloud's Family Friendly NPCs
++ Updated Haugbui
++ Updated Open World Loot
 + Removed Skyrim's Got Talent (Covered by ordinator)
 + Removed Obscure's College of Winterhold (Too performance heavy, replaced by Magical College of Winterhold)
 + Removed Thunderchild (Replaced by Forceful Tongue)
