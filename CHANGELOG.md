@@ -42,6 +42,8 @@
 + Added Odin - Necromantic Grimoire Patch
 + Added Terrain Fixes for CC Mods
 + Added Forgotten City - Delayed Start
++ Added Enhanced Vanilla Trees (Lush with SFO Variants and Realistic Aspens)
++ Added The Ultimate Dodge Mod Reborn
 + Updated More Growable Plants
 + Updated Midwood Isle
 + Updated Rebalancing Anniversary Edition - Quest Requirements
@@ -55,6 +57,8 @@
 + Removed Serana Relationship Revamped (Replaced by Serana Dialogue Edit)
 + Removed Bound Weapon books from the college and other places (Free spells = bad)
 + Removed Valravn (Replaced by Wildcat and Athletik Combat)
++ Removed Happy Little Trees
++ Removed TK Dodge (Replaced by Ultimate Dodge Mod Reborn)
 
 ## Version 2.3.6.2
 + Moved ENB Night Eye Fix into optional tweaks
