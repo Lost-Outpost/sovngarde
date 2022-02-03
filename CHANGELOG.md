@@ -39,6 +39,7 @@
 + Added More Growable Plants - Custom Balance Tweaks
 + Added Barely Used Vanilla Actors Recycle Project + Patches
 + Added Wildcat - Combat of Skyrim
++ Added Wildcat - Realistic Damage Plugin (Optional)
 + Added Athletik Combat - Realistic Movement and Dodging
 + Added Spiderbros - Throwing Spider Overhaul
 + Added Odin - Necromantic Grimoire Patch
