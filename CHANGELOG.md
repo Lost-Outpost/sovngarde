@@ -21,6 +21,8 @@
 + Added Lucifer - Argonian Follower + CC Patches
 + Added Coven - Witch Enemy Overhaul
 + Added New ENB Organizer Screenshots
++ Added Emperor - Giant Crab Overhaul
++ Added Power of Creation - Creation Club Artifact Overhaul
 + Added Enhanced Ore Veins
 + Added Forceful Tongue
 + Added Security Overhaul SKSE - Regional Locks
@@ -43,7 +45,9 @@
 + Added Terrain Fixes for CC Mods
 + Added Forgotten City - Delayed Start
 + Added Enhanced Vanilla Trees (Lush with SFO Variants and Realistic Aspens)
++ Added HQ Tree Bark
 + Added The Ultimate Dodge Mod Reborn
++ Added Player Rotation in Showracemenu
 + Updated More Growable Plants
 + Updated Midwood Isle
 + Updated Rebalancing Anniversary Edition - Quest Requirements
