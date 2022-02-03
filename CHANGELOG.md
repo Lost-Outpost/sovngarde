@@ -28,6 +28,7 @@
 + Added ENB Input Disabler
 + Added A Proper Thane for Winterhold
 + Added Magical College of Winterhold
++ Added College of Winterhold Bridge Repaired
 + Added Deadly Spell Impacts
 + Added Midwood Isle LOTD Patch
 + Added About Roggvir - Roggvir Execution Quest Edit
