@@ -39,12 +39,16 @@
 + Added Wildcat - Combat of Skyrim
 + Added Athletik Combat - Realistic Movement and Dodging
 + Added Spiderbros - Throwing Spider Overhaul
++ Added Odin - Necromantic Grimoire Patch
++ Added Terrain Fixes for CC Mods
++ Added Forgotten City - Delayed Start
 + Updated More Growable Plants
 + Updated Midwood Isle
 + Updated Rebalancing Anniversary Edition - Quest Requirements
 + Updated Ordii - Septimus Balance Patch
 + Updated eFPS Boost
 + Updated Rudy Cathedral ENB Tweaks (Better Light Source Performance)
++ Updated Growl - Werebeasts of Skyrim
 + Removed Skyrim's Got Talent (Covered by ordinator)
 + Removed Obscure's College of Winterhold (Too performance heavy, replaced by Magical College of Winterhold)
 + Removed Thunderchild (Replaced by Forceful Tongue)
