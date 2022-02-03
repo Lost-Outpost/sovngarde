@@ -66,6 +66,7 @@
 + Removed Valravn (Replaced by Wildcat and Athletik Combat)
 + Removed TK Dodge (Replaced by Ultimate Dodge Mod Reborn)
 + Removed More Player Home Options (Wasn't that cool, issues with BUVARP)
++ Removed Wares of Wyrmstooth (No longer needed, location in dawnstar is fine)
 
 ## Version 2.3.6.2
 + Moved ENB Night Eye Fix into optional tweaks
