@@ -44,10 +44,10 @@
 + Added Odin - Necromantic Grimoire Patch
 + Added Terrain Fixes for CC Mods
 + Added Forgotten City - Delayed Start
-+ Added Enhanced Vanilla Trees (Lush with SFO Variants and Realistic Aspens)
 + Added HQ Tree Bark
 + Added The Ultimate Dodge Mod Reborn
 + Added Player Rotation in Showracemenu
++ Added Vittorias Alternate Wedding
 + Updated More Growable Plants
 + Updated Midwood Isle
 + Updated Rebalancing Anniversary Edition - Quest Requirements
@@ -61,7 +61,6 @@
 + Removed Serana Relationship Revamped (Replaced by Serana Dialogue Edit)
 + Removed Bound Weapon books from the college and other places (Free spells = bad)
 + Removed Valravn (Replaced by Wildcat and Athletik Combat)
-+ Removed Happy Little Trees
 + Removed TK Dodge (Replaced by Ultimate Dodge Mod Reborn)
 + Removed More Player Home Options (Wasn't that cool, issues with BUVARP)
 
