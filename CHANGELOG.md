@@ -48,6 +48,7 @@
 + Added The Ultimate Dodge Mod Reborn
 + Added Player Rotation in Showracemenu
 + Added Vittorias Alternate Wedding
++ Added Thrones of Skyrim
 + Updated More Growable Plants
 + Updated Midwood Isle
 + Updated Rebalancing Anniversary Edition - Quest Requirements
@@ -67,6 +68,7 @@
 + Removed TK Dodge (Replaced by Ultimate Dodge Mod Reborn)
 + Removed More Player Home Options (Wasn't that cool, issues with BUVARP)
 + Removed Wares of Wyrmstooth (No longer needed, location in dawnstar is fine)
++ Removed Morskom Estate (Performance tanks in dawnstar -20FPS or more)
 
 ## Version 2.3.6.2
 + Moved ENB Night Eye Fix into optional tweaks
