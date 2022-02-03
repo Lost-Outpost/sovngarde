@@ -49,6 +49,7 @@
 + Added Player Rotation in Showracemenu
 + Added Vittorias Alternate Wedding
 + Added Thrones of Skyrim
++ Added Mortal Enemies
 + Updated More Growable Plants
 + Updated Midwood Isle
 + Updated Rebalancing Anniversary Edition - Quest Requirements
