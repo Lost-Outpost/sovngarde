@@ -37,6 +37,7 @@
 + Added Barely Used Vanilla Actors Recycle Project + Patches
 + Added Wildcat - Combat of Skyrim
 + Added Athletik Combat - Realistic Movement and Dodging
++ Added Spiderbros - Throwing Spider Overhaul
 + Updated More Growable Plants
 + Updated Midwood Isle
 + Updated Rebalancing Anniversary Edition - Quest Requirements
