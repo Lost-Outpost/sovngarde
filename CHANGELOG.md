@@ -52,6 +52,8 @@
 + Added Mortal Enemies
 + Added Folkvangr
 + Added Custom Folkvangr + Veydosebrom Flora Merge
++ Added Custom Septimus Main Menu Randomizer (Many community photos)
++ Added Distinct Interiors + Custom Paintings Fix (No horny)
 + Updated Midwood Isle
 + Updated Rebalancing Anniversary Edition - Quest Requirements
 + Updated Ordii - Septimus Balance Patch
