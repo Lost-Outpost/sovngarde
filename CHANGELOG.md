@@ -71,6 +71,7 @@
 + Removed TK Dodge (Replaced by Ultimate Dodge Mod Reborn)
 + Removed Wares of Wyrmstooth (No longer needed, location in dawnstar is fine)
 + Removed Morskom Estate (Performance tanks in dawnstar -20FPS or more)
++ Removed Lost Library (Redundant with LOTD)
 
 ## Version 2.3.6.2
 + Moved ENB Night Eye Fix into optional tweaks
