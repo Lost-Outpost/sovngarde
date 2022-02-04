@@ -42,7 +42,6 @@
 + Added Wildcat - Realistic Damage Plugin (Optional)
 + Added Athletik Combat - Realistic Movement and Dodging
 + Added Spiderbros - Throwing Spider Overhaul
-+ Added Odin - Necromantic Grimoire Patch
 + Added Terrain Fixes for CC Mods
 + Added Forgotten City - Delayed Start
 + Added HQ Tree Bark
