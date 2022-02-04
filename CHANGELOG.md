@@ -51,6 +51,8 @@
 + Added Vittorias Alternate Wedding
 + Added Thrones of Skyrim
 + Added Mortal Enemies
++ Added Folkvangr
++ Added Custom Folkvangr + Veydosebrom Flora Merge
 + Updated More Growable Plants
 + Updated Midwood Isle
 + Updated Rebalancing Anniversary Edition - Quest Requirements
