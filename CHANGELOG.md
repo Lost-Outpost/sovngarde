@@ -36,7 +36,7 @@
 + Added About Roggvir - Roggvir Execution Quest Edit
 + Added Odin - CC Zombies and Necromantic Grimoire Patch
 + Added Wheel of Time + Custom Tweaks (Including Start Location)
-+ Added More Growable Plants - Custom Balance Tweaks
++ Added Growable Plants - Custom Balance Tweaks
 + Added Barely Used Vanilla Actors Recycle Project + Patches
 + Added Wildcat - Combat of Skyrim
 + Added Wildcat - Realistic Damage Plugin (Optional)
@@ -53,7 +53,6 @@
 + Added Mortal Enemies
 + Added Folkvangr
 + Added Custom Folkvangr + Veydosebrom Flora Merge
-+ Updated More Growable Plants
 + Updated Midwood Isle
 + Updated Rebalancing Anniversary Edition - Quest Requirements
 + Updated Ordii - Septimus Balance Patch
