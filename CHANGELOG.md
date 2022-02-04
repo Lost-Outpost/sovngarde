@@ -33,7 +33,6 @@
 + Added College of Winterhold Bridge Repaired
 + Added Deadly Spell Impacts
 + Added Midwood Isle LOTD Patch
-+ Added About Roggvir - Roggvir Execution Quest Edit
 + Added Odin - CC Zombies and Necromantic Grimoire Patch
 + Added Wheel of Time + Custom Tweaks (Including Start Location)
 + Added Growable Plants - Custom Balance Tweaks
