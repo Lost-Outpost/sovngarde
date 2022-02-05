@@ -15,7 +15,10 @@
 
 # Changelog
 
-## Version 2.4.0 [Unreleased]
+## Version 2.4.0 [Beta 1]
+
+**WARNING: This is a beta release for testing ONLY. Do not update for a full playthrough yet as I cannot guarantee saves will transfer to the full release**
+
 + Added Hoth - Bounty Hunter Companion
 + Added Remiel - Dwemer Specialist Companion
 + Added Lucifer - Argonian Follower + CC Patches
