@@ -50,11 +50,12 @@
 + Added Thrones of Skyrim
 + Added Mortal Enemies
 + Added Folkvangr
++ Added Waterplants + Retexture (Lily Pads :D)
++ Added Cathedral 3d Pine Grass
 + Added Custom Folkvangr + Veydosebrom + Cathedral Pine Grass + Waterplants Merge
 + Added Custom Septimus Main Menu Randomizer (Many community photos)
 + Added Distinct Interiors + Custom Paintings Fix (No horny)
 + Added Unique Map Weather Framework
-+ Added Waterplants + Retexture (Lily Pads :D)
 + Added Raven Rock Enhanced
 + Added Teldryn Serious Enhanced Edition
 + Updated Midwood Isle
