@@ -50,7 +50,7 @@
 + Added Thrones of Skyrim
 + Added Mortal Enemies
 + Added Folkvangr
-+ Added Custom Folkvangr + Veydosebrom Flora Merge
++ Added Custom Folkvangr + Veydosebrom + Cathedral Pine Grass + Waterplants Merge
 + Added Custom Septimus Main Menu Randomizer (Many community photos)
 + Added Distinct Interiors + Custom Paintings Fix (No horny)
 + Added Unique Map Weather Framework
