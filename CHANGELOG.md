@@ -66,7 +66,7 @@
 + Updated Cloud's Family Friendly NPCs
 + Updated Haugbui
 + Updated Open World Loot
-+ Removed Skyrim's Got Talent (Covered by ordinator)
++ Updated Legacy of the Dragonborn
 + Removed Obscure's College of Winterhold (Too performance heavy, replaced by Magical College of Winterhold)
 + Removed Thunderchild (Replaced by Forceful Tongue)
 + Removed Serana Relationship Revamped (Replaced by Serana Dialogue Edit)
