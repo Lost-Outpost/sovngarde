@@ -40,7 +40,7 @@
 + Added Wheel of Time + Custom Tweaks (Including Start Location)
 + Added Growable Plants - Custom Balance Tweaks
 + Added Barely Used Vanilla Actors Recycle Project + Patches
-+ Added Wildcat - Combat of Skyrim
++ Added Wildcat - Combat of Skyrim (Heavily Tweaked)
 + Added Wildcat - Realistic Damage Plugin (Optional)
 + Added Athletik Combat - Realistic Movement and Dodging
 + Added Spiderbros - Throwing Spider Overhaul
