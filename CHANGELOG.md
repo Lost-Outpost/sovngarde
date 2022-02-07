@@ -23,6 +23,7 @@
 + Added Snowberry Cottage
 + Added Detection Meter (Sneak UI)
 + Added Wider MCM Widescreen Patch
++ Updated Skyrim Skill Uncapper Preset (Better magic scaling)
 + Replaced Riverwood Bridgehouse with Riverwood Bridgehouse Lite (Just buy the house now, no quest)
 + Removed Ordii Redux (Testing out just vokrii for now)
 
