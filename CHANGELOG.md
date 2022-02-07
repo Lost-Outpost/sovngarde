@@ -26,6 +26,9 @@
 + Updated Skyrim Skill Uncapper Preset (Better magic scaling)
 + Replaced Riverwood Bridgehouse with Riverwood Bridgehouse Lite (Just buy the house now, no quest)
 + Removed Ordii Redux (Testing out just vokrii for now)
++ Fixed Floating Lantern and Bags outside Falkreath
++ Fixed EEOS having some wrong perks
++ Fixed Conjuration skill leveling extremely fast
 
 ## Version 2.4.0 [Beta 1]
 
