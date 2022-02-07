@@ -71,7 +71,7 @@ I have included the necessary mods to enable widescreen UI support. If you play 
 **As a warning. The optional content has not been tested nearly as heavily as the rest of the list as not everyone has it enabled. Support will be limited if you enable any of the optional content as its more difficult to account for them. If you are at all worried about stability, do NOT enable any.**
 
 ### General Rules
-When enabling this content, just like with alternate start mods, ensure all mod esp files are above any Septimus - (Patch) files in your load order and if there is a Septimus patch for them, load that after the mod's esp and above all other Septimus patches. This applies for any optional content not specifically mentioned here. For content with its own section, follow the appropriate readme section for it.
+When enabling this content, just like with alternate start mods, ensure all mod esp files are just above realistic water two in your load order and if there is a Septimus patch for them, load that after the mod's esp and above all other Septimus patches. This applies for any optional content not specifically mentioned here. For content with its own section, follow the appropriate readme section for it.
 
 ### Legacy of the Dragonborn
 "I HATE Legacy of the Dragonborn, PLEASE remove it". 
