@@ -15,6 +15,17 @@
 
 # Changelog
 
+## Version 2.4.0 [Beta 2]
+**WARNING: This beta requires a NEW save game. We are testing Vokrii as well as a new set of skyrim skill uncapper changes which will alter some of the level scaling. Conjuration especially should no longer shoot up extremely quickly.**
+
++ Added Vokrii Perks for NPCs (combined with EEOS)
++ Added Stendarr's Beacon Enhanced
++ Added Snowberry Cottage
++ Added Detection Meter (Sneak UI)
++ Added Wider MCM Widescreen Patch
++ Replaced Riverwood Bridgehouse with Riverwood Bridgehouse Lite (Just buy the house now, no quest)
++ Removed Ordii Redux (Testing out just vokrii for now)
+
 ## Version 2.4.0 [Beta 1]
 
 **WARNING: This is a beta release for testing ONLY. Do not update for a full playthrough yet as I cannot guarantee saves will transfer to the full release**
