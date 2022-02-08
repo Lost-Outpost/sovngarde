@@ -24,8 +24,10 @@
 + Added Detection Meter (Sneak UI)
 + Added Wider MCM Widescreen Patch
 + Updated Skyrim Skill Uncapper Preset (Better magic scaling)
++ Updated Tempered Skins for Males (Different body mesh version)
 + Replaced Riverwood Bridgehouse with Riverwood Bridgehouse Lite (Just buy the house now, no quest)
 + Removed Ordii Redux (Testing out just vokrii for now)
++ Removed Tempered Racial Textures (Just the racial variation, still using tempered skins)
 + Fixed Floating Lantern and Bags outside Falkreath
 + Fixed EEOS having some wrong perks
 + Fixed Conjuration skill leveling extremely fast
