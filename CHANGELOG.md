@@ -15,6 +15,9 @@
 
 # Changelog
 
+## Version 2.4.0 [Beta 3]
++ Added Vokrus (My personal Vokrii + The Best Ordinator Perks)
+
 ## Version 2.4.0 [Beta 2]
 **WARNING: This beta requires a NEW save game. We are testing Vokrii as well as a new set of skyrim skill uncapper changes which will alter some of the level scaling. Conjuration especially should no longer shoot up extremely quickly.**
 
