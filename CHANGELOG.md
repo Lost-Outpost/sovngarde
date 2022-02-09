@@ -15,27 +15,7 @@
 
 # Changelog
 
-## Version 2.4.0 [Beta 2]
-**WARNING: This beta requires a NEW save game. We are testing Vokrii as well as a new set of skyrim skill uncapper changes which will alter some of the level scaling. Conjuration especially should no longer shoot up extremely quickly.**
-
-+ Added Vokrii Perks for NPCs (combined with EEOS)
-+ Added Stendarr's Beacon Enhanced
-+ Added Snowberry Cottage
-+ Added Detection Meter (Sneak UI)
-+ Added Wider MCM Widescreen Patch
-+ Updated Skyrim Skill Uncapper Preset (Better magic scaling)
-+ Updated Tempered Skins for Males (Different body mesh version)
-+ Replaced Riverwood Bridgehouse with Riverwood Bridgehouse Lite (Just buy the house now, no quest)
-+ Removed Ordii Redux (Testing out just vokrii for now)
-+ Removed Tempered Racial Textures (Just the racial variation, still using tempered skins)
-+ Fixed Floating Lantern and Bags outside Falkreath
-+ Fixed EEOS having some wrong perks
-+ Fixed Conjuration skill leveling extremely fast
-
-## Version 2.4.0 [Beta 1]
-
-**WARNING: This is a beta release for testing ONLY. Do not update for a full playthrough yet as I cannot guarantee saves will transfer to the full release**
-
+## Version 2.4.0 [Unreleased]
 + Added Hoth - Bounty Hunter Companion
 + Added Remiel - Dwemer Specialist Companion
 + Added Lucifer - Argonian Follower + CC Patches
@@ -78,6 +58,12 @@
 + Added Unique Map Weather Framework
 + Added Raven Rock Enhanced
 + Added Teldryn Serious Enhanced Edition
++ Added Vokrii Perks for NPCs (combined with EEOS)
++ Added Stendarr's Beacon Enhanced
++ Added Snowberry Cottage
++ Added Detection Meter (Sneak UI)
++ Added Wider MCM Widescreen Patch
++ Added Mysticism - A Magic Overhaul
 + Updated Midwood Isle
 + Updated Rebalancing Anniversary Edition - Quest Requirements
 + Updated Ordii - Septimus Balance Patch
@@ -88,6 +74,8 @@
 + Updated Haugbui
 + Updated Open World Loot
 + Updated Legacy of the Dragonborn
++ Updated Skyrim Skill Uncapper Preset (Better magic scaling)
++ Updated Tempered Skins for Males (Different body mesh version)
 + Removed Obscure's College of Winterhold (Too performance heavy, replaced by Magical College of Winterhold)
 + Removed Thunderchild (Replaced by Forceful Tongue)
 + Removed Serana Relationship Revamped (Replaced by Serana Dialogue Edit)
@@ -96,6 +84,14 @@
 + Removed TK Dodge (Replaced by Ultimate Dodge Mod Reborn)
 + Removed Wares of Wyrmstooth (No longer needed, location in dawnstar is fine)
 + Removed Lost Library (Redundant with LOTD)
++ Removed Ordii Redux (Testing out just vokrii for now)
++ Removed Tempered Racial Textures (Just the racial variation, still using tempered skins)
++ Removed Apocalypse - Magic of Skyrim
++ Removed Odin - Skyrim Magic Overhaul
++ Replaced Riverwood Bridgehouse with Riverwood Bridgehouse Lite (Just buy the house now, no quest)
++ Fixed Floating Lantern and Bags outside Falkreath
++ Fixed EEOS having some wrong perks
++ Fixed Conjuration skill leveling extremely fast
 
 ## Version 2.3.6.2
 + Moved ENB Night Eye Fix into optional tweaks
