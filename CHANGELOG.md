@@ -65,7 +65,6 @@
 + Added Mysticism - A Magic Overhaul
 + Updated Midwood Isle
 + Updated Rebalancing Anniversary Edition - Quest Requirements
-+ Updated Ordii - Septimus Balance Patch
 + Updated eFPS Boost
 + Updated Rudy Cathedral ENB Tweaks (Better Light Source Performance)
 + Updated Growl - Werebeasts of Skyrim
@@ -83,7 +82,7 @@
 + Removed TK Dodge (Replaced by Ultimate Dodge Mod Reborn)
 + Removed Wares of Wyrmstooth (No longer needed, location in dawnstar is fine)
 + Removed Lost Library (Redundant with LOTD)
-+ Removed Ordii Redux (Testing out just vokrii for now)
++ Removed Ordii Redux (Replaced with Vokrii and hopefully custom addon to it)
 + Removed Tempered Racial Textures (Just the racial variation, still using tempered skins)
 + Removed Apocalypse - Magic of Skyrim
 + Removed Odin - Skyrim Magic Overhaul
