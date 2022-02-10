@@ -89,6 +89,7 @@
 + Fixed Floating Lantern and Bags outside Falkreath
 + Fixed EEOS having some wrong perks
 + Fixed Conjuration skill leveling extremely fast
++ Fixed Archmage Robes being available too soon
 
 ## Version 2.3.6.2
 + Moved ENB Night Eye Fix into optional tweaks
