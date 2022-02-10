@@ -84,7 +84,6 @@
 + Removed Lost Library (Redundant with LOTD)
 + Removed Ordii Redux (Replaced with Vokrii and hopefully custom addon to it)
 + Removed Tempered Racial Textures (Just the racial variation, still using tempered skins)
-+ Removed Apocalypse - Magic of Skyrim
 + Removed Odin - Skyrim Magic Overhaul
 + Replaced Riverwood Bridgehouse with Riverwood Bridgehouse Lite (Just buy the house now, no quest)
 + Fixed Floating Lantern and Bags outside Falkreath
