@@ -18,7 +18,6 @@
 ## Version 2.4.0 [Unreleased]
 + Added Hoth - Bounty Hunter Companion
 + Added Remiel - Dwemer Specialist Companion
-+ Added Lucifer - Argonian Follower + CC Patches
 + Added Coven - Witch Enemy Overhaul
 + Added New ENB Organizer Screenshots
 + Added Emperor - Giant Crab Overhaul
