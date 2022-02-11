@@ -216,7 +216,7 @@ In addition to the new player homes available in the AE Creation Club, Septimus 
 - [Providence and Pestilence](https://www.nexusmods.com/skyrimspecialedition/mods/35237) - Journey into Peryite's Pits and earn the Taskmaster's blessing - as well as an otherworldly lair to call your home...
 - :new:  [A Proper Thane for Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/40290) - Sad there is no player house or housecarl for Winterhold? Cheer up and install this mod!
 - :new:  [Riverwood Bridgehouse] - This mod adds a player home to Riverwood. Unlike the full version, there is no need to go through a dungeon or quest line to get the key. Simply buy it from Lucan at the Riverwood Trader.
-- [Snowberry Cottage](https://www.nexusmods.com/skyrimspecialedition/mods/42771) - Rebuild from the ashes! After destroying the vampires seeking to enslave Morthal, you can now rebuild Hroggar's ruined house into Snowberry Cottage - a quaint, lore-friendly player home that includes all crafting stations, ample storage, a child's bedroom, and an optional library and trophy room.
+- :new:  [Snowberry Cottage](https://www.nexusmods.com/skyrimspecialedition/mods/42771) - Rebuild from the ashes! After destroying the vampires seeking to enslave Morthal, you can now rebuild Hroggar's ruined house into Snowberry Cottage - a quaint, lore-friendly player home that includes all crafting stations, ample storage, a child's bedroom, and an optional library and trophy room.
 
 ### Homes from Quests and Companions
 
