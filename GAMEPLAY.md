@@ -64,7 +64,7 @@ Septimus includes an alternative start mod, which you can optionally use MO2 to 
 
 - [Immersive HUD - iHUD](https://www.nexusmods.com/skyrim/mods/3222/) - Press the <kbd>X</kbd> key to toggle the immersive HUD's visibility (i.e. compass, quest markers, etc).
 - [Shovels Bury Bodies](https://www.nexusmods.com/skyrimspecialedition/mods/52984) - To bury a body, stand near it, select a shovel from your inventgory, and press the <kbd>E</kbd> key.
-- [Simple Wearable Lantern](https://www.nexusmods.com/skyrimspecialedition/mods/58464) -  Once crafted and equipped, pressing the <kbd>L</kbd> key toggles the lantern.
+- [Simple Wearable Lantern](https://www.nexusmods.com/skyrimspecialedition/mods/58464) - Once crafted and equipped, pressing the <kbd>L</kbd> key toggles the lantern.
 - [Skyrim's Got Talent - Improve As a Bard](https://www.nexusmods.com/skyrimspecialedition/mods/50357) - To play an instrument (flute, lute, or drum) select it in your inventory while in a tavern and press the <kbd>E</kbd> key.
 - [The Ultimate Dodge Mod Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/56956) - Tapping the <kbd>Sprint</kbd> key and any other <kbd>Directional Movement</kbd> key will cause your character to dodge in that direction.
 - [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614) - By default, use the <kbd>Middle Mouse Button</kbd> or <kbd>F</kbd> to lock on to enemies and the <kbd>Middle Mouse Wheel</kbd> to switch targets.
