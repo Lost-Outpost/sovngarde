@@ -15,7 +15,7 @@
 
 # Changelog
 
-## Version 2.4.0 [Unreleased]
+## Version 2.4.0
 
 **WARNING: This release DOES require a new save. It's quite large. Please check the optional mod sections as well as they have gotten a big revamp and some mods have been moved there.**
 
