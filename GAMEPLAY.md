@@ -151,7 +151,7 @@ In addition to the new gear and equipment available in the AE Creation Club, Sep
 - [Dawnguard Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/25094) - Expands the weapons in the Dawnguard Arsenal, which are used by Dawnguard NPCs and craftable by the player.
 - [Mercenary Light Iron Armor](https://www.nexusmods.com/skyrimspecialedition/mods/59897) - New light armor for your mercenaries and bounty hunters.
 - [More Craftable Equipment](https://www.nexusmods.com/skyrimspecialedition/mods/44666) - Craft all kinds of clothing items with the new crafting station, the Weaving Loom.
-- [Winter Is Coming SSE - Cloaks](https://www.nexusmods.com/skyrimspecialedition/mods/4933) - Winter Is Coming SSE - Cloaks adds lore friendly cloaks and hoods into the world through the use of level lists and crafting, this will add more diversity to the game while keeping the "feel" of Skyrim.
+- [Winter Is Coming - Cloaks](https://www.nexusmods.com/skyrimspecialedition/mods/4933) - Winter Is Coming SSE - Cloaks adds lore friendly cloaks and hoods into the world through the use of level lists and crafting, this will add more diversity to the game while keeping the "feel" of Skyrim.
 
 ## New Quests
 
@@ -215,6 +215,7 @@ In addition to the new player homes available in the AE Creation Club, Septimus 
 - [More Player Home Options](https://www.nexusmods.com/skyrimspecialedition/mods/36714) - Adds the option for the player to acquire certain vanilla NPC homes that become vacant after quests.
 - [Providence and Pestilence](https://www.nexusmods.com/skyrimspecialedition/mods/35237) - Journey into Peryite's Pits and earn the Taskmaster's blessing - as well as an otherworldly lair to call your home...
 - :new:  [A Proper Thane for Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/40290) - Sad there is no player house or housecarl for Winterhold? Cheer up and install this mod!
+- :new:  [Riverwood Bridgehouse] - This mod adds a player home to Riverwood. Unlike the full version, there is no need to go through a dungeon or quest line to get the key. Simply buy it from Lucan at the Riverwood Trader.
 
 ### Homes from Quests and Companions
 
