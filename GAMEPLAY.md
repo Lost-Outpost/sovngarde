@@ -234,7 +234,8 @@ The following quests and companions, mentioned in other sections of this guide, 
 
 Each of Skyrim's factions provide at least a room with safe storage. Notable enhancements to vanilla faction homes include:
 
-- [Obscure's College of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/20514) -  Savos Aren's default setup is a cluttered office, but once you're Arch-Mage you may transform it into a laboratory, council chamber, secret archive, heated spa, or back into the original vanilla grove. This private space includes many player-home features.
+- [Magical College of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/1539) - A lightly magical, aesthetic overhaul for the College of Winterhold!
+
 ## New Characters
 
 In addition to the new characters available in the AE Creation Club, Septimus includes:
