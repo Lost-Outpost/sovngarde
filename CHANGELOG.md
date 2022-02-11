@@ -33,6 +33,7 @@
 + Added Deadly Spell Impacts
 + Added Midwood Isle LOTD Patch
 + Added Wheel of Time + Custom Tweaks (Including Start Location)
++ Added No More Modded Map Markers (Hides some map markers by default)
 + Added Growable Plants - Custom Balance Tweaks
 + Added Barely Used Vanilla Actors Recycle Project + Patches
 + Added Wildcat - Combat of Skyrim (Heavily Tweaked)
