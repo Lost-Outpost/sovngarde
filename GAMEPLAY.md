@@ -41,7 +41,7 @@ This guide highlights major gameplay mods included in Septimus in the following 
   - [Followers and Companions](#followers-and-companions)
   - [Good Doggos](#good-doggos)
   - [Enhanced Followers](#enhanced-followers)
-  - [Enhanced Citizens and New Followers](#enhanced-citizens-and-new-followers)
+  - [World Encounters](#world-encounters)
 - [Optional Mods](#optional-mods)
 - [Adjusted Minimum Levels](#adjusted-minimum-levels)
 
