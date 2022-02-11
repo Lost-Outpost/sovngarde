@@ -63,6 +63,8 @@
 + Added Detection Meter (Sneak UI)
 + Added Wider MCM Widescreen Patch
 + Added Mysticism - A Magic Overhaul
++ Added Auri - Lenka Replacer
++ Added Auri - Home Overhaul
 + Updated Midwood Isle
 + Updated Rebalancing Anniversary Edition - Quest Requirements
 + Updated eFPS Boost
