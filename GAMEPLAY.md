@@ -85,13 +85,13 @@ Septiums includes several overhauls to core gameplay system, none of which will 
 - :new:  [Vokrii - Scaling Rebalance](https://www.nexusmods.com/skyrimspecialedition/mods/55091) - Rebalances several vokrii perks to open up build diversity
 - :new:  [Vokrus](https://www.nexusmods.com/skyrimspecialedition/mods/63384) - Expansion of Vokrii with some fun perks from ordinator
 - [Apothecary (Plus Food and Drink)](https://www.nexusmods.com/skyrimspecialedition/mods/52130) - Rebalances Food and Alchemy
-- :new:  [Wildcat - Combat of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1368) - A lightweight combat enhancement which makes combat more engaging
+- :new:  [Wildcat](https://www.nexusmods.com/skyrimspecialedition/mods/1368) - A lightweight combat enhancement which makes combat more engaging
 - [Growl](https://www.nexusmods.com/skyrimspecialedition/mods/31245) - Rebalance and content addon for werewolves which introduces new perks and abilities
 - [Mundustar](https://www.nexusmods.com/skyrimspecialedition/mods/41674) - A complete rebalance of all standing stones (Mixes Mundus and Morningstar)
-- :new:  [Mysticism - A Magic Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/27839) - A magic overhaul which fixes balance issues and introduces new spells
+- :new:  [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839) - A magic overhaul which fixes balance issues and introduces new spells
 - [Wintersun](https://www.nexusmods.com/skyrimspecialedition/mods/22506) - Rebalance and rework of religion
 - [Sacrilege](https://www.nexusmods.com/skyrimspecialedition/mods/42408) - Rebalances and improves Vampires with reverse progression
-- :new: [Forceful Tongue - Shouts Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/36276) - Thunderchild enables players to create shout-centric characters, adding 29 new shouts with multiple effects. It also rebalances many vanilla shouts.
+- :new: [Forceful Tongue](https://www.nexusmods.com/skyrimspecialedition/mods/36276) - Thunderchild enables players to create shout-centric characters, adding 29 new shouts with multiple effects. It also rebalances many vanilla shouts.
 
 ### Other Overhauls
 
