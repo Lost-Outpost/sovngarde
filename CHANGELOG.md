@@ -67,6 +67,7 @@
 + Added Wider MCM Widescreen Patch
 + Added Mysticism - A Magic Overhaul
 + Added Auri - Home Overhaul
++ Added Restoring the Aretino Residence
 + Updated Midwood Isle
 + Updated Rebalancing Anniversary Edition - Quest Requirements
 + Updated eFPS Boost
