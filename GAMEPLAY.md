@@ -83,14 +83,13 @@ Septiums includes several overhauls to core gameplay system, none of which will 
 
 - [Aetherius](https://www.nexusmods.com/skyrimspecialedition/mods/26686) - A rework of all race abilities as well as the removal of powers in favor of better passive abilities
 - :new:  [Vokrii](https://www.nexusmods.com/skyrimspecialedition/mods/26176) - Overhauls and introduces new perks increasing build diversity
-- :new:  [Vokrii - Scaling Rebalance](https://www.nexusmods.com/skyrimspecialedition/mods/55091) [Optional] - Rebalances several vokrii perks to open up build diversity
+- :new:  [Vokrii - Scaling Rebalance](https://www.nexusmods.com/skyrimspecialedition/mods/55091) - Rebalances several vokrii perks to open up build diversity
 - :new:  [Vokrus](https://www.nexusmods.com/skyrimspecialedition/mods/63384) - Expansion of Vokrii with some fun perks from ordinator
 - [Apothecary (Plus Food and Drink)](https://www.nexusmods.com/skyrimspecialedition/mods/52130) - Rebalances Food and Alchemy
 - :new:  [Wildcat - Combat of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1368) - A lightweight combat enhancement which makes combat more engaging
 - [Growl](https://www.nexusmods.com/skyrimspecialedition/mods/31245) - Rebalance and content addon for werewolves which introduces new perks and abilities
 - [Mundustar](https://www.nexusmods.com/skyrimspecialedition/mods/41674) - A complete rebalance of all standing stones (Mixes Mundus and Morningstar)
 - :new:  [Mysticism - A Magic Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/27839) - A magic overhaul which fixes balance issues and introduces new spells
-- [Apocalypse](https://www.nexusmods.com/skyrimspecialedition/mods/1090) [Optional] - A magic spell addon with many new and interesting spells
 - [Wintersun](https://www.nexusmods.com/skyrimspecialedition/mods/22506) - Rebalance and rework of religion
 - [Sacrilege](https://www.nexusmods.com/skyrimspecialedition/mods/42408) - Rebalances and improves Vampires with reverse progression
 - :new: [Forceful Tongue - Shouts Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/36276) - Thunderchild enables players to create shout-centric characters, adding 29 new shouts with multiple effects. It also rebalances many vanilla shouts.
@@ -240,13 +239,10 @@ Each of Skyrim's factions provide at least a room with safe storage. Notable enh
 
 In addition to the new characters available in the AE Creation Club, Septimus includes:
 
-### Primary Companions
+### Followers and Companions
 
 - [Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461) - Inigo is a fully voiced khajiit adventuring companion with over 7000 lines of unique dialogue - much of it about you. He'll level alongside you and avoid most traps. If you're sneaking he won't chatter and he'll whisper if you talk to him. He can run out of arrows. He's highly skilled in archery, one-handed, and sneak.
 - [Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035) - Lucien is a fully voiced Imperial follower with over 5000 lines of immersive, lore-friendly dialogue. Though he arrives in Skyrim as a cowardly scholar, he'll gradually gain strength and confidence by your side until he grows into a hero in his own right.
-
-### Secondary Companions
-
 - [Arissa The Wandering Rogue](https://www.nexusmods.com/skyrim/mods/53754/) - Arissa is an Imperial with an independent, rebellious spirit and a gift for making expensive things disappear. She is a Skyrim companion character with over 600 lines of dialogue, professionally recorded and beautifully voiced by the talented Nikkita.
 - [Auri](https://www.nexusmods.com/skyrimspecialedition/mods/11278) - Auri is a fully voiced follower and quest mod, which centers around Bosmer culture and tradition. She is a traditionalist Wood Elf archer, will follow you, do your bidding, and offer occasional snarky commentary about your surroundings and actions.
 - [Mirai](https://www.nexusmods.com/skyrimspecialedition/mods/10908) - Mirai is a young Breton mage living alone in the harsh frozen wastelands of Skyrim for close to a year. Originally from High Rock like the rest of her kind, you'll be quick to learn a situation with her father caused her to seek refuge alone in the lands of the north. What the situation was, however; she's not as open about.
@@ -263,14 +259,14 @@ In addition to the new characters available in the AE Creation Club, Septimus in
 
 ### Enhanced Followers
 
-- [Improved Follower Dialogue - Lydia](https://www.nexusmods.com/skyrimspecialedition/mods/38473) - Not technically a new character but it's quite an improvement. This mod doesn't just give Lydia a new voice - it adds over 350 lines of dialogue to make her an actually interesting character and major part of the main quest.
-- [Serana Dialogue Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/32161) - An improvement to Serana's dialogue and functionalities as an NPC, making her feel more immersive and organic within the world of Skyrim.
+- [Serana Dialogue Edit](https://www.nexusmods.com/skyrimspecialedition/mods/16222) - An Overhaul of the Dialogue for Serana. This includes: Bug fixes, Custom Dialogue Branches, More Radiant Dialogue and Expansion into Hearthfire and Dragonborn.
 
 ## Optional Mods
 
 Septimus includes these optional mods, which can be enabled or disabled via MO2:
 
-- :new: [Community Overlays](https://www.nexusmods.com/skyrimspecialedition/mods/22487) - Contains many different kinds of overlays from warpaints, bodypaints, tattoos, dragon scales, blood stains, and much more!
+- [Apocalypse](https://www.nexusmods.com/skyrimspecialedition/mods/1090) - A magic spell addon with many new and interesting spells
+- [Community Overlays](https://www.nexusmods.com/skyrimspecialedition/mods/22487) - Contains many different kinds of overlays from warpaints, bodypaints, tattoos, dragon scales, blood stains, and much more!
 - [Complete Widescreen Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1778) - It's a fix for a Widescreen 2560x1080, 3440x1440 Vanilla and SkyUI.
 - [The Dragonborn Dreams](https://www.nexusmods.com/skyrimspecialedition/mods/60384) - The Dragonborn Dreams allows your character to occasionally wake up having had a (written) dream.
 - [Fast Travel for Survival Mode](https://www.nexusmods.com/skyrimspecialedition/mods/21067) - Allow Fast Travel for Survival Mode.
