@@ -38,7 +38,7 @@ This guide highlights major gameplay mods included in Septimus in the following 
   - [Homes from Quests and Companions](#homes-from-quests-and-companions)
   - [Faction Homes](#faction-homes)
 - [New Characters](#new-characters)
-  - [Primary Companions](#primary-companions)
+  - [Companions and Followers](#companions-and-followers)
   - [Secondary Companions](#secondary-companions)
   - [Good Doggos](#good-doggos)
   - [Enhanced Followers](#enhanced-followers)
@@ -215,6 +215,7 @@ In addition to the new player homes available in the AE Creation Club, Septimus 
 - [King of Worms | Queen of Dawn](https://www.nexusmods.com/skyrimspecialedition/mods/35779) - Restore one of the lost beacons of Meridia and earn custodianship of the Chantry of the Dawn... or... Corrupt the beacon, granting access to the lair of a long dead Sload necromancer.
 - [More Player Home Options](https://www.nexusmods.com/skyrimspecialedition/mods/36714) - Adds the option for the player to acquire certain vanilla NPC homes that become vacant after quests.
 - [Providence and Pestilence](https://www.nexusmods.com/skyrimspecialedition/mods/35237) - Journey into Peryite's Pits and earn the Taskmaster's blessing - as well as an otherworldly lair to call your home...
+- [A Proper Thane for Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/40290) - Sad there is no player house or housecarl for Winterhold? Cheer up and install this mod!
 
 ### Homes from Quests and Companions
 
