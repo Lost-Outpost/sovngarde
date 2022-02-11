@@ -68,6 +68,9 @@
 + Added Mysticism - A Magic Overhaul
 + Added Auri - Home Overhaul
 + Added Restoring the Aretino Residence
++ Added Kala's Eyes Orsimer Edition
++ Added Kala's Eyes Elf Edition
++ Added Wintersun Balance Tweaks (Removes some strong free items)
 + Updated Midwood Isle
 + Updated Rebalancing Anniversary Edition - Quest Requirements
 + Updated eFPS Boost
