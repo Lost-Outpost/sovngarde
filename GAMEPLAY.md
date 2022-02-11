@@ -134,7 +134,7 @@ Finally, Septimus includes custom patches for added content to promote balance.
 
 ## :new: Legacy of the Dragonborn [Optional]
 
-Septimus optionally includes [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802). See the [Configuration Guide](#CONFIGURATION.md#legacy-of-the-dragonborn) for instructions on how to configure LOTD. Septimus includes the following LOTD gameplay mods:
+Septimus optionally includes [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802). See the [Configuration Guide](https://github.com/Guitarninja2/septimus/blob/main/CONFIGURATION.md#legacy-of-the-dragonborn) if you want to disable it. Septimus includes the following LOTD gameplay mods:
 - [Curators Companion](https://www.nexusmods.com/skyrimspecialedition/mods/38529) - The all in one Legacy of the Dragonborn companion!
 - [Relic Hunter- Guildmaster Start](https://www.nexusmods.com/skyrimspecialedition/mods/12253) - Begin your Legacy experience with a new Alternate Start Live Another Life option as Guild Master for the Explorer's Society!
   > :ledger: This appears as "Alternate Start - Live Another Life - Legacy of the Dragonborn" in the Alternate Start section
