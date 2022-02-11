@@ -252,42 +252,42 @@ In addition to the new characters available in the AE Creation Club, Septimus in
 - [Arissa The Wandering Rogue](https://www.nexusmods.com/skyrim/mods/53754/) - Arissa is an Imperial with an independent, rebellious spirit and a gift for making expensive things disappear. She is a Skyrim companion character with over 600 lines of dialogue, professionally recorded and beautifully voiced by the talented Nikkita.
 - [Auri](https://www.nexusmods.com/skyrimspecialedition/mods/11278) - Auri is a fully voiced follower and quest mod, which centers around Bosmer culture and tradition. She is a traditionalist Wood Elf archer, will follow you, do your bidding, and offer occasional snarky commentary about your surroundings and actions.
 - [Mirai](https://www.nexusmods.com/skyrimspecialedition/mods/10908) - Mirai is a young Breton mage living alone in the harsh frozen wastelands of Skyrim for close to a year. Originally from High Rock like the rest of her kind, you'll be quick to learn a situation with her father caused her to seek refuge alone in the lands of the north. What the situation was, however; she's not as open about.
-- [Kaidan 2](https://www.nexusmods.com/skyrimspecialedition/mods/19075) `2.0.0` - Rebuilt and expanded, this romantic follower features over 1200 lines of dialogue, custom home, and mini quests.
+- [Kaidan 2](https://www.nexusmods.com/skyrimspecialedition/mods/19075) - Rebuilt and expanded, this romantic follower features over 1200 lines of dialogue, custom home, and mini quests.
    > :ledger: Includes custom Septimus balance patch.
-- [Shirley](https://www.nexusmods.com/skyrimspecialedition/mods/45956) `2.0.0` - Shirley Curry, the beloved Skyrim Grandma, finally comes to the game as a follower you can recruit! She'll join you on your adventures, but don't expect her to simply carry your burdens! She's got more personality than all the vanilla followers combined, and we're sure she'll be a great companion, and a friend. And a grandma!
+- [Shirley](https://www.nexusmods.com/skyrimspecialedition/mods/45956) - Shirley Curry, the beloved Skyrim Grandma, finally comes to the game as a follower you can recruit! She'll join you on your adventures, but don't expect her to simply carry your burdens! She's got more personality than all the vanilla followers combined, and we're sure she'll be a great companion, and a friend. And a grandma!
 
 ### Good Doggos
 
-- [Gladys The Corgi](https://www.nexusmods.com/skyrimspecialedition/mods/50164) `2.0.0` - Adds a friendly corgi companion to join you on your adventures!
-- [Meeko Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/17572) - `2.1.0` - Overhaul for Meeko that gives him a unique appearance and a variety of other features.
-- [Merlin The Corgi](https://www.nexusmods.com/skyrimspecialedition/mods/56433) `2.0.0` - Adds a magical corgi companion to join you on your adventures!
-- [Vigilance Reborn SE](https://www.nexusmods.com/skyrimspecialedition/mods/17571) `2.1.0` - Overhaul for Vigilance that gives him a unique appearance and a variety of other features.
+- [Gladys The Corgi](https://www.nexusmods.com/skyrimspecialedition/mods/50164) - Adds a friendly corgi companion to join you on your adventures!
+- [Meeko Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/17572) - Overhaul for Meeko that gives him a unique appearance and a variety of other features.
+- [Merlin The Corgi](https://www.nexusmods.com/skyrimspecialedition/mods/56433) - Adds a magical corgi companion to join you on your adventures!
+- [Vigilance Reborn SE](https://www.nexusmods.com/skyrimspecialedition/mods/17571) - Overhaul for Vigilance that gives him a unique appearance and a variety of other features.
 
 ### Enhanced Followers
 
-- [Improved Follower Dialogue - Lydia](https://www.nexusmods.com/skyrimspecialedition/mods/38473) `2.0.0` - Not technically a new character but it's quite an improvement. This mod doesn't just give Lydia a new voice - it adds over 350 lines of dialogue to make her an actually interesting character and major part of the main quest.
-- [Serana Dialogue Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/32161) `2.0.0` - An improvement to Serana's dialogue and functionalities as an NPC, making her feel more immersive and organic within the world of Skyrim.
+- [Improved Follower Dialogue - Lydia](https://www.nexusmods.com/skyrimspecialedition/mods/38473) - Not technically a new character but it's quite an improvement. This mod doesn't just give Lydia a new voice - it adds over 350 lines of dialogue to make her an actually interesting character and major part of the main quest.
+- [Serana Dialogue Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/32161) - An improvement to Serana's dialogue and functionalities as an NPC, making her feel more immersive and organic within the world of Skyrim.
 
 ## Optional Mods
 
 Septimus includes these optional mods, which can be enabled or disabled via MO2:
 
-- :new: [Community Overlays](https://www.nexusmods.com/skyrimspecialedition/mods/22487) `2.2.0` - Contains many different kinds of overlays from warpaints, bodypaints, tattoos, dragon scales, blood stains, and much more!
-- [Complete Widescreen Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1778) `2.0.0` - It's a fix for a Widescreen 2560x1080, 3440x1440 Vanilla and SkyUI.
-- [The Dragonborn Dreams](https://www.nexusmods.com/skyrimspecialedition/mods/60384) `2.0.1` - The Dragonborn Dreams allows your character to occasionally wake up having had a (written) dream.
-- [Fast Travel for Survival Mode](https://www.nexusmods.com/skyrimspecialedition/mods/21067) `2.0.0` `Enabled` - Allow Fast Travel for Survival Mode.
-- [Frozen Electrocuted Combustion](https://www.nexusmods.com/skyrimspecialedition/mods/3532) `2.0.1` - Applies visual effects to NPCs and the player, when killed by air, ash, dragons, drain, fire, frost, fear, lightning, poison, soultrap, steam and sun damage status effects.
-- [Helgen Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/5673) `2.0.0` - Helgen Reborn is a fully voiced adventure with over 20 superb voice actors. As you help rebuild the town you'll reunite two old friends, uncover an underground slavery ring, battle in an arena and many other adventures!
+- :new: [Community Overlays](https://www.nexusmods.com/skyrimspecialedition/mods/22487) - Contains many different kinds of overlays from warpaints, bodypaints, tattoos, dragon scales, blood stains, and much more!
+- [Complete Widescreen Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1778) - It's a fix for a Widescreen 2560x1080, 3440x1440 Vanilla and SkyUI.
+- [The Dragonborn Dreams](https://www.nexusmods.com/skyrimspecialedition/mods/60384) - The Dragonborn Dreams allows your character to occasionally wake up having had a (written) dream.
+- [Fast Travel for Survival Mode](https://www.nexusmods.com/skyrimspecialedition/mods/21067) - Allow Fast Travel for Survival Mode.
+- [Frozen Electrocuted Combustion](https://www.nexusmods.com/skyrimspecialedition/mods/3532) - Applies visual effects to NPCs and the player, when killed by air, ash, dragons, drain, fire, frost, fear, lightning, poison, soultrap, steam and sun damage status effects.
+- [Helgen Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/5673) - Helgen Reborn is a fully voiced adventure with over 20 superb voice actors. As you help rebuild the town you'll reunite two old friends, uncover an underground slavery ring, battle in an arena and many other adventures!
   > :ledger: Only enable after leaving Helgen. You will find a book to start the quest in The Bannered Mare.
-- :new: [Kala's Eyes](https://www.nexusmods.com/skyrimspecialedition/mods/29895) `2.2.0` - Adds 57 new eyes including some blind & heterochromia variants for human males & females.
-- :new: [KS Hairdos Lite](https://www.nexusmods.com/skyrimspecialedition/mods/1932) `2.2.0` - A 'lite' version of KS Hairdos featuring 20 male and 20 female hairstyles - as an added bonus, KS Hairdos Lite changes the hairstyles of most of the followers in Skyrim, Dawnguard and Dragonborn too.
-- [No Killmoves - No Killcams - No Killbites SE](https://www.nexusmods.com/skyrimspecialedition/mods/13395) `2.0.0` - This mod disables melee finishing moves, ranged/magic slow-motion kills, and dragon bite-and-throw attacks. The goal is to have more intense fights with less cheap deaths. The only killcam still enabled is the view that's shown when you're already dead.
-- [No Survival Camera Effects](https://www.nexusmods.com/skyrimspecialedition/mods/13756) `2.0.1` - Removes the many blurry camera effects added in survival mode.
-- [Sidequests of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/54245) `2.0.2` - Perform radiant side quests for almost any NPC. Get rewarded and become friends with NPCs
-- [Simple Load Screens](https://www.nexusmods.com/skyrimspecialedition/mods/49529) `2.0.0` - A much more simple approach to loading screens.
-- [Time Format Changer](https://www.nexusmods.com/skyrimspecialedition/mods/28921) `2.0.0` - I always hated how the in-game clock was in a 12 hour format, without any way to change it. While making a mod to change it, I decided to replace the entire time/date format used by the game to a custom one.
-- Septimus Apothecary - Easy Mode `2.0.0` - Switches Apothecary potion effects from "over time" to immediate
-- Septimus Sus Main Menu Music and Sus Intro Video `2.0.0` - Enable at your own risk. You have been warned.
+- :new: [Kala's Eyes](https://www.nexusmods.com/skyrimspecialedition/mods/29895) - Adds 57 new eyes including some blind & heterochromia variants for human males & females.
+- :new: [KS Hairdos Lite](https://www.nexusmods.com/skyrimspecialedition/mods/1932) - A 'lite' version of KS Hairdos featuring 20 male and 20 female hairstyles - as an added bonus, KS Hairdos Lite changes the hairstyles of most of the followers in Skyrim, Dawnguard and Dragonborn too.
+- [No Killmoves - No Killcams - No Killbites SE](https://www.nexusmods.com/skyrimspecialedition/mods/13395) - This mod disables melee finishing moves, ranged/magic slow-motion kills, and dragon bite-and-throw attacks. The goal is to have more intense fights with less cheap deaths. The only killcam still enabled is the view that's shown when you're already dead.
+- [No Survival Camera Effects](https://www.nexusmods.com/skyrimspecialedition/mods/13756) - Removes the many blurry camera effects added in survival mode.
+- [Sidequests of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/54245) - Perform radiant side quests for almost any NPC. Get rewarded and become friends with NPCs
+- [Simple Load Screens](https://www.nexusmods.com/skyrimspecialedition/mods/49529) - A much more simple approach to loading screens.
+- [Time Format Changer](https://www.nexusmods.com/skyrimspecialedition/mods/28921) - I always hated how the in-game clock was in a 12 hour format, without any way to change it. While making a mod to change it, I decided to replace the entire time/date format used by the game to a custom one.
+- Septimus Apothecary - Easy Mode - Switches Apothecary potion effects from "over time" to immediate
+- Septimus Sus Main Menu Music and Sus Intro Video - Enable at your own risk. You have been warned.
 
 ## Adjusted Minimum Levels
 
