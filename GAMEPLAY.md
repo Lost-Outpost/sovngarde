@@ -118,7 +118,7 @@ Finally, Septimus includes custom patches for added content to promote balance.
   > :video_game: Hot meals help you ward off the cold in survival mode. They normally require a fire salt to create, so being able to purchase these at an Inn is a boon to new players.
 - [Fish Anywhere With Water](https://www.nexusmods.com/skyrimspecialedition/mods/60915) - Fish anywhere as long you are facing a nearby body of water.
 - [Haugbui - A Draugr Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26188) - A lightweight overhaul providing balance adjustments, new items, unique boss designs, and some more variants to the draugr enemies.
-- :new: [Jarl Balgruuf Dilemma](https://www.nexusmods.com/skyrimspecialedition/mods/41132) - Combo: civil war without main quest & Jarl Balgruuf joining Stormcloaks.
+- [Jarl Balgruuf Dilemma](https://www.nexusmods.com/skyrimspecialedition/mods/41132) - Combo: civil war without main quest & Jarl Balgruuf joining Stormcloaks.
 - [Reliquary of Myth - Artifact Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/31612) - Reliquary of Myth includes balanced, lore-friendly, and unique enchantments to nearly all of Skyrim's most legendary and famous artifacts.
 - [Skyrim's Got Talent - Improve As a Bard](https://www.nexusmods.com/skyrimspecialedition/mods/50357) - Play instruments, get better, NPCs react to your skill dynamically, many new songs, lots of easter eggs, simple implementation.
   > :ledger: To play an instrument (flute, lute, or drum) select it in your inventory while in a tavern and press the <kbd>E</kbd> key.
