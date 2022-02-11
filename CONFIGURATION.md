@@ -84,15 +84,6 @@ Don't worry. I've thought of this already. Simply uncheck all mods in the `Optio
 
 All MCM menus have been automated so you are good to ignore them unless you want to change anything.
 
-### TK Dodge RE
-
-If you wish to change the dodge key, do the following:
-
-- Double click on the TK Dodge RE mod in SEPTIMUS - SKELETON & ANIMATION
-- Navigate to the ini files tab
-- Change EnableTappingDodge to false to change the keybind
-- Change DodgeHotkey to your prefered one by using instructions [here](https://www.creationkit.com/index.php?title=Input_Script#DXScanCodes)
-
 ## ENB and Reshade Presets
 
 Septimus includes an awesome tool called ENB Organizer for trying out different ENB and Reshade presets.
