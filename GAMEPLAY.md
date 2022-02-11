@@ -249,9 +249,9 @@ In addition to the new characters available in the AE Creation Club, Septimus in
 - [Kaidan 2](https://www.nexusmods.com/skyrimspecialedition/mods/19075) - Rebuilt and expanded, this romantic follower features over 1200 lines of dialogue, custom home, and mini quests.
    > :ledger: Includes custom Septimus balance patch.
 - [Shirley](https://www.nexusmods.com/skyrimspecialedition/mods/45956) - Shirley Curry, the beloved Skyrim Grandma, finally comes to the game as a follower you can recruit! She'll join you on your adventures, but don't expect her to simply carry your burdens! She's got more personality than all the vanilla followers combined, and we're sure she'll be a great companion, and a friend. And a grandma!
-- [Remiel - Dwemer Specialist](https://www.nexusmods.com/skyrimspecialedition/mods/51874) - Breton engineer who will accompany you in your travels. She's travelled from Wayrest to explore dwemer ruins in Skyrim, but she needs your help.
-- [Hoth](https://www.nexusmods.com/skyrimspecialedition/mods/16137) - Hoth is an old bounty hunting adventurer and a brutal companion to travel with - one of the most visually customized followers made for Skyrim. Hoth has many one-of-a-kind features, such as being a quest giver for infinite bounty hunt contracts.
-- [Aviendha - Wheel of Time](https://www.nexusmods.com/skyrimspecialedition/mods/55404) - Based on the fantasy book series "The Wheel of Time" this mod adds the follower Aviendha and Wheel of Time-related quests. Fully voiced by a great cast of voice actors.
+- :new:  [Remiel - Dwemer Specialist](https://www.nexusmods.com/skyrimspecialedition/mods/51874) - Breton engineer who will accompany you in your travels. She's travelled from Wayrest to explore dwemer ruins in Skyrim, but she needs your help.
+- :new:  [Hoth](https://www.nexusmods.com/skyrimspecialedition/mods/16137) - Hoth is an old bounty hunting adventurer and a brutal companion to travel with - one of the most visually customized followers made for Skyrim. Hoth has many one-of-a-kind features, such as being a quest giver for infinite bounty hunt contracts.
+- :new:  [Aviendha - Wheel of Time](https://www.nexusmods.com/skyrimspecialedition/mods/55404) - Based on the fantasy book series "The Wheel of Time" this mod adds the follower Aviendha and Wheel of Time-related quests. Fully voiced by a great cast of voice actors.
 
 ### Good Doggos
 
@@ -262,7 +262,7 @@ In addition to the new characters available in the AE Creation Club, Septimus in
 
 ### Enhanced Followers
 
-- [Serana Dialogue Edit](https://www.nexusmods.com/skyrimspecialedition/mods/16222) - An Overhaul of the Dialogue for Serana. This includes: Bug fixes, Custom Dialogue Branches, More Radiant Dialogue and Expansion into Hearthfire and Dragonborn.
+- :new:  [Serana Dialogue Edit](https://www.nexusmods.com/skyrimspecialedition/mods/16222) - An Overhaul of the Dialogue for Serana. This includes: Bug fixes, Custom Dialogue Branches, More Radiant Dialogue and Expansion into Hearthfire and Dragonborn.
 
 ### World Encounters
 
