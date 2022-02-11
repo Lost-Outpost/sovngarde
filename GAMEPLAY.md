@@ -58,7 +58,7 @@ By default, Septimus uses the traditional Skyrim opening scene with you as a pri
 
 Septimus includes an alternative start mod, which you can optionally use MO2 to [enable](https://github.com/Guitarninja2/septimus/blob/main/CONFIGURATION.md#alternate-start) one of these mods to start your Skyrim journey on a different path. Instructions for how to do that are [here](https://github.com/Guitarninja2/septimus/blob/main/CONFIGURATION.md#alternate-start).
 
-- [Alternate Start - Live Another Life](https://www.nexusmods.com/skyrimspecialedition/mods/272) `2.0.0` - Live Another Life provides an alternative means to start the game for those who do not wish to go through the lengthy intro sequence at Helgen.
+- [Alternate Start - Live Another Life](https://www.nexusmods.com/skyrimspecialedition/mods/272) - Live Another Life provides an alternative means to start the game for those who do not wish to go through the lengthy intro sequence at Helgen.
 
 ## HUD and Interface
 
