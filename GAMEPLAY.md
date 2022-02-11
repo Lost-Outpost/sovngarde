@@ -151,7 +151,7 @@ In addition to the new gear and equipment available in the AE Creation Club, Sep
 - [Cloaks of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/6369) - Adds almost 100 new styles of cloak to the world of Skyrim, via crafting, levelled-lists, and static loot. They are lore-friendly and enchantable, and more are being added with every update. The aim of this mod is to provide some variety and flavour to the world, as well as the chance to wear a stylish cloak and quite literally keep the cold out.
 - [Common Clothes and Armors](https://www.nexusmods.com/skyrimspecialedition/mods/21305) - Common clothes and armors adds new armor variants and clothes around skyrim for more diversity.
 - [Dawnguard Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/25094) - Expands the weapons in the Dawnguard Arsenal, which are used by Dawnguard NPCs and craftable by the player.
-- :new: [Mercenary Light Iron Armor](https://www.nexusmods.com/skyrimspecialedition/mods/59897) - New light armor for your mercenaries and bounty hunters.
+- [Mercenary Light Iron Armor](https://www.nexusmods.com/skyrimspecialedition/mods/59897) - New light armor for your mercenaries and bounty hunters.
 - [More Craftable Equipment](https://www.nexusmods.com/skyrimspecialedition/mods/44666) - Craft all kinds of clothing items with the new crafting station, the Weaving Loom.
 - [Winter Is Coming SSE - Cloaks](https://www.nexusmods.com/skyrimspecialedition/mods/4933) - Winter Is Coming SSE - Cloaks adds lore friendly cloaks and hoods into the world through the use of level lists and crafting, this will add more diversity to the game while keeping the "feel" of Skyrim.
 
