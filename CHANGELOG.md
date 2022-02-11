@@ -90,6 +90,7 @@
 + Removed Tempered Racial Textures (Just the racial variation, still using tempered skins)
 + Removed Odin - Skyrim Magic Overhaul
 + Replaced Riverwood Bridgehouse with Riverwood Bridgehouse Lite (Just buy the house now, no quest)
++ Removed Auri - Refined (Replaced by Auri - Lenka)
 + Fixed Floating Lantern and Bags outside Falkreath
 + Fixed EEOS having some wrong perks
 + Fixed Conjuration skill leveling extremely fast
