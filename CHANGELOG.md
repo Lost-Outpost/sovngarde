@@ -73,6 +73,7 @@
 + Updated Legacy of the Dragonborn
 + Updated Skyrim Skill Uncapper Preset (Better magic scaling)
 + Updated Tempered Skins for Males (Different body mesh version)
++ Updated Kaidan 2 Extended Edition
 + Moved Apocalypse - Magic of Skyrim to optional mods
 + Removed Obscure's College of Winterhold (Too performance heavy, replaced by Magical College of Winterhold)
 + Removed Thunderchild (Replaced by Forceful Tongue)
