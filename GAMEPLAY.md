@@ -83,8 +83,8 @@ Septiums includes several overhauls to core gameplay system, none of which will 
 
 - [Aetherius](https://www.nexusmods.com/skyrimspecialedition/mods/26686) - A rework of all race abilities as well as the removal of powers in favor of better passive abilities
 - :new:  [Vokrii](https://www.nexusmods.com/skyrimspecialedition/mods/26176) - Overhauls and introduces new perks increasing build diversity
-- :new:  [Vokrus](https://www.nexusmods.com/skyrimspecialedition/mods/63384) - Expansion of Vokrii with some fun perks from ordinator
 - :new:  [Vokrii - Scaling Rebalance](https://www.nexusmods.com/skyrimspecialedition/mods/55091) [Optional] - Rebalances several vokrii perks to open up build diversity
+- :new:  [Vokrus](https://www.nexusmods.com/skyrimspecialedition/mods/63384) - Expansion of Vokrii with some fun perks from ordinator
 - [Apothecary (Plus Food and Drink)](https://www.nexusmods.com/skyrimspecialedition/mods/52130) - Rebalances Food and Alchemy
 - :new:  [Wildcat - Combat of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1368) - A lightweight combat enhancement which makes combat more engaging
 - [Growl](https://www.nexusmods.com/skyrimspecialedition/mods/31245) - Rebalance and content addon for werewolves which introduces new perks and abilities
