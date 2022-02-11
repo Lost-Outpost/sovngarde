@@ -131,7 +131,7 @@ Finally, Septimus includes custom patches for added content to promote balance.
    > :ledger: Tapping the <kbd>Sprint</kbd> key and any other <kbd>Directional Movement</kbd> key will cause your character to dodge in that direction.
 - [Shovels Bury Bodies](https://www.nexusmods.com/skyrimspecialedition/mods/52984) - To bury a body, stand near it, select a shovel from your inventgory, and press the <kbd>E</kbd> key.
 
-## :new: Legacy of the Dragonborn [Optional]
+## Legacy of the Dragonborn [Optional]
 
 Septimus optionally includes [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802). See the [Configuration Guide](https://github.com/Guitarninja2/septimus/blob/main/CONFIGURATION.md#legacy-of-the-dragonborn) if you want to disable it. Septimus includes the following LOTD gameplay mods:
 - [Curators Companion](https://www.nexusmods.com/skyrimspecialedition/mods/38529) - The all in one Legacy of the Dragonborn companion!
