@@ -79,7 +79,11 @@ When enabling this content, just like with alternate start mods, ensure all mod 
 Don't worry. I've thought of this already. Simply uncheck all mods in the `Optional LOTD` separator in MO2 before starting your game.
 
 ### Apocalypse - Magic of Skyrim
-Load above realistic water two as with normal addons. Make sure apocalypse is loaded first, then the balance patch, and then finally the AHO spell patch.
+Load above realistic water two as with normal addons. The esp files must be in this order:
+- Apocalypse
+- Apocalypse Balance Patch
+- Apocalypse Vokrii Patch
+- Apocalypse Spell Creation Patch
 
 ## Mod Configuration
 
