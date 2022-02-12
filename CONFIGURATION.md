@@ -59,7 +59,7 @@ When you have setup Creation Club content correctly, your Septimus MO2 will look
 
 ## Optional Tweaks
 
-When enabling any optional tweaks, make sure they are always loaded BEFORE Realistic Water Two in your load order. See the alternate start section for an example of this.
+When enabling any optional tweaks, make sure they are always loaded BEFORE realisticwatertwo.esp in your load order. See the alternate start section for an example of this.
 
 ### Widescreen
 
@@ -71,7 +71,7 @@ I have included the necessary mods to enable widescreen UI support. If you play 
 **As a warning. The optional content has not been tested nearly as heavily as the rest of the list as not everyone has it enabled. Support will be limited if you enable any of the optional content as its more difficult to account for them. If you are at all worried about stability, do NOT enable any.**
 
 ### General Rules
-When enabling this content, just like with alternate start mods, ensure all mod esp files are just above realistic water two in your load order and if there is a Septimus patch for them, load that after the mod's esp and above all other Septimus patches. This applies for any optional content not specifically mentioned here. For content with its own section, follow the appropriate readme section for it.
+When enabling this content, just like with alternate start mods, ensure all mod esp files are just above realisticwatertwo.esp in your load order and if there is a Septimus patch for them, load that after the mod's esp and above all other Septimus patches. This applies for any optional content not specifically mentioned here. For content with its own section, follow the appropriate readme section for it.
 
 ### Legacy of the Dragonborn
 "I HATE Legacy of the Dragonborn, PLEASE remove it". 
@@ -79,7 +79,7 @@ When enabling this content, just like with alternate start mods, ensure all mod 
 Don't worry. I've thought of this already. Simply uncheck all mods in the `Optional LOTD` separator in MO2 before starting your game.
 
 ### Apocalypse - Magic of Skyrim
-Load above realistic water two as with normal addons. The esp files must be in this order:
+Load above realisticwatertwo.esp as with normal addons. The esp files must be in this order:
 - Apocalypse
 - Apocalypse Balance Patch
 - Apocalypse Vokrii Patch
