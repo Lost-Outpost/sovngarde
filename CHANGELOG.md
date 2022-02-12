@@ -15,7 +15,7 @@
 
 # Changelog
 
-## Version 2.4.1
+## Version 2.4.1 [Unreleased]
 + Added Spiderbros - Throwing Spider Overhaul
 + Fixed Mundustar Atronach Stone Magicka regen issue
 
