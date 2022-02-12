@@ -59,7 +59,7 @@ When you have setup Creation Club content correctly, your Septimus MO2 will look
 
 ## Optional Tweaks
 
-When enabling any optional tweaks, make sure they are always loaded BEFORE any Septimus patches in your load order. See the alternate start section for an example of this.
+When enabling any optional tweaks, make sure they are always loaded BEFORE Realistic Water Two in your load order. See the alternate start section for an example of this.
 
 ### Widescreen
 
