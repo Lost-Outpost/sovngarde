@@ -182,7 +182,6 @@ The recommended levels are meant to represent a natural progression through the 
 - [Identity Crisis](https://www.nexusmods.com/skyrimspecialedition/mods/39634?tab=description) - Investigate the madness afflicting the Northern Asylum of Julianos, and earn the boon of the Madgod himself. New enemies, spells, armour, weapons, and a player home await...
 - [The Lost Wonders of Mzark](https://www.nexusmods.com/skyrimspecialedition/mods/40674) - Lost Wonders of Mzark is a quest/dungeon mod for those who prefer a more puzzle-oriented game. The enemies you encounter within must be disposed of in careful ways, and you'll find more than just fights awaiting you in the depths of Mzarnumez.
 - [Moonpath to Elsweyr](https://www.nexusmods.com/skyrimspecialedition/mods/4341) - Explore the mysterious continent of Elsweyr.
-- [New Madness](https://www.nexusmods.com/skyrimspecialedition/mods/61213) - A simple Overhaul of the Mind of Plagius and the Left Wing of the Blue Palace.
 - [The Tale of Tsatampra Xiros](https://www.nexusmods.com/skyrimspecialedition/mods/36707) - Explore a world contained within the pages of a sorcerous text, and earn the favor of the Daedric Prince Hermaeus Mora.
 
 ### Recommended Level: 30+
