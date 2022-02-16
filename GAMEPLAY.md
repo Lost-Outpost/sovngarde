@@ -91,7 +91,9 @@ Septiums includes several overhauls to core gameplay system, none of which will 
 - :new:  [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839) - A magic overhaul which fixes balance issues and introduces new spells
 - [Wintersun](https://www.nexusmods.com/skyrimspecialedition/mods/22506) - Rebalance and rework of religion
 - [Sacrilege](https://www.nexusmods.com/skyrimspecialedition/mods/42408) - Rebalances and improves Vampires with reverse progression
-- :new: [Forceful Tongue](https://www.nexusmods.com/skyrimspecialedition/mods/36276) - Thunderchild enables players to create shout-centric characters, adding 29 new shouts with multiple effects. It also rebalances many vanilla shouts.
+- :new: [Forceful Tongue](https://www.nexusmods.com/skyrimspecialedition/mods/36276) - Forceful Tongue is a lightweight shouts overhaul, designed to balance in a sensible manner this underwhelming but cool mechanic.
+
+
 
 ### Other Overhauls
 
