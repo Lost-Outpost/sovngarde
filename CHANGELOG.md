@@ -15,11 +15,6 @@
 
 # Changelog
 
-## Version 2.4.1 [Unreleased]
-+ Added CC Saints and Seducers - Less Obnoxious Elytra Footsteps
-+ Added Spiderbros - Throwing Spider Overhaul
-+ Fixed Mundustar Atronach Stone Magicka regen issue
-
 ## Version 2.4.0
 
 **WARNING: This release DOES require a new save. It's quite large. Please check the optional mod sections as well as they have gotten a revamp and some mods have been moved there.**
