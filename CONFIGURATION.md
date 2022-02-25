@@ -55,6 +55,8 @@ When you have setup Creation Club content correctly, your Septimus MO2 will look
 - Septimus is configured with optional alternate start mods which you can enable. If you do, be sure to move them in the right panel just above any patches which start with Septimus - as seen in the screenshot below.
 - If you enable Live another life, be sure the esp files (in the plugin tab on the right of mo2) are loaded in the exact order shown in the screenshot below or it may not function properly
 
+![Alt Start](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/altstartloadorder.png)
+
 ## Optional Tweaks
 
 When enabling any optional tweaks, make sure they are always loaded BEFORE realisticwatertwo.esp in your load order. See the alternate start section for an example of this.
