@@ -15,6 +15,9 @@
 
 # Changelog
 
+## Version 3.0.0 [BETA 1]
+**Well we did it. Tons of mod updates, a completely gameplay and graphics overhaul and many new content additions. I won't list all the changes here. It's way too big.**
+
 ## Version 2.4.0
 
 **WARNING: This release DOES require a new save. It's quite large. Please check the optional mod sections as well as they have gotten a revamp and some mods have been moved there.**
