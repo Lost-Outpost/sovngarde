@@ -44,7 +44,7 @@
 - [Configuration](#configuration)
 - [Issues](#issues)
 - [Addons](#addons)
-- [Special Thanks](#special-thanks)
+- [Septimus Team](#septimus-team)
 
 # Introduction
 
