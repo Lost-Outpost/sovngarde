@@ -50,13 +50,6 @@ When you have setup Creation Club content correctly, your Septimus MO2 will look
 
 ![CC Top](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/ccenabled_top.png)
 
-## Alternate Start
-
-- Septimus is configured with optional alternate start mods which you can enable. If you do, be sure to move them in the right panel just above any patches which start with Septimus - as seen in the screenshot below.
-- If you enable Live another life, be sure the esp files (in the plugin tab on the right of mo2) are loaded in the exact order shown in the screenshot below or it may not function properly
-
-![Alt Start](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/altstartloadorder.png)
-
 ## Optional Tweaks
 
 When enabling any optional tweaks, make sure they are always loaded BEFORE realisticwatertwo.esp in your load order. See the alternate start section for an example of this.
@@ -77,13 +70,6 @@ When enabling this content, just like with alternate start mods, ensure all mod 
 "I HATE Legacy of the Dragonborn, PLEASE remove it". 
 
 Don't worry. I've thought of this already. Simply uncheck all mods in the `Optional LOTD` separator in MO2 before starting your game.
-
-### Apocalypse - Magic of Skyrim
-Load above realisticwatertwo.esp as with normal addons. The esp files must be in this order:
-- Apocalypse
-- Apocalypse Balance Patch
-- Apocalypse Vokrii Patch
-- Apocalypse Spell Creation Patch
 
 ## Mod Configuration
 
