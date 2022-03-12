@@ -15,6 +15,33 @@
 
 # Changelog
 
+## Version 3.0.0 [BETA 2]
++ Added ENB Helper Plus
++ Added Icon Statues
++ Added Immersive Folded Hands
++ Added Toggle Compass Hotkey
++ Added NPC Animation Remix
++ Added Tale of Two Mer + OWL Patch
++ Added Sanguine - Blood Retexture
++ Added True Storms + Obsidian Patches
++ Added Beards of Power
++ Added Bald Head Hair Option
++ Added ELFX Hearthfire Addon
++ Added Oxygen Meter 2
++ Added Nordic Faces - Complete
++ Added Simply Stronger Dragons (2x Difficulty)
++ Added Windhelm Improvements (Snowy Windhelm)
++ Added Skyland Markarth
++ Added Skyland Windhelm
++ Added Cathedral Weathers - Sky Meshes Only
++ Added Bandolier Upgrade (Better Textures)
++ Updated Open World Loot - Legendary Skyrim Crossbows Patch
++ Updated Legacy of the Dragonborn + Patches
++ Replaced Cathedral Weathers with Obsidian Weathers
++ Replaced Rudy Cathedral with Rudy Obsidian
++ Fixed A Night to Remember not working
++ Fixed Smoke on Loading Screens
+
 ## Version 3.0.0 [BETA 1]
 **Well we did it. Tons of mod updates, a completely gameplay and graphics overhaul and many new content additions. I won't list all the changes here. It's way too big.**
 
