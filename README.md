@@ -236,4 +236,5 @@ Septimus can be configured with some additional [add-on](https://github.com/Guit
 
 # Septimus Team
 + Webmetz - Author of the Relics of Hyrule addon and awesome modder!
++ [Ghastly](https://rr.noordstar.me/756fd6eb) - Patching wizard and overall cool guy
 + Rsrogers4 - Tons of documentation help!
