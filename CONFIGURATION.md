@@ -79,6 +79,8 @@ All MCM menus have been automated so you are good to ignore them unless you want
 
 ## ENB and Reshade Presets
 
+> :ledger: You should only ever enable exactly one preset (regardless of whether it is an ENB or Reshade). You should never enable both an ENB and Reshade preset at the same time.
+
 Septimus includes an awesome tool called ENB Organizer for trying out different ENB and Reshade presets.
 
 To change ENB & Reshade presets, do the following:
