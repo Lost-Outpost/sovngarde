@@ -22,23 +22,20 @@ On your journey through the Septimus version of Skyrim, you will find a performa
 This guide highlights major mods included in Septimus in the following categories:
 
 - [Hotkeys](#hotkeys)
-- [Quick Start](#quick-start)
-- [Remastered Gameplay](#remastered-gameplay)
-- [User Interface and Camera](#user-interface-and-camera)
+- [Starting Your Journey](#starting-your-journey)
+- [Gameplay](#remastered-gameplay)
 - [Optional Legacy of the Dragonborn](#optional-legacy-of-the-dragonborn)
+- [User Interface and Camera](#user-interface-and-camera)
 - [Combat](#combat)
+- [Immersion](#immersion)
 - [Quality of Life](#quality-of-life)
-- [Remastered Artifacts](#remastered-artifacts)
-- [Remastered Enemies](#remastered-enemies)
-- [Remastered Followers](#remastered-followers)
-- [Remastered Locations](#remastered-locations)
-- [Remastered Quests](#remastered-quests)
-- [New Followers and Companions](#new-followers-and-companions)
-- [New Gameplay and Immersion](#new-gameplay-and-immersion)
-- [New Gear and Equipment](#new-gear-and-equipment)
-- [New Homes](#new-homes)
-- [New Quests](#new-quests)
+- [Gear](#gear)
+- [Followers and Companions](#followers-and-companions)
+- [Homes](#homes)
+- [Quests](#quests)
 - [Quest Timing](#quest-timing)
+- [Remastered Enemies](#enemies)
+- [Remastered Locations](#locations)
 
 Icons in this guide:
 
@@ -48,7 +45,7 @@ Icons in this guide:
 
 ## Hotkeys
 
-### Gameplay hotkeys
+### Gameplay Hotkeys
 
 - <kbd>E</kbd> - Use selected item in inventory, create item while crafting, or take item while browsing container
 
@@ -80,31 +77,31 @@ Icons in this guide:
 
 - <kbd>Middle Mouse Wheel</kbd> - Switches targets in [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614)
 
-### ENB hotkeys
+### ENB Hotkeys
 
-- <kbd>F4</kbd> - Toggles FPS visibility, provided you are using ENB
+- <kbd>F7</kbd> - Toggles FPS visibility, provided you are using ENB
 
 - <kbd>F11</kbd> - Toggles ENB configuration, provided you are using ENB
 
-### Immersive Equipment Displays hotkey
+### Immersive Equipment Displays Hotkey
 
 - <kbd>SHIFT</kbd> + <kbd>PAGE DOWN</kbd> - Opens [Immersive Equipment Displays](https://www.nexusmods.com/skyrimspecialedition/mods/62001?tab=description) configuration menu
 
-### Console hotkeys
+### Console Hotkeys
 
 - <kbd>~</kbd> - Toggles console visibility
 
-- <kbd>CTRL</kbd> + :arrow_left: - Copy to clipboard in console
+- <kbd>CTRL</kbd> + <kbd>Left Arrow</kbd> - Copy to clipboard in console
 
 - <kbd>END</kbd> - Paste from clipboard in console
 
-## Quick Start
+## Starting Your Journey
 
-Septimus includes [Optional Quick Start](https://www.nexusmods.com/skyrimspecialedition/mods/63953) which allows you to optionally start a new game at the cave end of Helgen Keep (skipping it), done in such a way that Helgen and the main quest proceeds as if the entirety of the game's introduction is played as intended.
+Septimus includes an [Optional Quick Start](https://www.nexusmods.com/skyrimspecialedition/mods/63953) which allows you to optionally start a new game at the cave end of Helgen Keep (skipping it), done in such a way that Helgen and the main quest proceeds as if the entirety of the game's introduction is played as intended.
 
-## Remastered Gameplay
+## Gameplay
 
-Septimus is built around [Simon Magus Overhauls (SimonRim)](https://www.nexusmods.com/skyrimspecialedition/users/67410746?tab=user+files). SimonRim overhauls various systems in Skyrim in a cohesive way that stays true to the original while improving the balance and gameplay. The full SimonRim list:
+Septimus is built around the [Simon Magus (SimonRim)](https://www.nexusmods.com/skyrimspecialedition/users/67410746?tab=user+files) gameplay overhaul. SimonRim remasters various systems in Skyrim in a cohesive way that stays true to the original while improving the balance and gameplay. The full SimonRim list:
 
 - [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191) - Overhauls and introduces new perks increasing build diversity
 
@@ -138,6 +135,15 @@ In addition to SimonRim, this list includes:
 
 - [Tinker's Forge](https://www.nexusmods.com/skyrimspecialedition/mods/22595) - A lightweight smithing overhaul which allows you to create devious traps and build an army of Dwarven automatons
 
+## Optional Legacy of the Dragonborn
+
+Septimus optionally includes [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802). See the [Configuration Guide](https://github.com/Guitarninja2/septimus/blob/main/CONFIGURATION.md#legacy-of-the-dragonborn) if you want to disable it. Septimus includes the following LotD gameplay mods:
+
+- [Curators Companion](https://www.nexusmods.com/skyrimspecialedition/mods/38529) - The all in one Legacy of the Dragonborn companion!
+
+- [Quest and Reward Delay for Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/44923) - Delays the various rewards and quests in Legacy of the Dragonborn to higher display count numbers.
+  > :video_game: This significantly delays the rewards and quests. For example, the "Shattered Legacy" quest will not start until you have 1200 items on display in the museum, compared to the unmodified default of 550 items. This enhances the pacing and epic feel of the LotD quests.
+
 ## User Interface and Camera
 
 Septimus includes a minimalistic and modern UI, featuring:
@@ -149,6 +155,8 @@ Septimus includes a minimalistic and modern UI, featuring:
   > :ledger: Also see the optional [Dear Diary Dark Mode](https://www.nexusmods.com/skyrimspecialedition/mods/60837), which is looks great but does not support widescreen
 
 - [Detection Meter](https://www.nexusmods.com/skyrimspecialedition/mods/63057) - Adds Ubisoft style detection meters for stealth
+
+- [Dynamic Things Alternative](https://www.nexusmods.com/skyrimspecialedition/mods/49250) - Interact with previously static items like archery targets, crates, mammoth skulls, taproots, and more
 
 - [A Quality World Map](https://www.nexusmods.com/skyrimspecialedition/mods/5804) - Provides a new set of highly-detailed 3D or paper world map textures, complete with roads
 
@@ -166,15 +174,6 @@ Septimus includes a minimalistic and modern UI, featuring:
 
 - [TrueHUD](https://www.nexusmods.com/skyrimspecialedition/mods/62775) - Customizable actor info bars, boss bars, and player widget
 
-## Optional Legacy of the Dragonborn
-
-Septimus optionally includes [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802). See the [Configuration Guide](https://github.com/Guitarninja2/septimus/blob/main/CONFIGURATION.md#legacy-of-the-dragonborn) if you want to disable it. Septimus includes the following LotD gameplay mods:
-
-- [Curators Companion](https://www.nexusmods.com/skyrimspecialedition/mods/38529) - The all in one Legacy of the Dragonborn companion!
-
-- [Quest and Reward Delay for Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/44923) - Delays the various rewards and quests in Legacy of the Dragonborn to higher display count numbers.
-  > :video_game: This significantly delays the rewards and quests. For example, the "Shattered Legacy" quest will not start until you have 1200 items on display in the museum, compared to the unmodified default of 550 items. This enhances the pacing and epic feel of the LotD quests.
-
 ## Combat
 
 Septimus includes combat overhauls to increase the game's difficulty and encourage resource management:
@@ -186,6 +185,48 @@ Septimus includes combat overhauls to increase the game's difficulty and encoura
 - [SNIFF - Simple No Internal Friendly Fire](https://www.nexusmods.com/skyrimspecialedition/mods/43618) - Nullifies weapon and spell damage between the player, followers, summons, undead and allies
 
 - [The Ultimate Dodge Mod Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/63000) - <kbd>CTRL</kbd> performs dodge (with weapons drawn)
+
+## Immersion
+
+Septimus adds the following new gameplay & immersion mods:
+
+- [Campsite](https://www.nexusmods.com/skyrimspecialedition/mods/22353) - Campsite is a simple camping mod that allows the player to build a campfire and pitch a tent. Campsite is built in the vanilla style using only existing items. It is designed to feel like an unintrusive, optional extra feature of the game that isn't noticed when not used.
+
+- [Carriage and Ferry Travel Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/8379) - CFTO introduces new ways to travel around skyrim including new carriage locations and new boats to increase the ease of traveling skyrim in an immersive way.
+
+- [Convenient Hot Meals](https://www.nexusmods.com/skyrimspecialedition/mods/30774) - Ever wonder why Inns in freezing areas don't sell hot soups and stews?! Wonder no more!
+
+  > :ledger: Inclues a custom Septimus patch which adds hot fish soup from the Fishing CC as well as distributing a small amount of hot meals to inns not originally covered by Convenient Hot Meals
+
+  > :video_game: Hot meals help you ward off the cold in survival mode. They normally require a fire salt to create, so being able to purchase these at an Inn is a boon to new players
+
+- [Fish Anywhere With Water](https://www.nexusmods.com/skyrimspecialedition/mods/60915) - Fish anywhere as long you are facing a nearby body of water.
+
+- [Immersive Patrols SE](https://www.nexusmods.com/skyrimspecialedition/mods/718) - Adds a reasonable amount of Stormcloak, Thalmor, Imperial and Dawnguard patrols to Skyrim and a few Skaal, Reaver and Riekling "patrols" to Solstheim
+
+- [Instincts - Animal Taming in Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/63224) - Instincts enables the player to tame wild animals. Tamed animals will accompany the player and carry items or fight for the player
+
+- [Khajiits Steal Too](https://www.nexusmods.com/skyrimspecialedition/mods/18231) - Khajiit Caravans will now accept your stolen goods as purchase
+
+- [Security Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/58224) - Replaces overused lock model with unique lock variants
+
+- [Skyrim Anniversary - Growable Plants](https://www.nexusmods.com/skyrimspecialedition/mods/58880) - Allows the plants from various creations included in the Skyrim Anniversary Edition to be planted and harvested in Hearthfire Homes/planters
+
+- [Skyrim's Got Talent - Improve As a Bard](https://www.nexusmods.com/skyrimspecialedition/mods/50357) - Play instruments, get better, NPCs react to your skill dynamically, many new songs, lots of easter eggs, simple implementation.
+
+  > :ledger: To play an instrument (drum, flute, or lute) select it in your inventory while in a tavern and press the <kbd>E</kbd> key
+
+  > :video_game: We recommend playing an instrument at least once on your Septimus journey.
+
+- [Survival Mode (Optional)](https://en.uesp.net/wiki/Skyrim:Survival_Mode) - In Survival Mode, your greatest adversary is Skyrim itself. Unrelenting cold, harsh wilderness, famine and fatigue - do you have the strength to endure? (Survival Mode is optional can be turned on or off in Settings menu.)
+
+  > :ledger: Supporting mods: [Fast Travel for Survival Mode](https://www.nexusmods.com/skyrimspecialedition/mods/21067) (Optional), [Survival Mode Improved](https://www.nexusmods.com/skyrimspecialedition/mods/56374), and [Survival Control Panel](https://www.nexusmods.com/skyrimspecialedition/mods/41891)
+
+  > :video_game: You can see the survival mode effects (tired, cold, hungry) on the [TrueHUD](https://www.nexusmods.com/skyrimspecialedition/mods/62775) player mana, health, and stamina bars
+
+- [Trade and Barter](https://www.nexusmods.com/skyrimspecialedition/mods/23081) - Provides many new variables to adjust the trade and barter rates in Skyrim, including merchant gold, trading perks, inventory respawn rates, and more
+
+- [Wedding Outfit Commission](https://www.nexusmods.com/skyrimspecialedition/mods/52032) - Getting married? Commission wedding outfits for yourself and your spouse from Radiant Raiment
 
 ## Quality of Life
 
@@ -203,183 +244,27 @@ Septimus includes quality-of-life improvements to streamline your playing experi
 
 - [Oxygen Meter 2](https://www.nexusmods.com/skyrimspecialedition/mods/64532) - Adds a new oxygen meter to the game for when you are underwater
 
-- [Stay at the System Page](https://www.nexusmods.com/skyrimspecialedition/mods/19832) - Ensures the journal menu always opens at the system page tab
-
-## Remastered Artifacts
-
-- [Antiquary - Enhanced Artifacts](https://www.nexusmods.com/skyrimspecialedition/mods/44413) - Turns vanilla’s boring and underpowered artifacts into the relics of legend they’re meant to be
-
-## Remastered Enemies
-
-- [Coven - Enemy witches overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/51596) - Small lightweight mod that will add over 60 enemies to your game
-
-- [Diverse Dragons Collection](https://www.nexusmods.com/skyrimspecialedition/mods/695) - Adds 28 leveled enemy dragons with unique models, textures, & abilities
-
-- [Haugbui - A Draugr Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26188) - A lightweight overhaul providing balance adjustments, new items, unique boss designs, and some more variants to the draugr enemies
-
-## Remastered Followers
-
-- [Serana Dialogue Edit](https://www.nexusmods.com/skyrimspecialedition/mods/16222) - An Overhaul of the Dialogue for Serana. This includes: Bug fixes, Custom Dialogue Branches, More Radiant Dialogue and Expansion into Hearthfire and Dragonborn
-
-## Remastered Locations
-
-- [Anna's Winterhold Restored](https://www.nexusmods.com/skyrimspecialedition/mods/20344) - Restores ruined Winterhold houses into shops with owners' living quarters, a stable with 4 horses, adds custom-voiced merchants, a player cabin, and a protective stone wall around the town
-
-- [Books of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/4115) - Adds a books store in Solitude
-
-- [Karthwasten The Silver Anvil](https://www.nexusmods.com/skyrimspecialedition/mods/35817) - Small, lore-friendly, and immersive expansion to Karthwasten which adds a blacksmith/inn combo
-
-- [Kolskeggr Miner's Hall](https://www.nexusmods.com/skyrimspecialedition/mods/36226) - Small, lore-friendly, and immersive expansion to Kolskeggr Mine which adds a miner's hall with a blacksmith, a food vendor, and two random miners
-
-- [Magical College of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/1539) - A lightly magical, aesthetic overhaul for the College of Winterhold!
-
-  > :video_game: Due to bonuses, you should strongly consider doing all of your enchanting, alchemy, and magic school grinding in the college
-
-- [Morthal Where's Wares](https://www.nexusmods.com/skyrimspecialedition/mods/35751) - Adds a lore-friendly and much needed general goods store with an Argonian merchant to Morthal
-
-- [Morthal Quartermaster](https://www.nexusmods.com/skyrimspecialedition/mods/60698) - Adds a lore-friendly quartermaster to the guardhouse in Morthal
-
-- [Solstheim Caravan Trader](https://www.nexusmods.com/skyrimspecialedition/mods/46590) - Adds a Khajiit Caravan trader to Raven Rock
-
-- [Stendarr's Beacon Enhanced and Ruhmastered](https://www.nexusmods.com/skyrimspecialedition/mods/16178) - Adds new, lore-appropriate interior zones, outbuildings, and decor to complement the Vigil's aesthetic
-
-## Remastered Quests
-
-- [Finding Helgi... and Laelette - A Laid to Rest Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/28973) - A home in Morthal burned down under mysterious circumstances; some say it was the murder of a wife and daughter. A woman leaves home without saying goodbye to her husband and son, ostensibly to join the war. Are these events connected? This is an overhaul of "Laid to Rest" and the third mod in the "Finding" series
-
-- [Improved Companions - Questline Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/22300) - Actually back out of becoming a werewolf without leaving Skjor and Aela stuck in the Underforge forever, and various other tweaks for the Companions
-
-- [Improved College Entry - Questline Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/22184) - Choose your school and more improvements for the College of Winterhold
-
-- [Jarl Balgruuf Dilemma](https://www.nexusmods.com/skyrimspecialedition/mods/41132) - Combo: civil war without main quest & Jarl Balgruuf joining Stormcloaks
-
-- [A Lovely Letter Alternate Routes](https://www.nexusmods.com/skyrimspecialedition/mods/21916) - Tell Sven and Faendal that you won't get involved in their quarrel, or expose both of them and gain Camilla's favor for yourself
-
-- [The Only Cure - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/57683) - Enhances Peryite's daedric quest, expanding the vanilla quest with new conversations, scenes and paths to complete the quest with or without cavorting with daedra
-
-- [No Thieves Guild Grind](https://www.nexusmods.com/skyrimspecialedition/mods/4382) - Lowers the Thieves Guild radiant grind quests requirements for their rewards
-
-- [Paarthurnax - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/51711) - A fully voiced, quite expanded new take on the quest Paarthurnax, giving both the Blades and Paarthurnax good reasons for their stances, and you, Dragonborn, the final choice
-
-- [Restoring the Aretino Residence SE](https://www.nexusmods.com/skyrimspecialedition/mods/30447) - Fix and upgrade the Aretino residence into a proper (player) home! Invite Aventus to return home! Give Sofie a warm place to sleep! Or just use it for yourself!
-
-- [Return to Pelagius' Mind](https://www.nexusmods.com/skyrimspecialedition/mods/31344) - Travel back to Pelagius' mind to retrieve items you forgot about. For example, Legacy of the Dragonborn's Jyggalag's Sword.
-
-- [Saadia - Time of Need](https://www.nexusmods.com/skyrimspecialedition/mods/29095) - Expands Saadia's Role in Skyrim into that of a potential Follower, Steward, Spouse, and Traveling Merchant
-
-- [Save the Icerunner - Lights Out Alternate Routes](https://www.nexusmods.com/skyrimspecialedition/mods/34681) - Jaree-Ra in Solitude has a plan to set up a shipwreck. The ship is said to be full of weapons and riches, ripe for the taking. What will you do?
-
-- [Stackable Stones of Barenziah with Optional Quest Markers](https://www.nexusmods.com/skyrimspecialedition/mods/22395) - Fixes Stones of Barenziah to stack properly in the player's inventory. Also adds optional quest markers to Stones of Barenziah
-
-- [Vittorias Alternate Wedding](https://www.nexusmods.com/skyrimspecialedition/mods/62466) - Allows you to attend Vittoria's Vici wedding, after you destroy the Dark Brotherhood
-
-## New Followers and Companions
-
-### Followers
-
-- [Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461) - Inigo is a fully voiced khajiit adventuring companion with over 7000 lines of unique dialogue - much of it about you. He'll level alongside you and avoid most traps. If you're sneaking he won't chatter and he'll whisper if you talk to him. He can run out of arrows. He's highly skilled in archery, one-handed, and sneak.
-
-- [Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035) - Lucien is a fully voiced Imperial follower with over 5000 lines of immersive, lore-friendly dialogue. Though he arrives in Skyrim as a cowardly scholar, he'll gradually gain strength and confidence by your side until he grows into a hero in his own right.
-
-- [Arissa The Wandering Rogue](https://www.nexusmods.com/skyrim/mods/53754/) - Arissa is an Imperial with an independent, rebellious spirit and a gift for making expensive things disappear. She is a Skyrim companion character with over 600 lines of dialogue, professionally recorded and beautifully voiced by the talented Nikkita.
-
-- [Auri](https://www.nexusmods.com/skyrimspecialedition/mods/11278) - Auri is a fully voiced follower and quest mod, which centers around Bosmer culture and tradition. She is a traditionalist Wood Elf archer, will follow you, do your bidding, and offer occasional snarky commentary about your surroundings and actions.
-
-- [Aviendha - Wheel of Time](https://www.nexusmods.com/skyrimspecialedition/mods/55404) - Based on the fantasy book series "The Wheel of Time" this mod adds the follower Aviendha and Wheel of Time-related quests. Fully voiced by a great cast of voice actors.
-
-- [Frozen in Time](https://www.nexusmods.com/skyrimspecialedition/mods/39732) - A quest to reanimate an ancient Snow Elf warrior and help her regain her past.
-
-- [Hoth](https://www.nexusmods.com/skyrimspecialedition/mods/16137) - Hoth is an old bounty hunting adventurer and a brutal companion to travel with - one of the most visually customized followers made for Skyrim. Hoth has many one-of-a-kind features, such as being a quest giver for infinite bounty hunt contracts.
-
-- [Kaidan 2](https://www.nexusmods.com/skyrimspecialedition/mods/19075) - Rebuilt and expanded, this romantic follower features over 1200 lines of dialogue, custom home, and mini quests
-
-  > :ledger: Includes custom Septimus balance patch
-
-- [Remiel - Dwemer Specialist](https://www.nexusmods.com/skyrimspecialedition/mods/51874) - Breton engineer who will accompany you in your travels. She's travelled from Wayrest to explore dwemer ruins in Skyrim, but she needs your help
-
-- [Shirley](https://www.nexusmods.com/skyrimspecialedition/mods/45956) - Shirley Curry, the beloved Skyrim Grandma, finally comes to the game as a follower you can recruit! She'll join you on your adventures, but don't expect her to simply carry your burdens! She's got more personality than all the vanilla followers combined, and we're sure she'll be a great companion, and a friend. And a grandma!
-
-### Canine Companions
-
-- [Gladys The Corgi](https://www.nexusmods.com/skyrimspecialedition/mods/50164) - Adds a friendly corgi companion to join you on your adventures!
-
-- [Meeko Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/17572) - Overhaul for Meeko that gives him a unique appearance and a variety of other features.
-
-- [Merlin The Corgi](https://www.nexusmods.com/skyrimspecialedition/mods/56433) - Adds a magical corgi companion to join you on your adventures!
-
-- [Vigilance Reborn SE](https://www.nexusmods.com/skyrimspecialedition/mods/17571) - Overhaul for Vigilance that gives him a unique appearance and a variety of other features.
-
-### Additional and Enhanced NPCs
-
-- [Bogmort - Mud Monsters of Morthal Swamp](https://www.nexusmods.com/skyrimspecialedition/mods/22447) - The dead emerge from the muck in the swamps of Morthal
-
-- [BUVARP SE RE - Barely Used Vanilla Actors Recycle Project Special Edition Revamped](https://www.nexusmods.com/skyrimspecialedition/mods/56120) - This mod gives new purposes to NPCs that are barely used in Vanilla
-
-- [Civil War Deserters](https://www.nexusmods.com/skyrimspecialedition/mods/44497) - Adds a new Deserter enemy type that you can encounter in specific locations across Skyrim
-
-- [Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194) - NPCs with more extensive dialogue and role play choices. Over 250+ fully voiced NPCs, 25+ followers, 15+ marriage NPCs, and 50+ quests.
-
-  > :ledger: [Cloud's Family Friendly Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/62007) removes non-family friendly NPCs
-
-  > :ledger: [Interesting Follower Requirements for Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/45646) adds certain requirements you must meet before you can recruit some of the possible followers of Interesting NPC
-
-## New Gameplay and Immersion
-
-Septimus adds the following new gameplay & immersion mods:
-
-- [Campsite](https://www.nexusmods.com/skyrimspecialedition/mods/22353) - Campsite is a simple camping mod that allows the player to build a campfire and pitch a tent. Campsite is built in the vanilla style using only existing items. It is designed to feel like an unintrusive, optional extra feature of the game that isn't noticed when not used.
-
-- [Carriage and Ferry Travel Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/8379) - CFTO introduces new ways to travel around skyrim including new carriage locations and new boats to increase the ease of traveling skyrim in an immersive way.
-
-- [Convenient Hot Meals](https://www.nexusmods.com/skyrimspecialedition/mods/30774) - Ever wonder why Inns in freezing areas don't sell hot soups and stews?! Wonder no more!
-
-  > :ledger: Inclues a custom Septimus patch which adds hot fish soup from the Fishing CC as well as distributing a small amount of hot meals to inns not originally covered by Convenient Hot Meals
-
-  > :video_game: Hot meals help you ward off the cold in survival mode. They normally require a fire salt to create, so being able to purchase these at an Inn is a boon to new players
-
-- [Dynamic Things Alternative](https://www.nexusmods.com/skyrimspecialedition/mods/49250) - Interact with previously static items like archery targets, crates, mammoth skulls, taproots, and more
-
-- [Fish Anywhere With Water](https://www.nexusmods.com/skyrimspecialedition/mods/60915) - Fish anywhere as long you are facing a nearby body of water.
-
-- [Immersive Patrols SE](https://www.nexusmods.com/skyrimspecialedition/mods/718) - Adds a reasonable amount of Stormcloak, Thalmor, Imperial and Dawnguard patrols to Skyrim and a few Skaal, Reaver and Riekling "patrols" to Solstheim
-
-- [Instincts - Animal Taming in Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/63224) - Instincts enables the player to tame wild animals. Tamed animals will accompany the player and carry items or fight for the player
-
-- [Open World Loot](https://www.nexusmods.com/skyrimspecialedition/mods/49681) - Open world loot is a rebalance of Skyrim's loot system. It attempts to maintain the same open world feel of Skyrim while adjusting the levels certain items appear and makes it so daedric and other special weapons must be acquired from special quests only. No longer will Iron equipment be completely irrelevant in a matter of a few hours.
-
-- [Khajiits Steal Too](https://www.nexusmods.com/skyrimspecialedition/mods/18231) - Khajiit Caravans will now accept your stolen goods as purchase
-
-- [Security Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/58224) - Replaces overused lock model with unique lock variants
-
 - [Shovels Bury Bodies](https://www.nexusmods.com/skyrimspecialedition/mods/52984) - Pressing <kbd>E</kbd> while selecting a shovel from inventory near a dead body buries it
-
-- [Skyrim Anniversary - Growable Plants](https://www.nexusmods.com/skyrimspecialedition/mods/58880) - Allows the plants from various creations included in the Skyrim Anniversary Edition to be planted and harvested in Hearthfire Homes/planters
-
-- [Skyrim's Got Talent - Improve As a Bard](https://www.nexusmods.com/skyrimspecialedition/mods/50357) - Play instruments, get better, NPCs react to your skill dynamically, many new songs, lots of easter eggs, simple implementation.
-
-  > :ledger: To play an instrument (drum, flute, or lute) select it in your inventory while in a tavern and press the <kbd>E</kbd> key
-
-  > :video_game: We recommend playing an instrument at least once on your Septimus journey.
 
 - [Skyrim's Paraglider](https://www.nexusmods.com/skyrimspecialedition/mods/53256) - Adds a paraglider into the world similar to that in breath of the wild. You need to find it in the world to use it.
 
   > :video_game: Uses stamina while flying so be careful!
 
+- [Stay at the System Page](https://www.nexusmods.com/skyrimspecialedition/mods/19832) - Ensures the journal menu always opens at the system page tab
+
 - [Sweeping Organizes Stuff](https://www.nexusmods.com/skyrimspecialedition/mods/51645) - Pressing <kbd>E</kbd> while selecting a broom from inventory organizes clutter
 
   > :video_game: This mod can be a lifesaver when spells or shouts have knocked a quest item into an unknown location. Sweeping returns the quest item to its default location
 
-- [Survival Mode (Optional)](https://en.uesp.net/wiki/Skyrim:Survival_Mode) - In Survival Mode, your greatest adversary is Skyrim itself. Unrelenting cold, harsh wilderness, famine and fatigue - do you have the strength to endure? (Survival Mode is optional can be turned on or off in Settings menu.)
+## Gear
 
-  > :ledger: Supporting mods: [Fast Travel for Survival Mode](https://www.nexusmods.com/skyrimspecialedition/mods/21067) (Optional), [Survival Mode Improved](https://www.nexusmods.com/skyrimspecialedition/mods/56374), and [Survival Control Panel](https://www.nexusmods.com/skyrimspecialedition/mods/41891)
+### Remastered Gear
 
-  > :video_game: You can see the survival mode effects (tired, cold, hungry) on the [TrueHUD](https://www.nexusmods.com/skyrimspecialedition/mods/62775) player mana, health, and stamina bars
+- [Antiquary - Enhanced Artifacts](https://www.nexusmods.com/skyrimspecialedition/mods/44413) - Turns vanilla’s boring and underpowered artifacts into the relics of legend they’re meant to be
 
-- [Trade and Barter](https://www.nexusmods.com/skyrimspecialedition/mods/23081) - Provides many new variables to adjust the trade and barter rates in Skyrim, including merchant gold, trading perks, inventory respawn rates, and more
+- [Open World Loot](https://www.nexusmods.com/skyrimspecialedition/mods/49681) - Open world loot is a rebalance of Skyrim's loot system. It attempts to maintain the same open world feel of Skyrim while adjusting the levels certain items appear and makes it so daedric and other special weapons must be acquired from special quests only. No longer will Iron equipment be completely irrelevant in a matter of a few hours.
 
-- [Wedding Outfit Commission](https://www.nexusmods.com/skyrimspecialedition/mods/52032) - Getting married? Commission wedding outfits for yourself and your spouse from Radiant Raiment
-
-## New Gear and Equipment
+### New Gear
 
 In addition to the new gear and equipment available in the AE Creation Club, Septimus adds carefully balanced and lore-friendly items, including:
 
@@ -423,7 +308,65 @@ In addition to the new gear and equipment available in the AE Creation Club, Sep
 
 - [Wayfarer's Coat](https://www.nexusmods.com/skyrimspecialedition/mods/10194) - Adds a new set of clothes/armor suitable for mages
 
-## New Homes
+## Followers and Companions
+
+### Remastered Followers and Companions
+
+- [Meeko Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/17572) - Overhaul for Meeko that gives him a unique appearance and a variety of other features.
+
+- [Serana Dialogue Edit](https://www.nexusmods.com/skyrimspecialedition/mods/16222) - An Overhaul of the Dialogue for Serana. This includes: Bug fixes, Custom Dialogue Branches, More Radiant Dialogue and Expansion into Hearthfire and Dragonborn
+
+- [Vigilance Reborn SE](https://www.nexusmods.com/skyrimspecialedition/mods/17571) - Overhaul for Vigilance that gives him a unique appearance and a variety of other features.
+
+### New Followers and Companions
+
+#### Primary New Followers
+
+- [Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461) - Inigo is a fully voiced khajiit adventuring companion with over 7000 lines of unique dialogue - much of it about you. He'll level alongside you and avoid most traps. If you're sneaking he won't chatter and he'll whisper if you talk to him. He can run out of arrows. He's highly skilled in archery, one-handed, and sneak.
+
+- [Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035) - Lucien is a fully voiced Imperial follower with over 5000 lines of immersive, lore-friendly dialogue. Though he arrives in Skyrim as a cowardly scholar, he'll gradually gain strength and confidence by your side until he grows into a hero in his own right.
+
+#### Secondary New Followers
+
+- [Arissa The Wandering Rogue](https://www.nexusmods.com/skyrim/mods/53754/) - Arissa is an Imperial with an independent, rebellious spirit and a gift for making expensive things disappear. She is a Skyrim companion character with over 600 lines of dialogue, professionally recorded and beautifully voiced by the talented Nikkita.
+
+- [Auri](https://www.nexusmods.com/skyrimspecialedition/mods/11278) - Auri is a fully voiced follower and quest mod, which centers around Bosmer culture and tradition. She is a traditionalist Wood Elf archer, will follow you, do your bidding, and offer occasional snarky commentary about your surroundings and actions.
+
+- [Aviendha - Wheel of Time](https://www.nexusmods.com/skyrimspecialedition/mods/55404) - Based on the fantasy book series "The Wheel of Time" this mod adds the follower Aviendha and Wheel of Time-related quests. Fully voiced by a great cast of voice actors.
+
+- [Frozen in Time](https://www.nexusmods.com/skyrimspecialedition/mods/39732) - A quest to reanimate an ancient Snow Elf warrior and help her regain her past.
+
+- [Hoth](https://www.nexusmods.com/skyrimspecialedition/mods/16137) - Hoth is an old bounty hunting adventurer and a brutal companion to travel with - one of the most visually customized followers made for Skyrim. Hoth has many one-of-a-kind features, such as being a quest giver for infinite bounty hunt contracts.
+
+- [Kaidan 2](https://www.nexusmods.com/skyrimspecialedition/mods/19075) - Rebuilt and expanded, this romantic follower features over 1200 lines of dialogue, custom home, and mini quests
+
+  > :ledger: Includes custom Septimus balance patch
+
+- [Remiel - Dwemer Specialist](https://www.nexusmods.com/skyrimspecialedition/mods/51874) - Breton engineer who will accompany you in your travels. She's travelled from Wayrest to explore dwemer ruins in Skyrim, but she needs your help
+
+- [Shirley](https://www.nexusmods.com/skyrimspecialedition/mods/45956) - Shirley Curry, the beloved Skyrim Grandma, finally comes to the game as a follower you can recruit! She'll join you on your adventures, but don't expect her to simply carry your burdens! She's got more personality than all the vanilla followers combined, and we're sure she'll be a great companion, and a friend. And a grandma!
+
+#### New Companions
+
+- [Gladys The Corgi](https://www.nexusmods.com/skyrimspecialedition/mods/50164) - Adds a friendly corgi companion to join you on your adventures!
+
+- [Merlin The Corgi](https://www.nexusmods.com/skyrimspecialedition/mods/56433) - Adds a magical corgi companion to join you on your adventures!
+
+#### New NPCs
+
+- [Bogmort - Mud Monsters of Morthal Swamp](https://www.nexusmods.com/skyrimspecialedition/mods/22447) - The dead emerge from the muck in the swamps of Morthal
+
+- [BUVARP SE RE - Barely Used Vanilla Actors Recycle Project Special Edition Revamped](https://www.nexusmods.com/skyrimspecialedition/mods/56120) - This mod gives new purposes to NPCs that are barely used in Vanilla
+
+- [Civil War Deserters](https://www.nexusmods.com/skyrimspecialedition/mods/44497) - Adds a new Deserter enemy type that you can encounter in specific locations across Skyrim
+
+- [Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194) - NPCs with more extensive dialogue and role play choices. Over 250+ fully voiced NPCs, 25+ followers, 15+ marriage NPCs, and 50+ quests.
+
+  > :ledger: [Cloud's Family Friendly Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/62007) removes non-family friendly NPCs
+
+  > :ledger: [Interesting Follower Requirements for Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/45646) adds certain requirements you must meet before you can recruit some of the possible followers of Interesting NPC
+
+## Homes
 
 In addition to the new player homes available in the AE Creation Club, Septimus includes:
 
@@ -459,7 +402,7 @@ The following quests and companions, mentioned in other sections of this guide, 
 
 - [Kaiden 2](https://www.nexusmods.com/skyrimspecialedition/mods/19075) - Autumn Watch is located near Ivarstead. You can purchase the keys for the home from someone in Ivarstead.
 
-- [Legacy of the Dragonborn](https://www.nexusmods.com/skyrim/mods/52248) - The museum includes a safehouse that has everything an aspiring relic hunter could possibly need!
+- [Legacy of the Dragonborn](https://www.nexusmods.com/skyrim/mods/52248) - The museum includes a safehouse that has everything an aspiring relic hunter could possibly need! As you progress through LotD, you will also find a portable tent home, a relocatable airship home, and a Dwemer tower home.
 
 - [Identity Crisis](https://www.nexusmods.com/skyrimspecialedition/mods/39634?tab=description) - A player home awaits those with the mental fortitude - or lack thereof - to face utter lunacy.
 
@@ -473,13 +416,45 @@ The following quests and companions, mentioned in other sections of this guide, 
 
 Each of Skyrim's factions provide at least a room with safe storage.
 
-## New Quests
+## Quests
+
+### Remastered Quests
+
+- [Finding Helgi... and Laelette - A Laid to Rest Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/28973) - A home in Morthal burned down under mysterious circumstances; some say it was the murder of a wife and daughter. A woman leaves home without saying goodbye to her husband and son, ostensibly to join the war. Are these events connected? This is an overhaul of "Laid to Rest" and the third mod in the "Finding" series
+
+- [Improved Companions - Questline Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/22300) - Actually back out of becoming a werewolf without leaving Skjor and Aela stuck in the Underforge forever, and various other tweaks for the Companions
+
+- [Improved College Entry - Questline Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/22184) - Choose your school and more improvements for the College of Winterhold
+
+- [Jarl Balgruuf Dilemma](https://www.nexusmods.com/skyrimspecialedition/mods/41132) - Combo: civil war without main quest & Jarl Balgruuf joining Stormcloaks
+
+- [A Lovely Letter Alternate Routes](https://www.nexusmods.com/skyrimspecialedition/mods/21916) - Tell Sven and Faendal that you won't get involved in their quarrel, or expose both of them and gain Camilla's favor for yourself
+
+- [The Only Cure - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/57683) - Enhances Peryite's daedric quest, expanding the vanilla quest with new conversations, scenes and paths to complete the quest with or without cavorting with daedra
+
+- [No Thieves Guild Grind](https://www.nexusmods.com/skyrimspecialedition/mods/4382) - Lowers the Thieves Guild radiant grind quests requirements for their rewards
+
+- [Paarthurnax - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/51711) - A fully voiced, quite expanded new take on the quest Paarthurnax, giving both the Blades and Paarthurnax good reasons for their stances, and you, Dragonborn, the final choice
+
+- [Restoring the Aretino Residence SE](https://www.nexusmods.com/skyrimspecialedition/mods/30447) - Fix and upgrade the Aretino residence into a proper (player) home! Invite Aventus to return home! Give Sofie a warm place to sleep! Or just use it for yourself!
+
+- [Return to Pelagius' Mind](https://www.nexusmods.com/skyrimspecialedition/mods/31344) - Travel back to Pelagius' mind to retrieve items you forgot about. For example, Legacy of the Dragonborn's Jyggalag's Sword.
+
+- [Saadia - Time of Need](https://www.nexusmods.com/skyrimspecialedition/mods/29095) - Expands Saadia's Role in Skyrim into that of a potential Follower, Steward, Spouse, and Traveling Merchant
+
+- [Save the Icerunner - Lights Out Alternate Routes](https://www.nexusmods.com/skyrimspecialedition/mods/34681) - Jaree-Ra in Solitude has a plan to set up a shipwreck. The ship is said to be full of weapons and riches, ripe for the taking. What will you do?
+
+- [Stackable Stones of Barenziah with Optional Quest Markers](https://www.nexusmods.com/skyrimspecialedition/mods/22395) - Fixes Stones of Barenziah to stack properly in the player's inventory. Also adds optional quest markers to Stones of Barenziah
+
+- [Vittorias Alternate Wedding](https://www.nexusmods.com/skyrimspecialedition/mods/62466) - Allows you to attend Vittoria's Vici wedding, after you destroy the Dark Brotherhood
+
+### New Quests
 
 In addition to the new quests available in the AE Creation Club, Septimus includes lots of carefully chosen, integrated, and balanced quests.
 
 The recommended levels are meant to represent a natural progression through the available content, not the minimum level at which a quest can be completed. Please provide feedback via the Discord if any of the recommended levels seem off.
 
-### Recommended Level: All
+#### Recommended Level: All
 
 - [Blackreach Railroad](https://www.nexusmods.com/skyrimspecialedition/mods/435) - Reactivate and restore your very own dwemer railroad, with new characters, items, and a fully voiced quest to do so.
 
@@ -487,7 +462,7 @@ The recommended levels are meant to represent a natural progression through the 
 
 - [Pit Fighter](https://www.nexusmods.com/skyrimspecialedition/mods/22513) - Pit Fighter contains an all new faction to join, complete with NPCs, progression through the ranks, unique rewards and side quests.
 
-### Recommended Level: 10+
+#### Recommended Level: 10+
 
 - [Beyond Skyrim - Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917) - Beyond Skyrim - Bruma introduces a completely new DLC-sized area south of Skyrim with many new quests and encounters to be had.
 
@@ -500,7 +475,7 @@ The recommended levels are meant to represent a natural progression through the 
 - [TrainFight](https://www.nexusmods.com/skyrimspecialedition/mods/58269?tab=posts) - Fight your way atop, through, and inside the belly of a fully animated, fully detailed steam locomotive.
   > :video_game: Despite the brevity, that mod is a very fun inclusion. Made me smile.
 
-### Recommended Level: 20+
+#### Recommended Level: 20+
 
 - [Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/4155) - Once you discover the Clockwork Castle, you may call it your home. However escaping is a different issue.
 
@@ -512,7 +487,7 @@ The recommended levels are meant to represent a natural progression through the 
 
 - [The Tale of Tsatampra Xiros](https://www.nexusmods.com/skyrimspecialedition/mods/36707) - Explore a world contained within the pages of a sorcerous text, and earn the favor of the Daedric Prince Hermaeus Mora.
 
-### Recommended Level: 30+
+#### Recommended Level: 30+
 
 - [The Forgotten City](https://www.nexusmods.com/skyrimspecialedition/mods/1179) - The Forgotten City introduces a lost underground Dwemer city inhabitated by unique characters.
 
@@ -524,7 +499,7 @@ The recommended levels are meant to represent a natural progression through the 
 
 - [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565) - Travel to a new DLC-sized island and investigate a powerful dragon for the East Empire Company.
 
-### Recommended Level: 50+
+#### Recommended Level: 50+
 
 - [The Grand Paladin](https://www.nexusmods.com/skyrimspecialedition/mods/46867) - Venture beyond Skyrim, into the mists of the Sea of Ghosts, and uncover the legacy of an ancient Dragonborn order.
 
@@ -603,3 +578,33 @@ To maintain balance, Septimus uses [Timing is Everything](https://www.nexusmods.
 | Creation Club  | Weapons - Goldbrand                |     40      |
 | Creation Club  | Weapons - Headman's Cleaver        |     32      |
 | Creation Club  | Weapons - Ruin's Edge              |     36      |
+
+## Remastered Enemies
+
+- [Coven - Enemy witches overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/51596) - Small lightweight mod that will add over 60 enemies to your game
+
+- [Diverse Dragons Collection](https://www.nexusmods.com/skyrimspecialedition/mods/695) - Adds 28 leveled enemy dragons with unique models, textures, & abilities
+
+- [Haugbui - A Draugr Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26188) - A lightweight overhaul providing balance adjustments, new items, unique boss designs, and some more variants to the draugr enemies
+
+## Remastered Locations
+
+- [Anna's Winterhold Restored](https://www.nexusmods.com/skyrimspecialedition/mods/20344) - Restores ruined Winterhold houses into shops with owners' living quarters, a stable with 4 horses, adds custom-voiced merchants, a player cabin, and a protective stone wall around the town
+
+- [Books of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/4115) - Adds a books store in Solitude
+
+- [Karthwasten The Silver Anvil](https://www.nexusmods.com/skyrimspecialedition/mods/35817) - Small, lore-friendly, and immersive expansion to Karthwasten which adds a blacksmith/inn combo
+
+- [Kolskeggr Miner's Hall](https://www.nexusmods.com/skyrimspecialedition/mods/36226) - Small, lore-friendly, and immersive expansion to Kolskeggr Mine which adds a miner's hall with a blacksmith, a food vendor, and two random miners
+
+- [Magical College of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/1539) - A lightly magical, aesthetic overhaul for the College of Winterhold!
+
+  > :video_game: Due to bonuses, you should strongly consider doing all of your enchanting, alchemy, and magic school grinding in the college
+
+- [Morthal Where's Wares](https://www.nexusmods.com/skyrimspecialedition/mods/35751) - Adds a lore-friendly and much needed general goods store with an Argonian merchant to Morthal
+
+- [Morthal Quartermaster](https://www.nexusmods.com/skyrimspecialedition/mods/60698) - Adds a lore-friendly quartermaster to the guardhouse in Morthal
+
+- [Solstheim Caravan Trader](https://www.nexusmods.com/skyrimspecialedition/mods/46590) - Adds a Khajiit Caravan trader to Raven Rock
+
+- [Stendarr's Beacon Enhanced and Ruhmastered](https://www.nexusmods.com/skyrimspecialedition/mods/16178) - Adds new, lore-appropriate interior zones, outbuildings, and decor to complement the Vigil's aesthetic
