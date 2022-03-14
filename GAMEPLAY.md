@@ -24,7 +24,7 @@ This guide highlights major mods included in Septimus in the following categorie
 - [Hotkeys](#hotkeys)
 - [Quick Start](#quick-start)
 - [Gameplay](#remastered-gameplay)
-- [Legacy of the Dragonborn (Optional)](#legacy-of-the-dragonborn-(Optional))
+- [Legacy of the Dragonborn (Optional)](#legacy-of-the-dragonborn-Optional)
 - [User Interface and Camera](#user-interface-and-camera)
 - [Combat](#combat)
 - [Immersion](#immersion)
