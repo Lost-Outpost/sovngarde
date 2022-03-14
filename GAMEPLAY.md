@@ -24,7 +24,7 @@ This guide highlights major mods included in Septimus in the following categorie
 - [Hotkeys](#hotkeys)
 - [Quick Start](#quick-start)
 - [Gameplay](#remastered-gameplay)
-- [Optional Legacy of the Dragonborn](#optional-legacy-of-the-dragonborn)
+- [Legacy of the Dragonborn (Optional)](#legacy-of-the-dragonborn-(Optional))
 - [User Interface and Camera](#user-interface-and-camera)
 - [Combat](#combat)
 - [Immersion](#immersion)
@@ -135,7 +135,7 @@ In addition to SimonRim, this list includes:
 
 - [Tinker's Forge](https://www.nexusmods.com/skyrimspecialedition/mods/22595) - A lightweight smithing overhaul which allows you to create devious traps and build an army of Dwarven automatons
 
-## Optional Legacy of the Dragonborn
+## Legacy of the Dragonborn (Optional)
 
 Septimus optionally includes [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802). See the [Configuration Guide](https://github.com/Guitarninja2/septimus/blob/main/CONFIGURATION.md#legacy-of-the-dragonborn) if you want to disable it. Septimus includes the following LotD gameplay mods:
 
