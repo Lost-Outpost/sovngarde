@@ -22,7 +22,7 @@ On your journey through the Septimus version of Skyrim, you will find a performa
 This guide highlights major mods included in Septimus in the following categories:
 
 - [Hotkeys](#hotkeys)
-- [Starting Your Journey](#starting-your-journey)
+- [Quick Start](#quick-start)
 - [Gameplay](#remastered-gameplay)
 - [Optional Legacy of the Dragonborn](#optional-legacy-of-the-dragonborn)
 - [User Interface and Camera](#user-interface-and-camera)
@@ -95,7 +95,7 @@ Icons in this guide:
 
 - <kbd>END</kbd> - Paste from clipboard in console
 
-## Starting Your Journey
+## Quick Start
 
 Septimus includes an [Optional Quick Start](https://www.nexusmods.com/skyrimspecialedition/mods/63953) which allows you to optionally start a new game at the cave end of Helgen Keep (skipping it), done in such a way that Helgen and the main quest proceeds as if the entirety of the game's introduction is played as intended.
 
