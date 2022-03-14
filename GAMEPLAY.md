@@ -34,8 +34,8 @@ This guide highlights major mods included in Septimus in the following categorie
 - [Homes](#homes)
 - [Quests](#quests)
 - [Quest Timing](#quest-timing)
-- [Remastered Enemies](#enemies)
-- [Remastered Locations](#locations)
+- [Enemies](#enemies)
+- [Locations](#locations)
 
 Icons in this guide:
 
@@ -579,7 +579,7 @@ To maintain balance, Septimus uses [Timing is Everything](https://www.nexusmods.
 | Creation Club  | Weapons - Headman's Cleaver        |     32      |
 | Creation Club  | Weapons - Ruin's Edge              |     36      |
 
-## Remastered Enemies
+## Enemies
 
 - [Coven - Enemy witches overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/51596) - Small lightweight mod that will add over 60 enemies to your game
 
@@ -587,7 +587,7 @@ To maintain balance, Septimus uses [Timing is Everything](https://www.nexusmods.
 
 - [Haugbui - A Draugr Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26188) - A lightweight overhaul providing balance adjustments, new items, unique boss designs, and some more variants to the draugr enemies
 
-## Remastered Locations
+## Locations
 
 - [Anna's Winterhold Restored](https://www.nexusmods.com/skyrimspecialedition/mods/20344) - Restores ruined Winterhold houses into shops with owners' living quarters, a stable with 4 horses, adds custom-voiced merchants, a player cabin, and a protective stone wall around the town
 
