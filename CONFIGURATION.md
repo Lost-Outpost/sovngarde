@@ -23,7 +23,6 @@
   - [Widescreen](#widescreen)
 - [Mod Configuration](#mod-configuration)
   - [MCM Menus](#mcm-menus)
-  - [TK Dodge RE](#tk-dodge-re)
 - [ENB and Reshade Presets](#ENB-and-Reshade-Presets)
 - [Performance Guide](#performance-guide)
 
