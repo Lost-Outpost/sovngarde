@@ -133,7 +133,12 @@ In addition to SimonRim, this list includes:
 
 - [Forceful Shouts](https://www.nexusmods.com/skyrimspecialedition/mods/36276) - A lightweight shouts overhaul, designed to balance in a sensible manner this underwhelming but cool mechanic
 
-- [Tinker's Forge](https://www.nexusmods.com/skyrimspecialedition/mods/22595) - A lightweight smithing overhaul which allows you to create devious traps and build an army of Dwarven automatons
+- [Tinker's Forge](https://www.nexusmods.com/skyrimspecialedition/mods/22595) - A lightweight smithing overhaul which allows you create devious traps, forge silver weapons, weave magical clothing, and build your own army of Dwarven automatons!
+
+  > :ledger: Septimus includes a custom version of [Tinker's Forge](https://www.nexusmods.com/skyrimspecialedition/mods/22595) which replaces the [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191) smithing tree
+  > :video_game: In Septimus smithing, tempering is based on your smithing perks, and not your smithing skill level. Each perk from Apprentice Smithing to Legendary Smithing allows you to temper another tier.
+  > :video_game: In Septimus smithing, all jewelry is unlocked via the Jeweler perk. This includes necklaces for dogs.  This doesn't include [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802) replicas.
+  > :video_game: In Septimus smithing, in addition to clothing, the following items are unlocked via the first rank of the Tailor perk. Tents, Bags, Bandoliers, Shoulderpads, Satchels, Backpacks, Dog/Pet Bags, Dog/Pet Accessories (harnesses, collars, barrels, etc).
 
 ## Legacy of the Dragonborn (Optional)
 
@@ -303,6 +308,13 @@ In addition to the new gear and equipment available in the AE Creation Club, Sep
 - [Skaal Heavy Armor](https://www.nexusmods.com/skyrimspecialedition/mods/62256) - Adds a new heavy armor set based on the Skaal Coat and Iron Armor, along with a new backpack model
 
 - [Tale of Two Mer - An Armor Variant Mod](https://www.nexusmods.com/skyrimspecialedition/mods/43074) - Adds new variants of Elven and Orcish armor
+
+- [Tinker's Forge](https://www.nexusmods.com/skyrimspecialedition/mods/22595) - A lightweight smithing overhaul which allows you create devious traps, forge silver weapons, weave magical clothing, and build your own army of Dwarven automatons!
+
+  > :ledger: Septimus includes a custom version of [Tinker's Forge](https://www.nexusmods.com/skyrimspecialedition/mods/22595) which replaces the [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191) smithing tree
+  > :video_game: In Septimus smithing, tempering is based on your smithing perks, and not your smithing skill level. Each perk from Apprentice Smithing to Legendary Smithing allows you to temper another tier.
+  > :video_game: In Septimus smithing, all jewelry is unlocked via the Jeweler perk. This includes necklaces for dogs.  This doesn't include [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802) replicas.
+  > :video_game: In Septimus smithing, in addition to clothing, the following items are unlocked via the first rank of the Tailor perk. Tents, Bags, Bandoliers, Shoulderpads, Satchels, Backpacks, Dog/Pet Bags, Dog/Pet Accessories (harnesses, collars, barrels, etc).
 
 - [Volkihar Knight - Vampire Armor](https://www.nexusmods.com/skyrimspecialedition/mods/4806) - Adds lore-friendly vampire armor sets
 
