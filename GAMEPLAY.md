@@ -105,6 +105,8 @@ Septimus is built around the [Simon Magus (SimonRim)](https://www.nexusmods.com/
 
 - [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191) - Overhauls and introduces new perks increasing build diversity
 
+  > :ledger: [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191) automatically grants the following perks to all players for free: Alteration Dual Casting, Conjuration Dual Casting, Destruction Dual Casting, Illusion Dual Casting, Restoration Dual Casting, Arcane Blacksmith, Critical Charge, Greater Critical Charge, Power Bash, Eagle Eye, Rune Master, Summoner, Physician, Intimidation, and Bribery
+
 - [Aetherius](https://www.nexusmods.com/skyrimspecialedition/mods/26686) - A rework of all race abilities including replacing powers with better passive abilities
 
 - [Apothecary](https://www.nexusmods.com/skyrimspecialedition/mods/52130) - Rebalances Food and Alchemy
@@ -137,11 +139,11 @@ In addition to SimonRim, this list includes:
 
   > :ledger: Septimus includes a custom version of [Tinker's Forge](https://www.nexusmods.com/skyrimspecialedition/mods/22595) which expands the [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191) smithing tree
 
-  > :video_game: In Septimus smithing, tempering is based on your smithing perks, and not your smithing skill level. Each perk from Apprentice Smithing to Legendary Smithing allows you to temper another tier
+  > :video_game: Tempering is based on your smithing perks, and not your smithing skill level. Each perk from Apprentice Smithing to Legendary Smithing allows you to temper another tier
 
-  > :video_game: In Septimus smithing, all jewelry is unlocked via the Jeweler perk. This includes necklaces for dogs.  This doesn't include [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802) replicas
+  > :video_game: All jewelry is unlocked via the Jeweler perk. This includes necklaces for dogs.  This doesn't include [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802) replicas
 
-  > :video_game: In Septimus smithing, in addition to clothing, the following items are unlocked via the first rank of the Tailor perk. Tents, Bags, Bandoliers, Shoulderpads, Satchels, Backpacks, Dog/Pet Bags, Dog/Pet Accessories (harnesses, collars, barrels, etc)
+  > :video_game: In addition to clothing, the following items are unlocked via the first rank of the Tailor perk. Tents, Bags, Bandoliers, Shoulderpads, Satchels, Backpacks, Dog/Pet Bags, Dog/Pet Accessories (harnesses, collars, barrels, etc)
 
 ## Legacy of the Dragonborn (Optional)
 
@@ -314,11 +316,11 @@ In addition to the new gear and equipment available in the AE Creation Club, Sep
 
   > :ledger: Septimus includes a custom version of [Tinker's Forge](https://www.nexusmods.com/skyrimspecialedition/mods/22595) which replaces the [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191) smithing tree
 
-  > :video_game: In Septimus smithing, tempering is based on your smithing perks, and not your smithing skill level. Each perk from Apprentice Smithing to Legendary Smithing allows you to temper another tier
-  
-  > :video_game: In Septimus smithing, all jewelry is unlocked via the Jeweler perk. This includes necklaces for dogs.  This doesn't include [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802) replicas
-  
-  > :video_game: In Septimus smithing, in addition to clothing, the following items are unlocked via the first rank of the Tailor perk. Tents, Bags, Bandoliers, Shoulderpads, Satchels, Backpacks, Dog/Pet Bags, Dog/Pet Accessories (harnesses, collars, barrels, etc)
+  > :video_game: Tempering is based on your smithing perks, and not your smithing skill level. Each perk from Apprentice Smithing to Legendary Smithing allows you to temper another tier
+
+  > :video_game: All jewelry is unlocked via the Jeweler perk. This includes necklaces for dogs.  This doesn't include [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802) replicas
+
+  > :video_game: In addition to clothing, the following items are unlocked via the first rank of the Tailor perk. Tents, Bags, Bandoliers, Shoulderpads, Satchels, Backpacks, Dog/Pet Bags, Dog/Pet Accessories (harnesses, collars, barrels, etc)
 
 - [Volkihar Knight - Vampire Armor](https://www.nexusmods.com/skyrimspecialedition/mods/4806) - Adds lore-friendly vampire armor sets
 
