@@ -129,6 +129,10 @@ In addition to SimonRim, this list includes:
 
 - [Forceful Tongue](https://www.nexusmods.com/skyrimspecialedition/mods/36276) - A lightweight shouts overhaul, designed to balance in a sensible manner this underwhelming but cool mechanic
 
+- [Instincts - Animal Taming in Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/63224) - Instincts enables the player to tame wild animals. Tamed animals will accompany the player and carry items or fight for the player
+
+  > :ledger: The version of [Instincts - Animal Taming in Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/63224) included also expands the [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191) speech tree with additional animal based perks
+
 - [Tinker's Forge](https://www.nexusmods.com/skyrimspecialedition/mods/22595) - A lightweight smithing overhaul which allows you create devious traps, forge silver weapons, weave magical clothing, and build your own army of Dwarven automatons!
 
   > :ledger: Septimus includes a custom version of [Tinker's Forge](https://www.nexusmods.com/skyrimspecialedition/mods/22595) which expands the [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191) smithing tree
@@ -207,8 +211,6 @@ Septimus adds the following new gameplay & immersion mods:
 - [Fish Anywhere With Water](https://www.nexusmods.com/skyrimspecialedition/mods/60915) - Fish anywhere as long you are facing a nearby body of water.
 
 - [Immersive Patrols SE](https://www.nexusmods.com/skyrimspecialedition/mods/718) - Adds a reasonable amount of Stormcloak, Thalmor, Imperial and Dawnguard patrols to Skyrim and a few Skaal, Reaver and Riekling "patrols" to Solstheim
-
-- [Instincts - Animal Taming in Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/63224) - Instincts enables the player to tame wild animals. Tamed animals will accompany the player and carry items or fight for the player
 
 - [Khajiits Steal Too](https://www.nexusmods.com/skyrimspecialedition/mods/18231) - Khajiit Caravans will now accept your stolen goods as purchase
 
