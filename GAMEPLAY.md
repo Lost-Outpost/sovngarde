@@ -127,11 +127,7 @@ Septimus is built around the [Simon Magus (SimonRim)](https://www.nexusmods.com/
 
 In addition to SimonRim, this list includes:
 
-- [Apocalypse](https://www.nexusmods.com/skyrimspecialedition/mods/1090) - Adds 155 new spells that are unique, balanced, lore friendly, and blend seamlessly into the vanilla magic system
-
-  > :ledger: Includes a custom Septimus balance patch for the "Ocato's Recital" spell
-
-- [Forceful Shouts](https://www.nexusmods.com/skyrimspecialedition/mods/36276) - A lightweight shouts overhaul, designed to balance in a sensible manner this underwhelming but cool mechanic
+- [Forceful Tongue](https://www.nexusmods.com/skyrimspecialedition/mods/36276) - A lightweight shouts overhaul, designed to balance in a sensible manner this underwhelming but cool mechanic
 
 - [Tinker's Forge](https://www.nexusmods.com/skyrimspecialedition/mods/22595) - A lightweight smithing overhaul which allows you create devious traps, forge silver weapons, weave magical clothing, and build your own army of Dwarven automatons!
 
