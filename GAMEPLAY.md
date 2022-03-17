@@ -131,7 +131,7 @@ In addition to SimonRim, this list includes:
 
 - [Tinker's Forge](https://www.nexusmods.com/skyrimspecialedition/mods/22595) - A lightweight smithing overhaul which allows you create devious traps, forge silver weapons, weave magical clothing, and build your own army of Dwarven automatons!
 
-  > :ledger: Septimus includes a custom version of [Tinker's Forge](https://www.nexusmods.com/skyrimspecialedition/mods/22595) which replaces the [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191) smithing tree
+  > :ledger: Septimus includes a custom version of [Tinker's Forge](https://www.nexusmods.com/skyrimspecialedition/mods/22595) which expands the [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191) smithing tree
 
   > :video_game: In Septimus smithing, tempering is based on your smithing perks, and not your smithing skill level. Each perk from Apprentice Smithing to Legendary Smithing allows you to temper another tier
 
