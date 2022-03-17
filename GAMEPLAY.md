@@ -105,7 +105,7 @@ Septimus is built around the [Simon Magus (SimonRim)](https://www.nexusmods.com/
 
 - [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191) - Overhauls and introduces new perks increasing build diversity
 
-  > :ledger: [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191) automatically grants the following perks to all players for free: Alteration Dual Casting, Conjuration Dual Casting, Destruction Dual Casting, Illusion Dual Casting, Restoration Dual Casting, Arcane Blacksmith, Critical Charge, Greater Critical Charge, Power Bash, Eagle Eye, Rune Master, Summoner, Physician, Intimidation, and Bribery
+  > :video_game: [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191) automatically grants the following perks to all players for free: Dual Casting (Alteration, Conjuration, Destruction, Illusion, and Restoration), Arcane Blacksmith, Critical Charge, Greater Critical Charge, Power Bash, Eagle Eye, Rune Master, Summoner, Physician, Intimidation, and Bribery
 
 - [Aetherius](https://www.nexusmods.com/skyrimspecialedition/mods/26686) - A rework of all race abilities including replacing powers with better passive abilities
 
@@ -297,6 +297,10 @@ In addition to the new gear and equipment available in the AE Creation Club, Sep
 - [East Empire Company Armor](https://www.nexusmods.com/skyrimspecialedition/mods/54990) - Adds a new armor set for the East Empire Company
 
 - [Horker Weapon Pack](https://www.nexusmods.com/skyrimspecialedition/mods/4716) - A horker themed weapon pack
+
+- [Imitations](https://sforzmods.tumblr.com/sse_imitations) - a collection of high quality armour and clothing mash-ups, with a new NPC named Radiant Raymond who is located in Solitude
+
+  > :video_game: You can purchase some items from Radiant Raymond, and to craft items you must have the Smithing tailoring perk
 
 - [Legendary Skyrim Crossbows and Bows](https://www.nexusmods.com/skyrimspecialedition/mods/8273) - Adds crossbows and bows for each material type, artifact crossbows, and faction
 
