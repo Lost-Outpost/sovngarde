@@ -39,6 +39,8 @@
 + Added Fancy Sleeping Tree Replacer
 + Added Dwemer Exploding Traps Bombs and Arrows
 + Added Immersive Sounds Drinking Sound Fix
++ Added Beards of Power
++ Added Bald Head Hairstyle
 + Updated Forceful Tongue + Patches
 + Updated College of Winterhold Quest Fixes
 + Updated Midwood Isle LOTD Patch
