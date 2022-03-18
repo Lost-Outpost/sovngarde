@@ -81,6 +81,8 @@ Icons in this guide:
 
 - <kbd>F7</kbd> - Toggles FPS visibility, provided you are using ENB
 
+- <kbd>F10</kbd> - Toggles ENB on/off
+
 - <kbd>F11</kbd> - Toggles ENB configuration, provided you are using ENB
 
 ### Immersive Equipment Displays Hotkey
@@ -95,9 +97,9 @@ Icons in this guide:
 
 - <kbd>END</kbd> - Paste from clipboard in console
 
-## Quick Start
+## Alternate Start - Live Another Life - Septimus Edition
 
-Septimus includes an [Optional Quick Start](https://www.nexusmods.com/skyrimspecialedition/mods/63953) which allows you to optionally start a new game at the cave end of Helgen Keep (skipping it), done in such a way that Helgen and the main quest proceeds as if the entirety of the game's introduction is played as intended.
+By default, Septimus uses the traditional Skyrim opening scene with you as a prisoner riding on a carriage to your intended execution. Septimus includes a customized version of [Alternate Start - Live Another Life](https://www.nexusmods.com/skyrimspecialedition/mods/272), which you can optionally use MO2 to enable if you wish to start your Septimus journey on a different path.
 
 ## Gameplay
 
@@ -129,10 +131,6 @@ Septimus is built around the [Simon Magus (SimonRim)](https://www.nexusmods.com/
 
 In addition to SimonRim, this list includes:
 
-- [Apocalypse](https://www.nexusmods.com/skyrimspecialedition/mods/1090) - Adds 155 new spells that are unique, balanced, lore friendly, and blend seamlessly into the vanilla magic system
-
-  > :ledger: Includes a custom Septimus balance patch for the "Ocato's Recital" spell
-
 - [Forceful Shouts](https://www.nexusmods.com/skyrimspecialedition/mods/36276) - A lightweight shouts overhaul, designed to balance in a sensible manner this underwhelming but cool mechanic
 
 - [Tinker's Forge](https://www.nexusmods.com/skyrimspecialedition/mods/22595) - A lightweight smithing overhaul which allows you create devious traps, forge silver weapons, weave magical clothing, and build your own army of Dwarven automatons!
@@ -151,20 +149,18 @@ Septimus optionally includes [Legacy of the Dragonborn](https://www.nexusmods.co
 
 - [Curators Companion](https://www.nexusmods.com/skyrimspecialedition/mods/38529) - The all in one Legacy of the Dragonborn companion!
 
+- [Relic Hunter- Guildmaster Start](https://www.nexusmods.com/skyrimspecialedition/mods/12253) - Begin your Legacy experience with a new Alternate Start Live Another Life option as Guild Master for the Explorer's Society!
+
 - [Quest and Reward Delay for Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/44923) - Delays the various rewards and quests in Legacy of the Dragonborn to higher display count numbers.
-  > :video_game: This significantly delays the rewards and quests. For example, the "Shattered Legacy" quest will not start until you have 1200 items on display in the museum, compared to the unmodified default of 550 items. This enhances the pacing and epic feel of the LotD quests.
+  > :video_game: This significantly increases the requierd display count numbers. For example, the "Shattered Legacy" quest will not start until you have 1200 items on display in the museum, compared to the unmodified default of 550 items. This enhances the pacing and epic feel of the LotD quests. On the other hand, Septimus includes a tremendous amount of LotD display items so the overall pacing feels right.
 
 ## User Interface and Camera
 
 Septimus includes a minimalistic and modern UI, featuring:
 
-- [Better 3rd Person Selection](https://www.nexusmods.com/skyrimspecialedition/mods/64339) - Rewrites Skyrim's crosshair selection to work more like true 3rd person RPGs
-
 - [Dear Diary](https://www.nexusmods.com/skyrimspecialedition/mods/23010) - Replacer for SkyUI interface in a paper style
 
   > :ledger: Also see the optional [Dear Diary Dark Mode](https://www.nexusmods.com/skyrimspecialedition/mods/60837), which is looks great but does not support widescreen
-
-- [Detection Meter](https://www.nexusmods.com/skyrimspecialedition/mods/63057) - Adds Ubisoft style detection meters for stealth
 
 - [Dynamic Things Alternative](https://www.nexusmods.com/skyrimspecialedition/mods/49250) - Interact with previously static items like archery targets, crates, mammoth skulls, taproots, and more
 
@@ -202,7 +198,11 @@ Septimus adds the following new gameplay & immersion mods:
 
 - [Campsite](https://www.nexusmods.com/skyrimspecialedition/mods/22353) - Campsite is a simple camping mod that allows the player to build a campfire and pitch a tent. Campsite is built in the vanilla style using only existing items. It is designed to feel like an unintrusive, optional extra feature of the game that isn't noticed when not used.
 
+  > :ledger: Modified by [Campsite-Camp Anywhere](https://www.nexusmods.com/skyrimspecialedition/mods/60523) which allows the player to build campfires and set up camps in interiors and near towns
+
 - [Carriage and Ferry Travel Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/8379) - CFTO introduces new ways to travel around skyrim including new carriage locations and new boats to increase the ease of traveling skyrim in an immersive way.
+
+- [Canis Hysteria - The Werewolf Diseas](https://www.nexusmods.com/skyrimspecialedition/mods/52397) - Adds a new contractible lycanthrope disease
 
 - [Convenient Hot Meals](https://www.nexusmods.com/skyrimspecialedition/mods/30774) - Ever wonder why Inns in freezing areas don't sell hot soups and stews?! Wonder no more!
 
@@ -217,6 +217,8 @@ Septimus adds the following new gameplay & immersion mods:
 - [Instincts - Animal Taming in Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/63224) - Instincts enables the player to tame wild animals. Tamed animals will accompany the player and carry items or fight for the player
 
 - [Khajiits Steal Too](https://www.nexusmods.com/skyrimspecialedition/mods/18231) - Khajiit Caravans will now accept your stolen goods as purchase
+
+- [More Thalmor Dossiers](https://www.nexusmods.com/skyrimspecialedition/mods/65059) - Adds some more Thalmor Dossiers on prominent characters in Skyrim.
 
 - [Security Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/58224) - Replaces overused lock model with unique lock variants
 
@@ -294,9 +296,11 @@ In addition to the new gear and equipment available in the AE Creation Club, Sep
 
 - [Dog Backpacks and More](https://www.nexusmods.com/skyrimspecialedition/mods/50644) - Backpacks...for dogs
 
-- [East Empire Company Armor](https://www.nexusmods.com/skyrimspecialedition/mods/54990) - Adds a new armor set for the East Empire Company
+- [Dwemer Exploding Traps Bombs and Arrows](https://www.nexusmods.com/skyrimspecialedition/mods/24696) - Deploy Dwemer traps & bombs; use exploding arrows; teleport for a quick escape
 
-- [Horker Weapon Pack](https://www.nexusmods.com/skyrimspecialedition/mods/4716) - A horker themed weapon pack
+  > :video_game: Each rank of Dwemer Mechanic in the smithing perk tree unlocks more powerful versions
+
+- [East Empire Company Armor](https://www.nexusmods.com/skyrimspecialedition/mods/54990) - Adds a new armor set for the East Empire Company
 
 - [Imitations](https://sforzmods.tumblr.com/sse_imitations) - a collection of high quality armour and clothing mash-ups, with a new NPC named Radiant Raymond who is located in Solitude
 
@@ -307,6 +311,8 @@ In addition to the new gear and equipment available in the AE Creation Club, Sep
 - [Mercenary Light Iron Armor](https://www.nexusmods.com/skyrimspecialedition/mods/59897) - New light armor for your mercenaries and bounty hunters.
 
 - [Nordic Carved Light Armor Set](https://www.nexusmods.com/skyrimspecialedition/mods/57761) - Adds a craftable light armor version of the Nordic Carved Armor Set
+
+- [Proper Crossbow Integration](https://www.nexusmods.com/skyrimspecialedition/mods/9914) - Integrates crossbows into every aspect of Skyrim
 
 - [Rare Curios - Bolts Expanded](https://www.nexusmods.com/skyrimspecialedition/mods/39903) - Adds new types of bolts based on the new models added by Rare Curios
 
@@ -503,6 +509,8 @@ The recommended levels are meant to represent a natural progression through the 
 
 - [Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/4155) - Once you discover the Clockwork Castle, you may call it your home. However escaping is a different issue.
 
+- [The Gray Cowl of Nocturnal](https://www.nexusmods.com/skyrimspecialedition/mods/4509) - Will you be worthy for the Gray Cowl of Nocturnal? We'll see!
+
 - [Identity Crisis](https://www.nexusmods.com/skyrimspecialedition/mods/39634?tab=description) - Investigate the madness afflicting the Northern Asylum of Julianos, and earn the boon of the Madgod himself. New enemies, spells, armour, weapons, and a player home await...
 
 - [The Lost Wonders of Mzark](https://www.nexusmods.com/skyrimspecialedition/mods/40674) - Lost Wonders of Mzark is a quest/dungeon mod for those who prefer a more puzzle-oriented game. The enemies you encounter within must be disposed of in careful ways, and you'll find more than just fights awaiting you in the depths of Mzarnumez.
@@ -513,25 +521,31 @@ The recommended levels are meant to represent a natural progression through the 
 
 #### Recommended Level: 30+
 
+- [Falskaar](https://www.nexusmods.com/skyrimspecialedition/mods/2057) - A DLC sized new lands mod that adds 20+ hours of fully voiced lore friendly (But not canon) quests, dungeons, and more.
+
 - [The Forgotten City](https://www.nexusmods.com/skyrimspecialedition/mods/1179) - The Forgotten City introduces a lost underground Dwemer city inhabitated by unique characters.
+
+- [Helgen Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/5673) - Helgen Reborn is a fully voiced adventure with over 20 superb voice actors. As you help rebuild the town you'll reunite two old friends, uncover an underground slavery ring, battle in an arena and many other adventures!
 
 - [Moon and Star](https://www.nexusmods.com/skyrimspecialedition/mods/4301) - Investigate a mysterious powerful individual in skyrim. There may be more to this individual than it seems.
 
 - [The Tools of Kagrenac](https://www.nexusmods.com/skyrimspecialedition/mods/14168) - Go on a quest to recover the legendary Tools of Kagrenac. Encounter new allies and enemies, explore sprawling dungeons, and add powerful new artifacts and spells to your arsenal in this fully-voiced quest mod!
 
-- [Undeath Remastered](https://www.nexusmods.com/skyrimspecialedition/mods/6180) - Travel to dark depths and become a powerful Lich.
+- [Undeath Remastered](https://www.nexusmods.com/skyrimspecialedition/mods/6180) - Travel to dark depths and become a powerful Lich
 
-- [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565) - Travel to a new DLC-sized island and investigate a powerful dragon for the East Empire Company.
+- [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565) - Travel to a new DLC-sized island and investigate a powerful dragon for the East Empire Company
 
 #### Recommended Level: 50+
 
-- [The Grand Paladin](https://www.nexusmods.com/skyrimspecialedition/mods/46867) - Venture beyond Skyrim, into the mists of the Sea of Ghosts, and uncover the legacy of an ancient Dragonborn order.
+- [Darkend](https://www.nexusmods.com/skyrimspecialedition/mods/10423) - Travel to the new island of Pharos, explore detailed environments, fight new enemies and discover an Ancient set of weapons of incredible power
+
+- [The Grand Paladin](https://www.nexusmods.com/skyrimspecialedition/mods/46867) - Venture beyond Skyrim, into the mists of the Sea of Ghosts, and uncover the legacy of an ancient Dragonborn order
 
 - [Project AHO](https://www.nexusmods.com/skyrimspecialedition/mods/15996) - Project AHO is a large quest modification, comparable in size to a medium-sized DLC. Designed in the best traditions of Bethesda Game Studios, this mod adds to Skyrim a hidden settlement of Great House Telvanni. Determine its fate for yourself!
 
-- [Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849) - A massive quest mod with a Dark story for Vigilants of Stendarr. This mod includes a lot of unique armor sets, weapons, jewelry, creatures and more.
+- [Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849) - A massive quest mod with a Dark story for Vigilants of Stendarr. This mod includes a lot of unique armor sets, weapons, jewelry, creatures and more
 
-- [Unslaad](https://www.nexusmods.com/skyrimspecialedition/mods/11789) - A quest mod by the author of Vigilant about a half dragon.
+- [Unslaad](https://www.nexusmods.com/skyrimspecialedition/mods/11789) - A quest mod by the author of Vigilant about a half dragon
 
 ## Quest Timing
 
@@ -607,7 +621,7 @@ To maintain balance, Septimus uses [Timing is Everything](https://www.nexusmods.
 
 - [Coven - Enemy witches overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/51596) - Small lightweight mod that will add over 60 enemies to your game
 
-- [Diverse Dragons Collection](https://www.nexusmods.com/skyrimspecialedition/mods/695) - Adds 28 leveled enemy dragons with unique models, textures, & abilities
+- [Dragon War - Variants](https://www.nexusmods.com/skyrimspecialedition/mods/51310) - Includes just the dragon variants
 
 - [Haugbui - A Draugr Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26188) - A lightweight overhaul providing balance adjustments, new items, unique boss designs, and some more variants to the draugr enemies
 
