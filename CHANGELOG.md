@@ -15,6 +15,32 @@
 
 # Changelog
 
+## Version 3.0.0 [BETA 3]
++ Added Custom Tinker's Forge Adamant Patch (Many custom tweaks)
++ Added More Thalmor Dossiers
++ Added Darkend + Balance Patches
++ Added The Gray Cowl of Nocturnal + LOTD Patch
++ Added Falskaar + Bug Fixes + LOTD Patch
++ Added Twitching Plates Fix
++ Added Helgen Reborn + LOTD Patch + CFTO Patch
++ Added Dragon War - Variants (Just dragon variants)
++ Added Campsite - Camp Anywhere
++ Added Smoothcam Modern Preset
++ Added Majestic Mountains - More Accurate Collisions
++ Added Alternate Start - Live Another Life - Septimus Edition (Custom Edit)
++ Added ASLAL - New Beginnings
++ Added ASLAL - New Dragonborn Extension
++ Added ASLAL - LOTD Addon
++ Added WACCF ACE Super Lite Patch (Custom) + Resources
++ Added Tinker's Forge Patches for many crafting mods
++ Updated Forceful Tongue + Patches
++ Updated College of Winterhold Quest Fixes
++ Updated Midwood Isle LOTD Patch
++ Updated Legacy of the Dragonborn + All Patches
++ Removed ELFX Shadows (Just keeping elfx, shadows performance really bad)
++ Removed Apocalypse - Magic of Skyrim (Will be replaced by Mysticism 2)
++ Removed Diverse Dragons Collection
+
 ## Version 3.0.0 [BETA 2]
 + Added ENB Helper Plus
 + Added Icon Statues
