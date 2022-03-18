@@ -16,6 +16,7 @@
 # Changelog
 
 ## Version 3.0.0 [Unreleased BETA 4]
++ Added Ancient Nord Armoury Lite
 + Fixed Arcane Accessories Robe Costs
 
 ## Version 3.0.0 [BETA 3]
