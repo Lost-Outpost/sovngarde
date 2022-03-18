@@ -300,7 +300,7 @@ In addition to the new gear and equipment available in the AE Creation Club, Sep
 
 - [Imitations](https://sforzmods.tumblr.com/sse_imitations) - a collection of high quality armour and clothing mash-ups, with a new NPC named Radiant Raymond who is located in Solitude
 
-  > :video_game: You can purchase some items from Radiant Raymond, and to craft items you must have the Smithing tailoring perk
+  > :video_game: You can purchase some [Imitations](https://sforzmods.tumblr.com/sse_imitations) items from Radiant Raymond, and to craft items you must have the Smithing tailoring perk
 
 - [Legendary Skyrim Crossbows and Bows](https://www.nexusmods.com/skyrimspecialedition/mods/8273) - Adds crossbows and bows for each material type, artifact crossbows, and faction
 
