@@ -99,7 +99,7 @@ Icons in this guide:
 
 ## Alternate Start - Live Another Life - Septimus Edition
 
-By default, Septimus uses the traditional Skyrim opening scene with you as a prisoner riding on a carriage to your intended execution. Septimus includes a customized version of [Alternate Start - Live Another Life](https://www.nexusmods.com/skyrimspecialedition/mods/272), which you can optionally use MO2 to enable if you wish to start your Septimus journey on a different path.
+Septimus includes a customized version of [Alternate Start - Live Another Life](https://www.nexusmods.com/skyrimspecialedition/mods/272), which you can use to start your Septimus journey on a different path than the traditional cart ride.
 
 ## Gameplay
 
@@ -355,6 +355,8 @@ In addition to the new gear and equipment available in the AE Creation Club, Sep
 - [Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461) - Inigo is a fully voiced khajiit adventuring companion with over 7000 lines of unique dialogue - much of it about you. He'll level alongside you and avoid most traps. If you're sneaking he won't chatter and he'll whisper if you talk to him. He can run out of arrows. He's highly skilled in archery, one-handed, and sneak.
 
 - [Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035) - Lucien is a fully voiced Imperial follower with over 5000 lines of immersive, lore-friendly dialogue. Though he arrives in Skyrim as a cowardly scholar, he'll gradually gain strength and confidence by your side until he grows into a hero in his own right.
+
+  > :video_game: If you choose a [character name that Lucien recognizes](https://josephrussellauthor.com/Lucien_Names.html), Lucien's voice lines will refer to you by name and he might even sing a verse about you!
 
 #### Secondary New Followers
 
