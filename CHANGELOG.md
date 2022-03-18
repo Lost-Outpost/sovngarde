@@ -33,6 +33,12 @@
 + Added ASLAL - LOTD Addon
 + Added WACCF ACE Super Lite Patch (Custom) + Resources
 + Added Tinker's Forge Patches for many crafting mods
++ Added Proper Crossbow Integration + OWL Patch + Custom Creation Club Patch
++ Added Canis Hysteria (Natural Werewolf Disease)
++ Added Open World Loot - Vanilla Progression (Should have been there since we don't have WACCF)
++ Added Fancy Sleeping Tree Replacer
++ Added Dwemer Exploding Traps Bombs and Arrows
++ Added Immersive Sounds Drinking Sound Fix
 + Updated Forceful Tongue + Patches
 + Updated College of Winterhold Quest Fixes
 + Updated Midwood Isle LOTD Patch
@@ -40,6 +46,11 @@
 + Removed ELFX Shadows (Just keeping elfx, shadows performance really bad)
 + Removed Apocalypse - Magic of Skyrim (Will be replaced by Mysticism 2)
 + Removed Diverse Dragons Collection
++ Removed Legendary Skyrim Crossbows (Replaced by Proper Crossbow Integration)
++ Removed Horker Weapons Pack
++ Removed Optional Quick Start (Replaced by Septimus custom alternate start)
++ Removed Better Third Person Selection (Too many bugs for now)
++ Removed Detection Meter (Causing CTDs when ENB was off)
 
 ## Version 3.0.0 [BETA 2]
 + Added ENB Helper Plus
