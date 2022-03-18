@@ -15,6 +15,9 @@
 
 # Changelog
 
+## Version 3.0.0 [Unreleased BETA 4]
++ Fixed Arcane Accessories Robe Costs
+
 ## Version 3.0.0 [BETA 3]
 + Added Custom Tinker's Forge Adamant Patch (Many custom tweaks)
 + Added More Thalmor Dossiers
