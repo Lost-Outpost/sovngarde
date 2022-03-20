@@ -17,7 +17,7 @@
 
 ## Overview
 
-On your journey through the Septimus version of Skyrim, you will find a performance-friendly yet visually stunning environment, with thoughtfully curated, integrated, balanced, and lore-friendly additions. As you explore this expansive yet familiar Skyrim world, you will discover plenty of high-quality and fun experiences.
+On your journey through the Septimus version of Skyrim, you will find a performance-friendly yet visually stunning environment, with thoughtfully curated, integrated, and balanced additions. As you explore this expanded yet familiar Skyrim world, you will discover plenty of high-quality and fun experiences.
 
 This guide highlights major mods included in Septimus in the following categories:
 
@@ -55,8 +55,6 @@ Icons in this guide:
 
   - <kbd>E</kbd> while selecting a shovel from inventory, buries dead bodies via [Shovels Bury Bodies](https://www.nexusmods.com/skyrimspecialedition/mods/52984)
 
-- <kbd>F</kbd> - Locks on to enemies in [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614)
-
 - <kbd>F</kbd> - In inventory, favorite selected item
 
 - <kbd>H</kbd> - Access mount's saddlebags, make mounts follow or wait (even if you fast travel), call your mount, or give your current mount to a follower using [Simplest Horses](https://www.nexusmods.com/skyrimspecialedition/mods/54225)
@@ -93,7 +91,7 @@ Icons in this guide:
 
 - <kbd>~</kbd> - Toggles console visibility
 
-- <kbd>CTRL</kbd> + <kbd>Left Arrow</kbd> - Copy to clipboard in console
+- <kbd>CTRL</kbd> + :arrow_left: - Copy to clipboard in console
 
 - <kbd>END</kbd> - Paste from clipboard in console
 
@@ -107,7 +105,7 @@ Septimus is built around the [Simon Magus (SimonRim)](https://www.nexusmods.com/
 
 - [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191) - Overhauls and introduces new perks increasing build diversity
 
-  > :ledger: [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191) automatically grants the following perks to all players for free: Alteration Dual Casting, Conjuration Dual Casting, Destruction Dual Casting, Illusion Dual Casting, Restoration Dual Casting, Arcane Blacksmith, Critical Charge, Greater Critical Charge, Power Bash, Eagle Eye, Rune Master, Summoner, Physician, Intimidation, and Bribery
+  > :ledger: [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191) automatically grants the following perks to all players for free: Dual Casting (Alteration, Conjuration, Destruction, Illusion, and Restoration), Arcane Blacksmith, Critical Charge, Greater Critical Charge, Power Bash, Eagle Eye, Rune Master, Summoner, Physician, Intimidation, and Bribery
 
 - [Aetherius](https://www.nexusmods.com/skyrimspecialedition/mods/26686) - A rework of all race abilities including replacing powers with better passive abilities
 
@@ -146,6 +144,10 @@ In addition to SimonRim, this list includes:
   > :video_game: All jewelry is unlocked via the Jeweler perk. This includes necklaces for dogs.  This doesn't include [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802) replicas
 
   > :video_game: In addition to clothing, the following items are unlocked via the first rank of the Tailor perk. Tents, Bags, Bandoliers, Shoulderpads, Satchels, Backpacks, Dog/Pet Bags, Dog/Pet Accessories (harnesses, collars, barrels, etc)
+
+- [Skyrim Skill Uncapper](https://www.nexusmods.com/skyrimspecialedition/mods/8889) - Unlocks the skill level caps of 100 and makes some relevant leveling tweaks
+
+  > :ledger: Septimus includes a custom skill uncapper preset that tweaks the skill leveling rates
 
 ## Legacy of the Dragonborn (Optional)
 
@@ -205,8 +207,6 @@ Septimus adds the following new gameplay & immersion mods:
 
   > :ledger: Modified by [Campsite-Camp Anywhere](https://www.nexusmods.com/skyrimspecialedition/mods/60523) which allows the player to build campfires and set up camps in interiors and near towns
 
-- [Canis Hysteria - The Werewolf Diseas](https://www.nexusmods.com/skyrimspecialedition/mods/52397) - Adds a new contractible lycanthrope disease
-
 - [Carriage and Ferry Travel Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/8379) - CFTO introduces new ways to travel around skyrim including new carriage locations and new boats to increase the ease of traveling skyrim in an immersive way.
 
 - [Convenient Hot Meals](https://www.nexusmods.com/skyrimspecialedition/mods/30774) - Ever wonder why Inns in freezing areas don't sell hot soups and stews?! Wonder no more!
@@ -214,6 +214,8 @@ Septimus adds the following new gameplay & immersion mods:
   > :ledger: Inclues a custom Septimus patch which adds hot fish soup from the Fishing CC as well as distributing a small amount of hot meals to inns not originally covered by Convenient Hot Meals
 
   > :video_game: Hot meals help you ward off the cold in survival mode. They normally require a fire salt to create, so being able to purchase these at an Inn is a boon to new players
+
+- [The Dragonborn Dreams](https://www.nexusmods.com/skyrimspecialedition/mods/60384) - Allows your character to occasionally wake up having had a (written) dream
 
 - [Fish Anywhere With Water](https://www.nexusmods.com/skyrimspecialedition/mods/60915) - Fish anywhere as long you are facing a nearby body of water.
 
@@ -247,6 +249,8 @@ Septimus adds the following new gameplay & immersion mods:
 
 Septimus includes quality-of-life improvements to streamline your playing experience, featuring:
 
+- [Canis Hysteria - The Werewolf Diseas](https://www.nexusmods.com/skyrimspecialedition/mods/52397) - Adds a new contractible lycanthrope disease
+
 - [Configurable Commentary Rate Slider](https://www.nexusmods.com/skyrimspecialedition/mods/38670) - A simple SkyUI configuration menu to control the frequency of idle dialogue from followers and other NPCs in the world
 
 - [Convenient Dialogue UI](https://www.nexusmods.com/skyrimspecialedition/mods/57943) - Better dialogue controls, number keys to select topics, and more topics displayed
@@ -260,6 +264,10 @@ Septimus includes quality-of-life improvements to streamline your playing experi
 - [Oxygen Meter 2](https://www.nexusmods.com/skyrimspecialedition/mods/64532) - Adds a new oxygen meter to the game for when you are underwater
 
 - [Shovels Bury Bodies](https://www.nexusmods.com/skyrimspecialedition/mods/52984) - Pressing <kbd>E</kbd> while selecting a shovel from inventory near a dead body buries it
+
+- [Simplest Horses](https://www.nexusmods.com/skyrimspecialedition/mods/54225) - Very simple horse/mount management mod which uses one hotkey to perform horse/mount actions
+
+  > :ledger: Allows a single hotkey to access mount's saddlebags, make mounts follow or wait (even if you fast travel), call your mount, or give your current mount to a follower by pressing <kbd>H</kbd>
 
 - [Skyrim's Paraglider](https://www.nexusmods.com/skyrimspecialedition/mods/53256) - Adds a paraglider into the world similar to that in breath of the wild. You need to find it in the world to use it.
 
@@ -283,6 +291,8 @@ Septimus includes quality-of-life improvements to streamline your playing experi
 
 In addition to the new gear and equipment available in the AE Creation Club, Septimus adds carefully balanced and lore-friendly items, including:
 
+- [Ancient Nord Armo(u)ry](https://www.nexusmods.com/skyrimspecialedition/mods/41265) - Unisex Ancient Nord Armour/Armor variants
+
 - [Animated Armory](https://www.nexusmods.com/skyrimspecialedition/mods/51100) - Animated armory introduces new weapons and animations to existing ones. Most are craftable and all will show up in the world on NPCs
 
 - [Armor and Clothing Extension](https://www.nexusmods.com/skyrimspecialedition/mods/19002) - Adds more diversity and lore-friendly clothing options and gives NPCs more appropriate attire
@@ -305,10 +315,6 @@ In addition to the new gear and equipment available in the AE Creation Club, Sep
 
 - [East Empire Company Armor](https://www.nexusmods.com/skyrimspecialedition/mods/54990) - Adds a new armor set for the East Empire Company
 
-- [Horker Weapon Pack](https://www.nexusmods.com/skyrimspecialedition/mods/4716) - A horker themed weapon pack
-
-- [Legendary Skyrim Crossbows and Bows](https://www.nexusmods.com/skyrimspecialedition/mods/8273) - Adds crossbows and bows for each material type, artifact crossbows, and faction
-
 - [Mercenary Light Iron Armor](https://www.nexusmods.com/skyrimspecialedition/mods/59897) - New light armor for your mercenaries and bounty hunters.
 
 - [Nordic Carved Light Armor Set](https://www.nexusmods.com/skyrimspecialedition/mods/57761) - Adds a craftable light armor version of the Nordic Carved Armor Set
@@ -316,6 +322,8 @@ In addition to the new gear and equipment available in the AE Creation Club, Sep
 - [Proper Crossbow Integration](https://www.nexusmods.com/skyrimspecialedition/mods/9914) - Integrates crossbows into every aspect of Skyrim
 
 - [Rare Curios - Bolts Expanded](https://www.nexusmods.com/skyrimspecialedition/mods/39903) - Adds new types of bolts based on the new models added by Rare Curios
+
+- [Sforzinda Imitations](https://sforzmods.tumblr.com/sse_imitations) - More than 30 sets of high quality outfits, and an immersive quest from battle-tailor Radiant Raymond who will be found in Radiant Raiments in Solitude once the quest starts
 
 - [Simple Wearable Lanterns](https://www.nexusmods.com/skyrimspecialedition/mods/58464) - Adds three brand new wearable lanterns
 
@@ -554,6 +562,8 @@ The recommended levels are meant to represent a natural progression through the 
 
 To maintain balance, Septimus uses [Timing is Everything](https://www.nexusmods.com/skyrimspecialedition/mods/25464), [Rebalancing Anniversary Edition - Quest Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/61004), and [Radiant Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/45427) to adjust the required minimum level of various quests and content.
 
+> :ledger: Note that the spell to unlock Myrwatch will not work unless you have 350 magicka
+
 | Content Source | Content Name                       |   Min Lvl   |
 | :------------- | :--------------------------------- | :---------: |
 | Skyrim         | The Cursed Tribe                   |     24      |
@@ -649,10 +659,3 @@ To maintain balance, Septimus uses [Timing is Everything](https://www.nexusmods.
 - [Solstheim Caravan Trader](https://www.nexusmods.com/skyrimspecialedition/mods/46590) - Adds a Khajiit Caravan trader to Raven Rock
 
 - [Stendarr's Beacon Enhanced and Ruhmastered](https://www.nexusmods.com/skyrimspecialedition/mods/16178) - Adds new, lore-appropriate interior zones, outbuildings, and decor to complement the Vigil's aesthetic
-
-
-
-
-
-
-
