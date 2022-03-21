@@ -14,22 +14,8 @@
 
 ---
 
-# Known Issues
+# Help
 
-## Cannot Complete _Joining the Legion_ Quest in [Helgen Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/5673)
+For issues that aren't documented, you can provide details in the [Issues](https://github.com/Guitarninja2/septimus/issues) page. Please provide as much info as you can (screenshots are great).
 
-### Issue
-
-Cannot complete _Joining the Legion_ quest in [Helgen Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/5673) due to a floating quest marker in Fort Hraggstad Prison.
-
-### Screenshot
-
-<img src="https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/issue-0001-screenshot-A.jpg"/>
-
-### Solution
-
-Use the Skyrim console to manually advance to the next quest stage:
-
-- Open the Skyrim console by pressing the <code>~</code> key
-- Enter this command in the console <code>setstage CW01A 100</code> and press the <code>enter</code> key
-- Close the Skyrim console by presssing the <code>~</code> key
+Finally, free feel to hop on the Septimus Discord support channel to have discussions with our knowledgeable community members. Support is offered in [The Animonculory Server](https://discord.gg/DffHKcszfg).
