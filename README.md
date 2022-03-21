@@ -226,7 +226,7 @@ If you wish to further customize by changing the ENB preset, adding in creation 
 
 # Issues
 
-If you find an issue, you can see if it is already on the list of [known issues](ISSUES.md), which also documents solutions and workarounds.
+If you find an issue, you can see if it is already on the list of [known issues](HELP.md), which also documents solutions and workarounds.
 
 For issues that aren't yet [known](HELP.md), you can provide details in the [Septimus Github](https://github.com/Guitarninja2/septimus/issues). Please provide as much info as you can (screenshots are great).
 
