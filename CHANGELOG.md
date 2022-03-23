@@ -43,6 +43,7 @@
 + Added Custom Horse Speed Tweaks
 + Added Custom Survival Mode Cold and Warmth Tweaks
 + Added Community Pre-made Character Presets Folder
++ Added Dwemer Tech Glowmapped
 + Updated Simple Dual Sheath
 + Updated BethINI
 + Removed Anna's Winterhold
