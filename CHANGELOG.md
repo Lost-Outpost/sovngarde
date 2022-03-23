@@ -42,6 +42,7 @@
 + Added Skyrim Horse Renewal (For Animations)
 + Added Custom Horse Speed Tweaks
 + Added Custom Survival Mode Cold and Warmth Tweaks
++ Added Community Pre-made Character Presets Folder
 + Updated Simple Dual Sheath
 + Updated BethINI
 + Removed Anna's Winterhold
