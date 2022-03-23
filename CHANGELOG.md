@@ -18,7 +18,7 @@
 
 ## Version 3.0.0 [Unreleased BETA 4]
 + Added Ancient Nord Armoury Lite
-+ Fixed Arcane Accessories Robe Costs
++ Added A Clear Map of Skyrim and Other Worlds
 + Added Midwood Mysticism onsistency Patch
 + Added Wyrmstooth Mysticism Consistency Patch
 + Added Oblivion Horses + CC Horses Patch
@@ -50,6 +50,7 @@
 + Removed Anna's Winterhold
 + Removed Common Clothes & Armors
 + Fixed Blue Dungeon Interiors
++ Fixed Arcane Accessories Robe Costs
 
 ## Version 3.0.0 [BETA 3]
 + Added Custom Tinker's Forge Adamant Patch (Many custom tweaks)
