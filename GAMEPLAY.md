@@ -16,6 +16,8 @@
 
 # Gameplay Guide
 
+> :ledger: **IMPORTANT NOTE: This gameplay guide reflects the Septimus 3 beta-4 version, whereas the latest published release on Wabbajack is Septimus 2.4. The gameplay guide for Septimus 2.4 is [available here](https://github.com/Guitarninja2/septimus/blob/268076cdc4dc5ac9d62d1ff9fa807fe7cd99bbd4/GAMEPLAY.md).**
+
 ## Overview
 
 On your journey through the Septimus version of Skyrim, you will find a performance-friendly yet visually stunning environment, with thoughtfully curated, integrated, and balanced additions. As you explore this expanded yet familiar Skyrim world, you will discover plenty of high-quality and fun experiences.
@@ -130,6 +132,8 @@ Septimus is built around the [Simon Magus (SimonRim)](https://www.nexusmods.com/
 
 In addition to SimonRim, this list includes:
 
+ - Septimus includes a custom balanced mod with two specific utility spells from [Apocalypse](https://www.nexusmods.com/skyrimspecialedition/mods/1090), Spell Twine and Ocatio's.
+
 - [Forceful Tongue](https://www.nexusmods.com/skyrimspecialedition/mods/36276) - A lightweight shouts overhaul, designed to balance in a sensible manner this underwhelming but cool mechanic
 
 - [Instincts - Animal Taming in Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/63224) - Instincts enables the player to tame wild animals. Tamed animals will accompany the player and carry items or fight for the player
@@ -226,6 +230,8 @@ Septimus adds the following new gameplay & immersion mods:
 
 - [More Thalmor Dossiers](https://www.nexusmods.com/skyrimspecialedition/mods/65059) - Adds some more Thalmor Dossiers on prominent characters in Skyrim.
 
+- [Oblivion Horses](https://www.nexusmods.com/skyrimspecialedition/mods/32335) - Replaces the standard Skyrim horses with Oblivion horses
+
 - [Security Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/58224) - Replaces overused lock model with unique lock variants
 
 - [Skyrim Anniversary - Growable Plants](https://www.nexusmods.com/skyrimspecialedition/mods/58880) - Allows the plants from various creations included in the Skyrim Anniversary Edition to be planted and harvested in Hearthfire Homes/planters
@@ -249,6 +255,8 @@ Septimus adds the following new gameplay & immersion mods:
 ## Quality of Life
 
 Septimus includes quality-of-life improvements to streamline your playing experience, featuring:
+
+- [Better Third Person Selection](https://www.nexusmods.com/skyrimspecialedition/mods/64339) - Rewrites Skyrim's crosshair selection to work more like true 3rd person RPGs - no more spending 5 minutes picking up tiny gold coins from the ground!
 
 - [Canis Hysteria - The Werewolf Diseas](https://www.nexusmods.com/skyrimspecialedition/mods/52397) - Adds a new contractible lycanthrope disease
 
@@ -278,6 +286,8 @@ Septimus includes quality-of-life improvements to streamline your playing experi
 
   > :video_game: This mod can be a lifesaver when spells or shouts have knocked a quest item into an unknown location. Sweeping returns the quest item to its default location
 
+- [YASTM - Yet Another Soul Trap Manager](https://www.nexusmods.com/skyrimspecialedition/mods/56144) - "Yet Another" solution to the underfilled soul gem problem
+
 ## Gear
 
 ### Remastered Gear
@@ -290,7 +300,7 @@ Septimus includes quality-of-life improvements to streamline your playing experi
 
 In addition to the new gear and equipment available in the AE Creation Club, Septimus adds carefully balanced and lore-friendly items, including:
 
-- [Ancient Nord Armo(u)ry](https://www.nexusmods.com/skyrimspecialedition/mods/41265) - Unisex Ancient Nord Armour/Armor variants
+- [Ancient Nord Armo(u)ry Lite](https://www.nexusmods.com/skyrimspecialedition/mods/65124) - Unisex Ancient Nord Armour/Armor variants
 
 - [Animated Armory](https://www.nexusmods.com/skyrimspecialedition/mods/51100) - Animated armory introduces new weapons and animations to existing ones. Most are craftable and all will show up in the world on NPCs
 
@@ -301,8 +311,6 @@ In addition to the new gear and equipment available in the AE Creation Club, Sep
   > :ledger: Includes custom Septimus balance patch.
 
 - [Cloaks and Capes](https://www.nexusmods.com/skyrimspecialedition/mods/2019) - This mod adds the craftable 'Fur Cloak' and 'Linen Cape' to the game of Skyrim
-
-- [Common Clothes and Armors](https://www.nexusmods.com/skyrimspecialedition/mods/21305) - Common clothes and armors adds new armor variants and clothes around skyrim for more diversity
 
 - [Dawnguard Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/25094) - Expands the weapons in the Dawnguard Arsenal, which are used by Dawnguard NPCs and craftable by the player
 
@@ -321,6 +329,8 @@ In addition to the new gear and equipment available in the AE Creation Club, Sep
 - [Proper Crossbow Integration](https://www.nexusmods.com/skyrimspecialedition/mods/9914) - Integrates crossbows into every aspect of Skyrim
 
 - [Rare Curios - Bolts Expanded](https://www.nexusmods.com/skyrimspecialedition/mods/39903) - Adds new types of bolts based on the new models added by Rare Curios
+
+- [Sforzinda Fashions of the Fourth Era](https://sforzmods.tumblr.com/sse_fashions) - Attempts to bring sartorial diversity and a more organic look into the world of Skyrim through adding new clothes, armours, and accessories based on vanilla items. Now Nazeem can annoy you in a different outfit every new save you start, joy of joys!
 
 - [Sforzinda Imitations](https://sforzmods.tumblr.com/sse_imitations) - More than 30 sets of high quality outfits, and an immersive quest from battle-tailor Radiant Raymond who will be found in Radiant Raiments in Solitude once the quest starts
 
@@ -462,6 +472,8 @@ Each of Skyrim's factions provide at least a room with safe storage.
 
 - [Finding Helgi... and Laelette - A Laid to Rest Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/28973) - A home in Morthal burned down under mysterious circumstances; some say it was the murder of a wife and daughter. A woman leaves home without saying goodbye to her husband and son, ostensibly to join the war. Are these events connected? This is an overhaul of "Laid to Rest" and the third mod in the "Finding" series
 
+- [House of Horrors - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/57285) - Expands Molag Bal's daedric quest, giving you the option of choosing an alternative "good guy" route to finish the vanilla quest
+
 - [Improved Companions - Questline Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/22300) - Actually back out of becoming a werewolf without leaving Skjor and Aela stuck in the Underforge forever, and various other tweaks for the Companions
 
 - [Improved College Entry - Questline Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/22184) - Choose your school and more improvements for the College of Winterhold
@@ -536,6 +548,8 @@ The recommended levels are meant to represent a natural progression through the 
 
 - [The Gray Cowl of Nocturnal](https://www.nexusmods.com/skyrimspecialedition/mods/4509) - Will you be worthy for the Gray Cowl of Nocturnal? We'll see!
 
+  > :ledger: Enhanced by [More to do in Hammerfell - The Gray Cowl of Nocturnal](https://www.nexusmods.com/skyrimspecialedition/mods/62599)
+
   > :video_game: To begin, just steal or pickpocket any item
 
 - [Identity Crisis](https://www.nexusmods.com/skyrimspecialedition/mods/39634?tab=description) - Investigate the madness afflicting the Northern Asylum of Julianos, and earn the boon of the Madgod himself. New enemies, spells, armour, weapons, and a player home await...
@@ -548,7 +562,7 @@ The recommended levels are meant to represent a natural progression through the 
 
 - [Midwood Isle](https://www.nexusmods.com/skyrimspecialedition/mods/28120) - Travel to Midwood Isle, a small island home to the Sonmer, filled with quests and adventures
 
-  > :video_game: Upon completing "The Way of the Voice", a courier will deliver a letter to you the next time you travel to an appropriate location
+  > :video_game: To begin, upon completing "The Way of the Voice", a courier will deliver a letter to you the next time you travel to an appropriate location
 
   > :video_game: Alternatively, if you do not wish to wait for the courier, you can head straight to the Frozen Hearth in Winterhold to start the main quest
 
@@ -616,74 +630,74 @@ To maintain balance, Septimus uses [Timing is Everything](https://www.nexusmods.
 
 | Content Source | Content Name                       |   Min Lvl   |
 | :------------- | :--------------------------------- | :---------: |
-| Skyrim         | The Cursed Tribe                   |     24      |
-| Skyrim         | The Break of Dawn                  |     29      |
-| Skyrim         | The Only Cure                      |     21      |
-| Skyrim         | A Night to Remember                |     20      |
-| Skyrim         | Discerning the Transmundane        |     25      |
-| Skyrim         | The Whispering Door                |     27      |
-| Skyrim         | Pieces of the Past                 |     22      |
-| Skyrim         | Boethiah's Calling                 |     30      |
-| Skyrim         | The Wolf Queen Awakened            |     24      |
-| Skyrim         | Unfathomable Depths                |     19      |
-| Skyrim         | Grimsever's Return                 |     19      |
-| Skyrim         | Kill the Giant                     |     24      |
-| Skyrim         | Dungeon Delving                    |     14      |
-| Skyrim         | Kill the Vampire                   |     24      |
-| Skyrim         | Deathbrand                         |     34      |
-| Skyrim         | Ebony Warrior                      |     65      |
-| Skyrim         | Hired Assassin                     |     10      |
-| Skyrim         | Radiant - Dragon Lair              |     24      |
-| Skyrim         | Radiant - Draugr Crypt             |      9      |
-| Skyrim         | Radiant - Forsworn Camp            |     14      |
-| Skyrim         | Radiant - Hargraven Nest           |     14      |
-| Skyrim         | Radiant - Vampire Lair             |     24      |
-| Skyrim         | Radiant - Werewolf Lair            |     24      |
-| Skyrim         | Radiant - Dragon Priest Lair       |     29      |
-| Skyrim         | Radiant - Falmer Hive              |     19      |
-| Skyrim         | Radiant - Giant Camp               |     24      |
-| Skyrim         | Radiant - Spriggan Cave            |      9      |
-| Skyrim         | Radiant - Warlock Lair             |     14      |
-| Hearthfire DLC | Build Your Own Home                |     12      |
-| Dawnguard DLC  | Vampire Attacks                    |     20      |
-| Dawnguard DLC  | Dawnguard Recruitment              |     20      |
-| Dragonborn DLC | Dragonborn                         |     30      |
-| Creation Club  | Alternative Armors - Daedric Plate |     50      |
-| Creation Club  | Alternative Armors - Daedric Mail  |     50      |
-| Creation Club  | Alternative Armors - Dragon Plate  |     50      |
-| Creation Club  | Alternative Armors - Dragonscale   |     50      |
-| Creation Club  | Alternative Armors - Dwarven Mail  |     15      |
-| Creation Club  | Alternative Armors - Dwarven Plate |     15      |
-| Creation Club  | Alternative Armors - Ebony Plate   |     36      |
-| Creation Club  | Alternative Armors - Elven Hunter  |     30      |
-| Creation Club  | Alternative Armors - Leather       |     27      |
-| Creation Club  | Alternative Armors - Orcish Plate  |     27      |
-| Creation Club  | Alternative Armors - Orcish Scale  |     30      |
-| Creation Club  | Alternative Armors - Silver        |     18      |
-| Creation Club  | Alternative Armors - Stalhrim      |     40      |
-| Creation Club  | Player Homes - Hendraheim          |     25      |
-| Creation Club  | Player Homes - Myrwatch            | 350 magicka |
-| Creation Club  | Player Homes - Gallows Hall        |     35      |
-| Creation Club  | Quests - Ghosts of the Tribunal    |     36      |
-| Creation Club  | Quests - Bittercup                 |     28      |
-| Creation Club  | Quests - The Contest               |     25      |
-| Creation Club  | Quests - Divine Crusader           |     35      |
-| Creation Club  | Quests - Civil War Champions       |     20      |
-| Creation Club  | Quests - The Cause                 |     50      |
-| Creation Club  | Quests - Lord's Mail               |     42      |
-| Creation Club  | Quests - Redguard Elite Armaments  |     30      |
-| Creation Club  | Quests - Saints and Seducers       |     30      |
-| Creation Club  | Quests - Spell Knight Armor        |     38      |
-| Creation Club  | Quests - Plauge of the Dead        |     10      |
-| Creation Club  | Quests - Vigil Enforcer Armor      |     18      |
-| Creation Club  | Weapons - Bow of Shadows           |     36      |
-| Creation Club  | Weapons - Dawnfang & Duskfang      |     30      |
-| Creation Club  | Weapons - Goldbrand                |     40      |
-| Creation Club  | Weapons - Headman's Cleaver        |     32      |
-| Creation Club  | Weapons - Ruin's Edge              |     36      |
-| Creation Club  | Weapons - Shadowrend               |     35      |
-| Creation Club  | Weapons - Sunder & Wraithguard     |     35      |
-| Creation Club  | Weapons - Umbra                    |     35      |
+| Skyrim         | Quests - The Cursed Tribe            |     24      |
+| Skyrim         | Quests - The Break of Dawn           |     29      |
+| Skyrim         | Quests - The Only Cure               |     21      |
+| Skyrim         | Quests - A Night to Remember         |     20      |
+| Skyrim         | Quests - Discerning the Transmundane |     25      |
+| Skyrim         | Quests - The Whispering Door         |     27      |
+| Skyrim         | Quests - Pieces of the Past          |     22      |
+| Skyrim         | Quests - Boethiah's Calling          |     30      |
+| Skyrim         | Quests - The Wolf Queen Awakened     |     24      |
+| Skyrim         | Quests - Unfathomable Depths         |     19      |
+| Skyrim         | Quests - Grimsever's Return          |     19      |
+| Skyrim         | Quests - Kill the Giant              |     24      |
+| Skyrim         | Quests - Dungeon Delving             |     14      |
+| Skyrim         | Quests - Kill the Vampire            |     24      |
+| Skyrim         | Quests - Deathbrand                  |     34      |
+| Skyrim         | Quests - Ebony Warrior               |     65      |
+| Skyrim         | Quests - Hired Assassin              |     10      |
+| Skyrim         | Radiant - Dragon Lair                |     24      |
+| Skyrim         | Radiant - Draugr Crypt               |      9      |
+| Skyrim         | Radiant - Forsworn Camp              |     14      |
+| Skyrim         | Radiant - Hargraven Nest             |     14      |
+| Skyrim         | Radiant - Vampire Lair               |     24      |
+| Skyrim         | Radiant - Werewolf Lair              |     24      |
+| Skyrim         | Radiant - Dragon Priest Lair         |     29      |
+| Skyrim         | Radiant - Falmer Hive                |     19      |
+| Skyrim         | Radiant - Giant Camp                 |     24      |
+| Skyrim         | Radiant - Spriggan Cave              |      9      |
+| Skyrim         | Radiant - Warlock Lair               |     14      |
+| Hearthfire DLC | Build Your Own Home                  |     12      |
+| Dawnguard DLC  | Vampire Attacks                      |     20      |
+| Dawnguard DLC  | Dawnguard Recruitment                |     20      |
+| Dragonborn DLC | Dragonborn                           |     30      |
+| Creation Club  | Alternative Armors - Daedric Plate   |     50      |
+| Creation Club  | Alternative Armors - Daedric Mail    |     50      |
+| Creation Club  | Alternative Armors - Dragon Plate    |     50      |
+| Creation Club  | Alternative Armors - Dragonscale     |     50      |
+| Creation Club  | Alternative Armors - Dwarven Mail    |     15      |
+| Creation Club  | Alternative Armors - Dwarven Plate   |     15      |
+| Creation Club  | Alternative Armors - Ebony Plate     |     36      |
+| Creation Club  | Alternative Armors - Elven Hunter    |     30      |
+| Creation Club  | Alternative Armors - Leather         |     27      |
+| Creation Club  | Alternative Armors - Orcish Plate    |     27      |
+| Creation Club  | Alternative Armors - Orcish Scale    |     30      |
+| Creation Club  | Alternative Armors - Silver          |     18      |
+| Creation Club  | Alternative Armors - Stalhrim        |     40      |
+| Creation Club  | Player Homes - Hendraheim            |     25      |
+| Creation Club  | Player Homes - Myrwatch              | 350 magicka |
+| Creation Club  | Player Homes - Gallows Hall          |     35      |
+| Creation Club  | Quests - Ghosts of the Tribunal      |     36      |
+| Creation Club  | Quests - Bittercup                   |     28      |
+| Creation Club  | Quests - The Contest                 |     25      |
+| Creation Club  | Quests - Divine Crusader             |     35      |
+| Creation Club  | Quests - Civil War Champions         |     20      |
+| Creation Club  | Quests - The Cause                   |     50      |
+| Creation Club  | Quests - Lord's Mail                 |     42      |
+| Creation Club  | Quests - Redguard Elite Armaments    |     30      |
+| Creation Club  | Quests - Saints and Seducers         |     30      |
+| Creation Club  | Quests - Spell Knight Armor          |     38      |
+| Creation Club  | Quests - Plauge of the Dead          |     10      |
+| Creation Club  | Quests - Vigil Enforcer Armor        |     18      |
+| Creation Club  | Weapons - Bow of Shadows             |     36      |
+| Creation Club  | Weapons - Dawnfang & Duskfang        |     30      |
+| Creation Club  | Weapons - Goldbrand                  |     40      |
+| Creation Club  | Weapons - Headman's Cleaver          |     32      |
+| Creation Club  | Weapons - Ruin's Edge                |     36      |
+| Creation Club  | Weapons - Shadowrend                 |     35      |
+| Creation Club  | Weapons - Sunder & Wraithguard       |     35      |
+| Creation Club  | Weapons - Umbra                      |     35      |
 
 ## Enemies
 
@@ -695,9 +709,11 @@ To maintain balance, Septimus uses [Timing is Everything](https://www.nexusmods.
 
 ## Locations
 
-- [Anna's Winterhold Restored](https://www.nexusmods.com/skyrimspecialedition/mods/20344) - Restores ruined Winterhold houses into shops with owners' living quarters, a stable with 4 horses, adds custom-voiced merchants, a player cabin, and a protective stone wall around the town
-
 - [Books of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/4115) - Adds a books store in Solitude
+
+- [Capitals and Towns of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/50263) - Changes the minor hold capitals to make them stad out from just regular villages
+
+- [The Great Village of Old Hroldan](https://www.nexusmods.com/skyrimspecialedition/mods/33189) - Makes Old Hroldan the village it always should have been!
 
 - [Karthwasten The Silver Anvil](https://www.nexusmods.com/skyrimspecialedition/mods/35817) - Small, lore-friendly, and immersive expansion to Karthwasten which adds a blacksmith/inn combo
 
@@ -714,3 +730,5 @@ To maintain balance, Septimus uses [Timing is Everything](https://www.nexusmods.
 - [Solstheim Caravan Trader](https://www.nexusmods.com/skyrimspecialedition/mods/46590) - Adds a Khajiit Caravan trader to Raven Rock
 
 - [Stendarr's Beacon Enhanced and Ruhmastered](https://www.nexusmods.com/skyrimspecialedition/mods/16178) - Adds new, lore-appropriate interior zones, outbuildings, and decor to complement the Vigil's aesthetic
+
+- [Village of the Skaal](https://www.nexusmods.com/skyrimspecialedition/mods/33752) - A simple overhaul of the Skaal Village on Solstheim
