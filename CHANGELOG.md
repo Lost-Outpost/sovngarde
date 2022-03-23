@@ -21,7 +21,6 @@
 + Fixed Arcane Accessories Robe Costs
 + Added Midwood Mysticism onsistency Patch
 + Added Wyrmstooth Mysticism Consistency Patch
-+ Added Imperial Armors Reform + Lords Mail
 + Added Oblivion Horses + CC Horses Patch
 + Added Alpha Wolves Enabled
 + Added Yet Another Soul Trap Mod + Patches
