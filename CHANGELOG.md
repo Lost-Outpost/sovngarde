@@ -16,7 +16,7 @@
 
 # Changelog
 
-## Version 3.0.0 [Unreleased BETA 4]
+## Version 3.0.0 [BETA 4]
 + Added Ancient Nord Armoury Lite
 + Added A Clear Map of Skyrim and Other Worlds
 + Added Midwood Mysticism onsistency Patch
