@@ -19,6 +19,33 @@
 ## Version 3.0.0 [Unreleased BETA 4]
 + Added Ancient Nord Armoury Lite
 + Fixed Arcane Accessories Robe Costs
++ Added Midwood Mysticism onsistency Patch
++ Added Wyrmstooth Mysticism Consistency Patch
++ Added Imperial Armors Reform + Lords Mail
++ Added Oblivion Horses + CC Horses Patch
++ Added Alpha Wolves Enabled
++ Added Yet Another Soul Trap Mod + Patches
++ Added Yuevie's Minimal ENB
++ Added QW's Grass Patch - Septimus Edition
++ Added HD Executioner's Block
++ Added Capitals and Towns of Skyrim + Custom Patches
++ Added Veydosebrom Regions (For Grass)
++ Added Better Third Person Selection
++ Added Fashions of the Fourth Era + OWL Patch + Balance Tweaks
++ Added Skyland Skyhaven Temple
++ Added Starting Spell Selection + Custom Edits
++ Added The Village of Skaal
++ Added The Village of Old Hrodan
++ Added Windhelm Fence 3D
++ Added More To Do In Hammerfel
++ Added House of Horrors Quest Expansion + BUVARP Patch
++ Added Skyrim Horse Renewal (For Animations)
++ Added Custom Horse Speed Tweaks
++ Added Custom Survival Mode Cold and Warmth Tweaks
++ Updated Simple Dual Sheath
++ Updated BethINI
++ Removed Anna's Winterhold
++ Removed Common Clothes & Armors
 
 ## Version 3.0.0 [BETA 3]
 + Added Custom Tinker's Forge Adamant Patch (Many custom tweaks)
