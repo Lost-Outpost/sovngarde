@@ -49,7 +49,7 @@
 + Updated Simple Dual Sheath
 + Updated BethINI
 + Removed Anna's Winterhold
-+ Removed Common Clothes & Armors
++ Removed Common Clothes & Armors (Replaced by Fashions of the Fourth Era)
 + Fixed Blue Dungeon Interiors
 + Fixed Arcane Accessories Robe Costs
 + Fixed Free perk point being awarded to new characters (Sad)
