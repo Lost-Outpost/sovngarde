@@ -184,7 +184,7 @@ Septimus includes a minimalistic and modern UI, featuring:
 
 - [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614) - Overhauls the third person gameplay similar to modern action RPGs. Move and attack in any direction
 
-  > :ledger: By default, use the <kbd>Middle Mouse Button</kbd> or <kbd>F</kbd> to lock on to enemies and the <kbd>Middle Mouse Wheel</kbd> to switch targets.
+  > :ledger: By default, use the <kbd>Middle Mouse Button</kbd> to lock on to enemies and the <kbd>Middle Mouse Wheel</kbd> to switch targets.
 
 - [TrueHUD](https://www.nexusmods.com/skyrimspecialedition/mods/62775) - Customizable actor info bars, boss bars, and player widget
 
@@ -266,9 +266,7 @@ Septimus includes quality-of-life improvements to streamline your playing experi
 
 - [Shovels Bury Bodies](https://www.nexusmods.com/skyrimspecialedition/mods/52984) - Pressing <kbd>E</kbd> while selecting a shovel from inventory near a dead body buries it
 
-- [Simplest Horses](https://www.nexusmods.com/skyrimspecialedition/mods/54225) - Very simple horse/mount management mod which uses one hotkey to perform horse/mount actions
-
-  > :ledger: Allows a single hotkey to access mount's saddlebags, make mounts follow or wait (even if you fast travel), call your mount, or give your current mount to a follower by pressing <kbd>H</kbd>
+- [Simplest Horses](https://www.nexusmods.com/skyrimspecialedition/mods/54225) - Pressing <kbd>H</kbd> accesses mount's saddlebags, makes mounts follow or wait (even if you fast travel), calls your mount, or gives your current mount to a follower
 
 - [Skyrim's Paraglider](https://www.nexusmods.com/skyrimspecialedition/mods/53256) - Adds a paraglider into the world similar to that in breath of the wild. You need to find it in the world to use it.
 
@@ -500,64 +498,115 @@ The recommended levels are meant to represent a natural progression through the 
 
 - [Blackreach Railroad](https://www.nexusmods.com/skyrimspecialedition/mods/435) - Reactivate and restore your very own dwemer railroad, with new characters, items, and a fully voiced quest to do so.
 
-- [Depths of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/26913) - Overhauls the underwater environment and adds content to the sea of Ghosts
+  > :video_game: To begin the quest to reactivate the train itself, head to Silent City, down in Blackreach, keep an eye out for a certain lift. You'll know it when you see it. It's got a train on it.
+
+- [Depths of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/26913) - Overhauls the underwater environment and adds content to the Sea of Ghosts
+
+  > :video_game: To begin, swim in the Sea of Ghosts
 
 - [Pit Fighter](https://www.nexusmods.com/skyrimspecialedition/mods/22513) - Pit Fighter contains an all new faction to join, complete with NPCs, progression through the ranks, unique rewards and side quests.
+
+  > :video_game: To begin, compete in a variety of locations from Windhelms old Arena to Orc Strongholds and Smuggler fighting rings
 
 #### Recommended Level: 10+
 
 - [Beyond Skyrim - Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917) - Beyond Skyrim - Bruma introduces a completely new DLC-sized area south of Skyrim with many new quests and encounters to be had.
 
+  > :video_game: To begin, head to Pale Pass southeast of Falkreath
+
 - [Fortune's Tradehouse](https://www.nexusmods.com/skyrimspecialedition/mods/22755) - Help an Argonian cobbler gain access to Fortune’s Tradehouse, a new location added to Markarth with five fully voiced quests for the player to embark on.
 
   > :ledger: Includes custom Septimus balance patch
 
+  > :video_game: To begin, talk with the Argonian cobbler near Understone Keep in Markarth
+
   > :video_game: The quest includes excellent voice acting. The quests are straightforward, and the final quest reward&mdash;boots which fortify movement speed&mdash;is well worth getting early in your Septimus journey.
 
 - [TrainFight](https://www.nexusmods.com/skyrimspecialedition/mods/58269?tab=posts) - Fight your way atop, through, and inside the belly of a fully animated, fully detailed steam locomotive.
-  > :video_game: Despite the brevity, that mod is a very fun inclusion. Made me smile.
+
+  > :video_game: To begin, find Kemelchend, northeast of Riften. Look for a minecart icon
+
+  > :video_game: Despite the brevity, that mod is a very fun inclusion. Made me smile
 
 #### Recommended Level: 20+
 
 - [Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/4155) - Once you discover the Clockwork Castle, you may call it your home. However escaping is a different issue.
 
+  > :video_game: To begin, find a note after a chance encounter in the wilds of Skyrim
+
 - [The Gray Cowl of Nocturnal](https://www.nexusmods.com/skyrimspecialedition/mods/4509) - Will you be worthy for the Gray Cowl of Nocturnal? We'll see!
+
+  > :video_game: To begin, just steal or pickpocket any item
 
 - [Identity Crisis](https://www.nexusmods.com/skyrimspecialedition/mods/39634?tab=description) - Investigate the madness afflicting the Northern Asylum of Julianos, and earn the boon of the Madgod himself. New enemies, spells, armour, weapons, and a player home await...
 
+  > :video_game: To begin, at the northmost clime of Tamriel, shrouded by fog and buried in ice, the Northern Asylum of Julianos quietly awaits you...
+
 - [The Lost Wonders of Mzark](https://www.nexusmods.com/skyrimspecialedition/mods/40674) - Lost Wonders of Mzark is a quest/dungeon mod for those who prefer a more puzzle-oriented game. The enemies you encounter within must be disposed of in careful ways, and you'll find more than just fights awaiting you in the depths of Mzarnumez.
+
+  > :video_game: To begin, head to the far ocean, to Mzarnumez (which is marked on your map)
 
 - [Midwood Isle](https://www.nexusmods.com/skyrimspecialedition/mods/28120) - Travel to Midwood Isle, a small island home to the Sonmer, filled with quests and adventures
 
+  > :video_game: Upon completing "The Way of the Voice", a courier will deliver a letter to you the next time you travel to an appropriate location
+
+  > :video_game: Alternatively, if you do not wish to wait for the courier, you can head straight to the Frozen Hearth in Winterhold to start the main quest
+
 - [The Tale of Tsatampra Xiros](https://www.nexusmods.com/skyrimspecialedition/mods/36707) - Explore a world contained within the pages of a sorcerous text, and earn the favor of the Daedric Prince Hermaeus Mora.
+
+  > :video_game: To begin, make way to the Derelict Shanty overlooking the Sea of Ghosts to begin your journey...
 
 #### Recommended Level: 30+
 
 - [Falskaar](https://www.nexusmods.com/skyrimspecialedition/mods/2057) - A DLC sized new lands mod that adds 20+ hours of fully voiced lore friendly (But not canon) quests, dungeons, and more.
 
-- [The Forgotten City](https://www.nexusmods.com/skyrimspecialedition/mods/1179) - The Forgotten City introduces a lost underground Dwemer city inhabitated by unique characters.
+  > :video_game: To begin, go to Riften and speak with Jalamar. He will either be outside around the market, inside the northern gate, or inside the Bee and Barb. You can also just go straight into Echo Deep Mine, a new dungeon just northeast of Riften
+
+- [The Forgotten City](https://www.nexusmods.com/skyrimspecialedition/mods/1179) - The Forgotten City introduces a lost underground Dwemer city inhabitated by unique characters
+
+  > :video_game: To begin, you’ll be approached automatically by a courier when you enter any city. Alternatively, you can make your way to the "Forgotten Ruins" in the south-west corner of Skyrim
 
 - [Helgen Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/5673) - Helgen Reborn is a fully voiced adventure with over 20 superb voice actors. As you help rebuild the town you'll reunite two old friends, uncover an underground slavery ring, battle in an arena and many other adventures!
 
+  > :video_game: To begin, talk to Marcus in Helgen 4 days after the quest "Unbound" has been completed (but you must enter Whiterun first to enable the NPCs)
+
 - [Moon and Star](https://www.nexusmods.com/skyrimspecialedition/mods/4301) - Investigate a mysterious powerful individual in skyrim. There may be more to this individual than it seems.
+
+  > :video_game: To begin, a courier should give you a letter to start the quest. Otherwise, you can go to the Sleeping Giant Inn in Riverwood and find the quest giver on your own. 
 
 - [The Tools of Kagrenac](https://www.nexusmods.com/skyrimspecialedition/mods/14168) - Go on a quest to recover the legendary Tools of Kagrenac. Encounter new allies and enemies, explore sprawling dungeons, and add powerful new artifacts and spells to your arsenal in this fully-voiced quest mod!
 
+  > :video_game: To begin, obtain Keening. To do this, you’ll have to join the College of Winterhold and finish the side questline "Arniel’s Endeavor". You’ll also need to have finished "The Way of the Voice" in the main questline.
+
 - [Undeath Remastered](https://www.nexusmods.com/skyrimspecialedition/mods/6180) - Travel to dark depths and become a powerful Lich.
 
+  > :video_game: To begin, the first quest of Undeath will begin automatically when you have reached level 30 or higher.
+
 - [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565) - Travel to a new DLC-sized island and investigate a powerful dragon for the East Empire Company.
+
+  > :video_game: To begin, Wyrmstooth automatically starts once the player reaches level 10 and has finished Way of the Voice in the main questline
 
 #### Recommended Level: 50+
 
 - [Darkend](https://www.nexusmods.com/skyrimspecialedition/mods/10423) - Travel to the new island of Pharos, explore detailed environments, fight new enemies and discover an Ancient set of weapons of incredible power
 
-- [The Grand Paladin](https://www.nexusmods.com/skyrimspecialedition/mods/46867) - Venture beyond Skyrim, into the mists of the Sea of Ghosts, and uncover the legacy of an ancient Dragonborn order.
+  > :video_game: To begin, travel to Voyager's end, the final resting place of a foreign ship, wrecked long ago on the Sea of Ghost, Northwest of Winterhold
+
+- [The Grand Paladin](https://www.nexusmods.com/skyrimspecialedition/mods/46867) - Venture beyond Skyrim, into the mists of the Sea of Ghosts, and uncover the legacy of an ancient Dragonborn order
+
+  > :video_game: To begin, find a book with black cover in the Bard's College in Solitude or Skaal Village's Greathall
 
 - [Project AHO](https://www.nexusmods.com/skyrimspecialedition/mods/15996) - Project AHO is a large quest modification, comparable in size to a medium-sized DLC. Designed in the best traditions of Bethesda Game Studios, this mod adds to Skyrim a hidden settlement of Great House Telvanni. Determine its fate for yourself!
 
+  > :video_game: To begin, fyou need to reach level 15. Just travel to Mixwater MIll and you will be contacted
+
 - [Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849) - A massive quest mod with a Dark story for Vigilants of Stendarr. This mod includes a lot of unique armor sets, weapons, jewelry, creatures and more.
 
+  > :video_game: To begin, speak with Altano, who is located in the Windpeak Inn in Dawnstar
+
 - [Unslaad](https://www.nexusmods.com/skyrimspecialedition/mods/11789) - A quest mod by the author of Vigilant about a half dragon.
+
+  > :video_game: To begin, activate Doll in corner of platform behind High Hrothgar.
 
 ## Quest Timing
 
@@ -584,22 +633,23 @@ To maintain balance, Septimus uses [Timing is Everything](https://www.nexusmods.
 | Skyrim         | Deathbrand                         |     34      |
 | Skyrim         | Ebony Warrior                      |     65      |
 | Skyrim         | Hired Assassin                     |     10      |
-| Skyrim         | Radiant - Dragon Lair              |     10      |
-| Skyrim         | Radiant - Draugr Crypt             |      1      |
-| Skyrim         | Radiant - Forsworn Camp            |      1      |
-| Skyrim         | Radiant - Hargraven Nest           |     20      |
-| Skyrim         | Radiant - Vampire Lair             |      1      |
-| Skyrim         | Radiant - Werewolf Lair            |      8      |
-| Skyrim         | Radiant - Dragon Priest Lair       |     20      |
-| Skyrim         | Radiant - Falmer Hive              |      8      |
-| Skyrim         | Radiant - Giant Camp               |     20      |
-| Skyrim         | Radiant - Spriggan Cave            |      8      |
-| Skyrim         | Radiant - Warlock Lair             |      1      |
+| Skyrim         | Radiant - Dragon Lair              |     24      |
+| Skyrim         | Radiant - Draugr Crypt             |      9      |
+| Skyrim         | Radiant - Forsworn Camp            |     14      |
+| Skyrim         | Radiant - Hargraven Nest           |     14      |
+| Skyrim         | Radiant - Vampire Lair             |     24      |
+| Skyrim         | Radiant - Werewolf Lair            |     24      |
+| Skyrim         | Radiant - Dragon Priest Lair       |     29      |
+| Skyrim         | Radiant - Falmer Hive              |     19      |
+| Skyrim         | Radiant - Giant Camp               |     24      |
+| Skyrim         | Radiant - Spriggan Cave            |      9      |
+| Skyrim         | Radiant - Warlock Lair             |     14      |
 | Hearthfire DLC | Build Your Own Home                |     12      |
-| Dragonborn DLC | Dragonborn                         |     30      |
 | Dawnguard DLC  | Vampire Attacks                    |     20      |
 | Dawnguard DLC  | Dawnguard Recruitment              |     20      |
+| Dragonborn DLC | Dragonborn                         |     30      |
 | Creation Club  | Alternative Armors - Daedric Plate |     50      |
+| Creation Club  | Alternative Armors - Daedric Mail  |     50      |
 | Creation Club  | Alternative Armors - Dragon Plate  |     50      |
 | Creation Club  | Alternative Armors - Dragonscale   |     50      |
 | Creation Club  | Alternative Armors - Dwarven Mail  |     15      |
@@ -624,12 +674,16 @@ To maintain balance, Septimus uses [Timing is Everything](https://www.nexusmods.
 | Creation Club  | Quests - Redguard Elite Armaments  |     30      |
 | Creation Club  | Quests - Saints and Seducers       |     30      |
 | Creation Club  | Quests - Spell Knight Armor        |     38      |
+| Creation Club  | Quests - Plauge of the Dead        |     10      |
 | Creation Club  | Quests - Vigil Enforcer Armor      |     18      |
 | Creation Club  | Weapons - Bow of Shadows           |     36      |
 | Creation Club  | Weapons - Dawnfang & Duskfang      |     30      |
 | Creation Club  | Weapons - Goldbrand                |     40      |
 | Creation Club  | Weapons - Headman's Cleaver        |     32      |
 | Creation Club  | Weapons - Ruin's Edge              |     36      |
+| Creation Club  | Weapons - Shadowrend               |     35      |
+| Creation Club  | Weapons - Sunder & Wraithguard     |     35      |
+| Creation Club  | Weapons - Umbra                    |     35      |
 
 ## Enemies
 
