@@ -44,6 +44,7 @@
 + Added Custom Survival Mode Cold and Warmth Tweaks
 + Added Community Pre-made Character Presets Folder
 + Added Dwemer Tech Glowmapped
++ Added Rudy Soul Gems - ENB Light
 + Updated Simple Dual Sheath
 + Updated BethINI
 + Removed Anna's Winterhold
