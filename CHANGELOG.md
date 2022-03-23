@@ -49,6 +49,7 @@
 + Updated BethINI
 + Removed Anna's Winterhold
 + Removed Common Clothes & Armors
++ Fixed Blue Dungeon Interiors
 
 ## Version 3.0.0 [BETA 3]
 + Added Custom Tinker's Forge Adamant Patch (Many custom tweaks)
