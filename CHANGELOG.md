@@ -45,6 +45,7 @@
 + Added Community Pre-made Character Presets Folder
 + Added Dwemer Tech Glowmapped
 + Added Rudy Soul Gems - ENB Light
++ Added Apocalypse Spell Twine + Ocatio's (Only those) + Balance Patch
 + Updated Simple Dual Sheath
 + Updated BethINI
 + Removed Anna's Winterhold
