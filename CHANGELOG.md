@@ -16,6 +16,17 @@
 
 # Changelog
 
+## Version 3.0.0 [Unreleased BETA 5]
++ Added Road Generator for clear map
++ Added Embers XD (Replaces Embers HD)
++ Added Mannequin Management - LOTD Patch
++ Added Hitting the Books - A Necromantic Grimoire Update
++ Added Necromantic Grimoire Tome Distribution Patch
++ Fixed CFTO Conflicts with new city mods
++ Fixed Blue Mage Robes named incorrectly
++ Fixed Clear Map being overwritten at worldspace level
++ Removed Embers HD (Replaced by Embers XD)
+
 ## Version 3.0.0 [BETA 4]
 + Added Ancient Nord Armoury Lite
 + Added A Clear Map of Skyrim and Other Worlds
