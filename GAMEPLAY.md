@@ -156,6 +156,8 @@ In addition to SimonRim, this list includes:
 
 ## Legacy of the Dragonborn (Optional)
 
+  > :ledger: Septimus 3 currently includes **3,365** Legacy of the Dragonborn displays
+
 Septimus optionally includes [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802). See the [Configuration Guide](https://github.com/Guitarninja2/septimus/blob/main/CONFIGURATION.md#legacy-of-the-dragonborn) if you want to disable it. Septimus includes the following LotD gameplay mods:
 
 - [Curators Companion](https://www.nexusmods.com/skyrimspecialedition/mods/38529) - The all in one Legacy of the Dragonborn companion!
@@ -164,7 +166,7 @@ Septimus optionally includes [Legacy of the Dragonborn](https://www.nexusmods.co
 
 - [Quest and Reward Delay for Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/44923) - Delays the various rewards and quests in Legacy of the Dragonborn to higher display count numbers.
 
- > :video_game: This significantly increases the requierd display count numbers. For example, the "Shattered Legacy" quest will not start until you have 1200 items on display in the museum, compared to the unmodified default of 550 items. Because Septimus includes a tremendous amount of new LotD display items, this enhances the pacing and epic feel of the LotD quests.
+ > :video_game: This delay mod significantly increases the required display counts to unlock gated LotD content. For example, the LotD "Shattered Legacy" quest will not start until you have 1,200 items on display in the museum, compared to the unmodified gate of 550 items. Because Septimus includes **3,365** LotD display items, this delay mod enhances the pacing and epic feel of the LotD quests. You will still only need to collect 40% of the available displays to unlock all the LotD content.
 
 ## User Interface and Camera
 
@@ -372,35 +374,65 @@ In addition to the new gear and equipment available in the AE Creation Club, Sep
 
 - [Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461) - Inigo is a fully voiced khajiit adventuring companion with over 7000 lines of unique dialogue - much of it about you. He'll level alongside you and avoid most traps. If you're sneaking he won't chatter and he'll whisper if you talk to him. He can run out of arrows. He's highly skilled in archery, one-handed, and sneak.
 
+  > :ledger: Includes custom Septimus balance patch
+  
+  > :video_game: You can find Inigo in the Riften jail
+
 - [Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035) - Lucien is a fully voiced Imperial follower with over 5000 lines of immersive, lore-friendly dialogue. Though he arrives in Skyrim as a cowardly scholar, he'll gradually gain strength and confidence by your side until he grows into a hero in his own right.
 
   > :video_game: If you choose a [character name that Lucien recognizes](https://josephrussellauthor.com/Lucien_Names.html), Lucien's voice lines will refer to you by name and he might even sing a verse about you!
+
+  > :video_game: You can find Lucien in Falkreath's Dead Man's Drink
 
 #### Secondary New Followers
 
 - [Arissa The Wandering Rogue](https://www.nexusmods.com/skyrim/mods/53754/) - Arissa is an Imperial with an independent, rebellious spirit and a gift for making expensive things disappear. She is a Skyrim companion character with over 600 lines of dialogue, professionally recorded and beautifully voiced by the talented Nikkita.
 
+  > :video_game: You can find Arissa in Falkreath's Dead Man's Drink
+
 - [Auri](https://www.nexusmods.com/skyrimspecialedition/mods/11278) - Auri is a fully voiced follower and quest mod, which centers around Bosmer culture and tradition. She is a traditionalist Wood Elf archer, will follow you, do your bidding, and offer occasional snarky commentary about your surroundings and actions.
+
+  > :ledger: Includes custom Septimus balance patch
+  
+  > :video_game: You can find Auri in Falkreath hold. Look for Auri's Pod on your map
 
 - [Aviendha - Wheel of Time](https://www.nexusmods.com/skyrimspecialedition/mods/55404) - Based on the fantasy book series "The Wheel of Time" this mod adds the follower Aviendha and Wheel of Time-related quests. Fully voiced by a great cast of voice actors.
 
+  > :ledger: Includes custom Septimus balance patch
+
+  > :video_game: You can find Aviendha on the road just outside the east Riverwood gate
+
 - [Frozen in Time](https://www.nexusmods.com/skyrimspecialedition/mods/39732) - A quest to reanimate an ancient Snow Elf warrior and help her regain her past.
 
+  > :video_game: To find the Snow Elf, go to the Pale hold's Nightgate Inn, and head west towards Silverdrift Lair
+
 - [Hoth](https://www.nexusmods.com/skyrimspecialedition/mods/16137) - Hoth is an old bounty hunting adventurer and a brutal companion to travel with - one of the most visually customized followers made for Skyrim. Hoth has many one-of-a-kind features, such as being a quest giver for infinite bounty hunt contracts.
+
+  > :video_game: You can find Hoth Morthal's Moorside Inn
 
 - [Kaidan 2](https://www.nexusmods.com/skyrimspecialedition/mods/19075) - Rebuilt and expanded, this romantic follower features over 1200 lines of dialogue, custom home, and mini quests
 
   > :ledger: Includes custom Septimus balance patch
 
+  > :video_game: You can find Kaidan in Eastmarch hold's Abandoned Prison
+
 - [Remiel - Dwemer Specialist](https://www.nexusmods.com/skyrimspecialedition/mods/51874) - Breton engineer who will accompany you in your travels. She's travelled from Wayrest to explore dwemer ruins in Skyrim, but she needs your help
 
+  > :video_game: You can find Remiel in Markarth's Silver-Blood Inn
+
 - [Shirley](https://www.nexusmods.com/skyrimspecialedition/mods/45956) - Shirley Curry, the beloved Skyrim Grandma, finally comes to the game as a follower you can recruit! She'll join you on your adventures, but don't expect her to simply carry your burdens! She's got more personality than all the vanilla followers combined, and we're sure she'll be a great companion, and a friend. And a grandma!
+
+  > :video_game: You can find Shirley in a cozy little cottage called Brightwood, in the mountains east of Drelas' Cottage, north-west of Whiterun
 
 #### New Companions
 
 - [Gladys The Corgi](https://www.nexusmods.com/skyrimspecialedition/mods/50164) - Adds a friendly corgi companion to join you on your adventures!
 
+  > :video_game: You can find Gladys for sale at the Solitude docks in front of the East Empire Company Warehouse
+
 - [Merlin The Corgi](https://www.nexusmods.com/skyrimspecialedition/mods/56433) - Adds a magical corgi companion to join you on your adventures!
+
+  > :video_game: You can find Merlin at the Summoning Circle just north of Morthal
 
 #### New NPCs
 
@@ -584,6 +616,10 @@ The recommended levels are meant to represent a natural progression through the 
 
   > :video_game: To begin, talk to Marcus in Helgen 4 days after the quest "Unbound" has been completed (but you must enter Whiterun first to enable the NPCs)
 
+- [Konahrik's Accoutrements](https://www.nexusmods.com/skyrimspecialedition/mods/22206) - Make encounters with the named Dragon Priests a more challenging and rewarding experience
+
+  > :video_game: To begin, either a) read The Dragon Forge book or b) enter dungeon Revakheim (accessed via a cave atop the mountain north of Anga's Mill, near Windhelm)
+
 - [Moon and Star](https://www.nexusmods.com/skyrimspecialedition/mods/4301) - Investigate a mysterious powerful individual in skyrim. There may be more to this individual than it seems.
 
   > :video_game: To begin, a courier should give you a letter to start the quest. Otherwise, you can go to the Sleeping Giant Inn in Riverwood and find the quest giver on your own. 
@@ -706,6 +742,8 @@ To maintain balance, Septimus uses [Timing is Everything](https://www.nexusmods.
 - [Dragon War - Variants](https://www.nexusmods.com/skyrimspecialedition/mods/51310) - Includes just the dragon variants
 
 - [Haugbui - A Draugr Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26188) - A lightweight overhaul providing balance adjustments, new items, unique boss designs, and some more variants to the draugr enemies
+
+- [Konahrik's Accoutrements](https://www.nexusmods.com/skyrimspecialedition/mods/22206) - Make encounters with the named Dragon Priests a more challenging and rewarding experience
 
 ## Locations
 
