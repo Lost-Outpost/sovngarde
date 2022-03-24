@@ -17,6 +17,9 @@
 # Changelog
 
 ## Version 3.0.0 [Unreleased BETA 5]
+
+Hopefully the final (TM) beta for 3.0.0 before release !!!!!!
+
 + Added Road Generator for clear map
 + Added Embers XD (Replaces Embers HD)
 + Added Mannequin Management - LOTD Patch
