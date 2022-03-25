@@ -53,3 +53,7 @@ In order to craft them, you must take at least the first rank of Tailor perk in 
 ## What is this "Restore Warmth" in the Alchemy Station, and why is nothing under it?
 
 This is the side effect of our changes to Resist Frost in order to for player crafted Resist Cold potions to resist cold weather/water. Just ignore it.
+
+## Why is the Septimus icon an amogus?
+
+Don't ask it's complicated.
