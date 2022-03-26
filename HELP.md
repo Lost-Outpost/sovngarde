@@ -54,6 +54,10 @@ In order to craft them, you must take at least the first rank of Tailor perk in 
 
 This is the side effect of our changes to Resist Frost in order to for player crafted Resist Cold potions to resist cold weather/water. Just ignore it.
 
+## Why doesn't Septimus include all the all the Alternate Start options?
+
+Septimus is a curated list and removes some options due to balance or stability issues. For example, Septimus does not include the Bruma start because Bruma is balanced for slightly later game characters.
+
 ## Why is the Septimus icon an amogus?
 
 Don't ask it's complicated.
