@@ -36,7 +36,6 @@ Hopefully the final (TM) beta for 3.0.0 before release !!!!!!
 + Added A Clear Map of Skyrim and Other Worlds
 + Added Midwood Mysticism onsistency Patch
 + Added Wyrmstooth Mysticism Consistency Patch
-+ Added Oblivion Horses + CC Horses Patch
 + Added Alpha Wolves Enabled
 + Added Yet Another Soul Trap Mod + Patches
 + Added Yuevie's Minimal ENB
