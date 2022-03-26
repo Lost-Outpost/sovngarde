@@ -22,6 +22,10 @@ Finally, free feel to hop on the Septimus Discord support channel to have discus
 
 # Frequently asked questions
 
+## When should I ping Guitarninja on [The Animonculory Server](https://discord.gg/DffHKcszfg)?
+
+Never.
+
 ## How do I get the key to the Riverwood Bridge House?
 
 Septimus removed the Tomb of Sacropha from the mod beause its layout was confusing to first-time players. You can purchase a key to the house from Lucen in Riverwood Traders.
@@ -58,6 +62,33 @@ This is the side effect of our changes to Resist Frost in order to for player cr
 
 Septimus is a curated list and removes some options due to balance or stability issues. For example, Septimus does not include the Bruma start because Bruma is balanced for slightly later game characters.
 
+## Why isn't X mod included?
+
+There are as many reasons a mod wouldn't be included in a list as there are stars in the sky. Here's some of the most common ones. Pick whichever one is applicable, or your favorite.
+
+1. The list author didn't know that mod existed.
+2. It's incompatible with other mods in the list.
+3. It's nonfunctional.
+4. It has problems such as causing CTDs, infinite loading screens, or more.
+5. It doesn't fit the list in question.
+6. Something in the list already does what that mod does.
+7. The list author doesn't like the mod.
+8. It would require too much work to add for not enough benefit.
+
+If you're asking this question as a roundabout way of suggesting a mod, don't.
+
+## Will a save from version X be safe with version Y?
+
+All modlists in the Animonculory use semantic versioning which translates to the following:
+
+2.0.x are save game safe.
+2.x.x may require a new save game.
+x.0.0 definitely requires a new save game.
+
+## Will saves from a beta be safe with the final release?
+
+No. The purpose behind beta versions is for play testing to help Guitarninja and the team find and squash bugs before a major release. Do not ask if beta saves will be save safe. Everyone who plays beta versions and reports issues with the understanding that their saves will not be safe is making the modlist better for our entire community, so thanks.
+
 ## Why is the Septimus icon an amogus?
 
-Don't ask it's complicated.
+Don't ask, [it's complicated](https://us02web.zoom.us/j/87936194817?pwd=Ris4TVU3aGxmNWlOWGcrdDhPVHJqdz09).
