@@ -24,7 +24,7 @@ Finally, free feel to hop on the Septimus Discord support channel to have discus
 
 ## When should I ping Guitarninja on [The Animonculory Server](https://discord.gg/DffHKcszfg)?
 
-Never.
+Only if you find a quality among us meme. Any other situation is not acceptable.
 
 ## How do I get the key to the Riverwood Bridge House?
 
