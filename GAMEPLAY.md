@@ -50,6 +50,8 @@ Icons in this guide:
 
 ### Gameplay Hotkeys
 
+- <kbd>C</kbd> - Switches shoulders for [SmoothCam](https://www.nexusmods.com/skyrimspecialedition/mods/41252)
+
 - <kbd>E</kbd> - Use selected item in inventory, create item while crafting, or take item while browsing container
 
   - <kbd>E</kbd> while selecting a broom from inventory, organizes clutter via [Sweeping Organizes Stuff](https://www.nexusmods.com/skyrimspecialedition/mods/51645)
