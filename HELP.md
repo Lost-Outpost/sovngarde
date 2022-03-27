@@ -91,4 +91,4 @@ No. The purpose behind beta versions is for play testing to help Guitarninja and
 
 ## Why is the Septimus icon an amogus?
 
-Don't ask, [it's complicated](https://us02web.zoom.us/j/87936194817?pwd=Ris4TVU3aGxmNWlOWGcrdDhPVHJqdz09).
+Don't ask, [it's complicated](https://www.youtube.com/watch?v=70DZ5UV1Bdo).
