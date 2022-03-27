@@ -25,6 +25,8 @@ Hopefully the final (TM) beta for 3.0.0 before release !!!!!!
 + Added Mannequin Management - LOTD Patch
 + Added Hitting the Books - A Necromantic Grimoire Update
 + Added Necromantic Grimoire Tome Distribution Patch
++ Added MYSTICISM 2!!!!!!!!
++ Added Unique Stros M'Kai Rum + Leveled List Patch
 + Fixed CFTO Conflicts with new city mods
 + Fixed Blue Mage Robes named incorrectly
 + Fixed Clear Map being overwritten at worldspace level
