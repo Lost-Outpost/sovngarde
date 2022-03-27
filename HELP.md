@@ -44,11 +44,15 @@ Guitarninja likes the balanced and cohesive gameplay offered by the full [SimonR
 
 ## Why doesn't Septimus 3 include a follower framework?
 
-Many followers, like Inigo and Lucien, include their own custom follower frameworks and break when imported into a third party follower framework. You can get at least 8 followers and pets simultaneously in Septimus without a follower framework, so including one is overkill. Septimus did include NFF for a while but it seemed to contribute to stability issues. The Septimus team constantly evaluates new mods and if they find a follower framework that works and appears stable, this decision may be revisited.
+Many followers, like Inigo and Lucien, include their own custom follower frameworks and break when imported into a third party follower framework. You can get at least 8 followers and pets simultaneously in Septimus without a follower framework, so including one is overkill.
+
+Septimus did include NFF for a while but it seemed to contribute to stability issues. The Septimus team constantly evaluates new mods and if they find a follower framework that works and appears stable, this decision may be revisited.
 
 ## How can I carry around all my stuff without a follower framework?
 
-Vigilant and Meeko can both be given dog backpacks and are great for carrying stuff. The [LotD Rains' Shelter](https://legacy-of-the-dragonborn.fandom.com/wiki/Rains'_Shelter) is a portable tent that can be pitched anywhere (including inside buildings and dungeons) and which provides unlimited access to the LotD Safehouse linked storage. The [LotD Stash Supplies](https://legacy-of-the-dragonborn.fandom.com/wiki/Stash_Supplies) spell also provides access to the LotD Safehouse linked storage. With the LotD backpack, bandoliers, and LotD perks, you can easily get your carry weight up to 800+. The LotD Relic Storage container from the [LotD Curator's Companion](https://www.nexusmods.com/skyrimspecialedition/mods/38529) provides infinite relic storage accessible from anywhere. 
+Vigilant and Meeko can both be given dog backpacks and are great for carrying stuff. The [LotD Rains' Shelter](https://legacy-of-the-dragonborn.fandom.com/wiki/Rains'_Shelter) is a portable tent that can be pitched anywhere (including inside buildings and dungeons) and which provides unlimited access to the LotD Safehouse linked storage.
+
+The [LotD Stash Supplies](https://legacy-of-the-dragonborn.fandom.com/wiki/Stash_Supplies) spell also provides access to the LotD Safehouse linked storage. With the LotD backpack, bandoliers, and LotD perks, you can easily get your carry weight up to 800+. The LotD Relic Storage container from the [LotD Curator's Companion](https://www.nexusmods.com/skyrimspecialedition/mods/38529) provides infinite relic storage accessible from anywhere. 
 
 ## Why can't I craft bags/backpacks/cloaks/clothes?
 
@@ -85,9 +89,13 @@ All modlists in the Animonculory use semantic versioning which translates to the
 2.x.x may require a new save game.
 x.0.0 definitely requires a new save game.
 
-## Will saves from a beta be safe with the final release?
+## Will saves from one beta version be safe with another beta version or the full release?
 
-No. The purpose behind beta versions is for play testing to help Guitarninja and the team find and squash bugs before a major release. Do not ask if beta saves will be save safe. Everyone who plays beta versions and reports issues with the understanding that their saves will not be safe is making the modlist better for our entire community, so thanks.
+Very unlikely. Do not ask if beta saves will be save safe.
+
+The purpose behind beta versions is for play testing to help Guitarninja and the team find and squash bugs before a major release, and squashing bugs often includes removing misbehaving mods which in turn breaks saves.
+
+The Septimus team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
 
 ## Why is the Septimus icon an amogus?
 

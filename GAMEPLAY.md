@@ -30,6 +30,7 @@ This guide highlights major mods included in Septimus in the following categorie
 - [Legacy of the Dragonborn (Optional)](#legacy-of-the-dragonborn-Optional)
 - [User Interface and Camera](#user-interface-and-camera)
 - [Combat](#combat)
+- [Character Builds](#character-builds)
 - [Immersion](#immersion)
 - [Quality of Life](#quality-of-life)
 - [Gear](#gear)
@@ -207,6 +208,34 @@ Septimus includes combat overhauls to increase the game's difficulty and encoura
 - [SNIFF - Simple No Internal Friendly Fire](https://www.nexusmods.com/skyrimspecialedition/mods/43618) - Nullifies weapon and spell damage between the player, followers, summons, undead and allies
 
 - [The Ultimate Dodge Mod Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/63000) - <kbd>CTRL</kbd> performs dodge (with weapons drawn)
+
+## Character Builds
+
+Consider the following mods when planning character builds in Septimus:
+
+### Magic
+
+- [Mysticism 2](https://docs.google.com/document/d/1xQuq97C4l8SBBZ04F15quZX7bUkef2HaMsUBW1OczHs/edit) - A Magic Overhaul
+
+- [Pilgrim](https://www.nexusmods.com/skyrimspecialedition/mods/54099) - A Religion Overhaul
+
+### Perks
+
+- [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/63224) - A Perk Overhaul
+
+- [Instincts](https://www.nexusmods.com/skyrimspecialedition/mods/30191) - Overwrites Part of Speech Tree
+
+- [Tinkers Forge](https://www.nexusmods.com/skyrimspecialedition/mods/22595) - Overwrites Smithing Tree
+
+### Artifacts
+
+- [Antiquary - Enhanced Artifacts](https://www.nexusmods.com/skyrimspecialedition/mods/44413)
+
+- [Konahrik's Accoutrements](https://www.nexusmods.com/skyrimspecialedition/mods/22206)
+
+- [Dwemer Traps and Explosives](https://www.nexusmods.com/skyrimspecialedition/mods/24696) - Changed to need Dwemer Smithing perk
+
+- [Legacy of the Dragonborn](https://legacy-of-the-dragonborn.fandom.com/)
 
 ## Immersion
 
@@ -746,6 +775,8 @@ To maintain balance, Septimus uses [Timing is Everything](https://www.nexusmods.
 - [Haugbui - A Draugr Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26188) - A lightweight overhaul providing balance adjustments, new items, unique boss designs, and some more variants to the draugr enemies
 
 - [Konahrik's Accoutrements](https://www.nexusmods.com/skyrimspecialedition/mods/22206) - Make encounters with the named Dragon Priests a more challenging and rewarding experience
+
+- [Hitting the Books - A Necromantic Grimoire Update](https://www.nexusmods.com/skyrimspecialedition/mods/61841) - Encounter the new creatures added by Necromantic Grimoire as enemies at Fellglow Keep and Hamvir's Rest
 
 ## Locations
 
