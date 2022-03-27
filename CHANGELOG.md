@@ -39,6 +39,7 @@ Hopefully the final (TM) beta for 3.0.0 before release !!!!!!
 + Fixed Blue Mage Robes named incorrectly
 + Fixed Clear Map being overwritten at worldspace level
 + Fixed ASLAL Starting Items (Some were still not iron tier)
++ Fixed Heavy Blue Dungeon Glow (Hopefully for real this time)
 + Removed Embers HD (Replaced by Embers XD)
 
 ## Version 3.0.0 [BETA 4]
