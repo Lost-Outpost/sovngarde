@@ -16,7 +16,7 @@
 
 # Changelog
 
-## Version 3.0.0 [Unreleased BETA 5]
+## Version 3.0.0 [BETA 5]
 
 Hopefully the final (TM) beta for 3.0.0 before release !!!!!!
 
