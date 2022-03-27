@@ -27,6 +27,14 @@ Hopefully the final (TM) beta for 3.0.0 before release !!!!!!
 + Added Necromantic Grimoire Tome Distribution Patch
 + Added MYSTICISM 2!!!!!!!!
 + Added Unique Stros M'Kai Rum + Leveled List Patch
++ Added Beards of Power - NPC Patch
++ Added Simple Horse Tweaks
++ Added Simple Follower Extension + Interesting NPCs Patch
++ Added zzjay Horse Overhaul + CC Horses Patch
++ Added Hale Horses Retexture
++ Added Skyland Sovngarde
++ Added Adamant Plus Ten Smithing
++ Updated Antiquary + Patches
 + Fixed CFTO Conflicts with new city mods
 + Fixed Blue Mage Robes named incorrectly
 + Fixed Clear Map being overwritten at worldspace level
