@@ -181,6 +181,10 @@ Septimus includes a minimalistic and modern UI, featuring:
 
 - [Dynamic Things Alternative](https://www.nexusmods.com/skyrimspecialedition/mods/49250) - Interact with previously static items like archery targets, crates, mammoth skulls, taproots, and more
 
+- [First Person Camera Height Fix](https://www.nexusmods.com/skyrimspecialedition/mods/28091/) - Changes the height of the first person camera to match the height (scale) of the player as determined by gender and race
+
+  > :ledger: Some people get motion sickness from this mod. It can be safely disabled in Mod Organizer 2.
+
 - [A Quality World Map](https://www.nexusmods.com/skyrimspecialedition/mods/5804) - Provides a new set of highly-detailed 3D or paper world map textures, complete with roads
 
 - [RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080) - Complete overhaul to the character creation menu including new customization features
