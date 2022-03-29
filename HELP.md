@@ -42,13 +42,7 @@ Yes, use the Draught of the Fate Unwound potion from [Ish's Respec Mod](https://
 
 Guitarninja likes the balanced and cohesive gameplay offered by the full [SimonRim](https://www.nexusmods.com/skyrimspecialedition/users/67410746?tab=user+files) suite. We think you will enjoy the experience too.
 
-## Why doesn't Septimus 3 include a follower framework?
-
-Many followers, like Inigo and Lucien, include their own custom follower frameworks and break when imported into a third party follower framework. You can get at least 8 followers and pets simultaneously in Septimus without a follower framework, so including one is overkill.
-
-Septimus did include NFF for a while but it seemed to contribute to stability issues. The Septimus team constantly evaluates new mods and if they find a follower framework that works and appears stable, this decision may be revisited.
-
-## How can I carry around all my stuff without a follower framework?
+## How can I carry around all my stuff?
 
 Vigilant and Meeko can both be given dog backpacks and are great for carrying stuff. The [LotD Rains' Shelter](https://legacy-of-the-dragonborn.fandom.com/wiki/Rains'_Shelter) is a portable tent that can be pitched anywhere (including inside buildings and dungeons) and which provides unlimited access to the LotD Safehouse linked storage.
 
@@ -85,9 +79,11 @@ If you're asking this question as a roundabout way of suggesting a mod, don't.
 
 All modlists in the Animonculory use semantic versioning which translates to the following:
 
-2.0.x are save game safe.
-2.x.x may require a new save game.
-x.0.0 definitely requires a new save game.
+- 2.0.x are save game safe
+
+- 2.x.x may require a new save game
+
+- x.0.0 definitely requires a new save game
 
 ## Will saves from one beta version be safe with another beta version or the full release?
 
