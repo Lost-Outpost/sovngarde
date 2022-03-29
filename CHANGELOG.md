@@ -16,7 +16,7 @@
 
 # Changelog
 
-## Version 3.0.0 [BETA 5]
+## Version 3.0.0
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 + Added Nordic UI (optional) + Lots of Patches
