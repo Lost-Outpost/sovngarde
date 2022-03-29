@@ -16,7 +16,7 @@
 
 # Gameplay Guide
 
-> :ledger: **IMPORTANT NOTE: This gameplay guide reflects the Septimus 3 beta-4 version, whereas the latest published release on Wabbajack is Septimus 2.4. The gameplay guide for Septimus 2.4 is [available here](https://github.com/Guitarninja2/septimus/blob/268076cdc4dc5ac9d62d1ff9fa807fe7cd99bbd4/GAMEPLAY.md).**
+> :ledger: **IMPORTANT NOTE: This gameplay guide reflects the Septimus 3.0.0 version. Guides for previous versions may be found by clicking the History button in the upper left corner of this page.**
 
 ## Overview
 
@@ -175,15 +175,13 @@ Septimus optionally includes [Legacy of the Dragonborn](https://www.nexusmods.co
 
 Septimus includes a minimalistic and modern UI, featuring:
 
-- [Dear Diary](https://www.nexusmods.com/skyrimspecialedition/mods/23010) - Replacer for SkyUI interface in a paper style
-
-  > :ledger: Also see the optional [Dear Diary Dark Mode](https://www.nexusmods.com/skyrimspecialedition/mods/60837), which is looks great but does not support widescreen
-
 - [Dynamic Things Alternative](https://www.nexusmods.com/skyrimspecialedition/mods/49250) - Interact with previously static items like archery targets, crates, mammoth skulls, taproots, and more
 
 - [First Person Camera Height Fix](https://www.nexusmods.com/skyrimspecialedition/mods/28091/) - Changes the height of the first person camera to match the height (scale) of the player as determined by gender and race
 
   > :ledger: Some people get motion sickness from this mod. It can be safely disabled in Mod Organizer 2.
+
+- [Nordic UI - Interface Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/49881) - An optional complete user interface overhaul
 
 - [A Quality World Map](https://www.nexusmods.com/skyrimspecialedition/mods/5804) - Provides a new set of highly-detailed 3D or paper world map textures, complete with roads
 
