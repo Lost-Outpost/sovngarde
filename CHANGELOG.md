@@ -17,6 +17,22 @@
 # Changelog
 
 ## Version 3.0.0 [BETA 5]
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
++ Added Nordic UI (optional) + Lots of Patches
++ Added Marked Treasure
++ Added Necromantic Grimoire Mihail Bone Colossus Replacer
++ Added Serana Animation Disabler (Disable some weird animations)
++ Added Northern Shores (Landscape  textures)
++ Added Greybeards of Power
++ Added Maids II - Deception (Jk jk jk... unless...)
++ Added ESO Cursor
++ Updated Septimus Uncapper Preset
++ Fixed Floating Bags in Falkreath
++ Fixed Conjuration Perk not attainable
++ Fixed Weird water near solitude
+
+## Version 3.0.0 [BETA 5]
 
 Hopefully the final (TM) beta for 3.0.0 before release !!!!!!
 
