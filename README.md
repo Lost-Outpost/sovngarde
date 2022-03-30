@@ -14,7 +14,7 @@
 
 ---
 
-**Modlist Download: [Septimus.wabbajack](https://github.com/Guitarninja2/septimus/releases/download/3.0.0/Septimus-3.0.0.wabbajack)**
+**Modlist Download: [Septimus.wabbajack](https://github.com/Guitarninja2/septimus/releases/download/3.0.1/Septimus-3.0.1.wabbajack)**
 
 **Modlist Support: [The Animonculory Server](https://discord.gg/DffHKcszfg)**
 
