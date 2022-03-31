@@ -16,6 +16,17 @@
 
 # Changelog
 
+## Version 3.0.2
++ Address Some Rare Animation Crashing
++ Fixed Nordic UI Ultrawide Issues
++ Fixed Main Quest Lexicon Issue (hehe)
+
+## Version 3.0.1
++ Fixed Some Facepaints being broken
++ Fixed Nordic UI Crosshair
++ Fixed Pilgrim Extra Strong Effects
++ Fixed Paraglider Issues
+
 ## Version 3.0.0
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
