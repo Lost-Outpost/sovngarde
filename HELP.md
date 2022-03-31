@@ -96,3 +96,11 @@ The Septimus team would like to thank everyone who plays beta versions and repor
 ## Why is the Septimus icon an amogus?
 
 Don't ask, [it's complicated](https://www.youtube.com/watch?v=70DZ5UV1Bdo).
+
+## Why can't I start building in Blackthorn?
+
+If you read the letter on top of the workbench, it is addressed to the Thane of Riften. It requires you to complete the quest [I Done Got Thaned!](https://elderscrolls.fandom.com/wiki/I_Done_Got_Thaned!). Before you can craft anything, you first must craft Blackthorn Manor.  It is the only thing you can build at that workbench. All further building of shops/walls/etc can only be done at workbench on the first floor of Blackthorn Manor. You are effectively the landlord of Blackthorn, and make all major decisions from the Manor.
+
+# Where are the Profit Chests in the Blackthorn shops?
+
+They have been removed. It doesn't make sense for you to be stealing from their cash registers. You can collect rent from the residents of Blackthorn within Blackthorn Manor. 
