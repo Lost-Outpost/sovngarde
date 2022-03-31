@@ -16,6 +16,9 @@
 
 # Changelog
 
+## Version 3.0.2.1
++ Fix missing nordic ui widescreen patch
+
 ## Version 3.0.2
 + Update Simple Follower Framework
 + Fix Some Rare Animation Crashing
