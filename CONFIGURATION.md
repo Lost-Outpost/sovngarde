@@ -64,6 +64,8 @@ I have included the necessary mods to enable widescreen UI support. If you play 
 
 ![Widescreen](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/widescreen.png)
 
+Also, if you are using the optional NordicUI, enable the mod entitled "NORDIC UI - Ultrawide Fixes and Patches".
+
 ### Character Presets
 
 Septimus includes mod that contains a few character presets, and you can also copy presets you download from the [Septimus Character Presets Discord thread](https://discord.com/channels/773659452392865792/952965520083275796) to load when creating new characters. 

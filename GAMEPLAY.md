@@ -487,9 +487,13 @@ In addition to the new player homes available in the AE Creation Club, Septimus 
 
 ### Standalone Homes
 
-- [Blackthorn](https://www.nexusmods.com/skyrimspecialedition/mods/2242) - Blackthorn is a large Hearthfire inspired buildable player home and town with over 400+ build options to choose from, it also includes plenty of Safe Storage, Hearthfire Style Planters, Armor Mannequins, Displays for Dragon Priest Masks, Claws, Black Books, Paragons, Weapon Racks, Display Cases, New Merchants, Indoor Smithing Area, Plenty of room for Followers and Multiple Adoption Friendly
+- [Blackthorn](https://www.nexusmods.com/skyrimspecialedition/mods/2242) - Blackthorn is a large Hearthfire inspired buildable player home and town with over 400+ build options to choose from
 
   > :ledger: Includes custom Septimus balance patch to adjust income and cost
+  
+  > :ledger: You cannot build Blackthorn Manor until you are Thane of Riften by completing the quest [I Done Got Thaned!](https://elderscrolls.fandom.com/wiki/I_Done_Got_Thaned!)
+  
+  > :ledger: Before you can craft anything, you first must craft Blackthorn Manor. It is the only thing you can build at that workbench. All further building of shops, walls, etc. can only be done at workbench on the first floor of Blackthorn Manor. You are effectively the landlord of Blackthorn, and make all major decisions from the Manor.
 
 - [Cityside](https://www.nexusmods.com/skyrimspecialedition/mods/27777) - A simple and minimal starter home based in the heart of the capital of Skyrim, the city of Solitude. Designed for immersion and/or roleplaying based playthroughs
 
