@@ -17,7 +17,8 @@
 # Changelog
 
 ## Version 3.0.2
-+ Address Some Rare Animation Crashing
++ Update Simple Follower Framework
++ Fix Some Rare Animation Crashing
 + Fixed Nordic UI Ultrawide Issues
 + Fixed Main Quest Lexicon Issue (hehe)
 
