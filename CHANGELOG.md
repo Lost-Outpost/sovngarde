@@ -16,7 +16,7 @@
 
 # Changelog
 
-## Version 3.0.2.2
+## Version 3.0.2.2 [Unreleased]
 
 **Before updating, dismiss any exising followers**
 
