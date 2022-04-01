@@ -16,10 +16,19 @@
 
 # Changelog
 
+## Version 3.0.2.2
+
+**Before updating, dismiss any exising followers**
+
++ Remove Follower Framework (Broken AF)
+
 ## Version 3.0.2.1
 + Fix missing nordic ui widescreen patch
 
 ## Version 3.0.2
+
+**Before updating, dismiss any exising followers**
+
 + Update Simple Follower Framework
 + Fix Some Rare Animation Crashing
 + Fixed Nordic UI Ultrawide Issues
