@@ -22,8 +22,9 @@
 
 + Remove Follower Framework (Broken AF)
 
-## Version 3.0.2.1
+## Version 3.0.2.2
 + Fix missing nordic ui widescreen patch
++ Fix missing fnis plugin on SE profile
 
 ## Version 3.0.2
 
