@@ -18,10 +18,13 @@
 
 ## Version 3.0.3 [Unreleased]
 + Added Skyland - Dawnguard
++ Added Magical College of Winterhold ELFX Patch
 + Updated Thaumaturgy
 + Updated Adamant
 + Updated Mysticism 2
 + Fixed Silver Items Broken UVs
++ Removed CC's Fort Dawnguard
++ Removed Northfire's Fort Dawnguard
 
 ## Version 3.0.2.2
 
