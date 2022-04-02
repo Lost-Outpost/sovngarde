@@ -21,6 +21,7 @@
 + Updated Thaumaturgy
 + Updated Adamant
 + Updated Mysticism 2
++ Fixed Silver Items Broken UVs
 
 ## Version 3.0.2.2
 
