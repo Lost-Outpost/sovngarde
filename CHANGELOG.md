@@ -17,9 +17,9 @@
 # Changelog
 
 ## Version 3.0.3 [Unreleased]
-+ Update Thaumaturgy
-+ Update Adamant
-+ Update Mysticism 2
++ Updated Thaumaturgy
++ Updated Adamant
++ Updated Mysticism 2
 
 ## Version 3.0.2.2
 
