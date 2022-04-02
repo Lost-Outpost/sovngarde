@@ -16,11 +16,11 @@
 
 # Changelog
 
-## Version 3.0.2.2 [Unreleased]
+## Version 3.0.2.2
 
 **Before updating, dismiss any exising followers**
-
 + Remove Follower Framework (Broken AF)
++ Fix Nordic UI Widescreen finally
 
 ## Version 3.0.2.1
 + Fix missing nordic ui widescreen patch
