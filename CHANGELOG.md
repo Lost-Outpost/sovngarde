@@ -25,6 +25,7 @@
 + Fixed Silver Items Broken UVs
 + Fixed Terrain Parallax Issues in Yuevie's ENB
 + Fixed CC Exotic Arrows now require the inventor perk
++ Fixed Crafting recipe consistency for path of might
 + Removed CC's Fort Dawnguard
 + Removed Northfire's Fort Dawnguard
 
