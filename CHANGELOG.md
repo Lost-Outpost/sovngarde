@@ -17,6 +17,7 @@
 # Changelog
 
 ## Version 3.0.3 [Unreleased]
++ Added Skyland - Dawnguard
 + Updated Thaumaturgy
 + Updated Adamant
 + Updated Mysticism 2
