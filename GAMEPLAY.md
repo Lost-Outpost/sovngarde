@@ -501,8 +501,6 @@ In addition to the new player homes available in the AE Creation Club, Septimus 
 
 - [King of Worms | Queen of Dawn](https://www.nexusmods.com/skyrimspecialedition/mods/35779) - Restore one of the lost beacons of Meridia and earn custodianship of the Chantry of the Dawn... or... Corrupt the beacon, granting access to the lair of a long dead Sload necromancer
 
-- [Krovaxis](https://www.nexusmods.com/skyrimspecialedition/mods/34750) - Explore the ruins of an ancient temple dedicated to the worship of Molag Bal, the Dominator. Claim it for your own. Debase yourself in the name of your one true master...
-
 - [Morskom Estate](https://www.nexusmods.com/skyrimspecialedition/mods/33408) - A large player home situated on the hillside of Dawnstar
 
 - [Providence and Pestilence](https://www.nexusmods.com/skyrimspecialedition/mods/35237) - Journey into Peryite's Pits and earn the Taskmaster's blessing - as well as an otherworldly lair to call your home...
@@ -620,10 +618,6 @@ The recommended levels are meant to represent a natural progression through the 
   > :ledger: Enhanced by [More to do in Hammerfell - The Gray Cowl of Nocturnal](https://www.nexusmods.com/skyrimspecialedition/mods/62599)
 
   > :video_game: To begin, just steal or pickpocket any item
-
-- [Identity Crisis](https://www.nexusmods.com/skyrimspecialedition/mods/39634?tab=description) - Investigate the madness afflicting the Northern Asylum of Julianos, and earn the boon of the Madgod himself. New enemies, spells, armour, weapons, and a player home await...
-
-  > :video_game: To begin, at the northmost clime of Tamriel, shrouded by fog and buried in ice, the Northern Asylum of Julianos quietly awaits you...
 
 - [The Lost Wonders of Mzark](https://www.nexusmods.com/skyrimspecialedition/mods/40674) - Lost Wonders of Mzark is a quest/dungeon mod for those who prefer a more puzzle-oriented game. The enemies you encounter within must be disposed of in careful ways, and you'll find more than just fights awaiting you in the depths of Mzarnumez.
 
