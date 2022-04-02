@@ -24,6 +24,7 @@
 + Updated Mysticism 2
 + Fixed Silver Items Broken UVs
 + Fixed Terrain Parallax Issues in Yuevie's ENB
++ Fixed CC Exotic Arrows now require the inventor perk
 + Removed CC's Fort Dawnguard
 + Removed Northfire's Fort Dawnguard
 
