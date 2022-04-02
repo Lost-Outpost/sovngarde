@@ -23,6 +23,7 @@
 + Updated Adamant
 + Updated Mysticism 2
 + Fixed Silver Items Broken UVs
++ Fixed Terrain Parallax Issues in Yuevie's ENB
 + Removed CC's Fort Dawnguard
 + Removed Northfire's Fort Dawnguard
 
