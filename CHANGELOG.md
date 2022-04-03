@@ -28,6 +28,7 @@
 + Fixed Crafting recipe consistency for path of might
 + Removed CC's Fort Dawnguard
 + Removed Northfire's Fort Dawnguard
++ Removed No NPC Greetings
 
 ## Version 3.0.2.2
 
