@@ -19,6 +19,12 @@
 ## Version 3.0.3 [Unreleased]
 + Added Skyland - Dawnguard
 + Added Magical College of Winterhold ELFX Patch
++ Added Miscellaneous Equip Text Removal
++ Updated Arcane Accessories - Adamant Patch
++ Added Baggage - CC Backpacks Rebalance + Custom Patches
++ Added Nordic UI - Compass Restored
++ Added Project AHO - Mysticism Spell Crafting
++ Added Magical College of Winterhold - ELFX Patch
 + Updated Thaumaturgy
 + Updated Adamant
 + Updated Mysticism 2
