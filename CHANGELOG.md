@@ -17,6 +17,9 @@
 # Changelog
 
 ## Version 3.0.3 [Unreleased]
+
+**Warning: Please make sure to leave the area of Old Hrodan before updating**
+
 + Added Skyland - Dawnguard
 + Added Magical College of Winterhold ELFX Patch
 + Added Miscellaneous Equip Text Removal
