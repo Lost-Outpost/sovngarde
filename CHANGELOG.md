@@ -28,6 +28,7 @@
 + Added Nordic UI - Compass Restored
 + Added Project AHO - Mysticism Spell Crafting
 + Added Magical College of Winterhold - ELFX Patch
++ Added Yet Another Coffee Mod (For Apothecary)
 + Updated Thaumaturgy
 + Updated Adamant
 + Updated Mysticism 2
