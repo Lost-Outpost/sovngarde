@@ -778,6 +778,8 @@ To maintain balance, Septimus uses [Timing is Everything](https://www.nexusmods.
 
 - [Hitting the Books - A Necromantic Grimoire Update](https://www.nexusmods.com/skyrimspecialedition/mods/61841) - Encounter the new creatures added by Necromantic Grimoire as enemies at Fellglow Keep and Hamvir's Rest
 
+- [Simply Stronger Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/9917) - A simple script-free mod to boost enemy dragons' health and melee/breath damage. Designed for compatibility with DDC, Splendor, and other dragon mods.
+
 ## Locations
 
 - [Books of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/4115) - Adds a books store in Solitude
