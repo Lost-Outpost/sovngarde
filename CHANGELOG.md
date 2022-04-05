@@ -23,14 +23,15 @@
 + Added Skyland - Dawnguard
 + Added Magical College of Winterhold ELFX Patch
 + Added Miscellaneous Equip Text Removal
-+ Updated Arcane Accessories - Adamant Patch
 + Added Baggage - CC Backpacks Rebalance + Custom Patches
 + Added Nordic UI - Compass Restored
 + Added Project AHO - Mysticism Spell Crafting
 + Added Yet Another Coffee Mod (For Apothecary)
++ Added Webmetz's Growables (Wyrmstooth, Vigilant, 3DNPCS)
 + Updated Thaumaturgy
 + Updated Adamant
 + Updated Mysticism 2
++ Updated Arcane Accessories - Adamant Patch
 + Fixed Silver Items Broken UVs
 + Fixed Terrain Parallax Issues in Yuevie's ENB
 + Fixed CC Exotic Arrows now require the inventor perk
