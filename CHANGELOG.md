@@ -17,6 +17,9 @@
 # Changelog
 
 ## Version 3.0.3.1
++ Removed Leftover Village of Old Hrodan ESP
+
+## Version 3.0.3
 
 **Warning: Please make sure to leave the area of Old Hrodan before updating**
 
