@@ -16,6 +16,10 @@
 
 # Changelog
 
+## Version 3.0.4 [Unreleased]
++ Added No Item Planted pop-up
++ Added King Olaf's Fire Festival Not Ending Fix
+
 ## Version 3.0.3.1
 + Removed Leftover Village of Old Hrodan ESP
 
