@@ -36,6 +36,8 @@
 + Fixed Terrain Parallax Issues in Yuevie's ENB
 + Fixed CC Exotic Arrows now require the inventor perk
 + Fixed Crafting recipe consistency for path of might
++ Fixed Coffee Tankard Effects
++ Fixed Plant clipping in whiterun
 + Removed CC's Fort Dawnguard
 + Removed Northfire's Fort Dawnguard
 + Removed No NPC Greetings
