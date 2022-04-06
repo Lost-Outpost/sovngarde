@@ -645,7 +645,7 @@ The recommended levels are meant to represent a natural progression through the 
 
 - [Helgen Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/5673) - Helgen Reborn is a fully voiced adventure with over 20 superb voice actors. As you help rebuild the town you'll reunite two old friends, uncover an underground slavery ring, battle in an arena and many other adventures!
 
-  > :video_game: To begin, talk to Marcus in Helgen 4 days after the quest "Unbound" has been completed (but you must enter Whiterun first to enable the NPCs)
+  > :video_game: Around level 20, a courier will arrive to start the quest. Read the book to begin Helgen reborn.
 
 - [Konahrik's Accoutrements](https://www.nexusmods.com/skyrimspecialedition/mods/22206) - Make encounters with the named Dragon Priests a more challenging and rewarding experience
 
