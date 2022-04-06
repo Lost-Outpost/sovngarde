@@ -19,6 +19,8 @@
 ## Version 3.0.4 [Unreleased]
 + Added No Item Planted pop-up
 + Added King Olaf's Fire Festival Not Ending Fix
++ Added Custom Septimus NPC Overhaul :D
++ Added Legacy of the Dragonborn - Gallery Gift Shop
 
 ## Version 3.0.3.1
 + Removed Leftover Village of Old Hrodan ESP
