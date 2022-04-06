@@ -36,6 +36,7 @@
 + Updated Adamant
 + Updated Mysticism 2
 + Updated Arcane Accessories - Adamant Patch
++ Tweaked Simply Stronger Dragons to 1.5x Strength (Instead of 2x Strength)
 + Fixed Silver Items Broken UVs
 + Fixed Terrain Parallax Issues in Yuevie's ENB
 + Fixed CC Exotic Arrows now require the inventor perk
