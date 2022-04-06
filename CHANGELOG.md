@@ -16,7 +16,7 @@
 
 # Changelog
 
-## Version 3.0.3 [Unreleased]
+## Version 3.0.3
 
 **Warning: Please make sure to leave the area of Old Hrodan before updating**
 
