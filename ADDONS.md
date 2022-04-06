@@ -15,7 +15,7 @@
 ---
 
 # Addons
-The following list is a set of addons which can be added to Septimus to add certain large content pieces. Note, support for addons is provided by the creator of that addon and not by Septimus support. Should something go wrong, please post in the #sep-addons channel and NOT in the normal channels. Install instructions are provided by the addon page listed and provide a guide for installing the addon.
+The following list is a set of addons which can be added to Septimus to add certain large content pieces. Note, support for addons is provided by the creator of that addon and not by Septimus support. Should something go wrong, please use the appropriate channel for the addon. Install instructions are provided by the addon page listed and provide a guide for installing the addon.
 
 ## Relics of Hyrule - Webmetz
 https://github.com/Webmetz/Septimus-Relics_Of_Hyrule
