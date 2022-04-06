@@ -31,6 +31,7 @@
 + Added Project AHO - Mysticism Spell Crafting
 + Added Yet Another Coffee Mod (For Apothecary)
 + Added Webmetz's Growables (Wyrmstooth, Vigilant, 3DNPCS)
++ Added Arena - Encounter Zone Overhaul (Unlock OWL encounter zones)
 + Updated Thaumaturgy
 + Updated Adamant
 + Updated Mysticism 2
