@@ -24,6 +24,9 @@
 + Added Proving Honor Companions Quest Progression Fix
 + Added NPCs Wear Amulets of Mara
 + Added Skyland Real Tundra
++ Added Skyland - Raven Rock
++ Added Lucien - Room Markers for Dumzbthar
++ Added Neutral Hjerim
 + Fixed Duplicate Lanterns in Winterhold
 
 ## Version 3.0.3.1
