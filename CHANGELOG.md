@@ -27,6 +27,8 @@
 + Added Skyland - Raven Rock
 + Added Lucien - Room Markers for Dumzbthar
 + Added Neutral Hjerim
++ Added Legacy of the Dragonborn Collectors and Vendors
++ Added LOTD Fate Card Packs
 + Fixed Duplicate Lanterns in Winterhold
 
 ## Version 3.0.3.1
