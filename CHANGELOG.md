@@ -32,6 +32,7 @@
 + Added Custom Blade and Blund - Realistic Melee Range patch
 + Fixed Duplicate Lanterns in Winterhold
 + Fixed Perk tailoring perk text
++ Fixed Modded Bound weapons not using adamant perks properly
 
 ## Version 3.0.3.1
 + Removed Leftover Village of Old Hrodan ESP
