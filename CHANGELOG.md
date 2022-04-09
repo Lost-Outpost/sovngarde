@@ -30,6 +30,7 @@
 + Added Legacy of the Dragonborn Collectors and Vendors
 + Added LOTD Fate Card Packs
 + Fixed Duplicate Lanterns in Winterhold
++ Fixed Perk tailoring perk text
 
 ## Version 3.0.3.1
 + Removed Leftover Village of Old Hrodan ESP
