@@ -109,7 +109,7 @@ Septimus includes a customized version of [Alternate Start - Live Another Life](
 
 Septimus is built around the [Simon Magus (SimonRim)](https://www.nexusmods.com/skyrimspecialedition/users/67410746?tab=user+files) gameplay overhaul. SimonRim remasters various systems in Skyrim in a cohesive way that stays true to the original while improving the balance and gameplay. The full SimonRim list:
 
-- [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191) - Overhauls and introduces new perks increasing build diversity
+- [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/63224) - Overhauls and introduces new perks increasing build diversity
 
   > :ledger: [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191) automatically grants the following perks to all players for free: Dual Casting (Alteration, Conjuration, Destruction, Illusion, and Restoration), Arcane Blacksmith, Critical Charge, Greater Critical Charge, Power Bash, Eagle Eye, Rune Master, Summoner, Physician, Intimidation, and Bribery
 
@@ -139,7 +139,7 @@ In addition to SimonRim, this list includes:
 
 - [Forceful Tongue](https://www.nexusmods.com/skyrimspecialedition/mods/36276) - A lightweight shouts overhaul, designed to balance in a sensible manner this underwhelming but cool mechanic
 
-- [Instincts - Animal Taming in Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/63224) - Instincts enables the player to tame wild animals. Tamed animals will accompany the player and carry items or fight for the player
+- [Instincts - Animal Taming in Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/30191) - Instincts enables the player to tame wild animals. Tamed animals will accompany the player and carry items or fight for the player
 
   > :ledger: The version of [Instincts - Animal Taming in Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/63224) included also expands the [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191) speech tree with additional animal based perks
 
