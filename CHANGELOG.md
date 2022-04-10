@@ -30,6 +30,9 @@
 + Added Legacy of the Dragonborn Collectors and Vendors
 + Added LOTD Fate Card Packs
 + Added Custom Blade and Blund - Realistic Melee Range patch
++ Updated Skyland AIO (And removed redundant mods)
++ Updated Adamant
++ Updated Mysticism
 + Fixed Duplicate Lanterns in Winterhold
 + Fixed Perk tailoring perk text
 + Fixed Modded Bound weapons not using adamant perks properly
