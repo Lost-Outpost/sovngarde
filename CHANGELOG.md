@@ -33,6 +33,8 @@
 + Updated Skyland AIO (And removed redundant mods)
 + Updated Adamant
 + Updated Mysticism
++ Tweaked Gray Cowl (Modded Quest) Artifacts
++ Tweaked Konahrik's Accoutrements Crafting Recipes
 + Fixed Duplicate Lanterns in Winterhold
 + Fixed Perk tailoring perk text
 + Fixed Modded Bound weapons not using adamant perks properly
