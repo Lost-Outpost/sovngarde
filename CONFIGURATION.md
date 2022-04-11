@@ -113,6 +113,22 @@ To change ENB & Reshade presets, do the following:
 
 - Very low spec users may want to switch to Cathedral Reshade instead of ENB for extra performance
 
+To install a new ENB, do the following:
+
+- Manually download the ENB zip archive
+- Create a new temporary folder on your desktop to contain the new ENB
+- Open the ENB zip archive and navigate to the ELFX sub-folder
+- From the ENB zip archive ELFX sub-folder, copy the enbseries folder, enblocal.ini, and enbseries.ini into your temporary folder
+- Open Septimus MO2, run the ENB Organizer
+- Ignore the ENB Organizer error message
+- In ENB Organizer, select Presets from the menu
+- In ENB Organizer, selct one of the Septimus ENB (not Reshade!) presets, and use the View Files menu item
+- Copy the two .DLL files from the Septimus ENB preset into your temporary folder
+- Your temporary folder should now have the enbseries folder, enblocal.ini, enbseries.ini, and two .DLLs
+- In ENB Organizer, select the add button, select import folder or archive, and import from your temporary folder
+
+Thanks to Septimus community member Curly for making [this video](https://www.youtube.com/watch?v=O4BBNgh4584&t=144s) to show the process.
+
 ## Performance Guide
 
 - Try turning off any ENB that might be enabled and switching to the ultra lite reshade preset
