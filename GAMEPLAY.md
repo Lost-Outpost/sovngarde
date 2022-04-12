@@ -281,6 +281,8 @@ Septimus adds the following new gameplay & immersion mods:
 
   > :video_game: The higher your skill, the better buffs you gain from playing. The lower your skill, the greater your debuffs. At high skill levels, you can also gain donations from nearby NPCs.
 
+  > :video_game: Soothing music: Once you reach the maximum level in an instrument (which should take you quite some time to achieve), music will be able to calm animals. The effect lasts 30 secs and nearby animals that listened will not attack you during or after the performance, unless you attack them first. 
+
 - [Survival Mode (Optional)](https://en.uesp.net/wiki/Skyrim:Survival_Mode) - In Survival Mode, your greatest adversary is Skyrim itself. Unrelenting cold, harsh wilderness, famine and fatigue - do you have the strength to endure? (Survival Mode is optional can be turned on or off in Settings menu.)
 
   > :ledger: Supporting mods: [Fast Travel for Survival Mode](https://www.nexusmods.com/skyrimspecialedition/mods/21067) (Optional), [Survival Mode Improved](https://www.nexusmods.com/skyrimspecialedition/mods/56374), and [Survival Control Panel](https://www.nexusmods.com/skyrimspecialedition/mods/41891)

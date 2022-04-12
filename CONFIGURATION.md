@@ -127,7 +127,7 @@ To install a new ENB, do the following:
 - Your temporary folder should now have the enbseries folder, enblocal.ini, enbseries.ini, and two .DLLs
 - In ENB Organizer, select the add button, select import folder or archive, and import from your temporary folder
 
-Thanks to Septimus community member Curly for making [this video](https://www.youtube.com/watch?v=O4BBNgh4584&t=144s) to show the process.
+Thanks to Septimus community helper Curly for making [this video](https://www.youtube.com/watch?v=4MA5ZLcRYds) to show the process.
 
 ## Performance Guide
 
