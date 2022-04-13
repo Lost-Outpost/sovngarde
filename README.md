@@ -29,7 +29,6 @@
   - [Pre-Installation](#pre-installation)
     - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
     - [Steam Library](#steam-library)
-    - [Change Steams Update Behavior](#change-steams-update-behavior)
     - [Set the Game language to English](#set-the-game-language-to-english)
     - [Clean Skyrim](#clean-skyrim)
     - [Start Skyrim](#start-skyrim)
@@ -93,16 +92,6 @@ Please ensure you have .NET v5.0 installed. The game will not launch if you do n
 If you have your Steam library in Program Files, read [this](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) to put it somewhere else.
 I will not provide support to people with Skyrim in their Program Files folder.
 Locations like Documents, Downloads, Desktop, or OneDrive are NOT fine. The best location would be `C:\SteamLibrary` if you have a single drive, or whichever Drive Letter you have on your main Games drive. Such a location is also called the "root of the drive."
-
-### Change Steam's Update Behavior
-
-SSE is still being updated by Bethesda (they only add Creation Club content). Whenever the game updates, the entire modding community goes silent for the next one or two weeks because some mods need to be updated to the latest game runtime version.
-
-To ensure that Steam does not automatically update the game for you, head over to the Properties window, navigate to the _Updates_ tab and change _Automatic updates_ to _Only update this game when I launch it_. You should also disable the Steam Cloud while you're at it.
-
-![Update Settings 1](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/noupdate1.png)
-
-![Update Settings 1](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/noupdate2.png)
 
 ### Set the Game language to English
 
@@ -175,31 +164,7 @@ There are more steps though, so please keep following the next steps to setup th
 
 ### Pagefile in prevention of memory crashes
 
-Bigger Skyrim modlists need a lot of memory, and when there is not enough available it may fail allocating more. To fix this, you'll want to have a bigger pagefile.
-
-A pagefile is a file on your disk Windows will use when there is not enough RAM available. Never disable the pagefile - this may lead to various issues on your system, such as a Skyrim memory crash.
-
-If you've never touched the pagefile, perform the following steps to prevent from memory crashes:
-
-1. Press Windows + R on your keyboard and enter `sysdm.cpl ,3`
-2. Under the Performance section, press 'Settings'
-
-![pagefile settings](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/pagefile1.png)
-
-3. Go to the Advanced tab at the top, and at the Virtual memory section press 'Change...'
-
-![pagefile settings 2](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/pagefile2.png)
-
-4. Disable 'Automatically manage paging file size for all drives'
-
-![pagefile settings 3](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/pagefile3.png)
-
-5. If you have more than one drive, try enabling it for at least one more drive as a backup (make sure it has a decent bit of free space, like 15GB). Set the size to 'System managed size'.
-   Otherwise, set a custom size for the drive it's currently on and increase the maximum size to be at least 20GB.
-
-![pagefile settings 4](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/pagefile4.png)
-
-![pagefile settings 5](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/pagefile5.png)
+Bigger Skyrim modlists need a lot of memory, and when there is not enough available it may fail allocating more. To fix this, you'll want to have a bigger <a href="PAGEFILE.md" target="_blank">pagefile</a>.
 
 # Updating
 
