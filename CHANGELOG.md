@@ -31,6 +31,7 @@
 + Updated Skyland AIO (And removed redundant mods)
 + Updated Adamant
 + Updated Mysticism
++ Updated Pilgrim (Auriel Blessing Fixed!!!!)
 + Updated Skyland AIO (Includes Raven Rock and Real Tundra)
 + Tweaked Gray Cowl (Modded Quest) Artifacts
 + Tweaked Konahrik's Accoutrements Crafting Recipes
