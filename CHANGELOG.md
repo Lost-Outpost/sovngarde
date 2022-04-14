@@ -30,7 +30,6 @@
 + Added Custom Blade and Blunt - Realistic Melee Range patch
 + Added Several "Smooth" Animation Sets
 + Added Smoothcam - Octavian's Preset
-+ Updated Skyland AIO (And removed redundant mods)
 + Updated Adamant
 + Updated Mysticism
 + Updated Pilgrim (Auriel Blessing Fixed!!!!)
