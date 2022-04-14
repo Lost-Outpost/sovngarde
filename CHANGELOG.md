@@ -34,6 +34,7 @@
 + Updated Pilgrim (Auriel Blessing Fixed!!!!)
 + Updated Skyland AIO (Includes Raven Rock and Real Tundra)
 + Updated Fish Anywhere With Water
++ Updated Favorite Misc Items
 + Tweaked Gray Cowl (Modded Quest) Artifacts
 + Tweaked Konahrik's Accoutrements Crafting Recipes
 + Fixed Duplicate Lanterns in Winterhold
