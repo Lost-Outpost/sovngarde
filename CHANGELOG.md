@@ -33,12 +33,14 @@
 + Updated Mysticism
 + Updated Pilgrim (Auriel Blessing Fixed!!!!)
 + Updated Skyland AIO (Includes Raven Rock and Real Tundra)
++ Updated Fish Anywhere With Water
 + Tweaked Gray Cowl (Modded Quest) Artifacts
 + Tweaked Konahrik's Accoutrements Crafting Recipes
 + Fixed Duplicate Lanterns in Winterhold
 + Fixed Perk tailoring perk text
 + Fixed Modded Bound weapons not using adamant perks properly
 + Fixed Super Bright Hay Textures
++ Fixed Some Landscape Issues (Floating flowers)
 
 ## Version 3.0.3.1
 + Removed Leftover Village of Old Hrodan ESP
