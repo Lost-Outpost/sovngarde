@@ -28,6 +28,7 @@
 + Added Legacy of the Dragonborn Collectors and Vendors
 + Added LOTD Fate Card Packs
 + Added Custom Blade and Blund - Realistic Melee Range patch
++ Added Several "Smooth" Animation Sets
 + Updated Skyland AIO (And removed redundant mods)
 + Updated Adamant
 + Updated Mysticism
