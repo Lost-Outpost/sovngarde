@@ -23,8 +23,6 @@
 + Added Legacy of the Dragonborn - Gallery Gift Shop
 + Added Proving Honor Companions Quest Progression Fix
 + Added NPCs Wear Amulets of Mara
-+ Added Skyland Real Tundra
-+ Added Skyland - Raven Rock
 + Added Lucien - Room Markers for Dumzbthar
 + Added Neutral Hjerim
 + Added Legacy of the Dragonborn Collectors and Vendors
@@ -33,6 +31,7 @@
 + Updated Skyland AIO (And removed redundant mods)
 + Updated Adamant
 + Updated Mysticism
++ Updated Skyland AIO (Includes Raven Rock and Real Tundra)
 + Tweaked Gray Cowl (Modded Quest) Artifacts
 + Tweaked Konahrik's Accoutrements Crafting Recipes
 + Fixed Duplicate Lanterns in Winterhold
