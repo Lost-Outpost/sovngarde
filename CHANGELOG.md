@@ -16,7 +16,7 @@
 
 # Changelog
 
-## Version 3.0.4 [Unreleased]
+## Version 3.0.4
 + Added No Item Planted pop-up
 + Added King Olaf's Fire Festival Not Ending Fix
 + Added Custom Septimus NPC Overhaul :D
