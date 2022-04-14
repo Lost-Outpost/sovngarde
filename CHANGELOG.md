@@ -29,6 +29,7 @@
 + Added LOTD Fate Card Packs
 + Added Custom Blade and Blund - Realistic Melee Range patch
 + Added Several "Smooth" Animation Sets
++ Added Smoothcam - Octavian's Preset
 + Updated Skyland AIO (And removed redundant mods)
 + Updated Adamant
 + Updated Mysticism
