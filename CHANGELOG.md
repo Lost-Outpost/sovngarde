@@ -43,6 +43,7 @@
 + Fixed Modded Bound weapons not using adamant perks properly
 + Fixed Super Bright Hay Textures
 + Fixed Some Landscape Issues (Floating flowers)
++ Fixed Weird Torch Effects
 
 ## Version 3.0.3.1
 + Removed Leftover Village of Old Hrodan ESP
