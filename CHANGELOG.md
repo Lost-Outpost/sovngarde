@@ -40,6 +40,7 @@
 + Updated PO3Tweaks
 + Tweaked Gray Cowl (Modded Quest) Artifacts
 + Tweaked Konahrik's Accoutrements Crafting Recipes
++ Tweaked Pickpocket Skill XP Rate
 + Fixed Duplicate Lanterns in Winterhold
 + Fixed Perk tailoring perk text
 + Fixed Modded Bound weapons not using adamant perks properly
