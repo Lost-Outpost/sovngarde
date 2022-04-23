@@ -16,6 +16,9 @@
 
 # Changelog
 
+## Version 3.0.4.1
++ Fixed Some Animations not working properly
+
 ## Version 3.0.4
 + Added No Item Planted pop-up
 + Added King Olaf's Fire Festival Not Ending Fix
