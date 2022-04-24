@@ -193,7 +193,7 @@ If you wish to further customize by changing the ENB preset, adding in creation 
 
 If you find an issue, you can see if it is already on the list of [known issues](HELP.md), which also documents solutions and workarounds.
 
-For issues that aren't yet [known](HELP.md), you can provide details in the [Septimus Github](https://github.com/Guitarninja2/septimus/issues). Please provide as much info as you can (screenshots are great).
+For issues that aren't yet [known](HELP.md), you can provide details in the [Septimus Issues](https://github.com/Guitarninja2/septimus/issues) page. Please provide as much info as you can (screenshots are great).
 
 Finally, free feel to hop on [The Animonculory Server](https://discord.gg/DffHKcszfg)'s support channel to have discussions with our knowledgeable community members.
 
