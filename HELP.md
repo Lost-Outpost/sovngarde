@@ -101,6 +101,18 @@ Don't ask, [it's complicated](https://www.youtube.com/watch?v=70DZ5UV1Bdo).
 
 If you read the letter on top of the workbench, it is addressed to the Thane of Riften. It requires you to complete the quest [I Done Got Thaned!](https://elderscrolls.fandom.com/wiki/I_Done_Got_Thaned!). Before you can craft anything, you first must craft Blackthorn Manor.  It is the only thing you can build at that workbench. All further building of shops/walls/etc can only be done at workbench on the first floor of Blackthorn Manor. You are effectively the landlord of Blackthorn, and make all major decisions from the Manor.
 
-# Where are the Profit Chests in the Blackthorn shops?
+## Where are the Profit Chests in the Blackthorn shops?
 
 They have been removed. It doesn't make sense for you to be stealing from their cash registers. You can collect rent from the residents of Blackthorn within Blackthorn Manor. 
+
+## What can I do if I get stuck after reading a book or using the Dwemer compass?
+
+First, this sometimes happens when you read a book or use the Dwemer compass shortly after entering a new cell. If you wait a few seconds after entering a cell, it should not happen. If you do get stuck, try pressing <kbd>I</kbd> or <kbd>R</kbd>. If that doesn't work, you can use the console <code>coc</code> command to get unstuck, such as <kbd>~</kbd> to open the console, then issuing the command <code>coc riverwood</code>.
+
+## Why can't I use a Fate Card Pack?
+
+First, this sometimes happens when you have multiple fate card packs in your inventory. Simply drop all the packs except one, then use <kbd>E</kbd> on the one pack in your inventory, and pick up and use each fate card pack one at a time.
+
+## Why is the hidden switch behind the throne in the Guild Master alternate start not appearing?
+
+You have to go down the stairs and stand next to the locked door for a moment before the hidden switch will appear. Also, as an aside, do not accept the ride back to Whiterun in this start. Doing so will cause a bug that permanently saddles you with the expedition horse, for which you can neither dismiss or access inventory.
