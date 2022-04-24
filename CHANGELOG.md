@@ -23,6 +23,7 @@
 + Added Custom Tweaks to Vanilla Guards Armor Addon
 + Added No Disarm (Unequip instead)
 + Updated Yet Another Coffee Mod
++ Tweaked Paragliding Spells
 + Fixed Crashing in Dumzbthar
 + Fixed ELFX Issues with LOTD Vosis
 + Fixed Landscape issue with Ashfall Tear
