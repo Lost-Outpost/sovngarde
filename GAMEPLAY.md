@@ -407,6 +407,40 @@ In addition to the new gear and equipment available in the AE Creation Club, Sep
 
 - [Vigilance Reborn SE](https://www.nexusmods.com/skyrimspecialedition/mods/17571) - Overhaul for Vigilance that gives him a unique appearance and a variety of other features.
 
+#### Remastered NPCs
+
+- [BUVARP SE RE - Barely Used Vanilla Actors Recycle Project Special Edition Revamped](https://www.nexusmods.com/skyrimspecialedition/mods/56120) - This mod gives new purposes to NPCs that are barely used in Vanilla, or would normally disappear after their quests are completed.  This includes, but it not limited to: 
+
+  - Sparing NPCs that you would normally have to kill 
+
+  - Making NPCs potential followers after completing quests related to them
+
+  - Being able to complete House of Horrors without killing Tyranus
+
+  - Adding additional NPCs to Sovengarde
+  
+  - Sven: Removed level cap and increased stats. Will offer speech training to the player, if the quest A Lovely Letter ends in his favor. This is done to make him more of viable alternative to Faendal
+
+- [More to Say](https://www.nexusmods.com/skyrimspecialedition/mods/22622) - This mod adds additional voiced dialogue to NPCs.  This includes, but is not limited to:
+
+  - the player can repair their relationship with Sven or Faendal after A Lovely Letter is complete
+
+  - brawl with Nazeem just because he's annoying you
+
+  - most followers now have some early game quest-specific dialogue
+
+  - followers can give you pointers on certain skills where their skills are above 25 and yours are below 20
+
+  - tell your dog followers "good dog" or "bad dog", and give them treats
+
+  - provides an immersive way to acquire Rocksplinter, the unique pickaxe Bethesda left out of the game
+
+  - adds a few additional small quests from some NPCS
+
+  - discover the secret of Rorikstead... and learn Healing, Flames, Waterbreathing, and Lesser Ward for free if you play your cards right
+
+  - convince some NPCs to be less rude
+
 ### New Followers and Companions
 
 #### Primary New Followers
@@ -476,8 +510,6 @@ In addition to the new gear and equipment available in the AE Creation Club, Sep
 #### New NPCs
 
 - [Bogmort - Mud Monsters of Morthal Swamp](https://www.nexusmods.com/skyrimspecialedition/mods/22447) - The dead emerge from the muck in the swamps of Morthal
-
-- [BUVARP SE RE - Barely Used Vanilla Actors Recycle Project Special Edition Revamped](https://www.nexusmods.com/skyrimspecialedition/mods/56120) - This mod gives new purposes to NPCs that are barely used in Vanilla
 
 - [Civil War Deserters](https://www.nexusmods.com/skyrimspecialedition/mods/44497) - Adds a new Deserter enemy type that you can encounter in specific locations across Skyrim
 
