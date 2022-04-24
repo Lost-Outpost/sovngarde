@@ -16,7 +16,7 @@
 
 **Modlist Download: [Septimus.wabbajack](https://github.com/Guitarninja2/septimus/releases/download/3.0.4.1/Septimus-3.0.4.1.wabbajack)**
 
-**Modlist Support: [The Animonculory Server](https://discord.gg/DffHKcszfg)**
+**Modlist Support: [The Animonculory Server](https://discord.gg/DffHKcszfg)** or **[Issues](https://github.com/Guitarninja2/septimus/issues)**
 
 # Installation
 
@@ -50,7 +50,7 @@
 
 "I can almost... hear them. I feel their life energy. Come, I will make the mixture." - Septimus Signus
 
-Septimus is an extensive modlist full of carefully chosen new gear, spells, quests, and personal touches, all designed to fit seamlessly into the game. It also contains optional lightweight survival gameplay and full anniversary edition creation club support. It is designed to look beautiful while maintaining a stable 60+ framerate on almost any machine.
+Septimus is an extensive Modlist full of carefully chosen new gear, spells, quests, and personal touches, all designed to fit seamlessly into the game. It also contains optional lightweight survival gameplay and full anniversary edition creation club support. It is designed to look beautiful while maintaining a stable 60+ framerate on almost any machine.
 
 Septimus works with both Skyrim: Special Edition and Skyrim: Anniversary Edition. The full Anniversary Edition support includes all the new creation club content for those eager to get right into the new content.
 
@@ -63,7 +63,7 @@ Septimus seeks to modify Skyrim in the least intrusive way to keep what makes th
 
 ### Community
 
-Support is offered in [The Animonculory Server](https://discord.gg/DffHKcszfg) server and in the [Issues](https://github.com/Guitarninja2/septimus/issues) section of the Septimus GitHub. If you have any questions following the add-on's instructions or if you find a typo or any other mistake in the documentation, feel free to report in TPF Discord server's support channel.
+Support is offered in [The Animonculory Server](https://discord.gg/DffHKcszfg) and in the [Issues](https://github.com/Guitarninja2/septimus/issues) section of the Septimus GitHub. If you have any questions following the add-on's instructions or if you find a typo or any other mistake in the documentation, feel free to report it in [The Animonculory Server](https://discord.gg/DffHKcszfg)'s support channel.
 
 ### List Contents
 
@@ -71,7 +71,7 @@ You can browse the full list contents [here](https://loadorderlibrary.com/lists/
 
 # Installation
 
-Installation is handled through [Wabbajack](https://www.wabbajack.org/#/) with a one-click install of the modlist. There are some pre-installation steps which must be followed for first time users so please pay attention to those.
+Installation is handled through [Wabbajack](https://www.wabbajack.org/#/) with a one-click install of the Modlist. There are some pre-installation steps which must be followed for first time users so please pay attention to those.
 
 ## Pre-Installation
 
@@ -148,7 +148,7 @@ Some files are known to be problematic, it is likely those are the ones that fai
 
 **x is not a whitelisted download**:
 
-This can happen when I update the modlist. Check if a new update is available and wait if there is none.
+This can happen when I update the Modlist. Check if a new update is available and wait if there is none.
 
 **Wabbajack could not find my game folder**:
 
@@ -164,7 +164,7 @@ There are more steps though, so please keep following the next steps to setup th
 
 ### Pagefile in prevention of memory crashes
 
-Bigger Skyrim modlists need a lot of memory, and when there is not enough available it may fail allocating more. To fix this, you'll want to have a bigger <a href="PAGEFILE.md" target="_blank">pagefile</a>.
+Bigger Skyrim Modlists need a lot of memory, and when there is not enough available it may fail allocating more. To fix this, you'll want to have a bigger <a href="PAGEFILE.md" target="_blank">pagefile</a>.
 
 # Updating
 
@@ -195,7 +195,7 @@ If you find an issue, you can see if it is already on the list of [known issues]
 
 For issues that aren't yet [known](HELP.md), you can provide details in the [Septimus Github](https://github.com/Guitarninja2/septimus/issues). Please provide as much info as you can (screenshots are great).
 
-Finally, free feel to hop on the Septimus Discord support channel to have discussions with our knowledgeable community members. Support is offered in [The Animonculory Server](https://discord.gg/DffHKcszfg).
+Finally, free feel to hop on [The Animonculory Server](https://discord.gg/DffHKcszfg)'s support channel to have discussions with our knowledgeable community members.
 
 # Addons
 Septimus can be configured with some additional [add-on](https://github.com/Guitarninja2/septimus/blob/main/ADDONS.md) content should you wish to add them. The content in these [add-on](https://github.com/Guitarninja2/septimus/blob/main/ADDONS.md) cannot be mixed as they are specifically designed to work properly on top of base Septimus. Pay attention to the Septimus version required for the [add-on](https://github.com/Guitarninja2/septimus/blob/main/ADDONS.md). If it is not updated, it may not work properly.
