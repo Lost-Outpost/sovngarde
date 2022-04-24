@@ -16,6 +16,17 @@
 
 # Changelog
 
+## Version 3.0.5 [Unreleased]
++ Added INIGO - Map Marker to Miscellaneous Quests
++ Added Pristine Vanilla Movement
++ Added Slof's Trotting Horse
++ Added Custom Tweaks to Vanilla Guards Armor Addon
++ Added No Disarm (Unequip instead)
++ Updated Yet Another Coffee Mod
++ Fixed Crashing in Dumzbthar
++ Fixed ELFX Issues with LOTD Vosis
++ Fixed Landscape issue with Ashfall Tear
+
 ## Version 3.0.4.1
 + Fixed Some Animations not working properly
 
