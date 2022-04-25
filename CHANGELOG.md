@@ -16,7 +16,7 @@
 
 # Changelog
 
-## Version 3.0.5 [Unreleased]
+## Version 3.0.5
 + Added Angi's Camp Tweaks
 + Added Pickpocket Anyone
 + Added Follower Trap Safety
