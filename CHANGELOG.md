@@ -17,6 +17,9 @@
 # Changelog
 
 ## Version 3.0.5 [Unreleased]
++ Added Angi's Camp Tweaks
++ Added Pickpocket Anyone
++ Added Follower Trap Safety
 + Added INIGO - Map Marker to Miscellaneous Quests
 + Added Pristine Vanilla Movement
 + Added Slof's Trotting Horse
@@ -27,6 +30,7 @@
 + Fixed Crashing in Dumzbthar
 + Fixed ELFX Issues with LOTD Vosis
 + Fixed Landscape issue with Ashfall Tear
++ Fixed LOTD Issue with Soul Cairn Reaper
 
 ## Version 3.0.4.1
 + Fixed Some Animations not working properly
