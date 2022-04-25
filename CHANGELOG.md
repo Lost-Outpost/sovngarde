@@ -31,6 +31,7 @@
 + Fixed ELFX Issues with LOTD Vosis
 + Fixed Landscape issue with Ashfall Tear
 + Fixed LOTD Issue with Soul Cairn Reaper
++ Fixed Jarl Igmund's Outfit sometimes missing
 
 ## Version 3.0.4.1
 + Fixed Some Animations not working properly
