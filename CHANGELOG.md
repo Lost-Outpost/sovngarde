@@ -38,6 +38,7 @@
 + Fixed windhelm snow bug
 + Fixed Bruma city banners
 + Fixed weird helgen burning wood
++ Fixed LOTD Soul Cairn Reaper missing item
 
 ## Version 3.0.5
 + Added Angi's Camp Tweaks
