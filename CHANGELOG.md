@@ -30,6 +30,7 @@
 + Added The Practical Dwemechanic - A Remiel Replacer
 + Added Beyond Skyrim Morrowind - Bonemold Weapon Pack
 + Added eFPS - Morskom Estate Patch
++ Added Wares of Wyrmstooth - Wares of Tamriel Alternate Location
 + Updated BUVARP RE - SE
 + Updated Legacy of the Dragonborn
 + Updated Remiel Follower
