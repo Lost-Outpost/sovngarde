@@ -25,15 +25,25 @@
 + Added JK's Septimus Signus Outpost
 + Added JK's Palaces - Septimus Tweaks
 + Added JK's Septimus Signus Outpost - Septimus Tweaks
++ Added Critter Spawn Congestion Fix
++ Added Allow Dialogue Progress Bugfix
++ Added Near Voltage - Purple Edition
 + Added Vanargand Animations - Sneak Crossbows
 + Added Honorhall Orphanage Bugfixes and Expansion
 + Added The Practical Dwemechanic - A Remiel Replacer
 + Added Beyond Skyrim Morrowind - Bonemold Weapon Pack
 + Added eFPS - Morskom Estate Patch
 + Added Wares of Wyrmstooth - Wares of Tamriel Alternate Location
++ Added Scion - Vampiric Sunscreen
++ Added Silent Horizons ENB Tuned for Septimus
++ Added Eastern Dwemer Towers of Solstheim
++ Added Leviathan Animations - Two Handed High Stance
++ Added No Quest Needed - Crossbows (Allow crossbow crafting without dawnguard)
 + Updated BUVARP RE - SE
 + Updated Legacy of the Dragonborn
 + Updated Remiel Follower
++ Updated Contextual Crosshair
++ Replaced Enhanced Blood with Enhanced Blood Textures Light
 + Fixed Crossbow crafting issues
 + Fixed windhelm snow bug
 + Fixed Bruma city banners
