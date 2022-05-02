@@ -16,6 +16,25 @@
 
 # Changelog
 
+## Version 3.1.0 [Unreleased]
++ Added JK's Mistveil Keep
++ Added JK's Dragonsreach
++ Added JK's Blue Palace
++ Added JK's Understone Keep
++ Added JK's Palace of Kings
++ Added JK's Septimus Signus Outpost
++ Added JK's Palaces - Septimus Tweaks
++ Added JK's Septimus Signus Outpost - Septimus Tweaks
++ Added Vanargand Animations - Sneak Crossbows
++ Added Honorhall Orphanage Bugfixes and Expansion
++ Added The Practical Dwemechanic - A Remiel Replacer
++ Added Beyond Skyrim Morrowind - Bonemold Weapon Pack
++ Added eFPS - Morskom Estate Patch
++ Updated BUVARP RE - SE
++ Updated Legacy of the Dragonborn
++ Updated Remiel Follower
++ Fixed Crossbow crafting issue
+
 ## Version 3.0.5
 + Added Angi's Camp Tweaks
 + Added Pickpocket Anyone
