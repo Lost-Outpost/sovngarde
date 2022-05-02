@@ -34,7 +34,10 @@
 + Updated BUVARP RE - SE
 + Updated Legacy of the Dragonborn
 + Updated Remiel Follower
-+ Fixed Crossbow crafting issue
++ Fixed Crossbow crafting issues
++ Fixed windhelm snow bug
++ Fixed Bruma city banners
++ Fixed weird helgen burning wood
 
 ## Version 3.0.5
 + Added Angi's Camp Tweaks
