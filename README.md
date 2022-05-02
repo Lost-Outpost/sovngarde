@@ -63,7 +63,7 @@ Septimus seeks to modify Skyrim in the least intrusive way to keep what makes th
 
 ### Community
 
-Support is offered in [The Animonculory Server](https://discord.gg/DffHKcszfg) server and in the [Issues](https://github.com/Guitarninja2/septimus/issues) section of the Septimus GitHub. If you have any questions following the add-on's instructions or if you find a typo or any other mistake in the documentation, feel free to report in TPF Discord server's support channel.
+Support is offered in [The Animonculory Server](https://discord.gg/DffHKcszfg) server and in the [Issues](https://github.com/Guitarninja2/septimus/issues) section of the Septimus GitHub. If you have any questions following the add-on's instructions or if you find a typo or any other mistake in the documentation, feel free to report in The Animonculory Discord server's support channel.
 
 ### List Contents
 
