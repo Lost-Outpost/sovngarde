@@ -43,6 +43,7 @@
 + Updated Legacy of the Dragonborn
 + Updated Remiel Follower
 + Updated Contextual Crosshair
++ Updated Simplest Horses
 + Replaced Enhanced Blood with Enhanced Blood Textures Light
 + Fixed Crossbow crafting issues
 + Fixed windhelm snow bug
