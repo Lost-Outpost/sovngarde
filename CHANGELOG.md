@@ -32,6 +32,7 @@
 + Added Honorhall Orphanage Bugfixes and Expansion
 + Added The Practical Dwemechanic - A Remiel Replacer
 + Added Beyond Skyrim Morrowind - Bonemold Weapon Pack
++ Added Bonemold in Solstheim - An Integration Mod
 + Added eFPS - Morskom Estate Patch
 + Added Wares of Wyrmstooth - Wares of Tamriel Alternate Location
 + Added Scion - Vampiric Sunscreen
@@ -39,11 +40,29 @@
 + Added Eastern Dwemer Towers of Solstheim
 + Added Leviathan Animations - Two Handed High Stance
 + Added No Quest Needed - Crossbows (Allow crossbow crafting without dawnguard)
++ Added Creation Organizer
++ Added Werewolf Kill Moves Fixer
 + Updated BUVARP RE - SE
 + Updated Legacy of the Dragonborn
 + Updated Remiel Follower
 + Updated Contextual Crosshair
 + Updated Simplest Horses
++ Updated Pilgrim
++ Updated Midwood Isle
++ Updated Kaidan 2 - Extended Edition
++ Updated Base Object Swapper
++ Updated Oxygen Meter 2
++ Updated The Halls of Rielle
++ Updated Beyond Skyrim - Bruma
++ Updated Undeath - Classical Lichdom
++ Updated More to do in Hammerfel
++ Updated Lost Wonders of Mzark
++ Updated The Vigilants' New Clothes
++ Updated Realistic Water Two
++ Updated Wyrmstooth
++ Updaed Quest Journal Limit Fixer
++ Updated Assorted Mesh Fixes
++ Updated Ghosts of the Tribunal Integration Patch
 + Replaced Enhanced Blood with Enhanced Blood Textures Light
 + Fixed Crossbow crafting issues
 + Fixed windhelm snow bug
