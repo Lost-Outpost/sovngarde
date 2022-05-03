@@ -36,7 +36,6 @@
 + Added eFPS - Morskom Estate Patch
 + Added Wares of Wyrmstooth - Wares of Tamriel Alternate Location
 + Added Scion - Vampiric Sunscreen
-+ Added Silent Horizons ENB Tuned for Septimus
 + Added Eastern Dwemer Towers of Solstheim
 + Added Leviathan Animations - Two Handed High Stance
 + Added No Quest Needed - Crossbows (Allow crossbow crafting without dawnguard)
@@ -67,7 +66,7 @@
 + Fixed Crossbow crafting issues
 + Fixed windhelm snow bug
 + Fixed Bruma city banners
-+ Fixed weird helgen burning wood
++ Fixed Weird helgen burning wood
 + Fixed LOTD Soul Cairn Reaper missing item
 
 ## Version 3.0.5
