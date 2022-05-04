@@ -41,6 +41,8 @@
 + Added No Quest Needed - Crossbows (Allow crossbow crafting without dawnguard)
 + Added Creation Organizer
 + Added Werewolf Kill Moves Fixer
++ Added BeastHBB
++ Added Expressive Facegen Morphs
 + Updated BUVARP RE - SE
 + Updated Legacy of the Dragonborn
 + Updated Remiel Follower
