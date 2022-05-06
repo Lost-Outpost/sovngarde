@@ -63,7 +63,7 @@ Septimus seeks to modify Skyrim in the least intrusive way to keep what makes th
 
 ### Community
 
-Support is offered in [The Animonculory Server](https://discord.gg/DffHKcszfg) server and in the [Issues](https://github.com/Guitarninja2/septimus/issues) section of the Septimus GitHub. If you have any questions following the add-on's instructions or if you find a typo or any other mistake in the documentation, feel free to report in The Animonculory Discord server's support channel.
+Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu) server and in the [Issues](https://github.com/Guitarninja2/septimus/issues) section of the Septimus GitHub. If you have any questions following the add-on's instructions or if you find a typo or any other mistake in the documentation, feel free to report in The Animonculory Discord server's support channel.
 
 ### List Contents
 
@@ -195,7 +195,7 @@ If you find an issue, you can see if it is already on the list of [known issues]
 
 For issues that aren't yet [known](HELP.md), you can provide details in the [Septimus Github](https://github.com/Guitarninja2/septimus/issues). Please provide as much info as you can (screenshots are great).
 
-Finally, free feel to hop on the Septimus Discord support channel to have discussions with our knowledgeable community members. Support is offered in [The Animonculory Server](https://discord.gg/DffHKcszfg).
+Finally, free feel to hop on the Septimus Discord support channel to have discussions with our knowledgeable community members. Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu).
 
 # Addons
 Septimus can be configured with some additional [add-on](https://github.com/Guitarninja2/septimus/blob/main/ADDONS.md) content should you wish to add them. The content in these [add-on](https://github.com/Guitarninja2/septimus/blob/main/ADDONS.md) cannot be mixed as they are specifically designed to work properly on top of base Septimus. Pay attention to the Septimus version required for the [add-on](https://github.com/Guitarninja2/septimus/blob/main/ADDONS.md). If it is not updated, it may not work properly.
