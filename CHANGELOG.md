@@ -71,6 +71,9 @@
 + Fixed Weird helgen burning wood
 + Fixed LOTD Soul Cairn Reaper missing item
 
+## Version 3.0.5.1
++ Removed The Dwemer (Taken down from the nexus)
+
 ## Version 3.0.5
 + Added Angi's Camp Tweaks
 + Added Pickpocket Anyone
