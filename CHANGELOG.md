@@ -91,6 +91,10 @@
 + Fixed LOTD Issue with Soul Cairn Reaper
 + Fixed Jarl Igmund's Outfit sometimes missing
 
+## 3.0.5.4
+(╯°□°)╯︵ ┻━┻
+Nothing new in this update. A mod was removed from the nexus so it needed to be recompiled to work again.
+
 ## Version 3.0.4.1
 + Fixed Some Animations not working properly
 
