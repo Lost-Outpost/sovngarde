@@ -86,6 +86,10 @@
 + Fixed Weird helgen burning wood
 + Fixed LOTD Soul Cairn Reaper missing item
 
+## Version 3.0.5.4
+(╯°□°)╯︵ ┻━┻
+Nothing new in this update. A mod was removed from the nexus so it needed to be recompiled to work again.
+
 ## Version 3.0.5.1
 + Removed The Dwemer (Taken down from the nexus)
 
@@ -105,10 +109,6 @@
 + Fixed Landscape issue with Ashfall Tear
 + Fixed LOTD Issue with Soul Cairn Reaper
 + Fixed Jarl Igmund's Outfit sometimes missing
-
-## 3.0.5.4
-(╯°□°)╯︵ ┻━┻
-Nothing new in this update. A mod was removed from the nexus so it needed to be recompiled to work again.
 
 ## Version 3.0.4.1
 + Fixed Some Animations not working properly
