@@ -41,8 +41,19 @@
 + Added No Quest Needed - Crossbows (Allow crossbow crafting without dawnguard)
 + Added Creation Organizer
 + Added Werewolf Kill Moves Fixer
-+ Added BeastHBB
++ Added BeastHBB - Player Only
 + Added Expressive Facegen Morphs
++ Added Polar Peaks
++ Added Apocalypse - Magic of Skyrim (For Mystpocalypse)
++ Added Mystpocalypse - Mysticism Apocalypse Synergy Patch
++ Added The Remnants of Hammerfel
++ Added No Kill Moves (Optional)
++ Added Dragon War - A Dragon Overhaul + Custom Balance Patch
++ Added Arachnomancy - A Spider Scrolls Overhaul
++ Added JS Dwemer Artifacts
++ Added Forgotten City - Music Fixer
++ Added Combat Music Fix - SKSE
++ Added Dwemer Goggles
 + Updated BUVARP RE - SE
 + Updated Legacy of the Dragonborn
 + Updated Remiel Follower
@@ -65,6 +76,7 @@
 + Updated Assorted Mesh Fixes
 + Updated Ghosts of the Tribunal Integration Patch
 + Replaced Enhanced Blood with Enhanced Blood Textures Light
++ Replaced Skyrim Skill Uncapper with Skyrim Skill Uncapper (Fixed)
 + Fixed Crossbow crafting issues
 + Fixed windhelm snow bug
 + Fixed Bruma city banners
