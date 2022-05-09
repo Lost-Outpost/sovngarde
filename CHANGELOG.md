@@ -54,6 +54,7 @@
 + Added Forgotten City - Music Fixer
 + Added Combat Music Fix - SKSE
 + Added Dwemer Goggles
++ Added Skyrim Sewers 4 + CC Patch
 + Updated BUVARP RE - SE
 + Updated Legacy of the Dragonborn
 + Updated Remiel Follower
