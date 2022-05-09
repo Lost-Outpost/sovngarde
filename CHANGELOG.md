@@ -76,6 +76,8 @@
 + Updaed Quest Journal Limit Fixer
 + Updated Assorted Mesh Fixes
 + Updated Ghosts of the Tribunal Integration Patch
++ Updated LOTD - Hall of the Forgotten Patches
++ Updated LOTD - Beyond Skyrim Bruma Patch
 + Replaced Enhanced Blood with Enhanced Blood Textures Light
 + Replaced Skyrim Skill Uncapper with Skyrim Skill Uncapper (Fixed)
 + Fixed Crossbow crafting issues
