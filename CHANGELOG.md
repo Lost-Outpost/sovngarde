@@ -48,7 +48,8 @@
 + Added Mystpocalypse - Mysticism Apocalypse Synergy Patch
 + Added The Remnants of Hammerfel
 + Added No Kill Moves (Optional)
-+ Added Dragon War - A Dragon Overhaul + Custom Balance Patch
++ Added Dragon War - A Dragon Overhaul
++ Added Dragon War - Rescaled
 + Added Arachnomancy - A Spider Scrolls Overhaul
 + Added JS Dwemer Artifacts
 + Added Forgotten City - Music Fixer
