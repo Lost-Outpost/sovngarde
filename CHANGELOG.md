@@ -74,7 +74,7 @@
 + Updated The Vigilants' New Clothes
 + Updated Realistic Water Two
 + Updated Wyrmstooth
-+ Updaed Quest Journal Limit Fixer
++ Updated Quest Journal Limit Fixer
 + Updated Assorted Mesh Fixes
 + Updated Ghosts of the Tribunal Integration Patch
 + Updated LOTD - Hall of the Forgotten Patches
@@ -86,6 +86,7 @@
 + Fixed Bruma city banners
 + Fixed Weird helgen burning wood
 + Fixed LOTD Soul Cairn Reaper missing item
++ Fixed LOTD Broken Draugr Textures
 
 ## Version 3.0.5.4
 (╯°□°)╯︵ ┻━┻
