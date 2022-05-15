@@ -25,6 +25,7 @@
 + Added JK's Septimus Signus Outpost
 + Added JK's Palaces - Septimus Tweaks
 + Added JK's Septimus Signus Outpost - Septimus Tweaks
++ Added JK's Interiors Lite Patch
 + Added Crystal Mudcrabs
 + Added Critter Spawn Congestion Fix
 + Added Allow Dialogue Progress Bugfix
