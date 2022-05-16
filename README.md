@@ -14,7 +14,7 @@
 
 ---
 
-**Modlist Download: [Septimus.wabbajack](https://github.com/Guitarninja2/septimus/releases/download/3.0.5/Septimus-3.0.5.wabbajack)**
+**Modlist Download: [Septimus.wabbajack](https://github.com/Guitarninja2/septimus/releases/download/3.0.5.4/Septimus-3.0.5.4.wabbajack)**
 
 **Modlist Support: [Lost Outpost](https://discord.gg/WF66mMu)**
 
