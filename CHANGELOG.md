@@ -71,6 +71,7 @@
 + Added Crystal Mudcrabs
 + Added Deer Expansion - Mihail Monsters and Animals
 + Added 4k Deer Expansion
++ Added Custom Tweaked Silent Horizons ENB
 + Updated Skyland AIO
 + Updated NPCs Wear Amulets of Mara
 + Updated BUVARP RE - SE
@@ -96,6 +97,8 @@
 + Updated Ghosts of the Tribunal Integration Patch
 + Updated LOTD - Hall of the Forgotten Patches
 + Updated LOTD - Beyond Skyrim Bruma Patch
++ Updated Veydosebrom Regions
++ Updated Literally Unplayable - Forgotten City Patch
 + Replaced Enhanced Blood with Enhanced Blood Textures Light
 + Replaced Skyrim Skill Uncapper with Skyrim Skill Uncapper (Fixed)
 + Fixed Crossbow crafting issues
