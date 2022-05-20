@@ -58,6 +58,21 @@
 + Added Combat Music Fix - SKSE
 + Added Dwemer Goggles
 + Added Skyrim Sewers 4 + CC Patch
++ Added Artesian Cloaks of Skyrim
++ Added Faster HDT SMP
++ Added Camilla Overhaul
++ Added Immersive Rejections
++ Added Nix-Hounds - Mihail Monsters and Animals
++ Added Emperor Penguins- Mihail Monsters and Animals
++ Added Guars- Mihail Monsters and Animals
++ Added Wolves of Cyrodiil - Mihail Monsters and Animals
++ Added Squirrels - Mihail Monsters and Animals
++ Added 2k Squirrels
++ Added Crystal Mudcrabs
++ Added Deer Expansion - Mihail Monsters and Animals
++ Added 4k Deer Expansion
++ Updated Skyland AIO
++ Updated NPCs Wear Amulets of Mara
 + Updated BUVARP RE - SE
 + Updated Legacy of the Dragonborn
 + Updated Remiel Follower
@@ -89,6 +104,7 @@
 + Fixed Weird helgen burning wood
 + Fixed LOTD Soul Cairn Reaper missing item
 + Fixed LOTD Broken Draugr Textures
++ Fixed Smithing recipes for plate and silver in tinker's forge
 
 ## Version 3.0.5.4
 (╯°□°)╯︵ ┻━┻
