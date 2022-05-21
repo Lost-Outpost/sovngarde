@@ -72,6 +72,7 @@
 + Added 4k Deer Expansion
 + Added Custom Tweaked Silent Horizons ENB
 + Added Mihail Wolves in Bruma
++ Added LOTD - Skyrim Sewers Patch
 + Updated Skyland AIO
 + Updated NPCs Wear Amulets of Mara
 + Updated BUVARP RE - SE
@@ -99,6 +100,10 @@
 + Updated LOTD - Beyond Skyrim Bruma Patch
 + Updated Veydosebrom Regions
 + Updated Literally Unplayable - Forgotten City Patch
++ Updated Legacy of the Dragonborn
++ Updated Legacy of the Dragonborn Official Patches
++ Updated Paarthurnax - Quest Expansion
++ Updated Bruma - High Quality LOD
 + Replaced Enhanced Blood with Enhanced Blood Textures Light
 + Replaced Skyrim Skill Uncapper with Skyrim Skill Uncapper (Fixed)
 + Fixed Crossbow crafting issues
