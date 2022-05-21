@@ -72,6 +72,7 @@
 + Added Deer Expansion - Mihail Monsters and Animals
 + Added 4k Deer Expansion
 + Added Custom Tweaked Silent Horizons ENB
++ Added Mihail Wolves in Bruma
 + Updated Skyland AIO
 + Updated NPCs Wear Amulets of Mara
 + Updated BUVARP RE - SE
