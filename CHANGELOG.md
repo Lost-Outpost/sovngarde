@@ -109,6 +109,7 @@
 + Fixed LOTD Soul Cairn Reaper missing item
 + Fixed LOTD Broken Draugr Textures
 + Fixed Smithing recipes for plate and silver in tinker's forge
++ Fixed Bruma Terrain LOD (Probably..)
 
 ## Version 3.0.5.4
 (╯°□°)╯︵ ┻━┻
