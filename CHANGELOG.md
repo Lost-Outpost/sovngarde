@@ -49,8 +49,7 @@
 + Added Mystpocalypse - Mysticism Apocalypse Synergy Patch
 + Added The Remnants of Hammerfel
 + Added No Kill Moves (Optional)
-+ Added Dragon War - A Dragon Overhaul
-+ Added Dragon War - Rescaled
++ Added Diverse Dragons
 + Added Arachnomancy - A Spider Scrolls Overhaul
 + Added JS Dwemer Artifacts
 + Added Forgotten City - Music Fixer
@@ -104,6 +103,7 @@
 + Updated Legacy of the Dragonborn Official Patches
 + Updated Paarthurnax - Quest Expansion
 + Updated Bruma - High Quality LOD
++ Updated Simply Stronger Dragons (Custom Version)
 + Replaced Enhanced Blood with Enhanced Blood Textures Light
 + Replaced Skyrim Skill Uncapper with Skyrim Skill Uncapper (Fixed)
 + Fixed Crossbow crafting issues
