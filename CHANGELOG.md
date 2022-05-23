@@ -49,7 +49,7 @@
 + Added Mystpocalypse - Mysticism Apocalypse Synergy Patch
 + Added The Remnants of Hammerfel
 + Added No Kill Moves (Optional)
-+ Added Diverse Dragons
++ Added Diverse Dragons Collection
 + Added Arachnomancy - A Spider Scrolls Overhaul
 + Added JS Dwemer Artifacts
 + Added Forgotten City - Music Fixer
