@@ -72,6 +72,7 @@
 + Added Custom Tweaked Silent Horizons ENB
 + Added Mihail Wolves in Bruma
 + Added LOTD - Skyrim Sewers Patch
++ Added Camels and new animals in Alik'r Desert
 + Updated Skyland AIO
 + Updated NPCs Wear Amulets of Mara
 + Updated BUVARP RE - SE
