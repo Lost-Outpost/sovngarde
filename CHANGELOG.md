@@ -111,7 +111,7 @@
 + Replaced Enhanced Blood with Enhanced Blood Textures Light
 + Replaced Skyrim Skill Uncapper with Skyrim Skill Uncapper (Fixed)
 + Fixed Crossbow crafting issues
-+ Fixed windhelm snow bug
++ Fixed Windhelm snow bug
 + Fixed Bruma city banners
 + Fixed Weird helgen burning wood
 + Fixed LOTD Soul Cairn Reaper missing item
