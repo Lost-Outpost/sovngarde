@@ -24,6 +24,7 @@
 + Added JK's Palace of Kings
 + Added JK's Septimus Signus Outpost
 + Added JK's Sinderion's Field Laboratory
++ Added JK's Temple of the Divines
 + Added JK's Interiors Lite Patches (For all used interiors)
 + Added Crystal Mudcrabs
 + Added Critter Spawn Congestion Fix
@@ -73,6 +74,7 @@
 + Added Mihail Wolves in Bruma
 + Added LOTD - Skyrim Sewers Patch
 + Added Camels and new animals in Alik'r Desert
++ Added Unslaad Weapons and Armors Retexture
 + Updated Skyland AIO
 + Updated NPCs Wear Amulets of Mara
 + Updated BUVARP RE - SE
@@ -105,6 +107,7 @@
 + Updated Paarthurnax - Quest Expansion
 + Updated Bruma - High Quality LOD
 + Updated Simply Stronger Dragons (Custom Version)
++ Update Keyword Item Distributor
 + Replaced Enhanced Blood with Enhanced Blood Textures Light
 + Replaced Skyrim Skill Uncapper with Skyrim Skill Uncapper (Fixed)
 + Fixed Crossbow crafting issues
