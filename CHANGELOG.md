@@ -24,7 +24,6 @@
 + Added JK's Palace of Kings
 + Added JK's Septimus Signus Outpost
 + Added JK's Sinderion's Field Laboratory
-+ Added JK's Temple of the Divines
 + Added JK's Interiors Lite Patches (For all used interiors)
 + Added Crystal Mudcrabs
 + Added Critter Spawn Congestion Fix
