@@ -75,6 +75,8 @@
 + Added Camels and new animals in Alik'r Desert
 + Added Unslaad Weapons and Armors Retexture
 + Added Atlas Map Markers + Settings Loader
++ Added Immersive HD Banners
++ Added Telvanni Banners Restored
 + Updated Skyland AIO
 + Updated NPCs Wear Amulets of Mara
 + Updated BUVARP RE - SE
@@ -108,8 +110,11 @@
 + Updated Bruma - High Quality LOD
 + Updated Simply Stronger Dragons (Custom Version)
 + Update Keyword Item Distributor
++ Updated Mysticism Spells for NPCs (Optional)
++ Updated Alternate Conversation Camera Plus (Moved to optional)
 + Replaced Enhanced Blood with Enhanced Blood Textures Light
 + Replaced Skyrim Skill Uncapper with Skyrim Skill Uncapper (Fixed)
++ Tweaked Alternate Start - Septimus Edition (Immersion tweaks)
 + Fixed Crossbow crafting issues
 + Fixed Windhelm snow bug
 + Fixed Bruma city banners
