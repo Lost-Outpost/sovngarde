@@ -16,7 +16,7 @@
 
 # Gameplay Guide
 
-> :ledger: **IMPORTANT NOTE: This gameplay guide reflects the Septimus 3.0.0 version. Guides for previous versions may be found by clicking the History button in the upper left corner of this page.**
+> :ledger: **IMPORTANT NOTE: This gameplay guide reflects the Septimus 3.1.x version. Guides for previous versions may be found by clicking the History button in the upper left corner of this page.**
 
 ## Overview
 
@@ -115,6 +115,8 @@ Septimus is built around the [Simon Magus (SimonRim)](https://www.nexusmods.com/
 
 - [Aetherius](https://www.nexusmods.com/skyrimspecialedition/mods/26686) - A rework of all race abilities including replacing powers with better passive abilities
 
+- :new: [Arachnomancy - A Spider Scrolls Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/67272) - A complete overhaul of Skyrim's spider scrolls crafting system designed to balance existing spiders while adding powerful new ones
+
 - [Apothecary](https://www.nexusmods.com/skyrimspecialedition/mods/52130) - Rebalances Food and Alchemy
 
 - [Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549) - A lightweight combat enhancement which makes combat more engaging
@@ -125,11 +127,15 @@ Septimus is built around the [Simon Magus (SimonRim)](https://www.nexusmods.com/
 
 - [Scion](https://www.nexusmods.com/skyrimspecialedition/mods/41639) - Rebalances and improves Vampires with reverse progression
 
+  > :new: :ledger: Enhanced by [Scion - Vampiric Sunscreen Condition Patch](https://www.nexusmods.com/skyrimspecialedition/mods/42212)
+
 - [Manbeast](https://www.nexusmods.com/skyrimspecialedition/mods/44746) - Rebalance and content addon for werewolves which introduces new perks and abilities
 
 - [Mundus](https://www.nexusmods.com/skyrimspecialedition/mods/33411) - A complete rebalance of all standing stones
 
 - [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839) - A magic overhaul which fixes balance issues and introduces new spells
+
+ - :new: Mystpocalypse, a curated synergy [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839)/[Apocalypse - Magic of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1090) patch created by the Septimus team. Includes hand-selected Apocalypse spells that are not overpowered and which do not duplicate spells already in Mysticism.
 
 - [Thamaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138) - An enchanting overhaul which fixes some major issues with enchanting balance
 
@@ -217,7 +223,7 @@ Consider the following mods when planning character builds in Septimus:
 
 ### Magic
 
-- [Mysticism 2](https://docs.google.com/document/d/1xQuq97C4l8SBBZ04F15quZX7bUkef2HaMsUBW1OczHs/edit) - A Magic Overhaul
+- [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839) - A Magic Overhaul
 
 - [Pilgrim](https://www.nexusmods.com/skyrimspecialedition/mods/54099) - A Religion Overhaul
 
@@ -264,8 +270,6 @@ Septimus adds the following new gameplay & immersion mods:
 - [Khajiits Steal Too](https://www.nexusmods.com/skyrimspecialedition/mods/18231) - Khajiit Caravans will now accept your stolen goods as purchase
 
 - [More Thalmor Dossiers](https://www.nexusmods.com/skyrimspecialedition/mods/65059) - Adds some more Thalmor Dossiers on prominent characters in Skyrim.
-
-- [Oblivion Horses](https://www.nexusmods.com/skyrimspecialedition/mods/32335) - Replaces the standard Skyrim horses with Oblivion horses
 
 - [Security Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/58224) - Replaces overused lock model with unique lock variants
 
@@ -350,6 +354,8 @@ In addition to the new gear and equipment available in the AE Creation Club, Sep
 - [Bandolier](https://www.nexusmods.com/skyrimspecialedition/mods/2417) - Bandolier introduces bags and pouches you can wear to kit out your character in a stylish way. They can be found in the world and some may also be crafted.
 
   > :ledger: Includes custom Septimus balance patch.
+
+- :new: [Beyond Skyrim Morrowind - Bonemold Weapon Pack](https://www.nexusmods.com/skyrimspecialedition/mods/66906) - Adds the bonemold weapon set from Beyond Skyrim: Morrowind
 
 - [Cloaks and Capes](https://www.nexusmods.com/skyrimspecialedition/mods/2019) - This mod adds the craftable 'Fur Cloak' and 'Linen Cape' to the game of Skyrim
 
@@ -651,9 +657,13 @@ The recommended levels are meant to represent a natural progression through the 
 
   > :video_game: To begin, find a note after a chance encounter in the wilds of Skyrim
 
+- :new: [Skyrim Sewers 4](https://www.nexusmods.com/skyrimspecialedition/mods/9320) - Adds sewer systems to Solitude, Whiterun & Windhelm and a couple of forts
+
 - [The Gray Cowl of Nocturnal](https://www.nexusmods.com/skyrimspecialedition/mods/4509) - Will you be worthy for the Gray Cowl of Nocturnal? We'll see!
 
   > :ledger: Enhanced by [More to do in Hammerfell - The Gray Cowl of Nocturnal](https://www.nexusmods.com/skyrimspecialedition/mods/62599)
+
+  > :new: :ledger: Enhanced by [The Remnants of Hammerfell](https://www.nexusmods.com/skyrimspecialedition/mods/67390)
 
   > :video_game: To begin, just steal or pickpocket any item
 
