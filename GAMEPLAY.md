@@ -25,8 +25,8 @@ On your journey through the Septimus version of Skyrim, you will find a performa
 This guide highlights major mods included in Septimus in the following categories:
 
 - [Hotkeys](#hotkeys)
-- [Quick Start](#quick-start)
-- [Gameplay](#remastered-gameplay)
+- [Quick Start](#alternate-start)
+- [Gameplay](#gameplay)
 - [Legacy of the Dragonborn (Optional)](#legacy-of-the-dragonborn-Optional)
 - [User Interface and Camera](#user-interface-and-camera)
 - [Combat](#combat)
@@ -101,7 +101,7 @@ Icons in this guide:
 
 - <kbd>END</kbd> - Paste from clipboard in console
 
-## Alternate Start - Live Another Life - Septimus Edition
+## Alternate Start
 
 Septimus includes a customized version of [Alternate Start - Live Another Life](https://www.nexusmods.com/skyrimspecialedition/mods/272), which you can use to start your Septimus journey on a different path than the traditional cart ride
 
@@ -177,6 +177,30 @@ Septimus optionally includes [Legacy of the Dragonborn](https://www.nexusmods.co
 
  > :video_game: This delay mod significantly increases the required display counts to unlock gated LotD content. For example, the LotD "Shattered Legacy" quest will not start until you have 1,200 items on display in the museum, compared to the unmodified gate of 550 items. Because Septimus includes **3,365** LotD display items, this delay mod enhances the pacing and epic feel of the LotD quests. You will still only need to collect 40% of the available displays to unlock all the LotD content.
 
+ | Old Display Count | New Display Count                       |   Quest   |
+| :-------------: | :---------------------------------: | :--------- |
+| 50 | 100 | Adding to the Collection (Skullcrusher)
+| 75 | 200 | It Belongs in a Museum
+| 100 | 300 | Adding to the Collection (Thornblade)
+| 300 | 300 | Night at the Museum
+| 150 | 400 | Adding to the Collection (Cleaver of St. Felms)
+| 200 | 500 | Adding to the Collection (Eidolon's Ward)
+| 250 | 600 | Adding to the Collection (Gravedigger)
+| 400 | 600 | Shadows of One's Past
+| 300 | 700 | Adding to the Collection (Scourge)
+| 350 | 800 | Adding to the Collection (Stendarr's Hammer)
+| 400 | 900 | Adding to the Collection (Trueflame)
+| 450 | 1000 | Adding to the Collection (Staff of Hasedoki)
+| 500 | 1100 | Adding to the Collection (Hopesfire)
+| 550 | 1200 | Adding to the Collection (Sword of Ancient Tongues)/Shattered Legacy
+| 150 | 150 | A Room With a View/Digging Up Explorers
+| 150 | 350 | Branching Out
+| 150 | 550 | Branching out... Again
+| 150 | 750 | Branching out... Ever more
+| 400 | 950 | The Excavation of Windcaller Pass
+| 400 | 1150 | The Excavation of the Ruins of Rkund
+| 400 | 1350 | The Visage/The Trial of Trinimac
+
 ## User Interface and Camera
 
 Septimus includes a minimalistic and modern UI, featuring:
@@ -229,9 +253,9 @@ Consider the following mods when planning character builds in Septimus:
 
 ### Perks
 
-- [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/63224) - A Perk Overhaul
+- [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191) - A Perk Overhaul
 
-- [Instincts](https://www.nexusmods.com/skyrimspecialedition/mods/30191) - Overwrites Part of Speech Tree
+- [Instincts](https://www.nexusmods.com/skyrimspecialedition/mods/63224) - Overwrites Part of Speech Tree
 
 - [Tinkers Forge](https://www.nexusmods.com/skyrimspecialedition/mods/22595) - Overwrites Smithing Tree
 
@@ -820,9 +844,13 @@ To maintain balance, Septimus uses [Timing is Everything](https://www.nexusmods.
 
 - [Dragon War - Variants](https://www.nexusmods.com/skyrimspecialedition/mods/51310) - Includes just the dragon variants
 
+- :new: [Diverse Dragons Collection](https://www.nexusmods.com/skyrimspecialedition/mods/695) - Adds 28 leveled enemy dragons with unique models, textures, & abilities
+
 - [Haugbui - A Draugr Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26188) - A lightweight overhaul providing balance adjustments, new items, unique boss designs, and some more variants to the draugr enemies
 
 - [Konahrik's Accoutrements](https://www.nexusmods.com/skyrimspecialedition/mods/22206) - Make encounters with the named Dragon Priests a more challenging and rewarding experience
+
+- :new: Mihail Monsters and Animals - Nix-Hounds, Emperor Penguins, Guars, Wolves of Cyrodiil, Squirrels, Deer Expansion, Wolves in Bruma
 
 - [Hitting the Books - A Necromantic Grimoire Update](https://www.nexusmods.com/skyrimspecialedition/mods/61841) - Encounter the new creatures added by Necromantic Grimoire as enemies at Fellglow Keep and Hamvir's Rest
 
