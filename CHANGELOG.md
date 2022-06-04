@@ -17,6 +17,9 @@
 # Changelog
 
 ## Version 3.1.0
+
+**Warning: This update requires a new save.**
+
 + Added JK's Mistveil Keep
 + Added JK's Dragonsreach
 + Added JK's Blue Palace
