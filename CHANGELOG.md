@@ -78,7 +78,6 @@
 + Added Telvanni Banners Restored
 + Added Cathedral - 3D Clovers
 + Added Unaggressive Dragon Priests Fix
-+ 
 + Added Distinct Interiors Redux
 + Updated Skyland AIO
 + Updated NPCs Wear Amulets of Mara
