@@ -66,7 +66,6 @@
 + Added Wolves of Cyrodiil - Mihail Monsters and Animals
 + Added Squirrels - Mihail Monsters and Animals
 + Added 2k Squirrels
-+ Added Crystal Mudcrabs
 + Added Deer Expansion - Mihail Monsters and Animals
 + Added 4k Deer Expansion
 + Added Custom Tweaked Silent Horizons ENB
@@ -77,6 +76,9 @@
 + Added Atlas Map Markers + Settings Loader
 + Added Immersive HD Banners
 + Added Telvanni Banners Restored
++ Added Cathedral - 3D Clovers
++ Added Unaggressive Dragon Priests Fix
++ Added Distinct Interiors Redux
 + Updated Skyland AIO
 + Updated NPCs Wear Amulets of Mara
 + Updated BUVARP RE - SE
