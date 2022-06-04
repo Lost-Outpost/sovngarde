@@ -114,7 +114,6 @@
 + Update Keyword Item Distributor
 + Updated Mysticism Spells for NPCs (Optional)
 + Updated Alternate Conversation Camera Plus (Moved to optional)
-+ Updated Survival Mode Improved
 + Updated Frozen Electrocuted Combustion (Optional)
 + Replaced Enhanced Blood with Enhanced Blood Textures Light
 + Replaced Skyrim Skill Uncapper with Skyrim Skill Uncapper (Fixed)
