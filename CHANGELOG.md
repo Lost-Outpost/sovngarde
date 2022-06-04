@@ -16,7 +16,7 @@
 
 # Changelog
 
-## Version 3.1.0 [Unreleased]
+## Version 3.1.0
 + Added JK's Mistveil Keep
 + Added JK's Dragonsreach
 + Added JK's Blue Palace
@@ -78,6 +78,7 @@
 + Added Telvanni Banners Restored
 + Added Cathedral - 3D Clovers
 + Added Unaggressive Dragon Priests Fix
++ 
 + Added Distinct Interiors Redux
 + Updated Skyland AIO
 + Updated NPCs Wear Amulets of Mara
@@ -114,6 +115,8 @@
 + Update Keyword Item Distributor
 + Updated Mysticism Spells for NPCs (Optional)
 + Updated Alternate Conversation Camera Plus (Moved to optional)
++ Updated Survival Mode Improved
++ Updated Frozen Electrocuted Combustion (Optional)
 + Replaced Enhanced Blood with Enhanced Blood Textures Light
 + Replaced Skyrim Skill Uncapper with Skyrim Skill Uncapper (Fixed)
 + Tweaked Alternate Start - Septimus Edition (Immersion tweaks)
