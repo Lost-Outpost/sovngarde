@@ -16,6 +16,12 @@
 
 # Changelog
 
+## Version 3.1.1 [Unreleased]
++ Added Dear Diary Dark Mode + TrueHUD Synergy (Optional)
++ Added JS Attunement Sphere and Lexicons
++ Replaced JS Purses and Septims with Compatability Version (Fixes LOTD Issues)
++ Removed SPID Distribution of Apocalypse Spells in EEOS (Optional)
+
 ## Version 3.1.0
 
 **Warning: This update requires a new save.**
