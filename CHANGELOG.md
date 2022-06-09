@@ -19,6 +19,8 @@
 ## Version 3.1.1 [Unreleased]
 + Added Dear Diary Dark Mode + TrueHUD Synergy (Optional)
 + Added JS Attunement Sphere and Lexicons
++ Added Apothecary - Instant Restore Poitions (Optional)
++ Added Bijin Skin (Older Characters Only)
 + Replaced JS Purses and Septims with Compatability Version (Fixes LOTD Issues)
 + Removed SPID Distribution of Apocalypse Spells in EEOS (Optional)
 
