@@ -23,6 +23,7 @@
 + Added Bijin Skin (Older Characters Only)
 + Replaced JS Purses and Septims with Compatability Version (Fixes LOTD Issues)
 + Removed SPID Distribution of Apocalypse Spells in EEOS (Optional)
++ Fixed BS Bruma Goblins Missing Textures
 
 ## Version 3.1.0
 
