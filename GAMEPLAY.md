@@ -99,7 +99,7 @@ Icons in this guide:
 
 - <kbd>CTRL</kbd> + :arrow_left: - Copy to clipboard in console
 
-- <kbd>END</kbd> - Paste from clipboard in console
+- <kbd>CTRL</kbd> + <kbd>END</kbd> - Paste from clipboard in console
 
 ## Alternate Start
 
@@ -210,8 +210,6 @@ Septimus includes a minimalistic and modern UI, featuring:
 - [First Person Camera Height Fix](https://www.nexusmods.com/skyrimspecialedition/mods/28091/) - Changes the height of the first person camera to match the height (scale) of the player as determined by gender and race
 
   > :ledger: Some people get motion sickness from this mod. It can be safely disabled in Mod Organizer 2.
-
-- [Nordic UI - Interface Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/49881) - An optional complete user interface overhaul
 
 - [A Quality World Map](https://www.nexusmods.com/skyrimspecialedition/mods/5804) - Provides a new set of highly-detailed 3D or paper world map textures, complete with roads
 
@@ -325,13 +323,9 @@ Septimus adds the following new gameplay & immersion mods:
 
 Septimus includes quality-of-life improvements to streamline your playing experience, featuring:
 
-- [Better Third Person Selection](https://www.nexusmods.com/skyrimspecialedition/mods/64339) - Rewrites Skyrim's crosshair selection to work more like true 3rd person RPGs - no more spending 5 minutes picking up tiny gold coins from the ground!
-
-- [Canis Hysteria - The Werewolf Diseas](https://www.nexusmods.com/skyrimspecialedition/mods/52397) - Adds a new contractible lycanthrope disease
+- [Canis Hysteria - The Werewolf Disease](https://www.nexusmods.com/skyrimspecialedition/mods/52397) - Adds a new contractible lycanthrope disease
 
 - [Configurable Commentary Rate Slider](https://www.nexusmods.com/skyrimspecialedition/mods/38670) - A simple SkyUI configuration menu to control the frequency of idle dialogue from followers and other NPCs in the world
-
-- [Convenient Dialogue UI](https://www.nexusmods.com/skyrimspecialedition/mods/57943) - Better dialogue controls, number keys to select topics, and more topics displayed
 
 - [Forget Spell](https://www.nexusmods.com/skyrimspecialedition/mods/51125) - Too many spells cluttering your magic menu? Now you can forget them, directly from the menu!
 
