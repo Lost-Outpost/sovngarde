@@ -761,76 +761,82 @@ To maintain balance, Septimus uses [Timing is Everything](https://www.nexusmods.
 
 > :ledger: Note that the spell to unlock Myrwatch will not work unless you have 350 magicka
 
-| Content Source | Content Name                       |   Min Lvl   |
-| :------------- | :--------------------------------- | :---------: |
-| Skyrim         | Quests - The Cursed Tribe            |     24      |
-| Skyrim         | Quests - The Break of Dawn           |     29      |
-| Skyrim         | Quests - The Only Cure               |     21      |
-| Skyrim         | Quests - A Night to Remember         |     20      |
-| Skyrim         | Quests - Discerning the Transmundane |     25      |
-| Skyrim         | Quests - The Whispering Door         |     27      |
-| Skyrim         | Quests - Pieces of the Past          |     22      |
-| Skyrim         | Quests - Boethiah's Calling          |     30      |
-| Skyrim         | Quests - The Wolf Queen Awakened     |     24      |
-| Skyrim         | Quests - Unfathomable Depths         |     19      |
-| Skyrim         | Quests - Grimsever's Return          |     19      |
-| Skyrim         | Quests - Kill the Giant              |     24      |
-| Skyrim         | Quests - Dungeon Delving             |     14      |
-| Skyrim         | Quests - Kill the Vampire            |     24      |
-| Skyrim         | Quests - Deathbrand                  |     34      |
-| Skyrim         | Quests - Ebony Warrior               |     65      |
-| Skyrim         | Quests - Hired Assassin              |     10      |
-| Skyrim         | Radiant - Dragon Lair                |     24      |
-| Skyrim         | Radiant - Draugr Crypt               |      9      |
-| Skyrim         | Radiant - Forsworn Camp              |     14      |
-| Skyrim         | Radiant - Hargraven Nest             |     14      |
-| Skyrim         | Radiant - Vampire Lair               |     24      |
-| Skyrim         | Radiant - Werewolf Lair              |     24      |
-| Skyrim         | Radiant - Dragon Priest Lair         |     29      |
-| Skyrim         | Radiant - Falmer Hive                |     19      |
-| Skyrim         | Radiant - Giant Camp                 |     24      |
-| Skyrim         | Radiant - Spriggan Cave              |      9      |
-| Skyrim         | Radiant - Warlock Lair               |     14      |
-| Hearthfire DLC | Build Your Own Home                  |     12      |
-| Dawnguard DLC  | Vampire Attacks                      |     20      |
-| Dawnguard DLC  | Dawnguard Recruitment                |     20      |
-| Dragonborn DLC | Dragonborn                           |     30      |
-| Creation Club  | Alternative Armors - Daedric Plate   |     50      |
-| Creation Club  | Alternative Armors - Daedric Mail    |     50      |
-| Creation Club  | Alternative Armors - Dragon Plate    |     50      |
-| Creation Club  | Alternative Armors - Dragonscale     |     50      |
-| Creation Club  | Alternative Armors - Dwarven Mail    |     15      |
-| Creation Club  | Alternative Armors - Dwarven Plate   |     15      |
-| Creation Club  | Alternative Armors - Ebony Plate     |     36      |
-| Creation Club  | Alternative Armors - Elven Hunter    |     30      |
-| Creation Club  | Alternative Armors - Leather         |     27      |
-| Creation Club  | Alternative Armors - Orcish Plate    |     27      |
-| Creation Club  | Alternative Armors - Orcish Scale    |     30      |
-| Creation Club  | Alternative Armors - Silver          |     18      |
-| Creation Club  | Alternative Armors - Stalhrim        |     40      |
-| Creation Club  | Player Homes - Hendraheim            |     25      |
-| Creation Club  | Player Homes - Myrwatch              | 350 magicka |
-| Creation Club  | Player Homes - Gallows Hall          |     35      |
-| Creation Club  | Quests - Ghosts of the Tribunal      |     36      |
-| Creation Club  | Quests - Bittercup                   |     28      |
-| Creation Club  | Quests - The Contest                 |     25      |
-| Creation Club  | Quests - Divine Crusader             |     35      |
-| Creation Club  | Quests - Civil War Champions         |     20      |
-| Creation Club  | Quests - The Cause                   |     50      |
-| Creation Club  | Quests - Lord's Mail                 |     42      |
-| Creation Club  | Quests - Redguard Elite Armaments    |     30      |
-| Creation Club  | Quests - Saints and Seducers         |     30      |
-| Creation Club  | Quests - Spell Knight Armor          |     38      |
-| Creation Club  | Quests - Plauge of the Dead          |     10      |
-| Creation Club  | Quests - Vigil Enforcer Armor        |     18      |
-| Creation Club  | Weapons - Bow of Shadows             |     36      |
-| Creation Club  | Weapons - Dawnfang & Duskfang        |     30      |
-| Creation Club  | Weapons - Goldbrand                  |     40      |
-| Creation Club  | Weapons - Headman's Cleaver          |     32      |
-| Creation Club  | Weapons - Ruin's Edge                |     36      |
-| Creation Club  | Weapons - Shadowrend                 |     35      |
-| Creation Club  | Weapons - Sunder & Wraithguard       |     35      |
-| Creation Club  | Weapons - Umbra                      |     35      |
+| Content Source | Content Name                       |   Min Lvl   | Other |
+| :------------- | :--------------------------------- | :---------: |:----- |
+| Skyrim         | Quests - The Cursed Tribe            |     24      |   |
+| Skyrim         | Quests - The Break of Dawn           |     29      |   |
+| Skyrim         | Quests - The Only Cure               |     21      |   |
+| Skyrim         | Quests - A Night to Remember         |     20      |   |
+| Skyrim         | Quests - Discerning the Transmundane |     25      |   |
+| Skyrim         | Quests - The Whispering Door         |     27      |   |
+| Skyrim         | Quests - Pieces of the Past          |     22      |   |
+| Skyrim         | Quests - Boethiah's Calling          |     30      |   |
+| Skyrim         | Quests - The Wolf Queen Awakened     |     24      |   |
+| Skyrim         | Quests - Unfathomable Depths         |     19      |   |
+| Skyrim         | Quests - Grimsever's Return          |     19      |   |
+| Skyrim         | Quests - Kill the Giant              |     24      |   |
+| Skyrim         | Quests - Dungeon Delving             |     14      |   |
+| Skyrim         | Quests - Kill the Vampire            |     24      |   |
+| Skyrim         | Quests - Deathbrand                  |     34      |   |
+| Skyrim         | Quests - Ebony Warrior               |     65      |   |
+| Skyrim         | Quests - Hired Assassin              |     10      |   |
+| Skyrim         | Radiant - Dragon Lair                |     24      |   |
+| Skyrim         | Radiant - Draugr Crypt               |      9      |   |
+| Skyrim         | Radiant - Forsworn Camp              |     14      |   |
+| Skyrim         | Radiant - Hargraven Nest             |     14      |   |
+| Skyrim         | Radiant - Vampire Lair               |     24      |   |
+| Skyrim         | Radiant - Werewolf Lair              |     24      |   |
+| Skyrim         | Radiant - Dragon Priest Lair         |     29      |   |
+| Skyrim         | Radiant - Falmer Hive                |     19      |   |
+| Skyrim         | Radiant - Giant Camp                 |     24      |   |
+| Skyrim         | Radiant - Spriggan Cave              |      9      |   |
+| Skyrim         | Radiant - Warlock Lair               |     14      |   |
+| Hearthfire DLC | Build Your Own Home                  |     12      |   |
+| Dawnguard DLC  | Vampire Attacks                      |     20      |   |
+| Dawnguard DLC  | Dawnguard Recruitment                |     20      |   |
+| Dragonborn DLC | Dragonborn                           |     30      |   |
+| Creation Club  | Alternative Armors - Daedric Plate   |     50      |   |
+| Creation Club  | Alternative Armors - Daedric Mail    |     50      |   |
+| Creation Club  | Alternative Armors - Dragon Plate    |     50      |   |
+| Creation Club  | Alternative Armors - Dragonscale     |     50      |   |
+| Creation Club  | Alternative Armors - Dwarven Mail    |     15      |   |
+| Creation Club  | Alternative Armors - Dwarven Plate   |     15      |   |
+| Creation Club  | Alternative Armors - Ebony Plate     |     36      |   |
+| Creation Club  | Alternative Armors - Elven Hunter    |     30      |   |
+| Creation Club  | Alternative Armors - Leather         |     27      |   |
+| Creation Club  | Alternative Armors - Orcish Plate    |     27      |   |
+| Creation Club  | Alternative Armors - Orcish Scale    |     30      |   |
+| Creation Club  | Alternative Armors - Silver          |     18      |   |
+| Creation Club  | Alternative Armors - Stalhrim        |     40      |   |
+| Creation Club  | Player Homes - Hendraheim            |     25      |   |
+| Creation Club  | Player Homes - Myrwatch              |  N/A | Have 350 magicka |
+| Creation Club  | Player Homes - Gallows Hall          |     35      |   |
+| Creation Club  | Quests - Ghosts of the Tribunal      |     36      |   |
+| Creation Club  | Quests - Bittercup                   |     28      |   |
+| Creation Club  | Quests - The Contest                 |     25      |   |
+| Creation Club  | Quests - Divine Crusader             |     35      |   |
+| Creation Club  | Quests - Civil War Champions         |     20      |   |
+| Creation Club  | Quests - The Cause                   |     50      |   |
+| Creation Club  | Quests - Lord's Mail                 |     42      |   |
+| Creation Club  | Quests - Redguard Elite Armaments    |     30      |   |
+| Creation Club  | Quests - Saints and Seducers         |     30      |   |
+| Creation Club  | Quests - Spell Knight Armor          |     38      |   |
+| Creation Club  | Quests - Plauge of the Dead          |     10      |   |
+| Creation Club  | Quests - Vigil Enforcer Armor        |     18      |   |
+| Creation Club  | Weapons - Bow of Shadows             |     36      |   |
+| Creation Club  | Weapons - Dawnfang & Duskfang        |     30      |   |
+| Creation Club  | Weapons - Goldbrand                  |     40      |   |
+| Creation Club  | Weapons - Headman's Cleaver          |     32      |   |
+| Creation Club  | Weapons - Ruin's Edge                |     36      |   |
+| Creation Club  | Weapons - Shadowrend                 |     35      |   |
+| Creation Club  | Weapons - Sunder & Wraithguard       |     35      |   |
+| Creation Club  | Weapons - Umbra                      |     35      |   |
+| Mod | Quests - VIGILANT | 25 |  Complete Main Quest |
+| Mod | Quests - UNSLAAD | 40 | Complete VIGILANT |
+| Mod | Quests - Forgotten City | 25 |
+| Mod | Player Home - Blackthorn | Any |  Complete I Done Got Thaned!  |
+| Mod | Quests - Project AHO | 15 | Talk to Kynesgrove Innkeeper  |
+| Mod | Quests - Grey Cowl of Nocturnal | 20 |
 
 ## Enemies
 
