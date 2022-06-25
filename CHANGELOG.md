@@ -24,6 +24,8 @@
 + Replaced JS Purses and Septims with Compatability Version (Fixes LOTD Issues)
 + Removed SPID Distribution of Apocalypse Spells in EEOS (Optional)
 + Fixed BS Bruma Goblins Missing Textures
++ Fixed Poison Spray Issues (Hopefully)
++ Updated SKSE Version
 
 ## Version 3.1.0
 
