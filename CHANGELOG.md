@@ -16,7 +16,7 @@
 
 # Changelog
 
-## Version 3.1.1 [Unreleased]
+## Version 3.1.1
 + Added Dear Diary Dark Mode + TrueHUD Synergy (Optional)
 + Added JS Attunement Sphere and Lexicons
 + Added Apothecary - Instant Restore Poitions (Optional)
