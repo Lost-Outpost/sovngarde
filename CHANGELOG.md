@@ -16,6 +16,9 @@
 
 # Changelog
 
+## Version 3.1.1.1
++ Fixed some optional mods being missing
+
 ## Version 3.1.1
 + Added Dear Diary Dark Mode + TrueHUD Synergy (Optional)
 + Added JS Attunement Sphere and Lexicons
