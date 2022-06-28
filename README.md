@@ -1,15 +1,15 @@
-<a href="https://www.youtube.com/watch?v=70DZ5UV1Bdo"><img src="images/banner.webp" target="_blank"></a>
+<a href="https://www.youtube.com/watch?v=70DZ5UV1Bdo"><img src="https://github.com/Lost-Outpost/images/banner.webp" target="_blank"></a>
 
 ---
 
 <p align="center">
   <a href="https://www.nexusmods.com/skyrimspecialedition/mods/58229">Nexus Page</a> ·
-  <a href="README.md">Installation</a> ·
-  <a href="GAMEPLAY.md">Gameplay Guide</a> ·
-  <a href="CONFIGURATION.md">Configuration</a> ·
-  <a href="CHANGELOG.md">Changelog</a> ·
-  <a href="ADDONS.md">Addons</a> ·
-  <a href="HELP.md">Help</a>
+  <a href="https://github.com/Lost-Outpost/README.md">Installation</a> ·
+  <a href="https://github.com/Lost-Outpost/GAMEPLAY.md">Gameplay Guide</a> ·
+  <a href="https://github.com/Lost-Outpost/CONFIGURATION.md">Configuration</a> ·
+  <a href="https://github.com/Lost-Outpost/CHANGELOG.md">Changelog</a> ·
+  <a href="https://github.com/Lost-Outpost/ADDONS.md">Addons</a> ·
+  <a href="https://github.com/Lost-Outpost/HELP.md">Help</a>
 </p>
 
 ---
@@ -59,7 +59,7 @@ Users have reported running the list fine with as low as a Ryzen 1300x and a GTX
 
 ### Gameplay
 
-Septimus seeks to modify Skyrim in the least intrusive way to keep what makes the vanilla game great, while introducing new and fun things to find and do. You can find a summary of all changes on the [Gameplay Changes](GAMEPLAY.md) page.
+Septimus seeks to modify Skyrim in the least intrusive way to keep what makes the vanilla game great, while introducing new and fun things to find and do. You can find a summary of all changes on the [Gameplay Changes](https://github.com/Lost-Outpost/GAMEPLAY.md) page.
 
 ### Community
 
@@ -164,11 +164,11 @@ There are more steps though, so please keep following the next steps to setup th
 
 ### Pagefile in prevention of memory crashes
 
-Bigger Skyrim modlists need a lot of memory, and when there is not enough available it may fail allocating more. To fix this, you'll want to have a bigger <a href="PAGEFILE.md" target="_blank">pagefile</a>.
+Bigger Skyrim modlists need a lot of memory, and when there is not enough available it may fail allocating more. To fix this, you'll want to have a bigger <a href="https://github.com/Lost-Outpost/PAGEFILE.md" target="_blank">pagefile</a>.
 
 # Updating
 
-If this Modlist receives an update, please check the [changelog](CHANGELOG.md) before doing anything. Always backup your saves or start a new game after updating.
+If this Modlist receives an update, please check the [changelog](https://github.com/Lost-Outpost/CHANGELOG.md) before doing anything. Always backup your saves or start a new game after updating.
 
 **Wabbajack will delete all files that are not part of the Modlist when updating!**
 
@@ -183,17 +183,17 @@ Check the following items before starting the game (they are easy to miss)
 - Choose the ENB Preset you want (if you want one) from the [enb configuration](https://github.com/Guitarninja2/septimus/blob/main/CONFIGURATION.md#enb-presets) page
 
 # Gameplay Guide
-My team and I have put together a helpful [gameplay guide](GAMEPLAY.md) to get you informed on any gameplay changes and additional content you should be aware of. You can find that [here](GAMEPLAY.md).
+My team and I have put together a helpful [gameplay guide](https://github.com/Lost-Outpost/GAMEPLAY.md) to get you informed on any gameplay changes and additional content you should be aware of. You can find that [here](https://github.com/Lost-Outpost/GAMEPLAY.md).
 
 # Configuration
 
-If you wish to further customize by changing the ENB preset, adding in creation club content, changing dodge keys, or swapping optional mods you can visit the [Configuration](CONFIGURATION.md) page for more info.
+If you wish to further customize by changing the ENB preset, adding in creation club content, changing dodge keys, or swapping optional mods you can visit the [Configuration](https://github.com/Lost-Outpost/CONFIGURATION.md) page for more info.
 
 # Issues
 
-If you find an issue, you can see if it is already on the list of [known issues](HELP.md), which also documents solutions and workarounds.
+If you find an issue, you can see if it is already on the list of [known issues](https://github.com/Lost-Outpost/HELP.md), which also documents solutions and workarounds.
 
-For issues that aren't yet [known](HELP.md), you can provide details in the [Septimus Github](https://github.com/Guitarninja2/septimus/issues). Please provide as much info as you can (screenshots are great).
+For issues that aren't yet [known](https://github.com/Lost-Outpost/HELP.md), you can provide details in the [Septimus Github](https://github.com/Guitarninja2/septimus/issues). Please provide as much info as you can (screenshots are great).
 
 Finally, free feel to hop on the Septimus Discord support channel to have discussions with our knowledgeable community members. Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu).
 
