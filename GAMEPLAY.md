@@ -747,13 +747,17 @@ The recommended levels are meant to represent a natural progression through the 
 
   > :video_game: To begin, fyou need to reach level 15. Just travel to Mixwater MIll and you will be contacted
 
-- [Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849) - A massive quest mod with a Dark story for Vigilants of Stendarr. This mod includes a lot of unique armor sets, weapons, jewelry, creatures and more.
+- [VIGILANT](https://www.nexusmods.com/skyrimspecialedition/mods/11849) - A massive quest mod with a Dark story for Vigilants of Stendarr. This mod includes a lot of unique armor sets, weapons, jewelry, creatures and more.
 
   > :video_game: To begin, speak with Altano, who is located in the Windpeak Inn in Dawnstar
 
-- [Unslaad](https://www.nexusmods.com/skyrimspecialedition/mods/11789) - A quest mod by the author of Vigilant about a half dragon.
+  > :ledger: You must be at least L40 to start VIGILANT.
+
+- [UNSLAAD](https://www.nexusmods.com/skyrimspecialedition/mods/11789) - A quest mod by the author of Vigilant about a half dragon.
 
   > :video_game: To begin, activate Doll in corner of platform behind High Hrothgar.
+
+  > :ledger: You must have completed VIGILANT to start UNSLAAD.
 
 ## Quest Timing
 
@@ -831,12 +835,12 @@ To maintain balance, Septimus uses [Timing is Everything](https://www.nexusmods.
 | Creation Club  | Weapons - Shadowrend                 |     35      |   |
 | Creation Club  | Weapons - Sunder & Wraithguard       |     35      |   |
 | Creation Club  | Weapons - Umbra                      |     35      |   |
-| Mod | Quests - VIGILANT | 25 |  Complete Main Quest |
-| Mod | Quests - UNSLAAD | 40 | Complete VIGILANT |
-| Mod | Quests - Forgotten City | 25 |
-| Mod | Player Home - Blackthorn | Any |  Complete I Done Got Thaned!  |
 | Mod | Quests - Project AHO | 15 | Talk to Kynesgrove Innkeeper  |
+| Mod | Player Home - Blackthorn | Any |  Complete I Done Got Thaned!  |
 | Mod | Quests - Grey Cowl of Nocturnal | 20 |
+| Mod | Quests - Forgotten City | 25 |
+| Mod | Quests - VIGILANT | 40 |  Complete Main Quest |
+| Mod | Quests - UNSLAAD | 40 | Complete VIGILANT |
 
 ## Enemies
 
