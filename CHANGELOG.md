@@ -37,11 +37,41 @@ Each time someone asks when this is coming out it's delayed by 2 weeks :)
 + Added Lost Races of Aetherius
 + Added Mysticism Jump Spell Addon
 + Added Hand to Hand Armor Addon
++ Added Thaumaturgy Jump Boots Addon
++ Added Thaumaturgy Weapon Enchantment Multiplier
++ Added Blade and Blunt - Sneak Addon
++ Added Flute Animation Fix
 + Updated Audio Overhaul - Immersive Sounds Integration (AOS - ISC Compatibility Patch)
 + Updated Adamant
 + Updated Mysticism
 + Updated Hand to Hand
 + Updated USSEP
++ Updated Scrambled Bugs
++ Updated Better Jumping
++ Updated ELFX Fixes
++ Updated Atlas Map Markers
++ Updated Water Brighhtness and Reflection Fixes
++ Updated Happy Little Trees + Dyndolod Addon
++ Updated Automated Animations with SkyUI Icons
++ Updated Morthal Wheres Wares
++ Updated Morthal Quartermaster
++ Updated Kolskeggr Miner's Hall
++ Updated Karthwasten The Silver Anvil
++ Updated BeastHBB - Player Only
++ Updated Aetherius
++ Updated Mundus
++ Updated Scion
++ Updated Thaumaturgy
++ Updated Pilgrim
++ Updated Blade and Blunt
++ Updated Skyrim's Got Talent
++ Updated Simplest Horses
++ Updated Survival Mode Improved
++ Updated College of Winterhold Quest Start Fixes
++ Updated Canis Hysteria
++ Updated Whiterun Watchtower doesn't start broken
++ Updated Soups of Skyrim
++ Replaced NPC AI Process Position Fix with NPC AI Process Position Fix - NG
 
 ## Version 3.1.1.1
 + Fixed some optional mods being missing
