@@ -20,6 +20,8 @@
 
 Each time someone asks when this is coming out it's delayed by 2 weeks :)
 
++ Added Goetia Animations - Magic Spell Casting
++ Added Lost Races of Aetherius
 + Added Mysticism Jump Spell Addon
 + Added Hand to Hand Armor Addon
 + Updated Mysticism
