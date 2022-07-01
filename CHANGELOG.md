@@ -16,6 +16,12 @@
 
 # Changelog
 
+## Version 3.2.0 [Unreleased]
++ Added Mysticism Jump Spell Addon
++ Added Hand to Hand Armor Addon
++ Updated Mysticism
++ Updated Hand to Hand
+
 ## Version 3.1.1.1
 + Fixed some optional mods being missing
 
