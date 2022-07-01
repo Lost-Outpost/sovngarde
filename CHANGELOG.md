@@ -20,6 +20,7 @@
 
 Each time someone asks when this is coming out it's delayed by 2 weeks :)
 
++ Added Oblivion - An Atronach Forge Overhaul
 + Added Goetia Animations - Magic Spell Casting
 + Added Lost Races of Aetherius
 + Added Mysticism Jump Spell Addon
