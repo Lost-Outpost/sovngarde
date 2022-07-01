@@ -20,6 +20,7 @@
 
 Each time someone asks when this is coming out it's delayed by 2 weeks :)
 
++ Added Oblivion Symphonic Variations for Bruma
 + Added Creation Club Farming - Tweaks Enhancements and Quest Expansion
 + Added Relationship Change Notifications
 + Added JS Essence Extractor
