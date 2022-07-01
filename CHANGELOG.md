@@ -20,13 +20,28 @@
 
 Each time someone asks when this is coming out it's delayed by 2 weeks :)
 
++ Added Creation Club Farming - Tweaks Enhancements and Quest Expansion
++ Added Relationship Change Notifications
++ Added JS Essence Extractor
++ Added Harvest Your Blood for Septimus
++ Added Whiterun Battle Brothers
++ Added Missing in Action Delayed
++ Added Bandit Hermits
++ Added Andrealphus' Harder Quests
++ Added Tools not weapons DAR animations
++ Added RaceCompatibility for Skyrim Special Edition
++ Added QuickLoot EE - with TCC Support
++ Added RaceMenu 0.4.16 Memory Leak Hotfix (SE)
 + Added Oblivion - An Atronach Forge Overhaul
 + Added Goetia Animations - Magic Spell Casting
 + Added Lost Races of Aetherius
 + Added Mysticism Jump Spell Addon
 + Added Hand to Hand Armor Addon
++ Updated Audio Overhaul - Immersive Sounds Integration (AOS - ISC Compatibility Patch)
++ Updated Adamant
 + Updated Mysticism
 + Updated Hand to Hand
++ Updated USSEP
 
 ## Version 3.1.1.1
 + Fixed some optional mods being missing
