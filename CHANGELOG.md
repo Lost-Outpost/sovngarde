@@ -41,6 +41,8 @@ Each time someone asks when this is coming out it's delayed by 2 weeks :)
 + Added Thaumaturgy Weapon Enchantment Multiplier
 + Added Blade and Blunt - Sneak Addon
 + Added Flute Animation Fix
++ Added Bandit Lines Expansion - Dark Elf Addon
++ Added Coven - Mysticism Spell Addon
 + Updated Audio Overhaul - Immersive Sounds Integration (AOS - ISC Compatibility Patch)
 + Updated Adamant
 + Updated Mysticism
@@ -71,6 +73,12 @@ Each time someone asks when this is coming out it's delayed by 2 weeks :)
 + Updated Canis Hysteria
 + Updated Whiterun Watchtower doesn't start broken
 + Updated Soups of Skyrim
++ Updated Dynamnic Things Alternative - Base Object Swapper
++ Updated East Empire Company Armor
++ Updated Remiel
++ Updated Arachnomancy
++ Updated No Item Planted Popup
++ Updated Coven
 + Replaced NPC AI Process Position Fix with NPC AI Process Position Fix - NG
 
 ## Version 3.1.1.1
