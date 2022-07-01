@@ -43,6 +43,8 @@ Each time someone asks when this is coming out it's delayed by 2 weeks :)
 + Added Flute Animation Fix
 + Added Bandit Lines Expansion - Dark Elf Addon
 + Added Coven - Mysticism Spell Addon
++ Added Capitals and Towns - CFTO Patch
++ Added Seagulls of Skyrim + Riften Addon
 + Updated Audio Overhaul - Immersive Sounds Integration (AOS - ISC Compatibility Patch)
 + Updated Adamant
 + Updated Mysticism
@@ -79,6 +81,15 @@ Each time someone asks when this is coming out it's delayed by 2 weeks :)
 + Updated Arachnomancy
 + Updated No Item Planted Popup
 + Updated Coven
++ Updated Faster HDT SMP
++ Updated Curated Curios
++ Updated Animation Motion Revolution
++ Updated LOTD Patches
++ Updated LOTD TCC
++ Updated Pristine Vanilla Movement
++ Updated TUDM Settings Loader
++ Updated Pause After Unload Unscripted
++ Updated Trade and Barter - Settings Loader
 + Replaced NPC AI Process Position Fix with NPC AI Process Position Fix - NG
 
 ## Version 3.1.1.1
