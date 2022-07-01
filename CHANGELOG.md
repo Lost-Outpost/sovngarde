@@ -23,6 +23,14 @@ Each time someone asks when this is coming out it's delayed by 2 weeks :)
 + Added Creation Club Farming - Tweaks Enhancements and Quest Expansion
 + Added Relationship Change Notifications
 + Added JS Essence Extractor
++ Added JS Rumpled Rugs
++ Added Lore Friendly Mer Names
++ Added Oxygen Meter 2 Nordic Skin (Optional)
++ Added Embershard Miners
++ Added Bards College Excavation
++ Added Understone Keep Excavation Site
++ Added Ruunvald Excavation Site
++ Added Markarth - Help The Warrens
 + Added Harvest Your Blood for Septimus
 + Added Whiterun Battle Brothers
 + Added Missing in Action Delayed
