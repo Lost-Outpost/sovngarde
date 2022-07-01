@@ -99,6 +99,8 @@ Each time someone asks when this is coming out it's delayed by 2 weeks :)
 + Updated Pause After Unload Unscripted
 + Updated Trade and Barter - Settings Loader
 + Replaced NPC AI Process Position Fix with NPC AI Process Position Fix - NG
++ Fixed Whiterun Breezehome House Purchase Issue
++ Fixed Dear Diary Dark Mode Sorting Issue
 
 ## Version 3.1.1.1
 + Fixed some optional mods being missing
