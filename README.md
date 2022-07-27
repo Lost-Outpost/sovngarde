@@ -39,7 +39,8 @@
     - [Stock Game](#stock-game)
     - [Pagefile in prevention of memory crashes](#pagefile-in-prevention-of-memory-crashes)
 - [Updating](#updating)
-- [Final Checklist](#final-checklist)
+- [Final Checklist for Septimus - Special Edition Profile](#final-checklist-for-septimus---special-edition-profile)
+- [Final Checklist for Septimus - Anniversary Edition Profile](#final-checklist-for-septimus---anniversary-edition-profile)
 - [Gameplay Guide](#gameplay-guide)
 - [Configuration](#configuration)
 - [Issues](#issues)
@@ -176,7 +177,12 @@ This means that any additional mods you have installed on top of the Modlist wil
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
 
-# Final Checklist
+# Final Checklist for Septimus - Special Edition Profile
+Check the following items before starting the game (they are easy to miss)
+- If you are using a wide-screen monitor, make sure you have done the [post-install steps for wide-screens](https://github.com/Guitarninja2/septimus/blob/main/CONFIGURATION.md#widescreen)
+- Choose the ENB Preset you want (if you want one) from the [enb configuration](https://github.com/Guitarninja2/septimus/blob/main/CONFIGURATION.md#enb-presets) page
+
+# Final Checklist for Septimus - Anniversary Edition Profile
 Check the following items before starting the game (they are easy to miss)
 - If you are using a wide-screen monitor, make sure you have done the [post-install steps for wide-screens](https://github.com/Guitarninja2/septimus/blob/main/CONFIGURATION.md#widescreen)
 - Make sure you have done the [post-install steps for creation club content](https://github.com/Guitarninja2/septimus/blob/main/CONFIGURATION.md#creation-club-setup)
