@@ -38,6 +38,12 @@
 + Added Ryn's Robber's Gorge
 + Added Ryn's Valtheim Towers
 + Added Coffee Mod (For Apothecary)
++ Added Better Lighting for Moon and Star - with Lanterns of Skyrim II Patch
++ Added Moon and Star - Cleaned Plugin Replacer
++ Added Moon and Star (MAS) - USSEP Dock Fix
++ Added Moon and Star (MAS) Fixes
++ Added Moon and Star - Creation Club Consistency and Immersion Tweaks
++ Added Moon and Star - DLC Integration
 + Fixed Arissa head parts being playable
 + Fixed Mysticism Spell Tome Distribution
 
