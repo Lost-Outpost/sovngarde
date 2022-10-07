@@ -22,6 +22,9 @@
 + Added Soaking Wet (SKSE)
 + Added Use Those Comfy Blankets
 + Added Jiub's Opus
++ Added Shops Sell Paper
++ Added Simple Scroll Transcribing
++ Added Scroll Ingredients
 + Added Ryn's Farms
 + Added Ryn's Snazzy Last Vigil - An Ebony Warrior Overhaul
 + Added Ryn's Lund's Hut
