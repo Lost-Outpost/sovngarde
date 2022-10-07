@@ -39,6 +39,7 @@
 + Added Ryn's Bleak Falls Barrow
 + Added Ryn's Robber's Gorge
 + Added Ryn's Valtheim Towers
++ Added Detection Meter + Crash Fix
 + Added Coffee Mod (For Apothecary)
 + Added Better Lighting for Moon and Star - with Lanterns of Skyrim II Patch
 + Added Moon and Star - Cleaned Plugin Replacer
