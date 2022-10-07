@@ -25,6 +25,9 @@
 + Added Shops Sell Paper
 + Added Simple Scroll Transcribing
 + Added Scroll Ingredients
++ Added Darkend
++ Added Darkend - Enemy Rebalance
++ Added Darkend - Balance Patch
 + Added Ryn's Farms
 + Added Ryn's Snazzy Last Vigil - An Ebony Warrior Overhaul
 + Added Ryn's Lund's Hut
