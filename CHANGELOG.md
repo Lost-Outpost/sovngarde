@@ -17,6 +17,8 @@
 # Changelog
 
 ## Version 4.0.0 BETA 2 [Unreleased]
++ Added BeastHBB
++ Added Houses Shops and Inns
 + Added Soaking Wet (SKSE)
 + Added Use Those Comfy Blankets
 + Added Jiub's Opus
