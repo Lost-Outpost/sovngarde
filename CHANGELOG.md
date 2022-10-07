@@ -25,6 +25,7 @@
 + Added Shops Sell Paper
 + Added Simple Scroll Transcribing
 + Added Scroll Ingredients
++ Added Cheesemod - Apothecary Patch
 + Added Darkend
 + Added Darkend - Enemy Rebalance
 + Added Darkend - Balance Patch
