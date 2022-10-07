@@ -16,92 +16,33 @@
 
 # Changelog
 
-## Version 3.2.0 [Unreleased]
+## Version 4.0.0 BETA 2 [Unreleased]
++ Added Soaking Wet (SKSE)
++ Added Use Those Comfy Blankets
++ Added Jiub's Opus
++ Added Ryn's Farms
++ Added Ryn's Snazzy Last Vigil - An Ebony Warrior Overhaul
++ Added Ryn's Lund's Hut
++ Added Ryn's Anise's Cabin
++ Added Ryn's Saarthal (Lite)
++ Added Ryn's White River Watch
++ Added Ryn's Western Watchtower
++ Added Ryn's Halted Stream Camp
++ Added Ryn's Secunda's Kiss
++ Added Ryn's Bleakwind Basin
++ Added Ryn's Goldenglow Estate
++ Added Ryn's Bleak Falls Tower
++ Added Ryn's Crabber's Shanty and Titanclaw Lair
++ Added Ryn's Alchemist's Shack
++ Added Ryn's Bleak Falls Barrow
++ Added Ryn's Robber's Gorge
++ Added Ryn's Valtheim Towers
++ Added Coffee Mod (For Apothecary)
++ Fixed Arissa head parts being playable
++ Fixed Mysticism Spell Tome Distribution
 
-Each time someone asks when this is coming out it's delayed by 2 weeks :)
-
-+ Added Oblivion Symphonic Variations for Bruma
-+ Added Creation Club Farming - Tweaks Enhancements and Quest Expansion
-+ Added Relationship Change Notifications
-+ Added JS Essence Extractor
-+ Added JS Rumpled Rugs
-+ Added Lore Friendly Mer Names
-+ Added Oxygen Meter 2 Nordic Skin (Optional)
-+ Added Embershard Miners
-+ Added Bards College Excavation
-+ Added Understone Keep Excavation Site
-+ Added Ruunvald Excavation Site
-+ Added Markarth - Help The Warrens
-+ Added Harvest Your Blood for Septimus
-+ Added Whiterun Battle Brothers
-+ Added Missing in Action Delayed
-+ Added Bandit Hermits
-+ Added Andrealphus' Harder Quests
-+ Added Tools not weapons DAR animations
-+ Added RaceCompatibility for Skyrim Special Edition
-+ Added QuickLoot EE - with TCC Support
-+ Added RaceMenu 0.4.16 Memory Leak Hotfix (SE)
-+ Added Oblivion - An Atronach Forge Overhaul
-+ Added Goetia Animations - Magic Spell Casting
-+ Added Lost Races of Aetherius
-+ Added Mysticism Jump Spell Addon
-+ Added Hand to Hand Armor Addon
-+ Added Thaumaturgy Jump Boots Addon
-+ Added Thaumaturgy Weapon Enchantment Multiplier
-+ Added Blade and Blunt - Sneak Addon
-+ Added Flute Animation Fix
-+ Added Bandit Lines Expansion - Dark Elf Addon
-+ Added Coven - Mysticism Spell Addon
-+ Added Capitals and Towns - CFTO Patch
-+ Added Seagulls of Skyrim + Riften Addon
-+ Updated Audio Overhaul - Immersive Sounds Integration (AOS - ISC Compatibility Patch)
-+ Updated Adamant
-+ Updated Mysticism
-+ Updated Hand to Hand
-+ Updated USSEP
-+ Updated Scrambled Bugs
-+ Updated Better Jumping
-+ Updated ELFX Fixes
-+ Updated Atlas Map Markers
-+ Updated Water Brighhtness and Reflection Fixes
-+ Updated Happy Little Trees + Dyndolod Addon
-+ Updated Automated Animations with SkyUI Icons
-+ Updated Morthal Wheres Wares
-+ Updated Morthal Quartermaster
-+ Updated Kolskeggr Miner's Hall
-+ Updated Karthwasten The Silver Anvil
-+ Updated BeastHBB - Player Only
-+ Updated Aetherius
-+ Updated Mundus
-+ Updated Scion
-+ Updated Thaumaturgy
-+ Updated Pilgrim
-+ Updated Blade and Blunt
-+ Updated Skyrim's Got Talent
-+ Updated Simplest Horses
-+ Updated Survival Mode Improved
-+ Updated College of Winterhold Quest Start Fixes
-+ Updated Canis Hysteria
-+ Updated Whiterun Watchtower doesn't start broken
-+ Updated Soups of Skyrim
-+ Updated Dynamnic Things Alternative - Base Object Swapper
-+ Updated East Empire Company Armor
-+ Updated Remiel
-+ Updated Arachnomancy
-+ Updated No Item Planted Popup
-+ Updated Coven
-+ Updated Faster HDT SMP
-+ Updated Curated Curios
-+ Updated Animation Motion Revolution
-+ Updated LOTD Patches
-+ Updated LOTD TCC
-+ Updated Pristine Vanilla Movement
-+ Updated TUDM Settings Loader
-+ Updated Pause After Unload Unscripted
-+ Updated Trade and Barter - Settings Loader
-+ Replaced NPC AI Process Position Fix with NPC AI Process Position Fix - NG
-+ Fixed Whiterun Breezehome House Purchase Issue
-+ Fixed Dear Diary Dark Mode Sorting Issue
+## Version 4.0.0 BETA 1
+It's brand new, no changelog :)
 
 ## Version 3.1.1.1
 + Fixed some optional mods being missing
