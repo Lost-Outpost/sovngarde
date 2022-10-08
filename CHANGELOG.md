@@ -26,6 +26,13 @@
 + Added Simple Scroll Transcribing
 + Added Scroll Ingredients
 + Added Cheesemod - Apothecary Patch
++ Added Factions - Pit Fighter
++ Added Factions - Pit Fighter Revamped
++ Added The Forgotten City
++ Added The Forgotten City Entrance
++ Added Forgotten City Music Fixer
++ Added The Forgotten City - Delayed Start
++ Added Bruma and Forgotten City Patch
 + Added Darkend
 + Added Darkend - Enemy Rebalance
 + Added Darkend - Balance Patch
@@ -54,6 +61,10 @@
 + Added Moon and Star (MAS) Fixes
 + Added Moon and Star - Creation Club Consistency and Immersion Tweaks
 + Added Moon and Star - DLC Integration
++ Added Yellow Mountain Flowers for Skyrim Fields (BOS)
++ Added Camilla Will Follow
++ Added Naaslaarum - A Forgotten Vale Player Home
++ Added Saadia - Time of Need
 + Fixed Arissa head parts being playable
 + Fixed Mysticism Spell Tome Distribution
 
