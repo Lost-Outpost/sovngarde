@@ -68,6 +68,9 @@ Once this beta update is live, the list should be mostly content complete aside 
 + Added Camilla Will Follow
 + Added Naaslaarum - A Forgotten Vale Player Home
 + Added Saadia - Time of Need
++ Added Dynamic Collision Adjustment
++ Added Skyland - Dragonborn
++ Added Skyrim Skill Uncapper
 + Fixed Arissa head parts being playable
 + Fixed Mysticism Spell Tome Distribution
 
