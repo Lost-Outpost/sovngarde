@@ -16,6 +16,12 @@
 
 # Changelog
 
+## Version 4.0.1
++ Fixed Camilla facegen issues
++ Fixed mundus + undeath + survival mode improved conflicts
++ Fixed Fort Dawnguard interior issues
++ Fixed Blackthorn Manor Landscape issues
+
 ## Version 4.0.0
 + Added Vanilla Extended ENB
 + Added Favorite Misc Items
