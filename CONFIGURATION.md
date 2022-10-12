@@ -74,10 +74,4 @@ To change ENB presets, check the one you want in MO2 under ENB presets.
 ## Performance Guide
 
 - Try turning off any ENB that might be enabled and switching to the ultra lite reshade preset
-- Activate the performance grass and dyndolod mods under Septimus - Performance Mode
-- Copy the files from one of the presets in Septimus/Performance Options to the profile you're using and overwrite (Septimus/profiles/Septimus [- Anniversary Edition])
-
-![Perf Options](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/perf_options.png)
-![Perf Options 2](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/perf_options2.png)
-![Perf Options 3](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/perf_options3.png)
-- Double click on `SSE Display Tweaks - Septimus Settings` under `Essentials` and set the resolution to match your monitor resolution and remove the # at the beginning of the line
+- Activate the performance grass and other mods
