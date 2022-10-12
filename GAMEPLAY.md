@@ -163,44 +163,6 @@ In addition to SimonRim, this list includes:
 
   > :ledger: Septimus includes a custom skill uncapper preset that tweaks the skill leveling rates
 
-## Legacy of the Dragonborn (Optional)
-
-  > :ledger: Septimus 3 currently includes **3,365** Legacy of the Dragonborn displays
-
-Septimus optionally includes [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802). See the [Configuration Guide](https://github.com/Guitarninja2/septimus/blob/main/CONFIGURATION.md#legacy-of-the-dragonborn) if you want to disable it. Septimus includes the following LotD gameplay mods:
-
-- [Curators Companion](https://www.nexusmods.com/skyrimspecialedition/mods/38529) - The all in one Legacy of the Dragonborn companion!
-
-- [Relic Hunter- Guildmaster Start](https://www.nexusmods.com/skyrimspecialedition/mods/12253) - Begin your Legacy experience with a new Alternate Start Live Another Life option as Guild Master for the Explorer's Society! Appears as an option in the Septimus Alternate Start
-
-- [Quest and Reward Delay for Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/44923) - Delays the various rewards and quests in Legacy of the Dragonborn to higher display count numbers.
-
- > :video_game: This delay mod significantly increases the required display counts to unlock gated LotD content. For example, the LotD "Shattered Legacy" quest will not start until you have 1,200 items on display in the museum, compared to the unmodified gate of 550 items. Because Septimus includes **3,365** LotD display items, this delay mod enhances the pacing and epic feel of the LotD quests. You will still only need to collect 40% of the available displays to unlock all the LotD content.
-
- | Old Display Count | New Display Count                       |   Quest   |
-| :-------------: | :---------------------------------: | :--------- |
-| 50 | 100 | Adding to the Collection (Skullcrusher)
-| 75 | 200 | It Belongs in a Museum
-| 100 | 300 | Adding to the Collection (Thornblade)
-| 300 | 300 | Night at the Museum
-| 150 | 400 | Adding to the Collection (Cleaver of St. Felms)
-| 200 | 500 | Adding to the Collection (Eidolon's Ward)
-| 250 | 600 | Adding to the Collection (Gravedigger)
-| 400 | 600 | Shadows of One's Past
-| 300 | 700 | Adding to the Collection (Scourge)
-| 350 | 800 | Adding to the Collection (Stendarr's Hammer)
-| 400 | 900 | Adding to the Collection (Trueflame)
-| 450 | 1000 | Adding to the Collection (Staff of Hasedoki)
-| 500 | 1100 | Adding to the Collection (Hopesfire)
-| 550 | 1200 | Adding to the Collection (Sword of Ancient Tongues)/Shattered Legacy
-| 150 | 150 | A Room With a View/Digging Up Explorers
-| 150 | 350 | Branching Out
-| 150 | 550 | Branching out... Again
-| 150 | 750 | Branching out... Ever more
-| 400 | 950 | The Excavation of Windcaller Pass
-| 400 | 1150 | The Excavation of the Ruins of Rkund
-| 400 | 1350 | The Visage/The Trial of Trinimac
-
 ## User Interface and Camera
 
 Septimus includes a minimalistic and modern UI, featuring:
