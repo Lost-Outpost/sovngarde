@@ -102,6 +102,17 @@ I highly recommend uninstalling the game through Steam, deleting the game folder
 
 [THIS](https://imgur.com/a/1dySo8q) is approximately what a clean Skyrim install should look like after shredding or cleaning it manually.
 
+### Check your Skyrim version (only for `Septimus 3.1.1.1`)
+
+It is **very important** that before you would install `Septimus 3.1.1.1` with WabbaJack, you make sure that you have the correct version of Skyrim.
+Unfortunately `Septimus 3.1.1.1` does not support the currently latest _(in 2022.10.12)_ 1.6.640.0 game version.
+
+To avoid this, please use the [Unofficial Skyrim Special Edition Downgrade Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/57618) for the current Skyrim version after you already have a fresh, clean install of Skyrim and you have already started it, at least once.
+
+Currently: `FullPatcher_1.6.640.0-1.6.353.0.exe`
+
+**Otherwise WabbaJack setup process will fail!**
+
 ### Skyrim: Anniversary Edition (AE)
 
 This list requires anniversary edition and all creation club content. Make sure your game is fully up to date in Steam. It will automatically be patched by Wabbajack to work out of the box, but requires the latest game files. You _must_ download all the creation club content before installing.
