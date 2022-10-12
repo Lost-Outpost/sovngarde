@@ -221,14 +221,6 @@ Consider the following mods when planning character builds in Septimus:
 
 ### Artifacts
 
-- [Antiquary - Enhanced Artifacts](https://www.nexusmods.com/skyrimspecialedition/mods/44413)
-
-- [Konahrik's Accoutrements](https://www.nexusmods.com/skyrimspecialedition/mods/22206)
-
-- [Dwemer Traps and Explosives](https://www.nexusmods.com/skyrimspecialedition/mods/24696) - Changed to need Dwemer Smithing perk
-
-- [Legacy of the Dragonborn](https://legacy-of-the-dragonborn.fandom.com/)
-
 ## Immersion
 
 Septimus adds the following new gameplay & immersion mods:
