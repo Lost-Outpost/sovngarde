@@ -67,20 +67,9 @@ All MCM menus have been automated so you are good to ignore them unless you want
 
 > :ledger: You should only ever enable exactly one preset (regardless of whether it is an ENB or Reshade). You should never enable both an ENB and Reshade preset at the same time.
 
-Septimus includes an awesome tool called ENB Organizer for trying out different ENB and Reshade presets.
+To change ENB presets, check the one you want in MO2 under ENB presets.
 
-To change ENB & Reshade presets, do the following:
-
-- Run ENB Organizer from the exe list in the top right of MO2
-- If the program warns about not being able to check for updates, simply click ok and ignore it
-
-![Exe List](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/exe_menu.png)
-
-- Go to presets on the left menu and enable the enb preset you wish to use. Be sure to only enable one preset at a time. The safest way is to disable them all and then simply activate one preset. Mixing presets (including mixing ENB and Reshade presets) will not work.
-
-![Enb Organizer](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/enb_enable.png)
-
-- Very low spec users may want to switch to Cathedral Reshade instead of ENB for extra performance
+![Exe List](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/enb_options.png)
 
 ## Performance Guide
 
