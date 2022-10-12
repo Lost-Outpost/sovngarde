@@ -34,7 +34,7 @@ This guide highlights major mods included in Septimus in the following categorie
 - [Immersion](#immersion)
 - [Quality of Life](#quality-of-life)
 - [Gear](#gear)
-- [Followers and Companions](#followers-and-companions)
+- [New Followers](#new-followers)
 - [Homes](#homes)
 - [Quests](#quests)
 - [Quest Timing](#quest-timing)
@@ -341,39 +341,11 @@ In addition to the new gear and equipment available in the AE Creation Club, Sep
 
 - [East Empire Company Armor](https://www.nexusmods.com/skyrimspecialedition/mods/54990) - Adds a new armor set for the East Empire Company
 
-- [Mercenary Light Iron Armor](https://www.nexusmods.com/skyrimspecialedition/mods/59897) - New light armor for your mercenaries and bounty hunters.
-
-- [Nordic Carved Light Armor Set](https://www.nexusmods.com/skyrimspecialedition/mods/57761) - Adds a craftable light armor version of the Nordic Carved Armor Set
-
-- [Proper Crossbow Integration](https://www.nexusmods.com/skyrimspecialedition/mods/9914) - Integrates crossbows into every aspect of Skyrim
-
 - [Rare Curios - Bolts Expanded](https://www.nexusmods.com/skyrimspecialedition/mods/39903) - Adds new types of bolts based on the new models added by Rare Curios
-
-- [Sforzinda Fashions of the Fourth Era](https://sforzmods.tumblr.com/sse_fashions) - Attempts to bring sartorial diversity and a more organic look into the world of Skyrim through adding new clothes, armours, and accessories based on vanilla items. Now Nazeem can annoy you in a different outfit every new save you start, joy of joys!
-
-- [Sforzinda Imitations](https://sforzmods.tumblr.com/sse_imitations) - More than 30 sets of high quality outfits, and an immersive quest from battle-tailor Radiant Raymond who will be found in Radiant Raiments in Solitude once the quest starts
 
 - [Simple Wearable Lanterns](https://www.nexusmods.com/skyrimspecialedition/mods/58464) - Adds three brand new wearable lanterns
 
   > :ledger: Craft your choice of lantern. Once crafted and equipped, pressing the <kbd>L</kbd> key toggles the lantern.
-
-- [Skaal Heavy Armor](https://www.nexusmods.com/skyrimspecialedition/mods/62256) - Adds a new heavy armor set based on the Skaal Coat and Iron Armor, along with a new backpack model
-
-- [Tale of Two Mer - An Armor Variant Mod](https://www.nexusmods.com/skyrimspecialedition/mods/43074) - Adds new variants of Elven and Orcish armor
-
-- [Tinker's Forge](https://www.nexusmods.com/skyrimspecialedition/mods/22595) - A lightweight smithing overhaul which allows you create devious traps, forge silver weapons, weave magical clothing, and build your own army of Dwarven automatons!
-
-  > :ledger: Septimus includes a custom version of [Tinker's Forge](https://www.nexusmods.com/skyrimspecialedition/mods/22595) which replaces the [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191) smithing tree
-
-  > :video_game: Tempering is based on your smithing perks, and not your smithing skill level. Each perk from Apprentice Smithing to Legendary Smithing allows you to temper another tier
-
-  > :video_game: All jewelry is unlocked via the Jeweler perk. This includes necklaces for dogs.  This doesn't include [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802) replicas
-
-  > :video_game: In addition to clothing, the following items are unlocked via the first rank of the Tailor perk. Tents, Bags, Bandoliers, Shoulderpads, Satchels, Backpacks, Dog/Pet Bags, Dog/Pet Accessories (harnesses, collars, barrels, etc)
-
-- [Volkihar Knight - Vampire Armor](https://www.nexusmods.com/skyrimspecialedition/mods/4806) - Adds lore-friendly vampire armor sets
-
-- [Wayfarer's Coat](https://www.nexusmods.com/skyrimspecialedition/mods/10194) - Adds a new set of clothes/armor suitable for mages
 
 ## Followers and Companions
 
@@ -386,18 +358,6 @@ In addition to the new gear and equipment available in the AE Creation Club, Sep
 - [Vigilance Reborn SE](https://www.nexusmods.com/skyrimspecialedition/mods/17571) - Overhaul for Vigilance that gives him a unique appearance and a variety of other features.
 
 #### Remastered NPCs
-
-- [BUVARP SE RE - Barely Used Vanilla Actors Recycle Project Special Edition Revamped](https://www.nexusmods.com/skyrimspecialedition/mods/56120) - This mod gives new purposes to NPCs that are barely used in Vanilla, or would normally disappear after their quests are completed.  This includes, but it not limited to: 
-
-  - Sparing NPCs that you would normally have to kill 
-
-  - Making NPCs potential followers after completing quests related to them
-
-  - Being able to complete House of Horrors without killing Tyranus
-
-  - Adding additional NPCs to Sovengarde
-  
-  - Sven: Removed level cap and increased stats. Will offer speech training to the player, if the quest A Lovely Letter ends in his favor. This is done to make him more of viable alternative to Faendal
 
 - [More to Say](https://www.nexusmods.com/skyrimspecialedition/mods/22622) - This mod adds additional voiced dialogue to NPCs.  This includes, but is not limited to:
 
@@ -421,7 +381,7 @@ In addition to the new gear and equipment available in the AE Creation Club, Sep
 
 ### New Followers and Companions
 
-#### Primary New Followers
+#### New Followers
 
 - [Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461) - Inigo is a fully voiced khajiit adventuring companion with over 7000 lines of unique dialogue - much of it about you. He'll level alongside you and avoid most traps. If you're sneaking he won't chatter and he'll whisper if you talk to him. He can run out of arrows. He's highly skilled in archery, one-handed, and sneak.
 
@@ -435,8 +395,6 @@ In addition to the new gear and equipment available in the AE Creation Club, Sep
 
   > :video_game: You can find Lucien in Falkreath's Dead Man's Drink
 
-#### Secondary New Followers
-
 - [Arissa The Wandering Rogue](https://www.nexusmods.com/skyrim/mods/53754/) - Arissa is an Imperial with an independent, rebellious spirit and a gift for making expensive things disappear. She is a Skyrim companion character with over 600 lines of dialogue, professionally recorded and beautifully voiced by the talented Nikkita.
 
   > :video_game: You can find Arissa in Falkreath's Dead Man's Drink
@@ -447,16 +405,6 @@ In addition to the new gear and equipment available in the AE Creation Club, Sep
   
   > :video_game: You can find Auri in Falkreath hold. Look for Auri's Pod on your map
 
-- [Aviendha - Wheel of Time](https://www.nexusmods.com/skyrimspecialedition/mods/55404) - Based on the fantasy book series "The Wheel of Time" this mod adds the follower Aviendha and Wheel of Time-related quests. Fully voiced by a great cast of voice actors.
-
-  > :ledger: Includes custom Septimus balance patch
-
-  > :video_game: You can find Aviendha on the road just outside the east Riverwood gate
-
-- [Frozen in Time](https://www.nexusmods.com/skyrimspecialedition/mods/39732) - A quest to reanimate an ancient Snow Elf warrior and help her regain her past.
-
-  > :video_game: To find the Snow Elf, go to the Pale hold's Nightgate Inn, and head west towards Silverdrift Lair
-
 - [Hoth](https://www.nexusmods.com/skyrimspecialedition/mods/16137) - Hoth is an old bounty hunting adventurer and a brutal companion to travel with - one of the most visually customized followers made for Skyrim. Hoth has many one-of-a-kind features, such as being a quest giver for infinite bounty hunt contracts.
 
   > :video_game: You can find Hoth Morthal's Moorside Inn
@@ -466,16 +414,6 @@ In addition to the new gear and equipment available in the AE Creation Club, Sep
   > :ledger: Includes custom Septimus balance patch
 
   > :video_game: You can find Kaidan in Eastmarch hold's Abandoned Prison
-
-- [Remiel - Dwemer Specialist](https://www.nexusmods.com/skyrimspecialedition/mods/51874) - Breton engineer who will accompany you in your travels. She's travelled from Wayrest to explore dwemer ruins in Skyrim, but she needs your help
-
-  > :video_game: You can find Remiel in Markarth's Silver-Blood Inn
-
-- [Shirley](https://www.nexusmods.com/skyrimspecialedition/mods/45956) - Shirley Curry, the beloved Skyrim Grandma, finally comes to the game as a follower you can recruit! She'll join you on your adventures, but don't expect her to simply carry your burdens! She's got more personality than all the vanilla followers combined, and we're sure she'll be a great companion, and a friend. And a grandma!
-
-  > :video_game: You can find Shirley in a cozy little cottage called Brightwood, in the mountains east of Drelas' Cottage, north-west of Whiterun
-
-#### New Companions
 
 - [Gladys The Corgi](https://www.nexusmods.com/skyrimspecialedition/mods/50164) - Adds a friendly corgi companion to join you on your adventures!
 
@@ -490,12 +428,6 @@ In addition to the new gear and equipment available in the AE Creation Club, Sep
 - [Bogmort - Mud Monsters of Morthal Swamp](https://www.nexusmods.com/skyrimspecialedition/mods/22447) - The dead emerge from the muck in the swamps of Morthal
 
 - [Civil War Deserters](https://www.nexusmods.com/skyrimspecialedition/mods/44497) - Adds a new Deserter enemy type that you can encounter in specific locations across Skyrim
-
-- [Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194) - NPCs with more extensive dialogue and role play choices. Over 250+ fully voiced NPCs, 25+ followers, 15+ marriage NPCs, and 50+ quests.
-
-  > :ledger: [Cloud's Family Friendly Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/62007) removes non-family friendly NPCs
-
-  > :ledger: [Interesting Follower Requirements for Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/45646) adds certain requirements you must meet before you can recruit some of the possible followers of Interesting NPC
 
 ## Homes
 
@@ -515,35 +447,15 @@ In addition to the new player homes available in the AE Creation Club, Septimus 
 
 - [Dovahkiin's Vault](https://www.nexusmods.com/skyrimspecialedition/mods/42237) - A small vault in the Throat of the World for storing away all those sketchy arcane objects in a safe location away from innocent people and your family. Only accessible with Clear Skies shout
 
-- [King of Worms | Queen of Dawn](https://www.nexusmods.com/skyrimspecialedition/mods/35779) - Restore one of the lost beacons of Meridia and earn custodianship of the Chantry of the Dawn... or... Corrupt the beacon, granting access to the lair of a long dead Sload necromancer
-
-- [Morskom Estate](https://www.nexusmods.com/skyrimspecialedition/mods/33408) - A large player home situated on the hillside of Dawnstar
-
-- [Providence and Pestilence](https://www.nexusmods.com/skyrimspecialedition/mods/35237) - Journey into Peryite's Pits and earn the Taskmaster's blessing - as well as an otherworldly lair to call your home...
-
-- [Riverwood Bridgehouse Lite](https://www.nexusmods.com/skyrimspecialedition/mods/27812) - This mod adds a player home to Riverwood. Unlike the full version, there is no need to go through a dungeon or quest line to get the key. Simply buy it from Lucan at the Riverwood Trader.
-
-- [Shrek's Swamp House](https://www.nexusmods.com/skyrimspecialedition/mods/18382) - Adds a Shrek style player home to the swamps outside Morthal
-
 ### Homes from Quests and Companions
 
 The following quests and companions, mentioned in other sections of this guide, also grant player homes.
-
-- [Blackreach Railroad](https://www.nexusmods.com/skyrimspecialedition/mods/435) - A new upgradable house, which serves as the private car on the locomotive, which unlocks new sections and rooms as the player unlocks new stations!
 
 - [Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/4155) - Once you discover the Clockwork Castle, you may call it your home. However escaping is a different issue.
 
 - [Kaiden 2](https://www.nexusmods.com/skyrimspecialedition/mods/19075) - Autumn Watch is located near Ivarstead. You can purchase the keys for the home from someone in Ivarstead.
 
-- [Legacy of the Dragonborn](https://www.nexusmods.com/skyrim/mods/52248) - The museum includes a safehouse that has everything an aspiring relic hunter could possibly need! As you progress through LotD, you will also find a portable tent home, a relocatable airship home, and a Dwemer tower home.
-
-- [Identity Crisis](https://www.nexusmods.com/skyrimspecialedition/mods/39634?tab=description) - A player home awaits those with the mental fortitude - or lack thereof - to face utter lunacy.
-
 - [Project AHO](https://www.nexusmods.com/skyrimspecialedition/mods/15996) - Upon completing the mod, you can gain access to a player home which can be relocated across Skyrim.
-
-- [Restoring the Aretino Residence SE](https://www.nexusmods.com/skyrimspecialedition/mods/30447) - Fix and upgrade the Aretino residence into a proper (player) home!
-
-- [The Tale of Tsatampra Xiros](https://www.nexusmods.com/skyrimspecialedition/mods/36707) - Upon completing the quest, you gain ownership of the Annals to call your own.
 
 ### Faction Homes
 
@@ -591,10 +503,6 @@ The recommended levels are meant to represent a natural progression through the 
 
 #### Recommended Level: All
 
-- [Blackreach Railroad](https://www.nexusmods.com/skyrimspecialedition/mods/435) - Reactivate and restore your very own dwemer railroad, with new characters, items, and a fully voiced quest to do so.
-
-  > :video_game: To begin the quest to reactivate the train itself, head to Silent City, down in Blackreach, keep an eye out for a certain lift. You'll know it when you see it. It's got a train on it.
-
 - [Depths of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/26913) - Overhauls the underwater environment and adds content to the Sea of Ghosts
 
   > :video_game: To begin, swim in the Sea of Ghosts
@@ -617,31 +525,11 @@ The recommended levels are meant to represent a natural progression through the 
 
   > :video_game: The quest includes excellent voice acting. The quests are straightforward, and the final quest reward&mdash;boots which fortify movement speed&mdash;is well worth getting early in your Septimus journey.
 
-- [TrainFight](https://www.nexusmods.com/skyrimspecialedition/mods/58269?tab=posts) - Fight your way atop, through, and inside the belly of a fully animated, fully detailed steam locomotive.
-
-  > :video_game: To begin, find Kemelchend, northeast of Riften. Look for a minecart icon
-
-  > :video_game: Despite the brevity, that mod is a very fun inclusion. Made me smile
-
 #### Recommended Level: 20+
 
 - [Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/4155) - Once you discover the Clockwork Castle, you may call it your home. However escaping is a different issue.
 
   > :video_game: To begin, find a note after a chance encounter in the wilds of Skyrim
-
-- :new: [Skyrim Sewers 4](https://www.nexusmods.com/skyrimspecialedition/mods/9320) - Adds sewer systems to Solitude, Whiterun & Windhelm and a couple of forts
-
-- [The Gray Cowl of Nocturnal](https://www.nexusmods.com/skyrimspecialedition/mods/4509) - Will you be worthy for the Gray Cowl of Nocturnal? We'll see!
-
-  > :ledger: Enhanced by [More to do in Hammerfell - The Gray Cowl of Nocturnal](https://www.nexusmods.com/skyrimspecialedition/mods/62599)
-
-  > :new: :ledger: Enhanced by [The Remnants of Hammerfell](https://www.nexusmods.com/skyrimspecialedition/mods/67390)
-
-  > :video_game: To begin, just steal or pickpocket any item
-
-- [The Lost Wonders of Mzark](https://www.nexusmods.com/skyrimspecialedition/mods/40674) - Lost Wonders of Mzark is a quest/dungeon mod for those who prefer a more puzzle-oriented game. The enemies you encounter within must be disposed of in careful ways, and you'll find more than just fights awaiting you in the depths of Mzarnumez.
-
-  > :video_game: To begin, head to the far ocean, to Mzarnumez (which is marked on your map)
 
 - [Midwood Isle](https://www.nexusmods.com/skyrimspecialedition/mods/28120) - Travel to Midwood Isle, a small island home to the Sonmer, filled with quests and adventures
 
@@ -649,15 +537,7 @@ The recommended levels are meant to represent a natural progression through the 
 
   > :video_game: Alternatively, if you do not wish to wait for the courier, you can head straight to the Frozen Hearth in Winterhold to start the main quest
 
-- [The Tale of Tsatampra Xiros](https://www.nexusmods.com/skyrimspecialedition/mods/36707) - Explore a world contained within the pages of a sorcerous text, and earn the favor of the Daedric Prince Hermaeus Mora.
-
-  > :video_game: To begin, make way to the Derelict Shanty overlooking the Sea of Ghosts to begin your journey...
-
 #### Recommended Level: 30+
-
-- [Falskaar](https://www.nexusmods.com/skyrimspecialedition/mods/2057) - A DLC sized new lands mod that adds 20+ hours of fully voiced lore friendly (But not canon) quests, dungeons, and more.
-
-  > :video_game: To begin, go to Riften and speak with Jalamar. He will either be outside around the market, inside the northern gate, or inside the Bee and Barb. You can also just go straight into Echo Deep Mine, a new dungeon just northeast of Riften
 
 - [The Forgotten City](https://www.nexusmods.com/skyrimspecialedition/mods/1179) - The Forgotten City introduces a lost underground Dwemer city inhabitated by unique characters
 
@@ -667,17 +547,9 @@ The recommended levels are meant to represent a natural progression through the 
 
   > :video_game: Around level 20, a courier will arrive to start the quest. Read the book to begin Helgen reborn.
 
-- [Konahrik's Accoutrements](https://www.nexusmods.com/skyrimspecialedition/mods/22206) - Make encounters with the named Dragon Priests a more challenging and rewarding experience
-
-  > :video_game: To begin, either a) read The Dragon Forge book or b) enter dungeon Revakheim (accessed via a cave atop the mountain north of Anga's Mill, near Windhelm)
-
 - [Moon and Star](https://www.nexusmods.com/skyrimspecialedition/mods/4301) - Investigate a mysterious powerful individual in skyrim. There may be more to this individual than it seems.
 
   > :video_game: To begin, a courier should give you a letter to start the quest. Otherwise, you can go to the Sleeping Giant Inn in Riverwood and find the quest giver on your own. 
-
-- [The Tools of Kagrenac](https://www.nexusmods.com/skyrimspecialedition/mods/14168) - Go on a quest to recover the legendary Tools of Kagrenac. Encounter new allies and enemies, explore sprawling dungeons, and add powerful new artifacts and spells to your arsenal in this fully-voiced quest mod!
-
-  > :video_game: To begin, obtain Keening. To do this, you’ll have to join the College of Winterhold and finish the side questline "Arniel’s Endeavor". You’ll also need to have finished "The Way of the Voice" in the main questline.
 
 - [Undeath Remastered](https://www.nexusmods.com/skyrimspecialedition/mods/6180) - Travel to dark depths and become a powerful Lich.
 
@@ -700,18 +572,6 @@ The recommended levels are meant to represent a natural progression through the 
 - [Project AHO](https://www.nexusmods.com/skyrimspecialedition/mods/15996) - Project AHO is a large quest modification, comparable in size to a medium-sized DLC. Designed in the best traditions of Bethesda Game Studios, this mod adds to Skyrim a hidden settlement of Great House Telvanni. Determine its fate for yourself!
 
   > :video_game: To begin, fyou need to reach level 15. Just travel to Mixwater MIll and you will be contacted
-
-- [VIGILANT](https://www.nexusmods.com/skyrimspecialedition/mods/11849) - A massive quest mod with a Dark story for Vigilants of Stendarr. This mod includes a lot of unique armor sets, weapons, jewelry, creatures and more.
-
-  > :video_game: To begin, speak with Altano, who is located in the Windpeak Inn in Dawnstar
-
-  > :ledger: You must be at least L40 to start VIGILANT.
-
-- [UNSLAAD](https://www.nexusmods.com/skyrimspecialedition/mods/11789) - A quest mod by the author of Vigilant about a half dragon.
-
-  > :video_game: To begin, activate Doll in corner of platform behind High Hrothgar.
-
-  > :ledger: You must have completed VIGILANT to start UNSLAAD.
 
 ## Quest Timing
 
@@ -806,13 +666,9 @@ To maintain balance, Septimus uses [Timing is Everything](https://www.nexusmods.
 
 - [Haugbui - A Draugr Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26188) - A lightweight overhaul providing balance adjustments, new items, unique boss designs, and some more variants to the draugr enemies
 
-- [Konahrik's Accoutrements](https://www.nexusmods.com/skyrimspecialedition/mods/22206) - Make encounters with the named Dragon Priests a more challenging and rewarding experience
-
 - :new: Mihail Monsters and Animals - Nix-Hounds, Emperor Penguins, Guars, Wolves of Cyrodiil, Squirrels, Deer Expansion, Wolves in Bruma
 
 - [Hitting the Books - A Necromantic Grimoire Update](https://www.nexusmods.com/skyrimspecialedition/mods/61841) - Encounter the new creatures added by Necromantic Grimoire as enemies at Fellglow Keep and Hamvir's Rest
-
-- [Simply Stronger Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/9917) - A simple script-free mod to boost enemy dragons' health and melee/breath damage. Designed for compatibility with DDC, Splendor, and other dragon mods.
 
 ## Locations
 
@@ -826,16 +682,10 @@ To maintain balance, Septimus uses [Timing is Everything](https://www.nexusmods.
 
 - [Kolskeggr Miner's Hall](https://www.nexusmods.com/skyrimspecialedition/mods/36226) - Small, lore-friendly, and immersive expansion to Kolskeggr Mine which adds a miner's hall with a blacksmith, a food vendor, and two random miners
 
-- [Magical College of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/1539) - A lightly magical, aesthetic overhaul for the College of Winterhold!
-
-  > :video_game: Due to bonuses, you should strongly consider doing all of your enchanting, alchemy, and magic school grinding in the college
-
 - [Morthal Where's Wares](https://www.nexusmods.com/skyrimspecialedition/mods/35751) - Adds a lore-friendly and much needed general goods store with an Argonian merchant to Morthal
 
 - [Morthal Quartermaster](https://www.nexusmods.com/skyrimspecialedition/mods/60698) - Adds a lore-friendly quartermaster to the guardhouse in Morthal
 
 - [Solstheim Caravan Trader](https://www.nexusmods.com/skyrimspecialedition/mods/46590) - Adds a Khajiit Caravan trader to Raven Rock
-
-- [Stendarr's Beacon Enhanced and Ruhmastered](https://www.nexusmods.com/skyrimspecialedition/mods/16178) - Adds new, lore-appropriate interior zones, outbuildings, and decor to complement the Vigil's aesthetic
 
 - [Village of the Skaal](https://www.nexusmods.com/skyrimspecialedition/mods/33752) - A simple overhaul of the Skaal Village on Solstheim
