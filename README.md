@@ -108,7 +108,7 @@ I highly recommend uninstalling the game through Steam, deleting the game folder
 
 ### Skyrim: Anniversary Edition (AE)
 
-This list fully supports anniversary edition and all creation club content. Make sure your game is fully up to date in Steam. It will automatically be patched by Wabbajack to work out of the box, but requires the latest game files.
+This list requires anniversary edition and all creation club content. Make sure your game is fully up to date in Steam. It will automatically be patched by Wabbajack to work out of the box, but requires the latest game files. You _must_ download all the creation club content before installing.
 
 ## Start Skyrim
 Start the game and exit once you're in the main menu. This will ensure any settings files needed by Wabbajack are created in the Skyrim directory.
@@ -177,15 +177,9 @@ This means that any additional mods you have installed on top of the Modlist wil
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
 
-# Final Checklist for Septimus - Special Edition Profile
+# Final Checklist for Septimus
 Check the following items before starting the game (they are easy to miss)
 - If you are using a wide-screen monitor, make sure you have done the [post-install steps for wide-screens](https://github.com/Guitarninja2/septimus/blob/main/CONFIGURATION.md#widescreen)
-- Choose the ENB Preset you want (if you want one) from the [enb configuration](https://github.com/Guitarninja2/septimus/blob/main/CONFIGURATION.md#enb-presets) page
-
-# Final Checklist for Septimus - Anniversary Edition Profile
-Check the following items before starting the game (they are easy to miss)
-- If you are using a wide-screen monitor, make sure you have done the [post-install steps for wide-screens](https://github.com/Guitarninja2/septimus/blob/main/CONFIGURATION.md#widescreen)
-- Make sure you have done the [post-install steps for creation club content](https://github.com/Guitarninja2/septimus/blob/main/CONFIGURATION.md#creation-club-setup)
 - Choose the ENB Preset you want (if you want one) from the [enb configuration](https://github.com/Guitarninja2/septimus/blob/main/CONFIGURATION.md#enb-presets) page
 
 # Gameplay Guide
@@ -202,9 +196,6 @@ If you find an issue, you can see if it is already on the list of [known issues]
 For issues that aren't yet [known](HELP.md), you can provide details in the [Septimus Github](https://github.com/Guitarninja2/septimus/issues). Please provide as much info as you can (screenshots are great).
 
 Finally, free feel to hop on the Septimus Discord support channel to have discussions with our knowledgeable community members. Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu).
-
-# Addons
-Septimus can be configured with some additional [add-on](https://github.com/Guitarninja2/septimus/blob/main/ADDONS.md) content should you wish to add them. The content in these [add-on](https://github.com/Guitarninja2/septimus/blob/main/ADDONS.md) cannot be mixed as they are specifically designed to work properly on top of base Septimus. Pay attention to the Septimus version required for the [add-on](https://github.com/Guitarninja2/septimus/blob/main/ADDONS.md). If it is not updated, it may not work properly.
 
 # Septimus Team
 + Webmetz - Author of the Relics of Hyrule addon and awesome modder!
