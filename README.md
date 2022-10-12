@@ -14,10 +14,6 @@
 
 ---
 
-**Modlist Download: [Septimus.wabbajack](https://github.com/Lost-Outpost/septimus/releases/download/3.1.1.1/Septimus-3.1.1.1.wabbajack)**
-
-**Modlist Support: [Lost Outpost](https://discord.gg/WF66mMu)**
-
 # Installation
 
 - [Introduction](#introduction)
