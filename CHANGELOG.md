@@ -16,6 +16,18 @@
 
 # Changelog
 
+## Version 4.0.0
++ Added Vanilla Extended ENB
++ Added Favorite Misc Items
++ Added Diplomatic Dragons
++ Added Added Dynamic Collision Adjustment
++ Added SkyUI Survival Mode Integration
++ Updated All Facegen
++ Fixed Undeath Moon and Star landscape issues
++ Fixed Bruma Facegen issues
++ Many... many more misc fixes
++ Removed No Road Predators Redone >:)
+
 ## Version 4.0.0 BETA 2
 
 Once this beta update is live, the list should be mostly content complete aside from any bug fixes that need to happen. Other content can be considered in the future but I want to just test for stability etc with what's here for the short term.
