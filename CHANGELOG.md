@@ -17,7 +17,8 @@
 # Changelog
 
 ## Version 4.0.2 [Unreleased]
-+ Fixed Skyforge clipping objects 
++ Added Coherent Inn Prices - Bruma
++ Fixed Skyforge clipping objects
 
 ## Version 4.0.1
 + Fixed Camilla facegen issues
