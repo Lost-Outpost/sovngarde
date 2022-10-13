@@ -17,7 +17,11 @@
 # Changelog
 
 ## Version 4.0.2 [Unreleased]
+
+**Do not update if you are in the middle of The Whispering Door quest**
+
 + Added Coherent Inn Prices - Bruma
++ Added The Whispering Door - Quest Expansion
 + Fixed Skyforge clipping objects
 
 ## Version 4.0.1
