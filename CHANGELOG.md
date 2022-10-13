@@ -16,6 +16,9 @@
 
 # Changelog
 
+## Version 4.0.2
++ Fixed Skyforge clipping objects 
+
 ## Version 4.0.1
 + Fixed Camilla facegen issues
 + Fixed mundus + undeath + survival mode improved conflicts
