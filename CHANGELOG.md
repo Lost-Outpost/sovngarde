@@ -23,6 +23,7 @@
 + Added Coherent Inn Prices - Bruma
 + Added The Whispering Door - Quest Expansion
 + Fixed Skyforge clipping objects
++ Fixed Dwarven Arrows missing textures
 
 ## Version 4.0.1
 + Fixed Camilla facegen issues
