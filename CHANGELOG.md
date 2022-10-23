@@ -23,6 +23,8 @@
 + Added Coherent Inn Prices - Bruma
 + Added The Whispering Door - Quest Expansion
 + Removed Skinshifters - Forsworn Doppelgangers
++ Removed Player Spell Lighting (Too many issues)
++ Removed Some unwanted/jank animations
 + Fixed Skyforge clipping objects
 + Fixed Dwarven Arrows missing textures
 + Fixed Floating objects in college of winterhold
