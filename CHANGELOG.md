@@ -24,6 +24,7 @@
 + Added The Whispering Door - Quest Expansion
 + Fixed Skyforge clipping objects
 + Fixed Dwarven Arrows missing textures
++ Fixed Floating objects in college of winterhold
 
 ## Version 4.0.1
 + Fixed Camilla facegen issues
