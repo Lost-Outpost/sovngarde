@@ -25,6 +25,7 @@
 + Removed Skinshifters - Forsworn Doppelgangers
 + Removed Player Spell Lighting (Too many issues)
 + Removed Some unwanted/jank animations
++ Removed Precision and Precision - Creatures
 + Fixed Skyforge clipping objects
 + Fixed Dwarven Arrows missing textures
 + Fixed Floating objects in college of winterhold
