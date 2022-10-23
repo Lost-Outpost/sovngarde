@@ -16,7 +16,7 @@
 
 # Changelog
 
-## Version 4.0.2 [Unreleased]
+## Version 4.0.2
 
 **Do not update if you are in the middle of The Whispering Door quest**
 
