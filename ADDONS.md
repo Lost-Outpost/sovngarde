@@ -19,3 +19,6 @@ The following list is a set of addons which can be added to Septimus to add cert
 
 ## Relics of Hyrule - Webmetz
 [Relics_Of_Hyrule](https://github.com/Lost-Outpost/Septimus-ROH)
+
+## Extended NPC Overhaul - Foamimi
+[Extended NPC Overhaul](https://github.com/Foamimi/Septimus-Extended---NPC-Overhaul/blob/main/README.md)
