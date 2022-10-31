@@ -16,6 +16,15 @@
 
 # Changelog
 
+## Version 4.1.0
++ Added Civil War Lines Expansion
++ 
++ Removed Wayshrines (Added fast travel to survival mode for those folks)
++ Removed Ryn's Mods (Too many conflicts, too busy)
++ Updated Immersive Equipment Displays Configs
++ Fixed Undeath landscape issues
++ Fixed Crabber's Shack landscape issues
+
 ## Version 4.0.2
 
 **Do not update if you are in the middle of The Whispering Door quest**
