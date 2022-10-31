@@ -16,7 +16,7 @@
 
 # Gameplay Guide
 
-> :ledger: **IMPORTANT NOTE: This gameplay guide reflects the Septimus 3.1.x version. Guides for previous versions may be found by clicking the History button in the upper left corner of this page.**
+> :ledger: **IMPORTANT NOTE: This gameplay guide reflects the Septimus 4.1.x version. Guides for previous versions may be found by clicking the History button in the upper left corner of this page.**
 
 ## Overview
 
