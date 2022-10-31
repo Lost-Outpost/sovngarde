@@ -32,6 +32,7 @@
 + Updated Immersive Equipment Displays Configs
 + Fixed Undeath landscape issues
 + Fixed Crabber's Shack landscape issues
++ Fixed A TON of other landscape issues
 + Removed Wayshrines (Added fast travel to survival mode for those folks)
 + Removed Ryn's Mods (Too many conflicts, too busy)
 
