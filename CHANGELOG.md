@@ -18,12 +18,20 @@
 
 ## Version 4.1.0
 + Added Civil War Lines Expansion
-+ 
-+ Removed Wayshrines (Added fast travel to survival mode for those folks)
-+ Removed Ryn's Mods (Too many conflicts, too busy)
++ Added Subtypes of Snowberries
++ Added Simple Wearable Lanterns - Toggle Key
++ Added Camera Noise SKSE
++ Added ISC Drinking Sound Fix
++ Added RAE Quest Requirements
++ Added Custom Starting Spell Selection
++ Updated True Directional Movement
++ Updated Dynamic Collision Adjustment
++ Updated TrueHUD
 + Updated Immersive Equipment Displays Configs
 + Fixed Undeath landscape issues
 + Fixed Crabber's Shack landscape issues
++ Removed Wayshrines (Added fast travel to survival mode for those folks)
++ Removed Ryn's Mods (Too many conflicts, too busy)
 
 ## Version 4.0.2
 
