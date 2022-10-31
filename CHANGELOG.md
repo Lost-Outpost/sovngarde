@@ -17,6 +17,8 @@
 # Changelog
 
 ## Version 4.1.0
+
+**This update requires a NEW save :(**
 + Added Civil War Lines Expansion
 + Added Subtypes of Snowberries
 + Added Simple Wearable Lanterns - Toggle Key
