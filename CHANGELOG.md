@@ -16,6 +16,9 @@
 
 # Changelog
 
+## Version 4.1.1
++ Fixed Several small conflicts between undeath and mysticism + adamant
+
 ## Version 4.1.0
 
 **This update requires a NEW save :(**
