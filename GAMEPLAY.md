@@ -66,6 +66,8 @@ Icons in this guide:
 
 - <kbd>Middle Mouse Wheel</kbd> - Switches targets in [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614)
 
+- Hold <kbd>F</kbd> - Toggles 1st person/3rd person camera
+
 ### ENB Hotkeys
 
 - <kbd>F7</kbd> - Toggles FPS visibility, provided you are using ENB
