@@ -22,3 +22,6 @@ The following list is a set of addons which can be added to Septimus to add cert
 
 ## Extended NPC Overhaul - Foamimi
 [Extended NPC Overhaul](https://github.com/Foamimi/Septimus-Extended---NPC-Overhaul/blob/main/README.md)
+
+## Legacy of the Dragonborn - Foamimi
+[Legacy of the Dragonborn](https://github.com/Foamimi/Septimus-Extended---LOTD/blob/master/README.md)
