@@ -30,6 +30,7 @@
 + Added Mysticism - Survival Spells Addon
 + Added Carriages and Stables Dialogue Bundle
 + Added Animals Swim (Sort of)
++ Added Configurable Commentary Rate Slider - Settings Loader
 + Updated Adamant
 + Updated Mysticism
 + Updated Scion to 2.0 :D
@@ -82,17 +83,14 @@
 + Updated Simplicity of Snow
 + Updated Lepidoptera Unchained
 + Updated Audio Overhaul for Skyrim SE
-+ Updated EVG Animated Traversal
 + Updated Powerofthree's Papyrus Extender
 + Updated Skyland AIO
 + Updated Nifty AI Tweaks AIO - SSE
 + Updated Flickering Meshes Fix
 + Updated Riften Architectural Details
 + Updated Contextual Crosshair
-+ Updated Curated Bosses for True HUD
-+ Updated Configurable Commentary Rate Slider - Settings Loader
 + Updated Happy Little Logs
-+ Updated DynDOLOD 3 Alpha
++ Updated DynDOLOD
 + Updated Keyword Item Distributor (KID)
 + Updated Heart of the Reach - New Quest - Dungeon - Weapons - 3 Creature Variants - Ring - Spell
 + Updated Married NPCs Wear Wedding Bands (SPID - Left Hand Rings)
@@ -100,27 +98,16 @@
 + Updated Skyrim Children Refine (NPC Appearance Overhaul - Eye Colors - Skin Details - Fixes)
 + Updated OSHA-Compliant Sovengarde Mesh Fixes
 + Updated PapyrusUtil SE - Modders Scripting Utility Functions
-+ Updated Rudy fix for Splashes of Storms and ENB
-+ Updated QUI
 + Updated Base Object Swapper
-+ Updated Armor and Clothing Extension
 + Updated Wyrmstooth - Settings Loader
 + Updated Disable Fast Travel SKSE - No Janky Map UI
 + Updated Beyond Skyrim - Bruma SE
 + Updated Animated Forge Water
 + Updated SmoothCam
-+ Updated ENB Helper Plus
 + Updated Wyrmstooth
 + Updated Majestic Mountains - More Accurate Collision
-+ Updated DynDOLOD Resources SE 3
 + Updated Wade In Water Redone
-+ Updated Splashes of Storms
 + Updated JK's The Temple of Mara
-+ Updated More Dialogue Options
-+ Updated Remember Lockpick Angle - Updated
-+ Updated No Lockpick Activate (SKSE) - Updated
-+ Updated Sun and Stone Atronachs - A Mysticism Addon
-+ Updated Unofficial Skyrim Creation Club Content Patches
 + Updated Misc Dialogue Edits
 + Updated AnimObject Swapper
 + Updated Patch for Project AHO and Apothecary - An Alchemy Overhaul
@@ -131,13 +118,9 @@
 + Updated Prince and The Pauper Refine (Fixes - Improvements - New Child Outfits - No NPC Edits)
 + Updated ENB Input Disabler
 + Updated 3D Solitude Market Trellis
-+ Updated Praedy's Castle Volkihar
 + Updated QuickLoot EE
-+ Updated Skyland Dragonborn
 + Updated NPC AI Process Position Fix - NG
 + Updated Classic Sprinting Redone (SKSE64)
-+ Updated powerofthree's Tweaks
-+ Updated JK's Interiors Lite
 + Updated Classic Paralysis
 + Updated Moons and Stars - Sky Overhaul SKSE
 + Updated Enhanced Reanimation
@@ -153,13 +136,9 @@
 + Updated Dynamic Armor Variants
 + Updated Splashes Of Skyrim
 + Updated Favorite Misc Items
-+ Updated Goetia Animations - Conditional Shouts
 + Updated MCM Helper
 + Updated ShaderTools Updated
-+ Updated ENB Helper SE
-+ Updated SSE Parallax Shader Fix (BETA)
 + Updated New Armory Series - Lunar Weapons -- A Silent Moons Camp Overhaul
-+ Updated SSE Engine Fixes (skse64 plugin)
 + Updated SSE Display Tweaks
 + Updated Equip Enchantment Fix
 + Updated Skyrim - A Mountainous Experience
@@ -168,6 +147,7 @@
 + Updated Animation Motion Revolution
 + Removed Survival Mode Improved (Replaced with SKSE Version)
 + Removed RAE - Quest Requirements (Superceded by other mods)
++ Removed EVG Animated Traversal
 
 ## Version 4.1.1
 + Fixed Several small conflicts between undeath and mysticism + adamant
