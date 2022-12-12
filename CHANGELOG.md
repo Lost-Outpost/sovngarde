@@ -28,7 +28,10 @@
 + Added Forsworn and Thalmor Lines Expansion
 + Added Lucien - Beyond Skyrim Patch
 + Added Mysticism - Survival Spells Addon
++ Added Carriages and Stables Dialogue Bundle
++ Added Animals Swim (Sort of)
 + Updated Assorted Mesh Fixes
++ Updated Use Those Blankets
 + Updated Adamant
 + Updated Mysticism
 + Updated Scion to 2.0 :D
