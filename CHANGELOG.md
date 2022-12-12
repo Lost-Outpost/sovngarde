@@ -16,7 +16,7 @@
 
 # Changelog
 
-## Version 4.2.0
+## Version 4.2.0 [Unreleased]
 + Added Fishing - Reduced Cut
 + Added Destination Weddings
 + Added Seasonal Saturalia Merchant
