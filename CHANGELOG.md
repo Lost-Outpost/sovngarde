@@ -35,6 +35,7 @@
 + Updated Merlin the Corgi
 + Updated C.O.I.N
 + Removed Survival Mode Improved (Replaced with SKSE Version)
++ Removed RAE - Quest Requirements (Superceded by other mods)
 
 ## Version 4.1.1
 + Fixed Several small conflicts between undeath and mysticism + adamant
