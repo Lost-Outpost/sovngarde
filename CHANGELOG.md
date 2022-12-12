@@ -16,6 +16,26 @@
 
 # Changelog
 
+## Version 4.2.0
++ Added Fishing - Reduced Cut
++ Added Destination Weddings
++ Added Seasonal Saturalia Merchant
++ Added Homes Under the Warhammer (All Versions)
++ Added Saints and Seducers - Extended Cut
++ Added Survival Mode Improved - SKSE
++ Added Necromantic Grimoire - Mysticism Rebalance
++ Added Necromantic Grimoire - Thaumaturgy Patch
++ Added Forsworn and Thalmor Lines Expansion
++ Added Lucien - Beyond Skyrim Patch
++ Added Mysticism - Survival Spells Addon
++ Updated Assorted Mesh Fixes
++ Updated Adamant
++ Updated Mysticism
++ Updated Scion to 2.0 :D
++ Updated Merlin the Corgi
++ Updated C.O.I.N
++ Removed Survival Mode Improved (Replaced with SKSE Version)
+
 ## Version 4.1.1
 + Fixed Several small conflicts between undeath and mysticism + adamant
 
