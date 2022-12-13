@@ -18,139 +18,139 @@
 
 ## Version 4.2.0 [Unreleased]
 ### Added
-Fishing - Reduced Cut
-Destination Weddings
-Seasonal Saturalia Merchant
-Homes Under the Warhammer (All Versions)
-Saints and Seducers - Extended Cut
-Survival Mode Improved - SKSE
-Necromantic Grimoire - Mysticism Rebalance
-Necromantic Grimoire - Thaumaturgy Patch
-Forsworn and Thalmor Lines Expansion
-Lucien - Beyond Skyrim Patch
-Mysticism - Survival Spells Addon
-Carriages and Stables Dialogue Bundle
-Animals Swim (Sort of)
-Configurable Commentary Rate Slider - Settings Loader
+- Fishing - Reduced Cut
+- Destination Weddings
+- Seasonal Saturalia Merchant
+- Homes Under the Warhammer (All Versions)
+- Saints and Seducers - Extended Cut
+- Survival Mode Improved - SKSE
+- Necromantic Grimoire - Mysticism Rebalance
+- Necromantic Grimoire - Thaumaturgy Patch
+- Forsworn and Thalmor Lines Expansion
+- Lucien - Beyond Skyrim Patch
+- Mysticism - Survival Spells Addon
+- Carriages and Stables Dialogue Bundle
+- Animals Swim (Sort of)
+- Configurable Commentary Rate Slider - Settings Loader
 ### Updated
-Adamant
-Mysticism
-Scion to 2.0 :D
-Tamrielic Distribution
-Merlin the Corgi - A Magical Dog Follower Mod
-Gladys the Corgi - A Custom Dog Follower Mod
-C.O.I.N. - Coins of Interesting Natures
-Ancient Nord Stalhrim
-Skyrim Landscape and Water Fixes
-Kaidan Extended Edition
-Sleeping Expanded - Animations and NPC reactions
-Use Those Blankets
-Civil War Lines Expansion
-College of Winterhold - Quest Expansion
-NPCs Wear Amulets of Mara PLUS
-Skyrim's Got Talent - Improve As a Bard
-Bandit Lines Expansion
-Crash Logger SSE AE VR - PDB support
-JK's Sinderion's Field Laboratory
-Embers XD
-More Craftable Equipment - Unenchanted Clothing and Specialty Gear
-Complementary Grass Fixes
-Simplest Horses (and other mounts)
-Majestic Mountains Creation Club Landscape Patch
-Rare Curios - Bolts Expanded
-Simple Dual Sheath
-moreHUD SE
-Neutral Whiterun Guards
-Spell Perk Item Distributor (SPID)
-Realistic Water Two SE
-moreHUD Inventory Edition
-Particle Patch for ENB
-Animated Static Reload Fix - NG
-Narrative Gameplay Consistent Dialogue Tweaks
-ELFX Shadows - Official Patches Hub
-JK's Elgrim's Elixirs
-HD Local Map
-Happy Little Shrubs
-Static Mesh Improvement Mod Improvement Mod
-A collection of mesh patches by Andrias Bartlett
-A Clear Map of Skyrim and Other Worlds
-Books of Skyrim SE - Redux
-Cathedral 3D Mountain Flowers - Base Object Swapper
-ELFX Shadows
-Kolskeggr Mining Hamlet
-JK's Guild HQ Interiors Patch Collection
-JK's Interiors Patch Collection
-Assorted mesh fixes
-The Practical Dwemechanic - A Remiel Replacer
-Simplicity of Snow
-Lepidoptera Unchained
-Audio Overhaul for Skyrim SE
-Powerofthree's Papyrus Extender
-Skyland AIO
-Nifty AI Tweaks AIO - SSE
-Flickering Meshes Fix
-Riften Architectural Details
-Contextual Crosshair
-Happy Little Logs
-DynDOLOD
-Keyword Item Distributor (KID)
-Heart of the Reach - New Quest - Dungeon - Weapons - 3 Creature Variants - Ring - Spell
-Married NPCs Wear Wedding Bands (SPID - Left Hand Rings)
-Unique Map Weather
-Skyrim Children Refine (NPC Appearance Overhaul - Eye Colors - Skin Details - Fixes)
-OSHA-Compliant Sovengarde Mesh Fixes
-PapyrusUtil SE - Modders Scripting Utility Functions
-Base Object Swapper
-Wyrmstooth - Settings Loader
-Disable Fast Travel SKSE - No Janky Map UI
-Beyond Skyrim - Bruma SE
-Animated Forge Water
-SmoothCam
-Wyrmstooth
-Majestic Mountains - More Accurate Collision
-Wade In Water Redone
-JK's The Temple of Mara
-Misc Dialogue Edits
-AnimObject Swapper
-Patch for Project AHO and Apothecary - An Alchemy Overhaul
-Storm Lightning for SSE and VR (Minty Lightning 2019)
-Praedy's Chantry of Auriel AIO - SE
-Majestic Mountains
-NARC Remade - No Animals Report Crimes for Skyrim SE
-Prince and The Pauper Refine (Fixes - Improvements - New Child Outfits - No NPC Edits)
-ENB Input Disabler
-3D Solitude Market Trellis
-QuickLoot EE
-NPC AI Process Position Fix - NG
-Classic Sprinting Redone (SKSE64)
-Classic Paralysis
-Moons and Stars - Sky Overhaul SKSE
-Enhanced Reanimation
-The Whispering Door - Quest Expansion
-Cathedral Assets Optimizer
-Essential Favorites
-Enhanced Invisibility
-Use or Take SKSE
-Simple Offence Suppression
-Read Or Take SKSE
-Sound Fix for Large Sector Drives
-Forget Spell
-Dynamic Armor Variants
-Splashes Of Skyrim
-Favorite Misc Items
-MCM Helper
-ShaderTools Updated
-New Armory Series - Lunar Weapons -- A Silent Moons Camp Overhaul
-SSE Display Tweaks
-Equip Enchantment Fix
-Skyrim - A Mountainous Experience
-Happy Little Trees
-Movement Behavior Overhaul
-Animation Motion Revolution
+- Adamant
+- Mysticism
+- Scion to 2.0 :D
+- Tamrielic Distribution
+- Merlin the Corgi - A Magical Dog Follower Mod
+- Gladys the Corgi - A Custom Dog Follower Mod
+- C.O.I.N. - Coins of Interesting Natures
+- Ancient Nord Stalhrim
+- Skyrim Landscape and Water Fixes
+- Kaidan Extended Edition
+- Sleeping Expanded - Animations and NPC reactions
+- Use Those Blankets
+- Civil War Lines Expansion
+- College of Winterhold - Quest Expansion
+- NPCs Wear Amulets of Mara PLUS
+- Skyrim's Got Talent - Improve As a Bard
+- Bandit Lines Expansion
+- Crash Logger SSE AE VR - PDB support
+- JK's Sinderion's Field Laboratory
+- Embers XD
+- More Craftable Equipment - Unenchanted Clothing and Specialty Gear
+- Complementary Grass Fixes
+- Simplest Horses (and other mounts)
+- Majestic Mountains Creation Club Landscape Patch
+- Rare Curios - Bolts Expanded
+- Simple Dual Sheath
+- moreHUD SE
+- Neutral Whiterun Guards
+- Spell Perk Item Distributor (SPID)
+- Realistic Water Two SE
+- moreHUD Inventory Edition
+- Particle Patch for ENB
+- Animated Static Reload Fix - NG
+- Narrative Gameplay Consistent Dialogue Tweaks
+- ELFX Shadows - Official Patches Hub
+- JK's Elgrim's Elixirs
+- HD Local Map
+- Happy Little Shrubs
+- Static Mesh Improvement Mod Improvement Mod
+- A collection of mesh patches by Andrias Bartlett
+- A Clear Map of Skyrim and Other Worlds
+- Books of Skyrim SE - Redux
+- Cathedral 3D Mountain Flowers - Base Object Swapper
+- ELFX Shadows
+- Kolskeggr Mining Hamlet
+- JK's Guild HQ Interiors Patch Collection
+- JK's Interiors Patch Collection
+- Assorted mesh fixes
+- The Practical Dwemechanic - A Remiel Replacer
+- Simplicity of Snow
+- Lepidoptera Unchained
+- Audio Overhaul for Skyrim SE
+- Powerofthree's Papyrus Extender
+- Skyland AIO
+- Nifty AI Tweaks AIO - SSE
+- Flickering Meshes Fix
+- Riften Architectural Details
+- Contextual Crosshair
+- Happy Little Logs
+- DynDOLOD
+- Keyword Item Distributor (KID)
+- Heart of the Reach - New Quest - Dungeon - Weapons - 3 Creature Variants - Ring - Spell
+- Married NPCs Wear Wedding Bands (SPID - Left Hand Rings)
+- Unique Map Weather
+- Skyrim Children Refine (NPC Appearance Overhaul - Eye Colors - Skin Details - Fixes)
+- OSHA-Compliant Sovengarde Mesh Fixes
+- PapyrusUtil SE - Modders Scripting Utility Functions
+- Base Object Swapper
+- Wyrmstooth - Settings Loader
+- Disable Fast Travel SKSE - No Janky Map UI
+- Beyond Skyrim - Bruma SE
+- Animated Forge Water
+- SmoothCam
+- Wyrmstooth
+- Majestic Mountains - More Accurate Collision
+- Wade In Water Redone
+- JK's The Temple of Mara
+- Misc Dialogue Edits
+- AnimObject Swapper
+- Patch for Project AHO and Apothecary - An Alchemy Overhaul
+- Storm Lightning for SSE and VR (Minty Lightning 2019)
+- Praedy's Chantry of Auriel AIO - SE
+- Majestic Mountains
+- NARC Remade - No Animals Report Crimes for Skyrim SE
+- Prince and The Pauper Refine (Fixes - Improvements - New Child Outfits - No NPC Edits)
+- ENB Input Disabler
+- 3D Solitude Market Trellis
+- QuickLoot EE
+- NPC AI Process Position Fix - NG
+- Classic Sprinting Redone (SKSE64)
+- Classic Paralysis
+- Moons and Stars - Sky Overhaul SKSE
+- Enhanced Reanimation
+- The Whispering Door - Quest Expansion
+- Cathedral Assets Optimizer
+- Essential Favorites
+- Enhanced Invisibility
+- Use or Take SKSE
+- Simple Offence Suppression
+- Read Or Take SKSE
+- Sound Fix for Large Sector Drives
+- Forget Spell
+- Dynamic Armor Variants
+- Splashes Of Skyrim
+- Favorite Misc Items
+- MCM Helper
+- ShaderTools Updated
+- New Armory Series - Lunar Weapons -- A Silent Moons Camp Overhaul
+- SSE Display Tweaks
+- Equip Enchantment Fix
+- Skyrim - A Mountainous Experience
+- Happy Little Trees
+- Movement Behavior Overhaul
+- Animation Motion Revolution
 ### Removed
-Survival Mode Improved (Replaced with SKSE Version)
-RAE - Quest Requirements (Superceded by other mods)
-EVG Animated Traversal
+- Survival Mode Improved (Replaced with SKSE Version)
+- RAE - Quest Requirements (Superceded by other mods)
+- EVG Animated Traversal
 
 ## Version 4.1.1
 + Fixed Several small conflicts between undeath and mysticism + adamant
