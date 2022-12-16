@@ -16,7 +16,11 @@
 
 # Changelog
 
-## Version 4.2.0 [Unreleased]
+## Version 4.2.1
+### Fixed
++ Fixed Conflicts with Survival Mode Improved
+
+## Version 4.2.0
 ### Added
 - Fishing - Reduced Cut
 - Destination Weddings
