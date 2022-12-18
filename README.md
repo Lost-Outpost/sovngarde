@@ -36,10 +36,7 @@
     - [Pagefile in prevention of memory crashes](#pagefile-in-prevention-of-memory-crashes)
 - [Updating](#updating)
 - [Final Checklist for Septimus](#final-checklist-for-septimus)
-- [Gameplay Guide](#gameplay-guide)
-- [Configuration](#configuration)
 - [Issues](#issues)
-- [Addons](#addons)
 - [Septimus Team](#septimus-team)
 
 # Introduction
@@ -174,13 +171,7 @@ Updating is like installing. You only have to make sure that you select the same
 Check the following items before starting the game (they are easy to miss)
 - If you are using a wide-screen monitor, make sure you have done the [post-install steps for wide-screens](https://github.com/Guitarninja2/septimus/blob/main/CONFIGURATION.md#widescreen)
 - Choose the ENB Preset you want (if you want one) from the [enb configuration](https://github.com/Guitarninja2/septimus/blob/main/CONFIGURATION.md#enb-presets) page
-
-# Gameplay Guide
-My team and I have put together a helpful [gameplay guide](GAMEPLAY.md) to get you informed on any gameplay changes and additional content you should be aware of. You can find that [here](GAMEPLAY.md).
-
-# Configuration
-
-If you wish to further customize by changing the ENB preset, adding in creation club content, changing dodge keys, or swapping optional mods you can visit the [Configuration](CONFIGURATION.md) page for more info.
+- If you wish to further customize by changing the ENB preset, adding in creation club content, changing dodge keys, or swapping optional mods you can visit the [Configuration](CONFIGURATION.md) page for more info.
 
 # Issues
 
