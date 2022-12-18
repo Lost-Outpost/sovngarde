@@ -35,7 +35,7 @@
     - [Stock Game](#stock-game)
     - [Pagefile in prevention of memory crashes](#pagefile-in-prevention-of-memory-crashes)
 - [Updating](#updating)
-- [Final Checklist for Septimus - Anniversary Edition Profile](#final-checklist-for-septimus---anniversary-edition-profile)
+- [Final Checklist for Septimus](#final-checklist-for-septimus)
 - [Gameplay Guide](#gameplay-guide)
 - [Configuration](#configuration)
 - [Issues](#issues)
