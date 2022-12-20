@@ -16,7 +16,7 @@
 
 # Changelog
 
-## Version 4.3.0 [Unreleased]
+## Version 4.3.0
 
 **This is a major update and one that may be somewhat controversial. I've made the decision to move forward with Septimus returning to its content and performance focus now that my new lightweight and balanced modlist [Dragonborn](https://github.com/Lost-Outpost/dragonborn) exists. If you want an experience similar to the previous Septimus 4.x I recommend moving there and following that as it grows. Thanks to everyone involved and especially Foamimi for making this update absolutely incredible**
 
