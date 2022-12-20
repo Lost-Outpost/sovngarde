@@ -16,6 +16,200 @@
 
 # Changelog
 
+## Version 4.3.0 [Unreleased]
+
+**This is a major update and one that may be somewhat controversial. I've made the decision to move forward with Septimus returning to its content and performance focus now that my new lightweight and balanced modlist [Dragonborn](https://github.com/Lost-Outpost/dragonborn) exists. If you want an experience similar to the previous Septimus 4.x I recommend moving there and following that as it grows. Thanks to everyone involved and especially Foamimi for making this update absolutely incredible**
+
+### Added
+- Fuz Ro D-oh - Silent Voice
+- Sunder and Wraithguard - Editable Vault Cell (Cell Bug Workaround)
+- Legacy of the Dragonborn
+- Legacy of the Dragonborn Cleaned Textures
+- Legacy of the Dragonborn - Settings Loader
+- Quest and Reward Delay for Legacy of the Dragonborn
+- Balanced Weapons for Legacy of the Dragonborn (LOTD)
+- Legacy of The Dragonborn - Lighting Mod
+- Legacy of The Dragonborn - Museum Dome Sunlight and Shadows
+- Legacy of The Dragonborn - Museum Exterior Fixes
+- Legacy Safehouse Plus
+- Legacy of the Dragonborn - Quick Museum Shortcuts
+- Legacy of the Dragonborn - Fixes and Tweaks
+- Legacy of the Dragonborn - Follower Room Patches
+- Legacy of the Dragonborn - Serana's Safehouse Room
+- Legacy of the Dragonborn Patches (Official)
+- Legacy of the Dragonborn - Creation Club Patch Hub
+- Legacy of the Dragonborn - The Curators Companion
+- Legacy of the Dragonborn - Hall of Forgotten
+- Legacy of the Dragonborn - Midwood Isle Unofficial Patch
+- Unofficial LOTD and Beyond Skyrim Bruma Synergy Patch
+- LOTD Pale Pass Extension
+- Beyond Skyrim Bruma - Adamantium Addon - LOTD Patch
+- Simple Backpack Rebalance - LOTD Patch
+- Legacy of the Dragonborn Unofficial Unslaad Patch
+- Unofficial Legacy of the Dragonborn - Pilgrim Patch
+- Legacy of the Dragonborn - Cheesemod MCM Patch
+- Legacy of the Dragonborn - Blackreach Railroad Unofficial Patch
+- Legacy of the Dragonborn - Lost Wonders of Mzark Unofficial Patch
+- Moon and Star - Creation Club - LOTD Synergy Patch
+- Remiel - LOTD Commentary Patch
+- Legacy of The Dragonborn - Cathedral 3D Mountain Flowers Patch
+- ArteFakes - LOTD Patch
+- Haugbui - LOTD Patch
+- Ancient Nord Stalhrim Patches - Legacy of the Dragonborn
+- Al's HMB FaceGen Patches - Legacy of the Dragonborn
+- LOTD Dragonmail Cuirass Enhanced
+- Better Wine Labels - Legacy of the Dragonborn
+- Replacer for Banners - Legacy of the Dragonborn
+- Vibrant Explorers Guild Banner (LOTD)
+- Yet Another Legacy of the Dragonborn Art Replacer
+- Paintings Remade - Legacy of The Dragonborn
+- Fate Cards Remade - Legacy of The Dragonborn
+- Museum Gate Remade - Legacy of The Dragonborn
+- ElSopa Big Backpack for LOTD
+- Legacy of The Dragonborn - Dwemer Compass Replacer
+- Legacy of The Dragonborn - SMIM Chests
+- Legacy of The Dragonborn - Museum Dome Improved
+- Legacy of The Dragonborn - Dome Retexture
+- Stalhrim Refrozen - LOTD Vahlok Mask 2K
+- JS Unique Utopia - Daggers - LOTD Patch
+- Legacy of the Dragonborn - Greener Jade Skull for Unique Skulls HD
+- Legacy of the Dragonborn - Improved Dig Sites
+- Legacy of the Dragonborn - Cleaner Display Glass
+- TrueHUD - HUD Additions - Legacy of the Dragonborn Boss Ini Tweaks
+- GV's TrueHUD Boss Bar Integration for Midwood Isle
+- Ghosts of the Tribunal - Project AHO Integration
+- Project AHO - Vampirism Fix
+- The Forgotten City - No Audiobooks
+- Skyrim Sewers 4
+- Skyrim Sewers - Radiant Quests Enabled
+- Weapon Blood Fix for Skyrim Sewers 4 (Updated)
+- Skyrim Sewers - Undeath Patch
+- Skyrim Sewers - Saints and Seducers Patch
+- Unique Vampire Dens - Skyrim Sewers Integration
+- VIGILANT
+- VIGILANT HiRes Pack
+- VIGILANT Voiced - English Addon
+- Vigilant - Delayed Start
+- VIGILANT - Settings Loader
+- VIGILANT - Adjustments and Addons
+- VIGILANT - ENB Light Chest Fix
+- Obsidian Weathers - Vigilant Integration
+- VIGILANT - Shadowfoot Sanctum Patch
+- VIGILANT - Skyrim Sewers Patch
+- Vigilant DeadPile Flesh Retexture
+- Vigilant Armors and Weapons Retexture
+- Vigilant - Covered Female Robes
+- Vigilant - Greymarch Retexture
+- Animated Armoury Vigilant Patch
+- Animated Armoury Vigilant Patch - Ebony Twinblade Fix
+- Animated Armoury Vigilant Patch - Weapon Reach Fix
+- Apothecary - Vigilant Patch
+- TrueHUD - Vigilant Boss Bars Ini
+- VIGILANT - Book Covers
+- VIGILANT - Patches by Xtudo
+- Unslaad
+- Unslaad Voiced - English Addon
+- Unslaad - Delayed Start
+- Unslaad - Settings Loader
+- Unslaad Hoarfrost Knight Tweaks and Fixes
+- Unslaad Weapons and Armors Retexture
+- Apothecary - Unslaad Patch
+- TrueHUD - Unslaad Boss Bars Ini
+- Konahrik's Accoutrements
+- Konahrik's Accoutrements - Upscaled Textures
+- Konahrik's Accoutrements Lite
+- Konahrik's Accoutrements - Fixed Esp
+- Stalhrim Refrozen - Konahrik's Accoutrements 2K
+- Majestic Mountains - Konahrik's Accoutrements Patch
+- Apothecary - Konahrik's Accoutrements Patch
+- Clockwork
+- Clockwork - Settings Loader
+- Clockwork - Shrine Swapper
+- Additional Clockwork
+- Clockwork Cleaned Textures
+- Skeleton Replacer HD - Clockwork Patch
+- Clockwork Re-Imagined
+- Clockwork Shadow Redone
+- The Grand Paladin – 2021
+- The Tools of Kagrenac
+- JS Unique Utopia - Daggers - TOK Patch
+- The Gray Cowl of Nocturnal
+- The Gray Cowl of Nocturnal - Addons and Patches
+- The Gray Cowl of Nocturnal - HD pack
+- Camels and New Animals in Alik'r Desert
+- More to do in Hammerfell
+- The Remnants of Hammerfell
+- The Remnants of Hammerfell - Camels Patch
+- Gray Cowl of Nocturnal Statue Position Fix
+- Gray Cowl of Nocturnal Alikr Flora Overhaul
+- GCON - Flora Overhaul Fixes
+- TrueHUD - HUD Additions - Gray Cowl of Nocturnal Boss Ini Tweaks
+- Blackreach Railroad
+- TrainFight
+- TrainFight - Blackreach Railroad Patch
+- The Lost Wonders of Mzark
+- Frozen in Time
+- The Wheel of Time
+- The Wheel of Time - Animated Armory DAR - Spear Animations
+- Dynamic Lowered Hoods - Mannequin - Hoth - Clockwork Fix
+- Auri - Vampirism Fix
+- Apothecary - Remiel Patch
+- Song of the Green (Auri Follower) - Enhanced Voice
+- Kaidan 2 - HD Armor Retexture
+- Auri - Song of the Green - Kaidan Banter Patch
+- Auri - Kaidan Banter Patch - Kaidan Romance Progression Fix
+- Legacy of the Dragonborn Visual Overhaul
+- VIGILANT - NPC Overhaul
+- Northbourne NPCs of Whiterun Hold
+- Northbourne NPCs of Falkreath Hold
+- Northbourne NPCs of the Rift
+- Northbourne NPCs of Winterhold
+- Northbourne NPCs of Haafingar
+- Northbourne NPCs of Hjaalmarch
+- Dapper Deliveries - A Courier Overhaul
+- Kalilies NPCs
+- Pandorable's NPCs
+- Pandorable's NPCs – Males
+- Pandorable's NPCs - Males 2
+- Pandorable's Initiates
+- Pandorable's NPCs – Dawnguard
+- Pandorable's NPCs – Dragonborn
+- Bijin Warmaidens
+- Bijin NPCs
+- Bijin Wives
+- Valerica by rxkx22
+- Bijin Fixes (AIO)
+- Bijin AIO UNP NeverNude Patch
+- BeastHHBB - Player Character and NPC Replacer
+- Lalup's NPCs - Creation Club
+- Eeekie's Even Better Kaidan
+- Literally Unplayable - Nortbourne NPCs of the Rift Patch
+- Literally Unplayable - Northbourne NPCs of Haafingar Patch
+- Cheesemod - ELFX Patch
+- Lucien - Beyond Skyrim Morrowind - Bonemold Weapon Pack Patch
+- Beyond Skyrim - Bruma Hotfix 1.6.1
+- Kolskeggr Mining Hamlet - Fishing Spot
+- Missing Follower Dialogue Edit
+- BUVARP SE RE
+- Fare Thee Well - Spouses and Children Give Blessings
+- Denizens of Morthal - Dialogue and Character Expander
+- Teldryn Sero Dialogue Expansion
+- A Serious Wedding - Teldryn Sero Marriage Mod
+
+### Updated
+- Destination Weddings
+- Simplest Horses - Animated Whistling Patch
+- Fishing - Reduced Cut
+- Rare Curios - Bolts Expanded
+- Kolskeggr Mining Hamlet
+- NPCs Wear Amulets of Mara PLUS
+- NPC AI Process Position Fix – NG
+- Prince and the Pauper (reinstalled to hopefully fix the missing textures)
+
+### Removed
+- Dynamic Lowered Hoods - Mannequin and Hoth Fix
+- Forsworn Skinchangers
+
 ## Version 4.2.1
 ### Fixed
 + Fixed Conflicts with Survival Mode Improved
