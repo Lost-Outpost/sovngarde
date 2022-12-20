@@ -209,6 +209,8 @@
 ### Removed
 - Dynamic Lowered Hoods - Mannequin and Hoth Fix
 - Forsworn Skinchangers
+- Movement Behavior Overhaul (Busted)
+- Enhanced Landscapes (SO..many..conflicts..)
 
 ## Version 4.2.1
 ### Fixed
