@@ -195,6 +195,7 @@
 - Denizens of Morthal - Dialogue and Character Expander
 - Teldryn Sero Dialogue Expansion
 - A Serious Wedding - Teldryn Sero Marriage Mod
+- KS Hairdos Lite
 
 ### Updated
 - Destination Weddings
