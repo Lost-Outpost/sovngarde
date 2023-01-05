@@ -19,3 +19,6 @@ The following list is a set of addons which can be added to Septimus to add cert
 
 ## Extended NPC Overhaul - Foamimi
 [Extended NPC Overhaul](https://github.com/Foamimi/Septimus-Extended---NPC-Overhaul/blob/main/README.md)
+
+## Extended NPC Dialogue - Foamimi
+[Extended NPC Dialogue](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue)
