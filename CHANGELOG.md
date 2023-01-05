@@ -16,6 +16,13 @@
 
 # Changelog
 
+## Version 1.0.2
+
+### Added
++ KS Hairs Lite
++ Vanilla Textures for KS Hairs Lite
++ Enhanced Blood Textures SPID
+
 ## Version 1.0.1
 
 ### Added
