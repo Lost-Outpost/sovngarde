@@ -33,6 +33,7 @@
     - [Downloading and Installing](#downloading-and-installing)
       - [Problems with Wabbajack](#problems-with-wabbajack)
     - [Pagefile in prevention of memory crashes](#pagefile-in-prevention-of-memory-crashes)
+  - [Steam Deck](#steam-deck)
 - [Updating](#updating)
 - [Issues](#issues)
 - [Septimus Team](#septimus-team)
@@ -113,7 +114,6 @@ The download and installation process can take a little while (an hour or more) 
 4. Select the created folder in step 1 as your installation folder
 5. Select the created folder in step 2 as your downloads folder
 6. Click the Go/Begin button and wait for Wabbajack to finish
-7. Set up creation club content for anniversary edition profile with instructions [here](https://github.com/Guitarninja2/septimus/blob/main/CONFIGURATION.md#creation-club-setup)
 
 ### Problems with Wabbajack
 
@@ -138,6 +138,10 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 ### Pagefile in prevention of memory crashes
 
 Bigger Skyrim modlists need a lot of memory, and when there is not enough available it may fail allocating more. To fix this, you'll want to have a bigger <a href="PAGEFILE.md" target="_blank">pagefile</a>.
+
+## Steam Deck
+
+This modlist can be played on Steam Deck and special care has been taken to make sure performance is acceptable there. You can view the steam deck install instructions [here](https://github.com/Omni-guides/Wabbajack-Modlist-Linux/wiki/Skyrim-Septimus) after you finish the normal install.
 
 # Updating
 
