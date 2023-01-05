@@ -16,6 +16,14 @@
 
 # Changelog
 
+## Version 1.0.1
+
+### Added
++ Lucien Re-Imagined
+
+### Fixed
++ Arissa's Hair is no longer purple
+
 ## Version 1.0.0
 
 ***This is a complete rebuild and refresh of the list with a clear goal in mind. Please refrain from pointing out "missing" or mod suggestions for the time being.***
