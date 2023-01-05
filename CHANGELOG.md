@@ -21,6 +21,8 @@
 ### Added
 + Lucien Re-Imagined
 + Tamrielic Distribution - Lucien Patch
++ Refined Auri
++ Serana and Valerica Re-Imagined
 
 ### Fixed
 + Arissa's Hair is no longer purple
