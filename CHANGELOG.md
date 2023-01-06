@@ -16,6 +16,19 @@
 
 # Changelog
 
+## Version 1.0.3
+
+### Added
++ Whispering Door Quest Expansion (Fixed)
++ Radiant Requirements MCM
++ Salt and Wind - KS Hair Lite
+
+### Removed
++ Vanilla Hair Textures for KS Lite
+
+### Fixed
++ Load Order issue with EBT
+
 ## Version 1.0.2
 
 ### Added
