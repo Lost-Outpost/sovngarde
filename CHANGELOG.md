@@ -22,6 +22,7 @@
 + Whispering Door Quest Expansion (Fixed)
 + Radiant Requirements MCM
 + Salt and Wind - KS Hair Lite
++ Sforzinda Destinations (Additional carriage stops)
 
 ### Removed
 + Vanilla Hair Textures for KS Lite
