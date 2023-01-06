@@ -23,6 +23,7 @@
 + Radiant Requirements MCM
 + Salt and Wind - KS Hair Lite
 + Sforzinda Destinations (Additional carriage stops)
++ HD Reworked Horses
 
 ### Removed
 + Vanilla Hair Textures for KS Lite
