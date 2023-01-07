@@ -58,7 +58,7 @@ Icons in this guide:
 
 - <kbd>X</kbd> - Toggles compass visibility
 
-- <kbd>CTRL</kbd> - Toggles sneaking (without weapons drawn) or performs dodge (with weapons drawn) using [The Ultimate Dodge Mod Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/63000)
+- <kbd>CTRL</kbd> - Toggles sneaking
 
 - <kbd>SHIFT</kbd> - Toggles sprinting
 
