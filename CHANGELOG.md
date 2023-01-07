@@ -16,6 +16,12 @@
 
 # Changelog
 
+## Version 1.0.5
+
+### Added
++ Blade and Blunt - Vanilla Difficulty Modifiers (Optional)
++ College of mages - ELFX Patch
+
 ## Version 1.0.4
 
 ### Added
