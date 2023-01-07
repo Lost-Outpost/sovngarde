@@ -16,6 +16,18 @@
 
 # Changelog
 
+## Version 1.0.4
+
+### Added
++ Weather is Sacred ENB
++ Saints and Seducers - Mysticism Rebalance + ECSS Patch
++ The Cause - Mysticism Rebalance
++ HD Reworked Horses
++ Vigil Enforcer - Mysticism Consistency
+
+### Removed
++ Performance ENB (Replaced by new one)
+
 ## Version 1.0.3
 
 ### Added
