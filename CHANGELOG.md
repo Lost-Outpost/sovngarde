@@ -22,6 +22,7 @@
 + Draugr Warhounds
 + Follower Trap Safety
 + Cheesemod Curator's Companion Patch
++ Midwood Isle - Custom Creation Club Outfits Patch
 
 ### Fixed
 + Fixed issue with Malkoran's outfit
