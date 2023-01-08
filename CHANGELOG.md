@@ -16,6 +16,16 @@
 
 # Changelog
 
+## Version 1.0.7
+
+### Added
++ Draugr Warhounds
++ Follower Trap Safety
++ Cheesemod Curator's Companion Patch
+
+### Fixed
++ Fixed issue with Malkoran's outfit
+
 ## Version 1.0.6
 
 ### Added
