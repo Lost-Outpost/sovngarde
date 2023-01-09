@@ -16,6 +16,18 @@
 
 # Changelog
 
+## Version 1.0.8
+
+### Added
++ Dynamic Animation Replacer (Until OAR is out)
++ Underdog Animations - Custom Cut
++ Custom Tamrielic Distribution - Moon and Star Patch
++ LOTD Fate Card Remake
++ LOTD Painting Remake
+
+### Updated
++ Press H To Horse
+
 ## Version 1.0.7
 
 ### Added
