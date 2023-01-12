@@ -16,6 +16,18 @@
 
 # Changelog
 
+## Version 1.0.9
+
+### Added
++ Enhanced Reanimation
++ CC's Camping Expansion
++ Skyland - Happy Little Trees
++ Innocence Lost - Quest Expansion
++ Capitals and Towns of Skyrim
+
+### Updated
++ Dyndolod and TexGen Outputs
+
 ## Version 1.0.8
 
 ### Added
