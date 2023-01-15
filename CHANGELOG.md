@@ -24,6 +24,7 @@ In this update, I wanted to re-do the creation club integration a little bit to 
 + Rebalancing AE - Quest Requirements (This now serves as the primary balancing method for AE Quests)
 + Bruma Clutter for Skyrim Imperials
 + Sexier Vanilla - Civil War Champions (Custom patch to restore quest)
++ Redguard Elite - Reintegration (Custom patch to restore quest)
 
 ### Updated
 + Manbeast to 2.0!!!
@@ -34,7 +35,6 @@ In this update, I wanted to re-do the creation club integration a little bit to 
 + Base Object Swapper
 
 ### Removed
-+ Redguard Elite - Reintegration (Keeping CC Quests)
 + The Cause - Reduced Cut (Want to keep CC Quests)
 + Homes Under the Warhammer (Covered by RAE Quest Requirements)
 + Fishing - Reduced Cut (Was just not necessary really)
