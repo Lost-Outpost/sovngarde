@@ -23,6 +23,7 @@ In this update, I wanted to re-do the creation club integration a little bit to 
 ### Added
 + Rebalancing AE - Quest Requirements (This now serves as the primary balancing method for AE Quests)
 + Bruma Clutter for Skyrim Imperials
++ Sexier Vanilla - Civil War Champions (Custom patch to restore quest)
 
 ### Updated
 + Manbeast to 2.0!!!
