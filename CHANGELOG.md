@@ -30,6 +30,7 @@ In this update, I wanted to re-do the creation club integration a little bit to 
 + Ghosts of The Tribunal - Reduced Cut (Switched to keep quest version)
 + Mysticism
 + Adamant
++ Base Object Swapper
 
 ### Removed
 + Redguard Elite - Reintegration (Keeping CC Quests)
