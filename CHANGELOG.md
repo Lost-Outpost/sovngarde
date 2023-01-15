@@ -16,6 +16,24 @@
 
 # Changelog
 
+## Version 1.1.0 [Unreleased]
+
+In this update, I wanted to re-do the creation club integration a little bit to restore as many of the CC quests as possible. I don't think it's fair to just remove them entirely and I'd rather see them rebalanced or reworked where I can.
+
+### Added
++ Rebalancing AE - Quest Requirements (This now serves as the primary balancing method for AE Quests)
+
+### Updated
++ Manbeast to 2.0!!!
++ Scion 2.1
++ Ghosts of The Tribunal - Reduced Cut (Switched to keep quest version)
+
+### Removed
++ Redguard Elite - Reintegration (Keeping CC Quests)
++ The Cause - Reduced Cut (Want to keep CC Quests)
++ Homes Under the Warhammer (Covered by RAE Quest Requirements)
++ Fishing - Reduced Cut (Was just not necessary really)
+
 ## Version 1.0.9
 
 ### Added
