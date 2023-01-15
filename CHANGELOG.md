@@ -27,6 +27,8 @@ In this update, I wanted to re-do the creation club integration a little bit to 
 + Manbeast to 2.0!!!
 + Scion 2.1
 + Ghosts of The Tribunal - Reduced Cut (Switched to keep quest version)
++ Mysticism
++ Adamant
 
 ### Removed
 + Redguard Elite - Reintegration (Keeping CC Quests)
