@@ -33,6 +33,8 @@ In this update, I wanted to re-do the creation club integration a little bit to 
 + Mysticism
 + Adamant
 + Base Object Swapper
++ Natura
++ Lunaris
 
 ### Removed
 + The Cause - Reduced Cut (Want to keep CC Quests)
