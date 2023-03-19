@@ -44,7 +44,7 @@
 
 "I can almost... hear them. I feel their life energy. Come, I will make the mixture." - Septimus Signus
 
-Septimus is a lightweight and streamlined modlist with the very best modded content, creation club and survival support as well as excellent performance. It's designed to take up as little hard drive space as possible while still providing a performance friendly and beautiful graphics overhaul and enough content to discover for existing and new players.
+Septimus is an extensive modlist full of carefully chosen new gear, spells, quests, and personal touches, all designed to fit seamlessly into the game. It contains optional lightweight survival gameplay and full anniversary edition creation club integration. It is designed to look beautiful while maintaining a stable 60+ framerate on almost any machine.
 
 ## List Contents
 
