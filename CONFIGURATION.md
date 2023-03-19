@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <a href="https://www.nexusmods.com/skyrimspecialedition/mods/58229">Nexus Page</a> ·
+  <a href="https://www.nexusmods.com/skyrimspecialedition/mods/80877">Nexus Page</a> ·
   <a href="README.md">Installation</a> ·
   <a href="GAMEPLAY.md">Gameplay Guide</a> ·
   <a href="CONFIGURATION.md">Configuration</a> ·
@@ -17,20 +17,14 @@
 # Configuration
 
 - [Optional Tweaks](#optional-tweaks)
-- [Optional Content](#optional-content)
   - [Widescreen](#widescreen)
   - [Character Presets](#character-presets)
-- [Mod Configuration](#mod-configuration)
-  - [MCM Menus](#mcm-menus)
 - [ENB and Reshade Presets](#ENB-and-Reshade-Presets)
 - [Performance Guide](#performance-guide)
 
 ## Optional Tweaks
 
 When enabling any optional tweaks, make sure they are always loaded BEFORE realisticwatertwo.esp in your load order. See the alternate start section for an example of this.
-
-## Optional Content
-**As a warning. The optional content has not been tested nearly as heavily as the rest of the list as not everyone has it enabled. Support will be limited if you enable any of the optional content as its more difficult to account for them. If you are at all worried about stability, do NOT enable any.**
 
 ### Widescreen
 
@@ -53,15 +47,6 @@ You can select this mod, right-click it, and then select "Open in Explorer" to s
 ```
 Septimus\mods[NoDelete] Character Presets\SKSE\Plugins\CharGen\Presets
 ```
-
-### General Rules
-When enabling this content, just like with alternate start mods, ensure all mod esp files are just above realisticwatertwo.esp in your load order and if there is a Septimus patch for them, load that after the mod's esp and above all other Septimus patches. This applies for any optional content not specifically mentioned here. For content with its own section, follow the appropriate readme section for it.
-
-## Mod Configuration
-
-### MCM Menus
-
-All MCM menus have been automated so you are good to ignore them unless you want to change anything.
 
 ## ENB and Reshade Presets
 

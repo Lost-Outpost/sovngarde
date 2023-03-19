@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <a href="https://www.nexusmods.com/skyrimspecialedition/mods/58229">Nexus Page</a> ·
+  <a href="https://www.nexusmods.com/skyrimspecialedition/mods/80877">Nexus Page</a> ·
   <a href="README.md">Installation</a> ·
   <a href="GAMEPLAY.md">Gameplay Guide</a> ·
   <a href="CONFIGURATION.md">Configuration</a> ·
@@ -17,12 +17,12 @@
 # Installation
 
 - [Introduction](#introduction)
-  - [Minimum Specs](#minimum-specs)
-  - [Gameplay](#gameplay)
-  - [Community](#community)
   - [List Contents](#list-contents)
+  - [Minimum Specs](#minimum-specs)
+  - [Community](#community)
+  - [Skyrim: Anniversary Edition](#Skyrim-Anniversary-Edition)
 - [Installation](#installation)
-  - [Pre-Installation](#pre-installation)
+  - [Pre-Install](#pre-install)
     - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
     - [Steam Library](#steam-library)
     - [Set the Game language to English](#set-the-game-language-to-english)
@@ -34,36 +34,40 @@
       - [Problems with Wabbajack](#problems-with-wabbajack)
     - [Pagefile in prevention of memory crashes](#pagefile-in-prevention-of-memory-crashes)
   - [Steam Deck](#steam-deck)
+  - [Skyrim GOG](#skyrim-gog)
 - [Updating](#updating)
+- [Startup](#startup)
 - [Issues](#issues)
 - [Septimus Team](#septimus-team)
 
 # Introduction
 
-"I can almost... hear them. I feel their life energy. Come, I will make the mixture." - Septimus Signus
+"So... a Septimus appears, at this moment in the turning of the age." - Arngeir
 
-Septimus is an extensive modlist full of carefully chosen new gear, spells, quests, and personal touches, all designed to fit seamlessly into the game. It contains optional lightweight survival gameplay and full anniversary edition creation club integration. It is designed to look beautiful while maintaining a stable 60+ framerate on almost any machine.
+Septimus is a lightweight and streamlined modlist with the very best modded content, creation club and survival support as well as excellent performance. It's designed to take up as little hard drive space as possible while still providing a performance friendly and beautiful graphics overhaul and enough content to discover for existing and new players.
 
-### Minimum Specs
+## List Contents
+
+You can browse the full list contents [here](https://loadorderlibrary.com/lists/septimus-a-streamlined-modlist) if you want to know exactly what you're getting.
+
+You can find a summary of all changes on the [Gameplay Changes](GAMEPLAY.md) page.
+
+## Minimum Specs
 Users have reported running the list fine with as low as a Ryzen 1300x and a GTX960. You may need to use performance ini files (included) with systems this low but it should run fine and still look great!
 
-### Gameplay
-
-Septimus seeks to modify Skyrim in the least intrusive way to keep what makes the vanilla game great, while introducing new and fun things to find and do. You can find a summary of all changes on the [Gameplay Changes](GAMEPLAY.md) page.
-
-### Community
+## Community
 
 Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu) server and in the [Issues](https://github.com/Guitarninja2/septimus/issues) section of the Septimus GitHub. If you have any questions following the add-on's instructions or if you find a typo or any other mistake in the documentation, feel free to report in The Lost Outpost Discord server's support channel.
 
-### List Contents
+## Skyrim: Anniversary Edition
 
-You can browse the full list contents [here](https://loadorderlibrary.com/lists/septimus) if you want to know exactly what you're getting.
+This list requires anniversary edition and all creation club content. Make sure your game is fully up to date in Steam. It will automatically be patched by Wabbajack to work out of the box, but requires the latest game files. You _must_ download all the creation club content before installing.
 
 # Installation
 
 Installation is handled through [Wabbajack](https://www.wabbajack.org/#/) with a one-click install of the modlist. There are some pre-installation steps which must be followed for first time users so please pay attention to those.
 
-## Pre-Installation
+## Pre-Install
 
 These steps are only needed if you install the Modlist for the first time. If you are updating the Modlist, jump straight to [Updating](#updating).
 
@@ -89,11 +93,7 @@ I highly recommend uninstalling the game through Steam, deleting the game folder
 
 [THIS](https://imgur.com/a/1dySo8q) is approximately what a clean Skyrim install should look like after shredding or cleaning it manually.
 
-### Skyrim: Anniversary Edition (AE)
-
-This list requires anniversary edition and all creation club content. Make sure your game is fully up to date in Steam. It will automatically be patched by Wabbajack to work out of the box, but requires the latest game files. You _must_ download all the creation club content before installing.
-
-## Start Skyrim
+### Start Skyrim
 Start the game and exit once you're in the main menu. This will ensure any settings files needed by Wabbajack are created in the Skyrim directory.
 
 ## Using Wabbajack
@@ -143,6 +143,10 @@ Bigger Skyrim modlists need a lot of memory, and when there is not enough availa
 
 This modlist can be played on Steam Deck and special care has been taken to make sure performance is acceptable there. You can view the steam deck install instructions [here](https://github.com/Omni-guides/Wabbajack-Modlist-Linux/wiki/Skyrim-Septimus) after you finish the normal install.
 
+## Skyrim GOG
+
+This modlist can be played on the GOG version of Skyrim. You will need to do a couple of extra steps which are listed [here](GOG.md)
+
 # Updating
 
 If this Modlist receives an update, please check the [changelog](CHANGELOG.md) before doing anything. Always backup your saves or start a new game after updating.
@@ -153,14 +157,19 @@ This means that any additional mods you have installed on top of the Modlist wil
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
 
+# Startup
+
+Open the installation folder and double click on the program called `ModOrganizer.exe`.
+
+Make sure the dropdown box on the right is set to `Septimus` and press the Run button.
+
 # Issues
 
 If you find an issue, you can see if it is already on the list of [known issues](HELP.md), which also documents solutions and workarounds.
 
-For issues that aren't yet [known](HELP.md), you can provide details in the [Septimus Github](https://github.com/Guitarninja2/septimus/issues). Please provide as much info as you can (screenshots are great).
+For issues that aren't yet [known](HELP.md), you can provide details in the [Septimus Github](https://github.com/Lost-Outpost/septimus/issues). Please provide as much info as you can (screenshots are great).
 
 Finally, free feel to hop on the Septimus Discord support channel to have discussions with our knowledgeable community members. Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu).
 
 # Septimus Team
-+ Guitarninja - Creator of Septimus
-+ Foamimi - Originally an addon maintainer and now part of the core team
++ Guitarninja :)
