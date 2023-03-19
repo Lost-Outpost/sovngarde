@@ -48,7 +48,7 @@ Septimus is an extensive modlist full of carefully chosen new gear, spells, ques
 
 ## List Contents
 
-You can browse the full list contents [here](https://loadorderlibrary.com/lists/septimus-a-streamlined-modlist) if you want to know exactly what you're getting.
+You can browse the full list contents [here](https://loadorderlibrary.com/lists/septimus) if you want to know exactly what you're getting.
 
 You can find a summary of all changes on the [Gameplay Changes](GAMEPLAY.md) page.
 
