@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <a href="https://www.nexusmods.com/skyrimspecialedition/mods/80877">Nexus Page</a> ·
+  <a href="https://www.nexusmods.com/skyrimspecialedition/mods/58229">Nexus Page</a> ·
   <a href="README.md">Installation</a> ·
   <a href="GAMEPLAY.md">Gameplay Guide</a> ·
   <a href="CONFIGURATION.md">Configuration</a> ·
@@ -688,7 +688,7 @@ Adding some last minute quest changes I forgot about :)
 
 ## Version 1.0.0
 
-Full release is out on the nexus [here](https://www.nexusmods.com/skyrimspecialedition/mods/80877) and on the Wabbajack UI under unofficial lists. Enjoy!
+Full release is out on the nexus [here](https://www.nexusmods.com/skyrimspecialedition/mods/58229) and on the Wabbajack UI under unofficial lists. Enjoy!
 
 ### Added
 + Ancient Knowledge - Automaton Summoning
