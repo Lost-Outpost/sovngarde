@@ -31,6 +31,7 @@
 + Morthal - Where's Wares
 + Alternate Start - Live Another Life - Septimus Edition
 + Dragonborn Hall (Artifact storage location in High Hrothgar)
++ Lost Races of Aetherius + Scion Patch
 
 ## Version 1.4.5
 
