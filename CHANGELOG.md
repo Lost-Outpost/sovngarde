@@ -16,6 +16,19 @@
 
 # Changelog
 
+## Version 1.5.0 [Unreleased]
+
+### Added
++ Midwood Isle + Custom CC Patch
++ Lucien
++ JK's Skyrim (Custom Cut)
++ ERM - Rocks and Mountains
++ Heart of the Reach
+
+## Version 1.4.5
+
+Just the rebranding. No new content
+
 ## Version 1.4.4
 
 ### Added
