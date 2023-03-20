@@ -26,8 +26,6 @@
 + Tools of Kagrenac
 + Heart of the Reach
 + Heavy Armory - Custom Cut
-+ Stellaris - Cosmic Spells
-+ Necrom - Cultist Spells
 + Morthal - Where's Wares
 + Alternate Start - Live Another Life - Septimus Edition
 + Dragonborn Hall (Artifact storage location in High Hrothgar)
