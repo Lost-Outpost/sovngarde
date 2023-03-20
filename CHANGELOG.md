@@ -24,6 +24,10 @@
 + JK's Skyrim (Custom Cut)
 + ERM - Rocks and Mountains
 + Heart of the Reach
++ Heavy Armory - Custom Cut
++ Stellaris
++ Necrom
++ Flames of Coldharbour
 
 ## Version 1.4.5
 
