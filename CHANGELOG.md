@@ -16,7 +16,7 @@
 
 # Changelog
 
-## Version 1.5.0 [Unreleased]
+## Version 1.5.0
 
 ### Added
 + Midwood Isle + Custom CC Patch
