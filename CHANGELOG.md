@@ -21,13 +21,16 @@
 ### Added
 + Midwood Isle + Custom CC Patch
 + Lucien
-+ JK's Skyrim (Custom Cut)
 + ERM - Rocks and Mountains
++ Helgen Reborn + Balance Patch
++ Tools of Kagrenac
 + Heart of the Reach
 + Heavy Armory - Custom Cut
 + Stellaris
 + Necrom
 + Flames of Coldharbour
++ Morthal - Where's Wares
++ Alternate Start - Live Another Life - Septimus Edition
 
 ## Version 1.4.5
 
