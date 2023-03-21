@@ -16,6 +16,11 @@
 
 # Changelog
 
+## Version 1.5.1
+
+### Fixed
++ Re-patched Abyss, Natura and Bloodmoon for new versions (oops)
+
 ## Version 1.5.0
 
 ### Added
