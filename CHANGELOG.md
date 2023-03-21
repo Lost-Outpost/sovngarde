@@ -18,6 +18,9 @@
 
 ## Version 1.5.1
 
+### Added
++ Heavy Armory - Thaumaturgy Patch
+
 ### Fixed
 + Re-patched Abyss, Natura and Bloodmoon for new versions (oops)
 
@@ -30,7 +33,7 @@
 + Helgen Reborn + Balance Patch
 + Tools of Kagrenac
 + Heart of the Reach
-+ Heavy Armory + Thaumaturgy Patch
++ Heavy Armory
 + Morthal - Where's Wares
 + Alternate Start - Live Another Life - Septimus Edition
 + Dragonborn Hall (Artifact storage location in High Hrothgar)
