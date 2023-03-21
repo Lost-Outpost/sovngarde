@@ -141,7 +141,7 @@ Bigger Skyrim modlists need a lot of memory, and when there is not enough availa
 
 ## Steam Deck
 
-This modlist can be played on Steam Deck and special care has been taken to make sure performance is acceptable there. You can view the steam deck install instructions [here](https://github.com/Omni-guides/Wabbajack-Modlist-Linux/wiki/Skyrim-Septimus) after you finish the normal install.
+This modlist can be played on Steam Deck and special care has been taken to make sure performance is acceptable there. You can view the steam deck install instructions [here](https://github.com/Omni-guides/Wabbajack-Modlist-Linux/wiki/Skyrim:-Septimus) after you finish the normal install.
 
 ## Skyrim GOG
 
