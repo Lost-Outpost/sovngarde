@@ -16,6 +16,20 @@
 
 # Changelog
 
+## Version 1.6.0
+
+### Added
++ Blackthorn - A Buildable Town - Septimus Edition (Many, many custom edits)
++ Rudy ENB - Performance Config
++ Dungeon - An Encounter Overhaul (Custom)
+
+### Updated
++ Rudy ENB Water Settings (Hopefully no more water seams)
++ Ancient Knowledge - Automation Summoning
+
+### Removed
++ Ammo Enchanting
+
 ## Version 1.5.1
 
 ### Added
