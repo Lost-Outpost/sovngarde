@@ -16,6 +16,11 @@
 
 # Changelog
 
+## Version 1.6.1
+
+### Fixed
++ Discord Rich Presence Settings
+
 ## Version 1.6.0
 
 ### Added
