@@ -53,7 +53,7 @@ You can browse the full list contents [here](https://loadorderlibrary.com/lists/
 You can find a summary of all changes on the [Gameplay Changes](GAMEPLAY.md) page.
 
 ## Minimum Specs
-Users have reported running the list fine with as low as a Ryzen 1300x and a GTX960. You may need to use performance ini files (included) with systems this low but it should run fine and still look great!
+Users have reported running the list fine with as low as a Ryzen 1300x and a GTX960. You may need to adjust settings with systems this low but it should run fine and still look great!
 
 ## Community
 
