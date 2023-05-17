@@ -33,7 +33,6 @@
 + Bloodmoon
 + Lunaris
 + Natura
-+ Abyss
 + Thaumaturgy
 + Adamant
 + Hand to Hand
