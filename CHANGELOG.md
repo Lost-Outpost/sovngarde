@@ -16,6 +16,33 @@
 
 # Changelog
 
+## Version 1.7.0 [Unreleased]
+
+### Added
++ Project AHO
++ Stormcrown - A Shout Overhaul
++ Custom Skills Framework
++ Skyland - Mead
++ Skyland - Crates and Barrels
++ Skyland - Alchemy
++ Skyland - Chests
++ Skyland - Furniture
++ Skyland - Blacksmith
+
+### Updated
++ Bloodmoon
++ Lunaris
++ Natura
++ Abyss
++ Thaumaturgy
++ Adamant
++ Hand to Hand
++ Mundus
++ Aetherius
++ Thaumaturgy
++ Mysticism
++ Survival Mode Improved - SKSE
+
 ## Version 1.6.1
 
 ### Fixed
