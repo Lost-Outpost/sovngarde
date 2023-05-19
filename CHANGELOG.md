@@ -22,12 +22,6 @@
 + Project AHO
 + Stormcrown - A Shout Overhaul
 + Custom Skills Framework
-+ Skyland - Mead
-+ Skyland - Crates and Barrels
-+ Skyland - Alchemy
-+ Skyland - Chests
-+ Skyland - Furniture
-+ Skyland - Blacksmith
 
 ### Updated
 + Bloodmoon
