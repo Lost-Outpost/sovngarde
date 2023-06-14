@@ -22,6 +22,15 @@
 + Project AHO
 + Stormcrown - A Shout Overhaul
 + Custom Skills Framework
++ Books of Skyrim + Redux
++ Belethor's Sister - Quest
++ The Dragon Cult - Priesthood
++ Spaghetti's Cities
++ Spaghetti's Towns
++ Spaghetti's Solstheim
++ Spaghetti's AIO - Custom Patch
++ Open Animation Replacer
++ Dual Casting Fix
 
 ### Updated
 + Bloodmoon
@@ -35,6 +44,12 @@
 + Thaumaturgy
 + Mysticism
 + Survival Mode Improved - SKSE
+
+### Removed
++ Dynamic Animation Replacer
+
+### Fixed
++ Ragged Flagon being wonky
 
 ## Version 1.6.1
 
