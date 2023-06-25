@@ -46,7 +46,7 @@
 + Survival Mode Improved - SKSE
 
 ### Removed
-+ Dynamic Animation Replacer
++ Dynamic Animation Replacer (Replaced by Open Animation Replacer)
 
 ### Fixed
 + Ragged Flagon being wonky
