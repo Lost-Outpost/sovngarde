@@ -31,6 +31,9 @@
 + Spaghetti's AIO - Custom Patch
 + Open Animation Replacer
 + Dual Casting Fix
++ Grass Sampler Fix
++ Adamant - Bard Perks
++ ERM - DynDOLOD Addon
 
 ### Updated
 + Bloodmoon
@@ -43,7 +46,10 @@
 + Aetherius
 + Thaumaturgy
 + Mysticism
++ ERM - Enhanced Rocks and Mountains
 + Survival Mode Improved - SKSE
++ Skyland - Parallax Landscapes
++ Blade and Blunt
 
 ### Removed
 + Dynamic Animation Replacer (Replaced by Open Animation Replacer)
