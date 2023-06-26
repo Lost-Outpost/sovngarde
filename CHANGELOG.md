@@ -16,7 +16,7 @@
 
 # Changelog
 
-## Version 1.7.0 [Unreleased]
+## Version 1.7.0
 
 ### Added
 + Project AHO
