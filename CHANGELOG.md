@@ -16,6 +16,18 @@
 
 # Changelog
 
+## Version 1.7.1 [Unreleased]
+
+### Added
++ Brawl Lines Expansion
++ Stones of Solitude
+
+### Updated
++ Assorted Mesh Fixes
+
+### Removed
++ Blade and Blunt Injury System (Disabled)
+
 ## Version 1.7.0
 
 ### Added
