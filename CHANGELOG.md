@@ -16,7 +16,16 @@
 
 # Changelog
 
-## Version 1.7.1 [Unreleased]
+## Version 1.7.2 [Unreleased]
+
+### Added
++ Photo Mode
+
+### Updated
++ Stormcrown
++ Brawl Lines Expansion
+
+## Version 1.7.1
 
 ### Added
 + Brawl Lines Expansion
