@@ -16,7 +16,7 @@
 
 # Changelog
 
-## Version 1.7.2 [Unreleased]
+## Version 1.7.2
 
 ### Added
 + Sorcerer - A Staff and Scroll Overhaul
