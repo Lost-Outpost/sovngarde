@@ -19,6 +19,7 @@
 ## Version 1.7.2 [Unreleased]
 
 ### Added
++ Sorcerer - A Staff and Scroll Overhaul
 + Photo Mode
 
 ### Updated
