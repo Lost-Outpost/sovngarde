@@ -27,6 +27,7 @@ The following are things that could prevent you from importing a vanilla save
 * You have added mods at one point and later removed them (the save must be 100% clean)
 * You've used console commands to skip significant portions of the game or to cheat for items
 * You are in the middle of an important quest sequence such as a dialogue scene or boss battle
+* You are either a vampire or a werewolf
 
 Please do your best to avoid the above situations and import on a save that is in a neutral place.
 
@@ -36,6 +37,7 @@ Please do your best to avoid the above situations and import on a save that is i
 * Use the free `Draught of Fate Unwound` on first load to reset your perk points and choose new ones
 * If you notice certain quests start earlier than they should, [Timing is Everything](https://www.nexusmods.com/skyrimspecialedition/mods/25464) and [RAE Quest Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/61004) were added too late to apply to those quests
 * Certain items may take some time to appear on enemies or in vendors on existing saves
+* Ensure you are neither a vampire or a werewolf when importing
 
 ## Important Mod Considerations
 Certain mods may not fully apply if added to existing saves (this is okay). The following are some notable ones.
