@@ -118,27 +118,7 @@ The download and installation process can take a little while (an hour or more) 
 
 ### Problems with Wabbajack
 
-There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off so you lose no progress.
-
-Seriously, simply retrying the Wabbajack download fixes most problems.
-
-**Could not download x**:
-
-If a mod updated and the old files got deleted, it is impossible to download them. In this case, just wait until I update the Modlist.
-
-Some files are known to be problematic, it is likely those are the ones that failed. You can download them manually from their source and place the archives **AS IS** in the downloads folder.
-
-**x is not a whitelisted download**:
-
-This can happen when I update the modlist. Check if a new update is available and wait if there is none.
-
-**Wabbajack could not find my game folder**:
-
-Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the [Pre-Installation](#pre-installation) step.
-
-### Pagefile in prevention of memory crashes
-
-Bigger Skyrim modlists need a lot of memory, and when there is not enough available it may fail allocating more. To fix this, you'll want to have a bigger <a href="PAGEFILE.md" target="_blank">pagefile</a>.
+There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off so you lose no progress. Seriously, simply retrying the Wabbajack download fixes most problems. If you still cannot figure out the issue, please check in our support forum or the official Wabbajack discord.
 
 ## Steam Deck
 
