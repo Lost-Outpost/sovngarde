@@ -147,6 +147,9 @@ This modlist can be played on Steam Deck and special care has been taken to make
 
 This modlist can be played on the GOG version of Skyrim. You will need to do a couple of extra steps which are listed [here](GOG.md)
 
+## Existing Saves
+This modist is designed to be able to be added to existing saves. Please follow [these](https://github.com/Lost-Outpost/septimus/blob/main/EXISTINGSAVE.md) instructions to ensure your save is imported smoothly.
+
 # Updating
 
 If this Modlist receives an update, please check the [changelog](CHANGELOG.md) before doing anything. Always backup your saves or start a new game after updating.
