@@ -146,8 +146,6 @@ In addition to SimonRim, this list includes:
 
 Septimus includes a minimalistic and modern UI, featuring:
 
-- [A Quality World Map](https://www.nexusmods.com/skyrimspecialedition/mods/5804) - Provides a new set of highly-detailed 3D or paper world map textures, complete with roads
-
 - [RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080) - Complete overhaul to the character creation menu including new customization features
 
 - [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604) - Elegant, PC-friendly interface
@@ -170,30 +168,6 @@ Septimus uses [Antiquary - Enhanced Artifacts](https://www.nexusmods.com/skyrims
 
 - [Dawnguard Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/25094) - Completes the Dawnguard weapon collection and distributes the armor weapons to the members as well.
 
-- [New Armory Series - Ashen Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/72728) - Adds new Ashen weapons to the Ash Spawn on Solstheim so your encounters with them will be more varied.
-
-- [New Armory Series - Lunar Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/69438) - Introduces a new range of Lunar steel weapons, and allows you to craft them at the Lunar Forge.
-
-- [New Armory Series - Elven Steel Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/78888) - Elven Steel will replace all normal Steel weapons on Thalmor, and will spawn in all level lists that also include normal Elven weapons.
-
-- [Royal Armory - New Artifacts](https://www.nexusmods.com/skyrimspecialedition/mods/6994) - New weapons to the important people of Skyrim
-
-## Followers and Companions
-
-- [Gladys The Corgi](https://www.nexusmods.com/skyrimspecialedition/mods/50164) - Adds a friendly corgi companion to join you on your adventures!
-
-  > :video_game: You can find Gladys for sale at the Solitude docks in front of the East Empire Company Warehouse
-
-- [Merlin The Corgi](https://www.nexusmods.com/skyrimspecialedition/mods/56433) - Adds a magical corgi companion to join you on your adventures!
-
-  > :video_game: You can find Merlin at the Summoning Circle just north of Morthal
-
-## Homes
-
-- [Naaslaarum - A Forgotten Vale Player Home](https://www.nexusmods.com/skyrimspecialedition/mods/75180) - Adds a player home to the Forgotten Vale with a great view of the ice falls
-
-- [Dovahkiin's Vault](https://www.nexusmods.com/skyrimspecialedition/mods/42237) - A small vault in the Throat of the World for storing away all those sketchy arcane objects in a safe location away from innocent people and your family. Only accessible with Clear Skies shout
-
 ## Quests and Adventures
 
 ### New Quests
@@ -209,14 +183,6 @@ Septimus uses [Antiquary - Enhanced Artifacts](https://www.nexusmods.com/skyrims
 - [Moon and Star](https://www.nexusmods.com/skyrimspecialedition/mods/4301) - Investigate a mysterious powerful individual in skyrim. There may be more to this individual than it seems.
 
   > :video_game: To begin, a courier should give you a letter to start the quest. Otherwise, you can go to the Sleeping Giant Inn in Riverwood and find the quest giver on your own
-
-- [Depths of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/26913) - Overhauls the underwater environment and adds content to the Sea of Ghosts
-
-  > :video_game: To begin, swim in the Sea of Ghosts
-
-- [Faction - Pit Fighter](https://www.nexusmods.com/skyrimspecialedition/mods/22513) - Pit Fighter contains an all new faction to join, complete with NPCs, progression through the ranks, unique rewards and side quests.
-
-  > :video_game: To begin, compete in a variety of locations from Windhelms old Arena to Orc Strongholds and Smuggler fighting rings
 
 ### Quest Changes
 
@@ -242,24 +208,4 @@ There are also several mods that aim to improve upon the CC quest content
 
 - [Rebalancing AE - Quest Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/61004) - Delays several pieces of creation club content to later levels for balance purposes.
 
-- [Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772) - Fully overhauls the Saints and Seducers creation by adding a fully-voiced quest that takes you back to the Shivering Isles from The Elder Scrolls IV Oblivion. 
-
-  > :video_game: To begin, you need to be at least level 20 and should have completed the Daedric Quest The Mind of Madness
-
-- [Ghosts of the Tribunal - Reduced Cut](https://www.nexusmods.com/skyrimspecialedition/mods/67019) - Integrates ghosts of the tribunal content into the Septimus DLC and retains the quest
-
-- [Ayleid Lich Crown - Cut Content Restored](https://www.nexusmods.com/skyrimspecialedition/mods/58398) - Implements a wearable version of the Ayleid Lich King's crown from The Cause creation
-
-Other changes to quests include
-
-- [Improved Companions - Questline Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/22300) - Actually back out of becoming a werewolf without leaving Skjor and Aela stuck in the Underforge forever, and various other tweaks for the Companions
-
-- [Save the Icerunner - Lights Out Alternate Routes](https://www.nexusmods.com/skyrimspecialedition/mods/34681) - Jaree-Ra in Solitude has a plan to set up a shipwreck. The ship is said to be full of weapons and riches, ripe for the taking. What will you do?
-
-- [Finding Helgi... and Laelette - A Laid to Rest Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/28973) - A home in Morthal burned down under mysterious circumstances; some say it was the murder of a wife and daughter. A woman leaves home without saying goodbye to her husband and son, ostensibly to join the war. Are these events connected? This is an overhaul of "Laid to Rest" and the third mod in the "Finding" series
-
 - [A Lovely Letter Alternate Routes](https://www.nexusmods.com/skyrimspecialedition/mods/21916) - Tell Sven and Faendal that you won't get involved in their quarrel, or expose both of them and gain Camilla's favor for yourself
-
-## Locations
-
-- [Capitals and Towns of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/50263) - Changes the minor hold capitals to make them stad out from just regular villages
