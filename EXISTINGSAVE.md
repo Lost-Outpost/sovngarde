@@ -27,7 +27,7 @@ The following are things that could prevent you from importing a vanilla save
 * You have added mods at one point and later removed them (the save must be 100% clean)
 * You've used console commands to skip significant portions of the game or to cheat for items
 * You are in the middle of an important quest sequence such as a dialogue scene or boss battle
-* You are either a vampire nor a werewolf
+* You are either a vampire or a werewolf
 
 Please do your best to avoid the above situations and import on a save that is in a neutral place.
 
