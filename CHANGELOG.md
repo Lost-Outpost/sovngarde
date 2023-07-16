@@ -16,6 +16,10 @@
 
 # Changelog
 
+## Version 1.8.0
+
+This is a major overhaul with too many changes to list. It DOES require a new save, but from here on out, no new saves will be required when updates happen.
+
 ## Version 1.7.2
 
 ### Added
