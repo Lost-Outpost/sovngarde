@@ -26,9 +26,6 @@ This guide highlights major mods included in Sovngarde in the following categori
 - [Gameplay Guide](#gameplay-guide)
   - [Overview](#overview)
   - [Hotkeys](#hotkeys)
-    - [Gameplay Hotkeys](#gameplay-hotkeys)
-    - [ENB Hotkeys](#enb-hotkeys)
-    - [ReShade Hotkeys](#reshade-hotkeys)
 
 Icons in this guide:
 
@@ -37,8 +34,6 @@ Icons in this guide:
 - :video_game: indicates Sovngarde play testing observations
 
 ## Hotkeys
-
-### Gameplay Hotkeys
 
 - <kbd>C</kbd> - Switches shoulders for [SmoothCam](https://www.nexusmods.com/skyrimspecialedition/mods/41252)
 
