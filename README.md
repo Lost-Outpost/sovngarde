@@ -38,7 +38,7 @@
 - [Updating](#updating)
 - [Startup](#startup)
 - [Issues](#issues)
-- [Septimus Team](#septimus-team)
+- [Sovngarde Team](#septimus-team)
 
 # Introduction
 
@@ -55,7 +55,7 @@ Users have reported running the list fine with as low as a Ryzen 1300x and a GTX
 
 ## Community
 
-Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu) server and in the [Issues](https://github.com/Guitarninja2/septimus/issues) section of the Septimus GitHub. If you have any questions following the add-on's instructions or if you find a typo or any other mistake in the documentation, feel free to report in The Lost Outpost Discord server's support channel.
+Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu) server and in the [Issues](https://github.com/Guitarninja2/septimus/issues) section of the Sovngarde GitHub. If you have any questions following the add-on's instructions or if you find a typo or any other mistake in the documentation, feel free to report in The Lost Outpost Discord server's support channel.
 
 ## Skyrim: Anniversary Edition
 
@@ -106,9 +106,9 @@ Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-to
 
 The download and installation process can take a little while (an hour or more) depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
-1. Create a folder for the List at the root of your drive (like the Wabbajack folder) called "Septimus"
+1. Create a folder for the List at the root of your drive (like the Wabbajack folder) called "Sovngarde"
 2. Go back to your drive, and create a new folder, called "Wabbajack Downloads Folder". This specific folder can be on a different drive if you wish
-3. Download the latest release of `Septimus` from the Wabbajack Browse Modlists page
+3. Download the latest release of `Sovngarde` from the Wabbajack Browse Modlists page
 4. Select the created folder in step 1 as your installation folder
 5. Select the created folder in step 2 as your downloads folder
 6. Click the Go/Begin button and wait for Wabbajack to finish
@@ -119,7 +119,7 @@ There are a lot of different scenarios where Wabbajack will produce an error. I 
 
 ## Steam Deck
 
-This modlist can be played on Steam Deck and special care has been taken to make sure performance is acceptable there. You can view the steam deck install instructions [here](https://github.com/Omni-guides/Wabbajack-Modlist-Linux/wiki/Skyrim:-Septimus) after you finish the normal install.
+This modlist can be played on Steam Deck and special care has been taken to make sure performance is acceptable there. You can view the steam deck install instructions [here](https://github.com/Omni-guides/Wabbajack-Modlist-Linux/wiki/Skyrim:-Sovngarde) after you finish the normal install.
 
 ## Skyrim GOG
 
@@ -139,13 +139,13 @@ Updating is like installing. You only have to make sure that you select the same
 
 Open the installation folder and double click on the program called `ModOrganizer.exe`.
 
-Make sure the dropdown box on the right is set to `Septimus` and press the Run button.
+Make sure the dropdown box on the right is set to `Sovngarde` and press the Run button.
 
 # Issues
 
 If you find an issue, you can see if it is already on the list of [known issues](HELP.md), which also documents solutions and workarounds.
 
-For issues that aren't yet [known](HELP.md), you can provide details in the [Septimus Github](https://github.com/Lost-Outpost/septimus/issues). Please provide as much info as you can (screenshots are great).
+For issues that aren't yet [known](HELP.md), you can provide details in the [Sovngarde Github](https://github.com/Lost-Outpost/septimus/issues). Please provide as much info as you can (screenshots are great).
 
-Finally, free feel to hop on the Septimus Discord support channel to have discussions with our knowledgeable community members. Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu).
+Finally, free feel to hop on the Sovngarde Discord support channel to have discussions with our knowledgeable community members. Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu).
 

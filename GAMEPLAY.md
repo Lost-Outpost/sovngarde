@@ -16,13 +16,13 @@
 
 # Gameplay Guide
 
-> :ledger: **IMPORTANT NOTE: This gameplay guide reflects the Septimus 1.0.x version. Guides for previous versions may be found by clicking the History button in the upper left corner of this page.**
+> :ledger: **IMPORTANT NOTE: This gameplay guide reflects the Sovngarde 1.0.x version. Guides for previous versions may be found by clicking the History button in the upper left corner of this page.**
 
 ## Overview
 
-On your journey through the Septimus version of Skyrim, you will find a performance-friendly yet visually stunning environment, with thoughtfully curated, integrated, and balanced additions. As you explore this expanded yet familiar Skyrim world, you will discover plenty of high-quality and fun experiences.
+On your journey through the Sovngarde version of Skyrim, you will find a performance-friendly yet visually stunning environment, with thoughtfully curated, integrated, and balanced additions. As you explore this expanded yet familiar Skyrim world, you will discover plenty of high-quality and fun experiences.
 
-This guide highlights major mods included in Septimus in the following categories:
+This guide highlights major mods included in Sovngarde in the following categories:
 
 - [Hotkeys](#hotkeys)
 - [Gameplay Changes](#gameplay-changes)
@@ -40,8 +40,8 @@ This guide highlights major mods included in Septimus in the following categorie
 Icons in this guide:
 
 - :new: indicates additions to the gameplay guide since the last major release
-- :ledger: indicates Septimus configuration notes
-- :video_game: indicates Septimus play testing observations
+- :ledger: indicates Sovngarde configuration notes
+- :video_game: indicates Sovngarde play testing observations
 
 ## Hotkeys
 
@@ -85,7 +85,7 @@ Icons in this guide:
 
 ### Overhauls
 
-Septimus is built around the [Simon Magus (SimonRim)](https://www.nexusmods.com/skyrimspecialedition/users/67410746?tab=user+files) gameplay overhaul. SimonRim remasters various systems in Skyrim in a cohesive way that stays true to the original while improving the balance and gameplay. The full SimonRim list:
+Sovngarde is built around the [Simon Magus (SimonRim)](https://www.nexusmods.com/skyrimspecialedition/users/67410746?tab=user+files) gameplay overhaul. SimonRim remasters various systems in Skyrim in a cohesive way that stays true to the original while improving the balance and gameplay. The full SimonRim list:
 
 - [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191) - Overhauls and introduces new perks increasing build diversity
 
@@ -130,7 +130,7 @@ In addition to SimonRim, this list includes:
 
 ### New Mechanics
 
-- [Optional Quick Start - SE](https://www.nexusmods.com/skyrimspecialedition/mods/63953) - Skip the traditional cart ride and begin your Septimus journey at the end of Helgen Keep. The mod also gives you some starting equipment.
+- [Optional Quick Start - SE](https://www.nexusmods.com/skyrimspecialedition/mods/63953) - Skip the traditional cart ride and begin your Sovngarde journey at the end of Helgen Keep. The mod also gives you some starting equipment.
 
 - [Instincts - Animal Taming in Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/63224) - New mechanic to tame wild animals as followers and companions
 
@@ -144,7 +144,7 @@ In addition to SimonRim, this list includes:
 
 ## User Interface and Camera
 
-Septimus includes a minimalistic and modern UI, featuring:
+Sovngarde includes a minimalistic and modern UI, featuring:
 
 - [RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080) - Complete overhaul to the character creation menu including new customization features
 
@@ -162,7 +162,7 @@ Septimus includes a minimalistic and modern UI, featuring:
 
 ## Gear and Items
 
-Septimus uses [Antiquary - Enhanced Artifacts](https://www.nexusmods.com/skyrimspecialedition/mods/44413) to overhaul artifacts. In additon to this, there are mods and patches that balance Creation Club items and [Thamaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138) takes care of balancing vanilla enchanted items and gear.
+Sovngarde uses [Antiquary - Enhanced Artifacts](https://www.nexusmods.com/skyrimspecialedition/mods/44413) to overhaul artifacts. In additon to this, there are mods and patches that balance Creation Club items and [Thamaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138) takes care of balancing vanilla enchanted items and gear.
 
 ### New Gear
 
@@ -186,11 +186,11 @@ Septimus uses [Antiquary - Enhanced Artifacts](https://www.nexusmods.com/skyrims
 
 ### Quest Changes
 
-Septimus includes [jayserpa's](https://www.nexusmods.com/skyrimspecialedition/users/5201727) quest expansions that adds immersion and several pathways to finish vanilla quests
+Sovngarde includes [jayserpa's](https://www.nexusmods.com/skyrimspecialedition/users/5201727) quest expansions that adds immersion and several pathways to finish vanilla quests
 
 - [House of Horrors - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/57285) - Expands Molag Bal's daedric quest, giving you the option of choosing an alternative "good guy" route to finish the vanilla quest
 
-- [Paarthurnax - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/51711) - A fully voiced, quite expanded new take on the quest Paarthurnax, giving both the Blades and Paarthurnax good reasons for their stances, and you, Septimus, the final choice
+- [Paarthurnax - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/51711) - A fully voiced, quite expanded new take on the quest Paarthurnax, giving both the Blades and Paarthurnax good reasons for their stances, and you, Sovngarde, the final choice
 
 - [The Only Cure - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/57683) - Enhances Peryite's daedric quest, expanding the vanilla quest with new conversations, scenes and paths to complete the quest with or without cavorting with daedra
 

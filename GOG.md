@@ -15,7 +15,7 @@
 ---
 
 # Skyrim GOG Installs
-Septimus does support the GOG version of Skyrim. That said, there are a couple of extra steps to make sure things work smoothly. Please perform the following below and check them carefully before asking for support.
+Sovngarde does support the GOG version of Skyrim. That said, there are a couple of extra steps to make sure things work smoothly. Please perform the following below and check them carefully before asking for support.
 
 ## Instructions
 
@@ -27,6 +27,6 @@ Enable GOG SKSE plugins in the GOG Support separator as seen below. They will ov
 
 ![pagefile settings](https://raw.githubusercontent.com/Lost-Outpost/septimus/main/images/gog1.png)
 
-Make sure your Septimus SKSE path is set to your GOG folder and not a steam one. This one is set to my steam one so you know what that looks like.
+Make sure your Sovngarde SKSE path is set to your GOG folder and not a steam one. This one is set to my steam one so you know what that looks like.
 
 ![pagefile settings](https://raw.githubusercontent.com/Lost-Outpost/septimus/main/images/gog2.png)

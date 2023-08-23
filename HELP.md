@@ -18,7 +18,7 @@
 
 For issues that aren't documented, you can provide details in the [Issues](https://github.com/Lost-Outpost/septimus/issues) page. Please provide as much info as you can (screenshots are great).
 
-Finally, free feel to hop on the Septimus Discord support channel to have discussions with our knowledgeable community members. Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu).
+Finally, free feel to hop on the Sovngarde Discord support channel to have discussions with our knowledgeable community members. Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu).
 
 # Frequently asked questions
 
@@ -61,4 +61,4 @@ Very unlikely. Do not ask if beta saves will be save safe.
 
 The purpose behind beta versions is for play testing to help Guitarninja and the team find and squash bugs before a major release, and squashing bugs often includes removing misbehaving mods which in turn breaks saves.
 
-The Septimus team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
+The Sovngarde team would like to thank everyone who plays beta versions and reports issues with the understanding that their saves will not be safe. You are making the modlist better for our entire community.
