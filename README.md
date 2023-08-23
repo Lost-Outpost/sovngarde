@@ -40,7 +40,7 @@
 
 # Introduction
 
-Sovngarde is a lightweight Legacy of the Dragonborn modlist with a minimal visual overhaul and the highest quality quest content.
+Sovngarde is a lightweight Legacy of the Dragonborn modlist with a minimal yet beautiful visual overhaul and the highest quality quest content. Included is full creation club support and a suite of balance mods to tie it all together with my own cut of simonrim.
 
 ## List Contents
 
