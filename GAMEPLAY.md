@@ -44,8 +44,6 @@ Icons in this guide:
 
 - <kbd>E</kbd> - Use selected item in inventory, create item while crafting, or take item while browsing container
 
-  - <kbd>E</kbd> while selecting an instrument (drum, flute, lute) from inventory in a tavern, plays instrument via [Skyrim's Got Talent - Improve As a Bard](https://www.nexusmods.com/skyrimspecialedition/mods/50357)
-
 - <kbd>F</kbd> - In inventory, favorite selected item
 
 - <kbd>R</kbd> - Drop selected item in inventory, or take all items from container
