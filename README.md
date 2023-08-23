@@ -42,13 +42,11 @@
 
 # Introduction
 
-"I can almost... hear them. I feel their life energy. Come, I will make the mixture." - Septimus Signus
-
 Sovngarde is a lightweight Legacy of the Dragonborn modlist with a minimal visual overhaul and the highest quality quest content.
 
 ## List Contents
 
-You can browse the full list contents [here](https://loadorderlibrary.com/lists/septimus) if you want to know exactly what you're getting.
+You can browse the full list contents [here](https://loadorderlibrary.com/lists/sovngarde-a-dragonborns-legacy) if you want to know exactly what you're getting.
 
 You can find a summary of all changes on the [Gameplay Changes](GAMEPLAY.md) page.
 
