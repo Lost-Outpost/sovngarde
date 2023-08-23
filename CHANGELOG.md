@@ -3,7 +3,6 @@
 ---
 
 <p align="center">
-  <a href="https://www.nexusmods.com/skyrimspecialedition/mods/58229">Nexus Page</a> ·
   <a href="README.md">Installation</a> ·
   <a href="GAMEPLAY.md">Gameplay Guide</a> ·
   <a href="CONFIGURATION.md">Configuration</a> ·

@@ -3,7 +3,6 @@
 ---
 
 <p align="center">
-  <a href="https://www.nexusmods.com/skyrimspecialedition/mods/58229">Nexus Page</a> ·
   <a href="README.md">Installation</a> ·
   <a href="GAMEPLAY.md">Gameplay Guide</a> ·
   <a href="CONFIGURATION.md">Configuration</a> ·
@@ -24,18 +23,21 @@ On your journey through the Sovngarde version of Skyrim, you will find a perform
 
 This guide highlights major mods included in Sovngarde in the following categories:
 
-- [Hotkeys](#hotkeys)
-- [Gameplay Changes](#gameplay-changes)
-  - [Overhauls](#overhauls)
-  - [New Mechanics](#new-mechanics)
-- [User Interface and Camera](#user-interface-and-camera)
-- [Gear and Items](#gear-and-items)
-- [Followers and Companions](#followers-and-companions)
-- [Player Homes](#player-homes)
-- [Quests and Adventures](#quests-and-adventures)
-  - [New Quests](#new-quests)
-  - [Quest Changes](#quest-changes)
-- [Locations and Detail](#locations-and-detail)
+- [Gameplay Guide](#gameplay-guide)
+  - [Overview](#overview)
+  - [Hotkeys](#hotkeys)
+    - [Gameplay Hotkeys](#gameplay-hotkeys)
+    - [ENB Hotkeys](#enb-hotkeys)
+    - [ReShade Hotkeys](#reshade-hotkeys)
+  - [Gameplay](#gameplay)
+    - [Overhauls](#overhauls)
+    - [New Mechanics](#new-mechanics)
+  - [User Interface and Camera](#user-interface-and-camera)
+  - [Gear and Items](#gear-and-items)
+    - [New Gear](#new-gear)
+  - [Quests and Adventures](#quests-and-adventures)
+    - [New Quests](#new-quests)
+    - [Quest Changes](#quest-changes)
 
 Icons in this guide:
 

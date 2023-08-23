@@ -3,7 +3,6 @@
 ---
 
 <p align="center">
-  <a href="https://www.nexusmods.com/skyrimspecialedition/mods/58229">Nexus Page</a> ·
   <a href="README.md">Installation</a> ·
   <a href="GAMEPLAY.md">Gameplay Guide</a> ·
   <a href="CONFIGURATION.md">Configuration</a> ·
@@ -16,12 +15,13 @@
 
 # Installation
 
+- [Installation](#installation)
 - [Introduction](#introduction)
   - [List Contents](#list-contents)
   - [Minimum Specs](#minimum-specs)
   - [Community](#community)
-  - [Skyrim: Anniversary Edition](#Skyrim-Anniversary-Edition)
-- [Installation](#installation)
+  - [Skyrim: Anniversary Edition](#skyrim-anniversary-edition)
+- [Installation](#installation-1)
   - [Pre-Install](#pre-install)
     - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
     - [Steam Library](#steam-library)
@@ -31,14 +31,12 @@
   - [Using Wabbajack](#using-wabbajack)
     - [Preparations](#preparations)
     - [Downloading and Installing](#downloading-and-installing)
-      - [Problems with Wabbajack](#problems-with-wabbajack)
-    - [Pagefile in prevention of memory crashes](#pagefile-in-prevention-of-memory-crashes)
+    - [Problems with Wabbajack](#problems-with-wabbajack)
   - [Steam Deck](#steam-deck)
   - [Skyrim GOG](#skyrim-gog)
 - [Updating](#updating)
 - [Startup](#startup)
 - [Issues](#issues)
-- [Sovngarde Team](#septimus-team)
 
 # Introduction
 
