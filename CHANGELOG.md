@@ -23,6 +23,7 @@
 + Fate Cards Remade - Legacy of The Dragonborn
 + Paintings Remade - Legacy of The Dragonborn
 + Legacy of The Dragonborn - SMIM Chests
++ Balanced Weapons for Legacy of the Dragonborn
 
 ## Version 1.0.0
 Brand new :)
