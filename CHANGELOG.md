@@ -15,5 +15,14 @@
 
 # Changelog
 
+## Version 1.0.1
+
+### Added
++ Legacy of The Dragonborn - Lighting Mod
++ Gemstones Remade - Legacy of The Dragonborn
++ Fate Cards Remade - Legacy of The Dragonborn
++ Paintings Remade - Legacy of The Dragonborn
++ Legacy of The Dragonborn - SMIM Chests
+
 ## Version 1.0.0
 Brand new :)
