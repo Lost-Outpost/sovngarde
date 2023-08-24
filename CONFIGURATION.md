@@ -25,8 +25,6 @@ I have included the necessary mods to enable widescreen UI support. If you play 
 
 ![Widescreen](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/widescreen.png)
 
-Also, if you are using the optional NordicUI, enable the mod entitled "NORDIC UI - Ultrawide Fixes and Patches".
-
 ## Performance Guide
 
 - Try turning off any ENB that might be enabled and switching to the ultra lite reshade preset
