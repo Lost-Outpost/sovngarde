@@ -23,8 +23,6 @@
 
 I have included the necessary mods to enable widescreen UI support. If you play on a widescreen monitor, this can be enabled in the optional mods section.
 
-![Widescreen](https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/widescreen.png)
-
 ## Performance Guide
 
 - Try turning off any ENB that might be enabled and switching to the ultra lite reshade preset
