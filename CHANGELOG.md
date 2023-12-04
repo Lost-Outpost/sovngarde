@@ -15,6 +15,14 @@
 
 # Changelog
 
+## Version 1.0.2
+
+### Added
++ Item Description Framework
++ Vanilla Item Descriptions
++ Legacy of the Dragonborn Item Descriptions
++ Stormcrown - No Perk Tree Custom Patch
+
 ## Version 1.0.1
 
 ### Added
